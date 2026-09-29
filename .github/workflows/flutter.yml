@@ -22,12 +22,13 @@ jobs:
         run: |
           set -euo pipefail
           test -s assets/raccontamela_launcher.jpg
-          mkdir -p android/app/src/main/res/mipmap-mdpi android/app/src/main/res/mipmap-hdpi android/app/src/main/res/mipmap-xhdpi android/app/src/main/res/mipmap-xxhdpi android/app/src/main/res/mipmap-xxxhdpi
-          cp assets/raccontamela_launcher.jpg android/app/src/main/res/mipmap-mdpi/ic_launcher.jpg
-          cp assets/raccontamela_launcher.jpg android/app/src/main/res/mipmap-hdpi/ic_launcher.jpg
-          cp assets/raccontamela_launcher.jpg android/app/src/main/res/mipmap-xhdpi/ic_launcher.jpg
-          cp assets/raccontamela_launcher.jpg android/app/src/main/res/mipmap-xxhdpi/ic_launcher.jpg
-          cp assets/raccontamela_launcher.jpg android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.jpg
+          for d in mdpi hdpi xhdpi xxhdpi xxxhdpi; do
+            dir="android/app/src/main/res/mipmap-$d"
+            rm -f "$dir/ic_launcher.png" "$dir/ic_launcher.xml" "$dir/ic_launcher_round.png" "$dir/ic_launcher_round.xml"
+            cp assets/raccontamela_launcher.jpg "$dir/ic_launcher.jpg"
+          done
+          rm -f android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+          rm -f android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
       - name: Harden Android Play configuration
         shell: bash
         run: |
