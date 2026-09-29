@@ -33,5 +33,11 @@
   "storyHistory": "My stories",
   "historyLoadError": "The story history could not be loaded.",
   "noStoriesYet": "You do not have any saved stories yet. Stories are saved to your account when Premium is active.",
-  "generationError": "The story could not be created. Please try again."
+  "generationError": "The story could not be created. Please try again.",
+  "voice": "Voice",
+  "regeneratePremium": "Regenerate Premium",
+  "activatePremiumContent": "Activate Premium content",
+  "pause": "Pause",
+  "playbackUnavailable": "Playback unavailable",
+  "words": "words"
 }
