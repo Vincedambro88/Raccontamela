@@ -12,7 +12,9 @@ type Body = {
     title: string;
     protagonistName: string;
     setting: string;
-    city: string;
+    city?: string;
+    animalFriends?: string[];
+    friends?: string[];
     scenes: Array<{ index: number; text: string }>;
   };
   storyId?: string | null;
@@ -96,7 +98,7 @@ Deno.serve(async (req) => {
       try {
         const json = await openAi({
           model,
-          prompt: `Full-color children's storybook illustration, warm whimsical style, clear friendly characters, age-appropriate, no text and no captions. Story: "${body.story.title}". Setting: ${body.story.setting}. City: ${body.story.city}. Protagonist: ${body.story.protagonistName}. Scene: ${scene.text}`,
+          prompt: `Full-color children's storybook illustration, warm whimsical style, clear friendly characters, age-appropriate, no text and no captions. Story: "${body.story.title}". Location: ${body.story.setting}. Protagonist: ${body.story.protagonistName}. Human friends: ${body.story.friends?.join(", ") || "none"}. Animals: ${body.story.animalFriends?.join(", ") || "none"}. Treat animals as real animals, never as human characters. Scene: ${scene.text}`,
           size: "1024x1024",
         }, key);
         const image = json.data?.[0]?.b64_json;
