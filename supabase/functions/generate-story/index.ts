@@ -96,7 +96,20 @@ function buildStory(input: {
     ],
   };
 
-  const scenes = templates[l] ?? templates.it;
+  let scenes = templates[l] ?? templates.it;
+  if (l === "it") {
+    const details = [
+      "Mentre avanzavano, il luogo sembrava raccontare qualcosa attraverso i suoi rumori: l’acqua che scorreva, le foglie che frusciavano e i piccoli suoni dell’ambiente. Ogni dettaglio dava a quella pagina un’atmosfera diversa e aiutava i bambini a immaginare dove si trovavano.",
+      "L’animale continuava a comportarsi come un vero compagno di esplorazione: annusava, ascoltava, si fermava quando qualcosa attirava la sua attenzione e poi ripartiva. I bambini lo seguivano senza comandarlo, imparando a osservare il luogo anche dal suo modo naturale di esplorarlo.",
+      "Ogni indizio aveva un legame con ciò che li circondava. La piuma ricordava gli uccelli del luogo, la campanella richiamava un vecchio passaggio e la chiave sembrava appartenere proprio alla porta nascosta. Così la storia cresceva pagina dopo pagina partendo dall’ambientazione scelta.",
+      "La scoperta fece fermare tutti per qualche istante. Guardarono la mappa, confrontarono i disegni con il paesaggio e riconobbero dettagli già incontrati. L’animale annusò ancora il terreno e seguì una traccia, confermando con il suo comportamento che il percorso continuava davvero.",
+      "Intorno a loro il luogo sembrava più vivo che mai. La luce filtrava tra le foglie, le ombre si spostavano lentamente e i colori cambiavano con il passaggio delle nuvole. Persino il piccolo animale sembrava curioso di ogni nuovo rumore e movimento.",
+      "Quando la musica iniziò, tutti rimasero in silenzio ad ascoltare. L’animale si avvicinò con cautela, annusò il terreno e poi si mise a osservare. Nessuno lo trasformò in un personaggio umano: il suo modo di partecipare era quello naturale di un animale curioso.",
+      "Da quel punto potevano finalmente vedere il percorso compiuto. Ogni elemento dell’ambientazione aveva avuto un ruolo: il ponte aveva guidato la ricerca, il ruscello aveva indicato la direzione e il giardino aveva custodito il segreto. Il luogo non era uno sfondo, ma parte della storia.",
+      "Prima di tornare indietro, i bambini si fermarono a ricordare ogni tappa dell’avventura. Il luogo poteva essere reale oppure fantastico, ma era stato descritto e vissuto come un vero posto da esplorare. L’animale rimase accanto a loro, pronto a seguire il sentiero di casa."
+    ];
+    scenes = scenes.map((scene, index) => scene + " " + details[index % details.length]);
+  }
   const text = scenes.join("\n\n");
   const wordCount = text.trim().split(/\s+/).length;
   return {
