@@ -20,6 +20,11 @@ jobs:
       - name: Generate Android project
         run: flutter create . --platforms=android --org com.vincedambro
 
+      - name: Install ImageMagick
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
       - name: Install Raccontamela launcher icon
         shell: bash
         run: |
@@ -34,13 +39,6 @@ jobs:
           convert assets/raccontamela_icon.jpg -resize 96x96 android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
           convert assets/raccontamela_icon.jpg -resize 144x144 android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
           convert assets/raccontamela_icon.jpg -resize 192x192 android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
-          python3 - <<'PY'
-          from pathlib import Path
-          p = Path("android/app/src/main/AndroidManifest.xml")
-          s = p.read_text()
-          s = s.replace('android:icon="@mipmap/ic_launcher"', 'android:icon="@mipmap/ic_launcher"')
-          p.write_text(s)
-          PY
 
       - name: Harden Android Play configuration
         shell: bash
