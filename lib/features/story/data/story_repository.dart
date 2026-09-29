@@ -106,7 +106,8 @@ class StoryRepository {
         .eq('status', 'ready')
         .order('created_at', ascending: false);
 
-    return (rows as List<dynamic>).map((row) {
+    final stories = <Story>[];
+    for (final row in rows as List<dynamic>) {
       final map = Map<String, dynamic>.from(row as Map);
       final rawScenes = (map['story_scenes'] as List<dynamic>? ?? const []);
       final scenes = <StoryScene>[];
@@ -119,13 +120,13 @@ class StoryRepository {
         String? bwUrl;
         String? narrationUrl;
         if (colorPath != null) {
-          colorUrl = (await client.storage.from('story-assets').createSignedUrl(colorPath, 3600)).signedUrl;
+          colorUrl = await client.storage.from('story-assets').createSignedUrl(colorPath, 3600);
         }
         if (bwPath != null) {
-          bwUrl = (await client.storage.from('story-assets').createSignedUrl(bwPath, 3600)).signedUrl;
+          bwUrl = await client.storage.from('story-assets').createSignedUrl(bwPath, 3600);
         }
         if (narrationPath != null) {
-          narrationUrl = (await client.storage.from('story-assets').createSignedUrl(narrationPath, 3600)).signedUrl;
+          narrationUrl = await client.storage.from('story-assets').createSignedUrl(narrationPath, 3600);
         }
         scenes.add(StoryScene(
           index: s['scene_index'] as int,
@@ -137,7 +138,7 @@ class StoryRepository {
       }
       scenes.sort((a, b) => a.index.compareTo(b.index));
 
-      return Story(
+      stories.add(Story(
         id: map['id'] as String,
         title: map['title'] as String? ?? 'Raccontamela',
         protagonistName: map['protagonist_name'] as String,
@@ -149,6 +150,6 @@ class StoryRepository {
         durationSeconds: (map['duration_seconds'] as num?)?.round() ?? 0,
         savedToCloud: true,
       );
-    }).toList();
+
   }
 }
