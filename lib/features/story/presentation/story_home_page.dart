@@ -4,6 +4,8 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../l10n/app_localizations.dart';
 import '../application/story_generator.dart';
 import 'story_reader_page.dart';
+import '../../premium/presentation/premium_page.dart';
+import '../../auth/presentation/auth_page.dart';
 
 class StoryHomePage extends ConsumerStatefulWidget {
   const StoryHomePage({super.key});
@@ -37,6 +39,11 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
       appBar: AppBar(
         title: Text(l10n.appTitle),
         actions: [
+          IconButton(
+            tooltip: l10n.account,
+            onPressed: () => Navigator.of(context).push(MaterialPageRoute(builder: (_) => const AuthPage())),
+            icon: const Icon(Icons.person_outline),
+          ),
           IconButton(
             tooltip: l10n.premium,
             onPressed: () => _showPremium(context),
@@ -152,6 +159,9 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
       .toList();
 
   void _showPremium(BuildContext context) {
+    Navigator.of(context).push(MaterialPageRoute(builder: (_) => const PremiumPage()));
+    return;
+    /*
     final l10n = AppLocalizations.of(context)!;
     showModalBottomSheet<void>(
       context: context,
@@ -181,6 +191,7 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
         ),
       ),
     );
+    */
   }
 }
 
