@@ -34,11 +34,11 @@ jobs:
           mkdir -p android/app/src/main/res/mipmap-xhdpi
           mkdir -p android/app/src/main/res/mipmap-xxhdpi
           mkdir -p android/app/src/main/res/mipmap-xxxhdpi
-          convert assets/raccontamela_icon.jpg -resize 48x48 android/app/src/main/res/mipmap-mdpi/ic_launcher.png
-          convert assets/raccontamela_icon.jpg -resize 72x72 android/app/src/main/res/mipmap-hdpi/ic_launcher.png
-          convert assets/raccontamela_icon.jpg -resize 96x96 android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
-          convert assets/raccontamela_icon.jpg -resize 144x144 android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
-          convert assets/raccontamela_icon.jpg -resize 192x192 android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+          cat assets/raccontamela_icon.jpg | convert - -resize 48x48 android/app/src/main/res/mipmap-mdpi/ic_launcher.png
+          cat assets/raccontamela_icon.jpg | convert - -resize 72x72 android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+          cat assets/raccontamela_icon.jpg | convert - -resize 96x96 android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+          cat assets/raccontamela_icon.jpg | convert - -resize 144x144 android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+          cat assets/raccontamela_icon.jpg | convert - -resize 192x192 android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
 
       - name: Harden Android Play configuration
         shell: bash
