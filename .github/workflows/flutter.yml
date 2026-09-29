@@ -35,22 +35,13 @@ jobs:
           mkdir -p android/app/src/main/res/mipmap-xxhdpi
           mkdir -p android/app/src/main/res/mipmap-xxxhdpi
 
-          cat > /tmp/raccontamela_icon.svg <<'SVG'
-          <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-            <rect width="512" height="512" rx="112" fill="#6C63FF"/>
-            <path d="M92 154c0-18 15-33 33-33h98c29 0 56 11 79 31 23-20 50-31 79-31h98c18 0 33 15 33 33v210c0 18-15 33-33 33h-98c-29 0-56 11-79 31-23-20-50-31-79-31h-98c-18 0-33-15-33-33V154Z" fill="#fff"/>
-            <path d="M256 153v242" stroke="#6C63FF" stroke-width="18" stroke-linecap="round"/>
-            <path d="M129 190h77M129 235h77M129 280h61M306 190h77M306 235h77M306 280h61" stroke="#B9B5FF" stroke-width="15" stroke-linecap="round"/>
-            <path d="M390 92l9 22 22 9-22 9-9 22-9-22-22-9 22-9 9-22Z" fill="#FFD166"/>
-            <path d="M128 79l6 15 15 6-15 6-6 15-6-15-15-6 15-6 6-15Z" fill="#FFD166"/>
-          </svg>
-          SVG
+          base64 -d assets/raccontamela_launcher.jpg.b64 > /tmp/raccontamela_launcher.jpg
 
-          convert -background none /tmp/raccontamela_icon.svg -resize 48x48 android/app/src/main/res/mipmap-mdpi/ic_launcher.png
-          convert -background none /tmp/raccontamela_icon.svg -resize 72x72 android/app/src/main/res/mipmap-hdpi/ic_launcher.png
-          convert -background none /tmp/raccontamela_icon.svg -resize 96x96 android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
-          convert -background none /tmp/raccontamela_icon.svg -resize 144x144 android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
-          convert -background none /tmp/raccontamela_icon.svg -resize 192x192 android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+          convert /tmp/raccontamela_launcher.jpg -resize 48x48 android/app/src/main/res/mipmap-mdpi/ic_launcher.png
+          convert /tmp/raccontamela_launcher.jpg -resize 72x72 android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+          convert /tmp/raccontamela_launcher.jpg -resize 96x96 android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+          convert /tmp/raccontamela_launcher.jpg -resize 144x144 android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+          convert /tmp/raccontamela_launcher.jpg -resize 192x192 android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
 
       - name: Harden Android Play configuration
         shell: bash
