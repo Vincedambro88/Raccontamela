@@ -39,5 +39,6 @@
   "activatePremiumContent": "Activate Premium content",
   "pause": "Pause",
   "playbackUnavailable": "Playback unavailable",
-  "words": "words"
+  "words": "words",
+  "premiumSignInRequired": "Sign in to use Premium features."
 }
