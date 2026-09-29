@@ -147,7 +147,6 @@ Deno.serve(async (req) => {
   try {
     const body = (await req.json()) as StoryRequest;
     const protagonistName = String(body.protagonistName ?? "").trim();
-    const setting = String(body.setting ?? "").trim();
     const setting = String(body.setting ?? body.city ?? "").trim();
     const locale = String(body.locale ?? "it").slice(0, 2).toLowerCase();
     const friends = cleanList(body.friends, 4);
