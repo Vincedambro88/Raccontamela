@@ -57,6 +57,7 @@ class StoryRepository {
               .map((scene) => {'index': scene.index, 'text': scene.text})
               .toList(),
         },
+        'mediaToken': data['mediaToken'],
       });
       final mediaData = Map<String, dynamic>.from(mediaResponse.data as Map);
       final byIndex = <int, String>{};
