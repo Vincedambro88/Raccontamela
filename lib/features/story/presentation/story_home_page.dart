@@ -370,7 +370,7 @@ class _HeroCard extends StatelessWidget {
           ),
           const SizedBox(height: 20),
           Text(
-            'La tua storia.\nLe tue regole.',
+            'Costruisci la tua storia,\nogni volta che vuoi.',
             style: Theme.of(context).textTheme.headlineMedium?.copyWith(
                   fontWeight: FontWeight.w900,
                   height: 1.02,
