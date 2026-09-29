@@ -3,6 +3,8 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../../l10n/app_localizations.dart';
 import '../application/story_generator.dart';
+import '../data/story_repository.dart';
+import 'story_history_page.dart';
 import 'story_reader_page.dart';
 import '../../premium/presentation/premium_page.dart';
 import '../../auth/presentation/auth_page.dart';
@@ -39,6 +41,11 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
       appBar: AppBar(
         title: Text(l10n.appTitle),
         actions: [
+          IconButton(
+            tooltip: l10n.storyHistory,
+            onPressed: () => Navigator.of(context).push(MaterialPageRoute(builder: (_) => const StoryHistoryPage())),
+            icon: const Icon(Icons.history),
+          ),
           IconButton(
             tooltip: l10n.account,
             onPressed: () => Navigator.of(context).push(MaterialPageRoute(builder: (_) => const AuthPage())),
@@ -133,7 +140,7 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
     setState(() => generating = true);
     try {
       final locale = Localizations.localeOf(context).languageCode;
-      final story = await StoryGenerator().generate(
+      final story = await StoryRepository().generate(
         StoryRequest(
           protagonistName: protagonist,
           setting: setting,
