@@ -18,5 +18,15 @@
   "history": "Mes histoires",
   "introText": "Créez une histoire personnalisée en quelques secondes. Vous choisissez le protagoniste, ses amis et son univers.",
   "premiumDescription": "Voix narrées, pages en noir et blanc à colorier et historique des histoires.",
-  "buyPremium": "Découvrir Premium"
+  "buyPremium": "Découvrir Premium",
+  "account": "Compte",
+  "accountDescription": "Créez un compte pour utiliser Premium et synchroniser vos histoires sur 2 appareils maximum.",
+  "email": "E-mail",
+  "password": "Mot de passe",
+  "createAccount": "Créer un compte",
+  "signIn": "Se connecter",
+  "authInvalid": "Saisissez un e-mail valide et un mot de passe d'au moins 8 caractères.",
+  "storeUnavailable": "Google Play n'est pas disponible sur cet appareil.",
+  "restorePurchase": "Restaurer l'achat",
+  "purchaseValidationNotice": "L'achat est vérifié avant l'activation de Premium."
 }
