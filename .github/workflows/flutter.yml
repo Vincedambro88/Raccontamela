@@ -11,63 +11,42 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: subosito/flutter-action@v2
         with:
           channel: stable
           cache: true
-
       - name: Generate Android project
         run: flutter create . --platforms=android --org com.vincedambro
-
-      - name: Install image tools
-        run: sudo apt-get update && sudo apt-get install -y imagemagick
-
-      - name: Generate Raccontamela launcher icon
+      - name: Install launcher artwork
         shell: bash
         run: |
           set -euo pipefail
+          test -s assets/raccontamela_launcher.jpg
           mkdir -p android/app/src/main/res/mipmap-mdpi android/app/src/main/res/mipmap-hdpi android/app/src/main/res/mipmap-xhdpi android/app/src/main/res/mipmap-xxhdpi android/app/src/main/res/mipmap-xxxhdpi
-          python3 - <<'PY'
-          from PIL import Image
-          from pathlib import Path
-          src = Path("assets/raccontamela_launcher.jpg")
-          im = Image.open(src).convert("RGB")
-          if im.width != im.height:
-              n=min(im.size)
-              left=(im.width-n)//2; top=(im.height-n)//2
-              im=im.crop((left,top,left+n,top+n))
-          for size,name in [(48,"mdpi"),(72,"hdpi"),(96,"xhdpi"),(144,"xxhdpi"),(192,"xxxhdpi")]:
-              im.resize((size,size),Image.Resampling.LANCZOS).save(f"android/app/src/main/res/mipmap-{name}/ic_launcher.png","PNG")
-          PY
-          file android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
-
+          cp assets/raccontamela_launcher.jpg android/app/src/main/res/mipmap-mdpi/ic_launcher.jpg
+          cp assets/raccontamela_launcher.jpg android/app/src/main/res/mipmap-hdpi/ic_launcher.jpg
+          cp assets/raccontamela_launcher.jpg android/app/src/main/res/mipmap-xhdpi/ic_launcher.jpg
+          cp assets/raccontamela_launcher.jpg android/app/src/main/res/mipmap-xxhdpi/ic_launcher.jpg
+          cp assets/raccontamela_launcher.jpg android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.jpg
       - name: Harden Android Play configuration
         shell: bash
         run: |
-          set -euo pipefail
           python3 - <<'PY'
           from pathlib import Path
           p=Path("android/app/build.gradle.kts")
           s=p.read_text().replace("compileSdk = flutter.compileSdkVersion","compileSdk = 36").replace("targetSdk = flutter.targetSdkVersion","targetSdk = 36")
           p.write_text(s)
           PY
-
       - name: Get dependencies
         run: flutter pub get
-
       - name: Analyze
         run: flutter analyze --no-fatal-infos
-
       - name: Test
         run: flutter test
-
       - name: Build release APK
         run: flutter build apk --release --dart-define=SUPABASE_URL="${{ secrets.SUPABASE_URL }}" --dart-define=SUPABASE_PUBLISHABLE_KEY="${{ secrets.SUPABASE_PUBLISHABLE_KEY }}"
-
       - name: Build release App Bundle
         run: flutter build appbundle --release --dart-define=SUPABASE_URL="${{ secrets.SUPABASE_URL }}" --dart-define=SUPABASE_PUBLISHABLE_KEY="${{ secrets.SUPABASE_PUBLISHABLE_KEY }}"
-
       - name: Upload Android artifacts
         uses: actions/upload-artifact@v4
         with:
