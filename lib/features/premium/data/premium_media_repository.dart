@@ -56,10 +56,10 @@ class PremiumMediaRepository {
       String? bwUrl;
       String? narrationUrl;
       if (bwPath != null) {
-        bwUrl = (await _client.storage.from('story-assets').createSignedUrl(bwPath, 3600)).signedUrl;
+        bwUrl = (await _client.storage.from('story-assets').createSignedUrl(bwPath, 3600);
       }
       if (narrationPath != null) {
-        narrationUrl = (await _client.storage.from('story-assets').createSignedUrl(narrationPath, 3600)).signedUrl;
+        narrationUrl = (await _client.storage.from('story-assets').createSignedUrl(narrationPath, 3600);
       }
       final original = story.scenes.firstWhere((scene) => scene.index == index);
       updated[index] = StoryScene(
