@@ -98,7 +98,7 @@ Deno.serve(async (req) => {
       try {
         const json = await openAi({
           model,
-          prompt: `Full-color children's storybook illustration, warm whimsical style, clear friendly characters, age-appropriate, no text and no captions. Story: "${body.story.title}". Location: ${body.story.setting}. Protagonist: ${body.story.protagonistName}. Human friends: ${body.story.friends?.join(", ") || "none"}. Animals: ${body.story.animalFriends?.join(", ") || "none"}. Treat animals as real animals, never as human characters. Scene: ${scene.text}`,
+          prompt: `Full-color children's picture-book page illustration. Warm, cinematic, whimsical, age-appropriate. Depict the MAIN ACTION AND VISUAL DETAILS described in this exact page scene, not a generic illustration. Keep the protagonist, human friends, animal companions, and location visually consistent across all pages. The location is a real or imaginary PLACE where the action happens; never turn it into a city or a person. Human friends: ${body.story.friends?.join(", ") || "none"}. Animal companions: ${body.story.animalFriends?.join(", ") || "none"}. Every animal must remain a physically recognizable real or fantastical animal with animal anatomy and behavior, never a human character. Do not include any text, letters, speech bubbles, captions or page numbers in the image because the app places the page text above the illustration. Story: "${body.story.title}". Place: ${body.story.setting}. Protagonist: ${body.story.protagonistName}. Exact page scene: ${scene.text}`,
           size: "1024x1024",
         }, key);
         const image = json.data?.[0]?.b64_json;
