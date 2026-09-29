@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/foundation.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
+import 'package:supabase_flutter/supabase_flutter.dart';
 
 class PremiumPurchaseService extends ChangeNotifier {
   PremiumPurchaseService({InAppPurchase? store})
@@ -11,12 +12,22 @@ class PremiumPurchaseService extends ChangeNotifier {
 
   final InAppPurchase _store;
   StreamSubscription<List<PurchaseDetails>>? _subscription;
+
   ProductDetails? product;
   bool storeAvailable = false;
   bool purchasing = false;
+  bool validating = false;
+  bool premiumActive = false;
   String? error;
 
   Future<void> initialize() async {
+    final user = Supabase.instance.client.auth.currentUser;
+    if (user == null) {
+      error = 'AUTH_REQUIRED';
+      notifyListeners();
+      return;
+    }
+
     storeAvailable = await _store.isAvailable();
     notifyListeners();
     if (!storeAvailable) return;
@@ -26,6 +37,7 @@ class PremiumPurchaseService extends ChangeNotifier {
       onError: (Object e) {
         error = e.toString();
         purchasing = false;
+        validating = false;
         notifyListeners();
       },
     );
@@ -36,12 +48,20 @@ class PremiumPurchaseService extends ChangeNotifier {
     } else if (response.productDetails.isNotEmpty) {
       product = response.productDetails.first;
     }
+
+    await _refreshEntitlement();
     notifyListeners();
   }
 
   Future<bool> buyPremium() async {
+    if (Supabase.instance.client.auth.currentUser == null) {
+      error = 'AUTH_REQUIRED';
+      notifyListeners();
+      return false;
+    }
+
     final item = product;
-    if (item == null || purchasing) return false;
+    if (item == null || purchasing || validating) return false;
 
     purchasing = true;
     error = null;
@@ -60,30 +80,76 @@ class PremiumPurchaseService extends ChangeNotifier {
       if (purchase.status == PurchaseStatus.error) {
         error = purchase.error?.message ?? 'Purchase failed';
         purchasing = false;
+        validating = false;
         notifyListeners();
         continue;
       }
 
       if (purchase.status == PurchaseStatus.canceled) {
         purchasing = false;
+        validating = false;
         notifyListeners();
         continue;
       }
 
-      if (purchase.status == PurchaseStatus.purchased ||
-          purchase.status == PurchaseStatus.restored) {
-        // Do not grant Premium from the client-side status alone.
-        // The next step is server validation against Google Play and
-        // persistence of the entitlement in Supabase.
-        debugPrint('Purchase received; server validation required.');
+      if (purchase.status != PurchaseStatus.purchased &&
+          purchase.status != PurchaseStatus.restored) {
+        continue;
+      }
+
+      final serverToken = purchase.verificationData.serverVerificationData;
+      if (serverToken.isEmpty) {
+        error = 'PURCHASE_TOKEN_MISSING';
+        purchasing = false;
+        validating = false;
+        notifyListeners();
+        continue;
+      }
+
+      validating = true;
+      error = null;
+      notifyListeners();
+
+      try {
+        final response = await Supabase.instance.client.functions.invoke(
+          'validate-google-play-purchase',
+          body: {
+            'productId': purchase.productID,
+            'purchaseToken': serverToken,
+          },
+        );
+
+        if (response.data is Map && response.data['status'] == 'active') {
+          premiumActive = true;
+          error = null;
+        } else {
+          error = 'PURCHASE_VALIDATION_FAILED';
+        }
+      } catch (e) {
+        error = e.toString();
+      } finally {
+        validating = false;
         purchasing = false;
         notifyListeners();
       }
 
-      if (purchase.pendingCompletePurchase) {
+      if (premiumActive && purchase.pendingCompletePurchase) {
         await _store.completePurchase(purchase);
       }
     }
+  }
+
+  Future<void> _refreshEntitlement() async {
+    final user = Supabase.instance.client.auth.currentUser;
+    if (user == null) return;
+
+    final row = await Supabase.instance.client
+        .from('premium_entitlements')
+        .select('status')
+        .eq('user_id', user.id)
+        .maybeSingle();
+
+    premiumActive = row?['status'] == 'active';
   }
 
   @override
