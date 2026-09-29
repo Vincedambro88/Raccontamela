@@ -102,16 +102,10 @@ Deno.serve(async (req: Request) => {
     const serviceRoleKey = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY");
     const packageName = Deno.env.get("GOOGLE_PLAY_PACKAGE_NAME");
     const serviceAccountJson = Deno.env.get("GOOGLE_PLAY_SERVICE_ACCOUNT_JSON");
+    const internalPremiumTest = Deno.env.get("INTERNAL_PREMIUM_TEST") === "true";
 
     if (!supabaseUrl || !serviceRoleKey) {
       throw new Error("SUPABASE_SERVER_CONFIGURATION_MISSING");
-    }
-
-    if (!packageName || !serviceAccountJson) {
-      return new Response(
-        JSON.stringify({ error: "GOOGLE_PLAY_CONFIGURATION_PENDING" }),
-        { status: 503, headers: { ...corsHeaders, "Content-Type": "application/json" } },
-      );
     }
 
     const authHeader = req.headers.get("Authorization");
@@ -136,11 +130,44 @@ Deno.serve(async (req: Request) => {
     const productId = String(body.productId ?? "");
     const purchaseToken = String(body.purchaseToken ?? "");
 
-    if (!productId || !purchaseToken) {
+    if (!productId || !purchaseToken || productId !== "raccontamela_premium") {
       return new Response(JSON.stringify({ error: "INVALID_PURCHASE_INPUT" }), {
         status: 400,
         headers: { ...corsHeaders, "Content-Type": "application/json" },
       });
+    }
+
+    const purchaseTokenHash = await sha256Hex(purchaseToken);
+
+    if (internalPremiumTest) {
+      await admin.from("premium_entitlements").upsert({
+        user_id: userData.user.id,
+        product_id: productId,
+        purchase_token_hash: purchaseTokenHash,
+        status: "active",
+        expires_at: null,
+        last_validated_at: new Date().toISOString(),
+        updated_at: new Date().toISOString(),
+      });
+
+      return new Response(
+        JSON.stringify({
+          status: "active",
+          productId,
+          testMode: true,
+        }),
+        {
+          status: 200,
+          headers: { ...corsHeaders, "Content-Type": "application/json" },
+        },
+      );
+    }
+
+    if (!packageName || !serviceAccountJson) {
+      return new Response(
+        JSON.stringify({ error: "GOOGLE_PLAY_CONFIGURATION_PENDING" }),
+        { status: 503, headers: { ...corsHeaders, "Content-Type": "application/json" } },
+      );
     }
 
     const serviceAccount = JSON.parse(serviceAccountJson);
@@ -200,8 +227,6 @@ Deno.serve(async (req: Request) => {
       purchaseState === 0 ? "active" :
       purchaseState === 2 ? "pending" :
       "revoked";
-
-    const purchaseTokenHash = await sha256Hex(purchaseToken);
 
     await admin.from("premium_entitlements").upsert({
       user_id: userData.user.id,
