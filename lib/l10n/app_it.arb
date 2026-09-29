@@ -33,5 +33,11 @@
   "storyHistory": "Le mie storie",
   "historyLoadError": "Non è stato possibile caricare lo storico.",
   "noStoriesYet": "Non hai ancora storie salvate. Le storie vengono salvate nel tuo account quando Premium è attivo.",
-  "generationError": "Non è stato possibile creare la storia. Riprova."
+  "generationError": "Non è stato possibile creare la storia. Riprova.",
+  "voice": "Voce",
+  "regeneratePremium": "Rigenera Premium",
+  "activatePremiumContent": "Attiva contenuti Premium",
+  "pause": "Pausa",
+  "playbackUnavailable": "Riproduzione non disponibile",
+  "words": "parole"
 }
