@@ -6,10 +6,17 @@
   "setting": "Ambientación",
   "storyCity": "Ciudad de la historia",
   "friends": "Amigos del protagonista",
+  "friendsHint": "Hasta 4, separados por comas",
   "animalFriends": "Animales amigos",
   "generateStory": "Crear historia",
+  "creatingStory": "Creando historia…",
+  "requiredFields": "Introduce el nombre, la ambientación y la ciudad.",
+  "maxFriends": "Puedes introducir hasta 4 amigos.",
   "premium": "Premium",
   "narration": "Narración por voz",
   "printColoring": "Imprimir y colorear",
-  "history": "Mis historias"
+  "history": "Mis historias",
+  "introText": "Crea una historia personalizada en segundos. Tú eliges el protagonista, sus amigos y el mundo de la historia.",
+  "premiumDescription": "Voces narradas, páginas en blanco y negro para colorear e historial de historias.",
+  "buyPremium": "Descubrir Premium"
 }
