@@ -18,5 +18,15 @@
   "history": "My stories",
   "introText": "Create a personalized story in seconds. You choose the protagonist, friends and world of the story.",
   "premiumDescription": "Narrated voices, black-and-white coloring pages and story history.",
-  "buyPremium": "Discover Premium"
+  "buyPremium": "Discover Premium",
+  "account": "Account",
+  "accountDescription": "Create an account to use Premium and sync your stories across up to 2 devices.",
+  "email": "Email",
+  "password": "Password",
+  "createAccount": "Create account",
+  "signIn": "Sign in",
+  "authInvalid": "Enter a valid email and a password of at least 8 characters.",
+  "storeUnavailable": "Google Play is not available on this device.",
+  "restorePurchase": "Restore purchase",
+  "purchaseValidationNotice": "The purchase is verified before Premium is activated."
 }
