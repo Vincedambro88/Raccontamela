@@ -17,8 +17,8 @@ jobs:
           channel: stable
           cache: true
 
-      - name: Generate platform project
-        run: flutter create . --platforms=android
+      - name: Generate Android project
+        run: flutter create . --platforms=android --org com.vincedambro
 
       - name: Get dependencies
         run: flutter pub get
@@ -28,3 +28,17 @@ jobs:
 
       - name: Test
         run: flutter test
+
+      - name: Build release APK
+        run: flutter build apk --release
+
+      - name: Build release App Bundle
+        run: flutter build appbundle --release
+
+      - name: Upload Android artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: raccontamela-android
+          path: |
+            build/app/outputs/flutter-apk/app-release.apk
+            build/app/outputs/bundle/release/app-release.aab
