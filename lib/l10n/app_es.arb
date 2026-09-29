@@ -1,0 +1,15 @@
+{
+  "@@locale": "es",
+  "appTitle": "Raccontamela",
+  "newStory": "Nueva historia",
+  "protagonistName": "Nombre del protagonista",
+  "setting": "Ambientación",
+  "storyCity": "Ciudad de la historia",
+  "friends": "Amigos del protagonista",
+  "animalFriends": "Animales amigos",
+  "generateStory": "Crear historia",
+  "premium": "Premium",
+  "narration": "Narración por voz",
+  "printColoring": "Imprimir y colorear",
+  "history": "Mis historias"
+}
