@@ -28,5 +28,6 @@
   "authInvalid": "Enter a valid email and a password of at least 8 characters.",
   "storeUnavailable": "Google Play is not available on this device.",
   "restorePurchase": "Restore purchase",
-  "purchaseValidationNotice": "The purchase is verified before Premium is activated."
+  "purchaseValidationNotice": "The purchase is verified before Premium is activated.",
+  "supabaseRequired": "Configure Supabase to use the account."
 }
