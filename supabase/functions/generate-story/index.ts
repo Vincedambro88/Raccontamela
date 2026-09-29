@@ -79,7 +79,7 @@ function buildStory(input: { protagonistName: string; setting: string; city: str
     ],
   };
 
-  const scenes = stories[l] ?? stories.en;
+    const baseScenes = stories[l] ?? stories.en;
     const epilogue = ({
       it: `Nei giorni successivi, ogni volta che ${n} passava vicino a ${s}, cercava la piccola luce nel cielo. A volte non vedeva nulla, eppure ricordava la lezione dell’avventura: non tutte le cose importanti fanno rumore. ${friend} continuava a giocare con la chiave e ${n} la osservava brillare al sole. Un pomeriggio arrivò un nuovo messaggio, questa volta senza mappa: “Quando qualcuno ha bisogno di te, non aspettare che sia tutto perfetto. Inizia da un piccolo gesto.” ${n} sorrise. Forse quella era la vera magia che la stella aveva voluto insegnare.`,
       en: `In the days that followed, whenever ${n} passed near ${s}, they looked for the little light in the sky. Sometimes there was nothing to see, yet the lesson remained: not everything important makes a loud sound. ${friend} kept playing with the key while ${n} watched it shine in the sunlight. One afternoon another message arrived, this time without a map: “When someone needs you, do not wait for everything to be perfect. Begin with one small action.” ${n} smiled. Perhaps that was the real magic the star had wanted to teach them.`,
@@ -87,7 +87,7 @@ function buildStory(input: { protagonistName: string; setting: string; city: str
       es: `Durante los días siguientes, cada vez que ${n} pasaba cerca de ${s}, buscaba la pequeña luz en el cielo. A veces no aparecía, pero la lección permanecía: no todo lo importante hace ruido. ${friend} seguía jugando con la llave y ${n} la veía brillar bajo el sol. Una tarde llegó otro mensaje, esta vez sin mapa: «Cuando alguien te necesite, no esperes a que todo sea perfecto. Empieza con un pequeño gesto». ${n} sonrió. Tal vez esa era la verdadera magia que la estrella quería enseñar.`,
       de: `In den folgenden Tagen suchte ${n} jedes Mal nach dem kleinen Licht am Himmel, wenn ${n} an ${s} vorbeikam. Manchmal war nichts zu sehen, doch die Lehre blieb: Nicht alles Wichtige macht ein lautes Geräusch. ${friend} spielte weiter mit dem Schlüssel, während ${n} ihn im Sonnenlicht glänzen sah. Eines Nachmittags kam eine neue Nachricht, diesmal ohne Karte: „Wenn jemand dich braucht, warte nicht, bis alles perfekt ist. Beginne mit einer kleinen Tat.“ ${n} lächelte. Vielleicht war das die wahre Magie, die der Stern zeigen wollte.`,
     })[l] ?? `When someone needs you, begin with one small action.`;
-    const scenes = [...(stories[l] ?? stories.en), epilogue];
+    const scenes = [...baseScenes, epilogue];
   const text = scenes.join("\n\n");
   const wordCount = text.trim().split(/\s+/).length;
   return {
