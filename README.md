@@ -73,3 +73,6 @@ The app can also start without Supabase build-time values while working on the l
 7. Android application configuration, privacy/data-safety flows and Play release hardening.
 
 <!-- Internal APK build trigger: Premium backend test validation. -->
+
+
+<!-- Raccontamela UI/premium refinement build trigger -->
