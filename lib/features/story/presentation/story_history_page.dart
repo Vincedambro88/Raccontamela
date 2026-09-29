@@ -41,7 +41,7 @@ class _StoryHistoryPageState extends ConsumerState<StoryHistoryPage> {
                   child: ListTile(
                     leading: const CircleAvatar(child: Icon(Icons.auto_stories)),
                     title: Text(story.title),
-                    subtitle: Text(story.protagonistName + ' · ' + story.city + ' · ' + (story.durationSeconds / 60).toStringAsFixed(1) + ' min'),
+                    subtitle: Text(story.protagonistName + ' · ' + story.setting + ' · ' + (story.durationSeconds / 60).toStringAsFixed(1) + ' min'),
                     trailing: const Icon(Icons.chevron_right),
                     onTap: () => Navigator.of(context).push(MaterialPageRoute(builder: (_) => StoryReaderPage(story: story))),
                   ),
