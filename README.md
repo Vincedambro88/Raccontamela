@@ -71,3 +71,5 @@ The app can also start without Supabase build-time values while working on the l
 5. Google Play one-time purchase + server validation.
 6. Premium narration/voice selection.
 7. Android application configuration, privacy/data-safety flows and Play release hardening.
+
+<!-- Internal APK build trigger: Premium backend test validation. -->
