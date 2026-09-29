@@ -20,25 +20,31 @@ jobs:
       - name: Generate Android project
         run: flutter create . --platforms=android --org com.vincedambro
 
-      - name: Install ImageMagick
+      - name: Install image tools
         run: |
           sudo apt-get update
-          sudo apt-get install -y imagemagick
+          sudo apt-get install -y imagemagick ffmpeg file
 
-      - name: Install Raccontamela launcher icon
+      - name: Inspect and install Raccontamela launcher icon
         shell: bash
         run: |
           set -euo pipefail
+          echo "Launcher source file:"
+          file assets/raccontamela_icon.jpg
+          echo "Launcher source bytes:"
+          xxd -l 32 assets/raccontamela_icon.jpg
+
           mkdir -p android/app/src/main/res/mipmap-mdpi
           mkdir -p android/app/src/main/res/mipmap-hdpi
           mkdir -p android/app/src/main/res/mipmap-xhdpi
           mkdir -p android/app/src/main/res/mipmap-xxhdpi
           mkdir -p android/app/src/main/res/mipmap-xxxhdpi
-          cat assets/raccontamela_icon.jpg | convert - -resize 48x48 android/app/src/main/res/mipmap-mdpi/ic_launcher.png
-          cat assets/raccontamela_icon.jpg | convert - -resize 72x72 android/app/src/main/res/mipmap-hdpi/ic_launcher.png
-          cat assets/raccontamela_icon.jpg | convert - -resize 96x96 android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
-          cat assets/raccontamela_icon.jpg | convert - -resize 144x144 android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
-          cat assets/raccontamela_icon.jpg | convert - -resize 192x192 android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+
+          ffmpeg -y -loglevel error -i assets/raccontamela_icon.jpg -vf scale=48:48 android/app/src/main/res/mipmap-mdpi/ic_launcher.png
+          ffmpeg -y -loglevel error -i assets/raccontamela_icon.jpg -vf scale=72:72 android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+          ffmpeg -y -loglevel error -i assets/raccontamela_icon.jpg -vf scale=96:96 android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+          ffmpeg -y -loglevel error -i assets/raccontamela_icon.jpg -vf scale=144:144 android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+          ffmpeg -y -loglevel error -i assets/raccontamela_icon.jpg -vf scale=192:192 android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
 
       - name: Harden Android Play configuration
         shell: bash
