@@ -149,7 +149,8 @@ class StoryRepository {
         scenes: scenes,
         durationSeconds: (map['duration_seconds'] as num?)?.round() ?? 0,
         savedToCloud: true,
-      );
-
+      ));
+    }
+    return stories;
   }
 }
