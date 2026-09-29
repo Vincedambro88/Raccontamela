@@ -116,7 +116,7 @@ function buildStory(input: {
     title: ({ it: `L’avventura di ${n}`, en: `The adventure of ${n}`, fr: `L’aventure de ${n}`, es: `La aventura de ${n}`, de: `Das Abenteuer von ${n}` } as Record<string, string>)[l] ?? `L’avventura di ${n}`,
     scenes: scenes.map((text, index) => ({ index, text })),
     text,
-    durationSeconds: Math.round((wordCount / 140) * 60),
+    durationSeconds: Math.round((wordCount / 135) * 60),
     wordCount,
   };
 }
