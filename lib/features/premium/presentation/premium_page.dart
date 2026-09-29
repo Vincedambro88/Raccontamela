@@ -3,6 +3,9 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../../l10n/app_localizations.dart';
 import '../data/premium_purchase_service.dart';
+import '../../auth/data/device_registration_service.dart';
+import '../../auth/presentation/auth_page.dart';
+import 'package:supabase_flutter/supabase_flutter.dart';
 
 final premiumPurchaseProvider = ChangeNotifierProvider<PremiumPurchaseService>((ref) {
   final service = PremiumPurchaseService();
@@ -21,7 +24,31 @@ class _PremiumPageState extends ConsumerState<PremiumPage> {
   @override
   void initState() {
     super.initState();
-    Future.microtask(() => ref.read(premiumPurchaseProvider).initialize());
+    Future.microtask(_preparePremium);
+  }
+
+  Future<void> _preparePremium() async {
+    if (Supabase.instance.client.auth.currentUser == null) {
+      final signedIn = await Navigator.of(context).push<bool>(
+        MaterialPageRoute(builder: (_) => const AuthPage()),
+      );
+      if (signedIn != true || !mounted) return;
+    }
+
+    try {
+      await DeviceRegistrationService().registerCurrentDevice();
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text(e.toString())),
+        );
+      }
+      return;
+    }
+
+    if (mounted) {
+      await ref.read(premiumPurchaseProvider).initialize();
+    }
   }
 
   @override
