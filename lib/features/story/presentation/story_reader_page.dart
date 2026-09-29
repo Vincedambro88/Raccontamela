@@ -33,7 +33,7 @@ class _StoryReaderPageState extends State<StoryReaderPage> {
     if (Supabase.instance.client.auth.currentUser == null) {
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(content: Text(AppLocalizations.of(context)!.accountDescription)),
+          SnackBar(content: Text(AppLocalizations.of(context)!.premiumSignInRequired)),
         );
       }
       return;
