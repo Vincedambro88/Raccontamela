@@ -33,5 +33,11 @@
   "storyHistory": "Mis historias",
   "historyLoadError": "No se ha podido cargar el historial de historias.",
   "noStoriesYet": "Todavía no tienes historias guardadas. Las historias se guardan en tu cuenta cuando Premium está activo.",
-  "generationError": "No se ha podido crear la historia. Inténtalo de nuevo."
+  "generationError": "No se ha podido crear la historia. Inténtalo de nuevo.",
+  "voice": "Voz",
+  "regeneratePremium": "Regenerar Premium",
+  "activatePremiumContent": "Activar contenido Premium",
+  "pause": "Pausa",
+  "playbackUnavailable": "Reproducción no disponible",
+  "words": "palabras"
 }
