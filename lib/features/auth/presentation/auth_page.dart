@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 import '../../../l10n/app_localizations.dart';
+import '../../../core/config/app_config.dart';
 
 class AuthPage extends StatefulWidget {
   const AuthPage({super.key});
@@ -59,6 +60,15 @@ class _AuthPageState extends State<AuthPage> {
   @override
   Widget build(BuildContext context) {
     final l10n = AppLocalizations.of(context)!;
+    if (!AppConfig.hasSupabase) {
+      return Scaffold(
+        appBar: AppBar(title: Text(l10n.account)),
+        body: Center(child: Padding(
+          padding: const EdgeInsets.all(24),
+          child: Text(l10n.supabaseRequired),
+        )),
+      );
+    }
     return Scaffold(
       appBar: AppBar(title: Text(l10n.account)),
       body: ListView(
