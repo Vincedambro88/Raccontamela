@@ -15,6 +15,8 @@ type Body = {
     city?: string;
     animalFriends?: string[];
     friends?: string[];
+    visualBible?: string;
+    sceneVisuals?: Record<string, string>;
     scenes: Array<{ index: number; text: string }>;
   };
   storyId?: string | null;
@@ -98,7 +100,23 @@ Deno.serve(async (req) => {
       try {
         const json = await openAi({
           model,
-          prompt: `Full-color children's picture-book page illustration. Warm, cinematic, whimsical, age-appropriate. Depict the MAIN ACTION AND VISUAL DETAILS described in this exact page scene, not a generic illustration. Keep the protagonist, human friends, animal companions, and location visually consistent across all pages. The location is a real or imaginary PLACE where the action happens; never turn it into a city or a person. Human friends: ${body.story.friends?.join(", ") || "none"}. Animal companions: ${body.story.animalFriends?.join(", ") || "none"}. Every animal must remain a physically recognizable real or fantastical animal with animal anatomy and behavior, never a human character. Do not include any text, letters, speech bubbles, captions or page numbers in the image because the app places the page text above the illustration. Story: "${body.story.title}". Place: ${body.story.setting}. Protagonist: ${body.story.protagonistName}. Exact page scene: ${scene.text}`,
+          prompt: `Full-color children's picture-book page illustration for Raccontamela. Warm, cinematic, whimsical, age-appropriate, consistent children's picture-book style. This is one exact page of a continuous 8-page story, so preserve the same characters, animal anatomy and location from page to page.
+
+CHARACTER AND LOCATION CONTINUITY BIBLE:
+${body.story.visualBible || "Keep all named characters visually consistent."}
+
+HUMAN FRIENDS: ${body.story.friends?.join(", ") || "none"}.
+ANIMAL COMPANIONS: ${body.story.animalFriends?.join(", ") || "none"}. Every animal remains a real or fantastical animal with animal anatomy and natural animal behavior; never humanized.
+
+PLACE: ${body.story.setting}. Treat it as the physical place where the action occurs, not as a generic background and not as a person.
+
+EXACT VISUAL ACTION FOR THIS PAGE:
+${body.story.sceneVisuals?.[String(scene.index)] || scene.text}
+
+EXACT PAGE TEXT:
+${scene.text}
+
+Show the main action from this page clearly. Keep important objects and clues consistent with the story. Do not add unrelated characters, locations or events. Do not include any text, letters, speech bubbles, captions or page numbers in the image because the app renders the page text above the illustration.`,
           size: "1024x1024",
         }, key);
         const image = json.data?.[0]?.b64_json;
@@ -117,6 +135,7 @@ Deno.serve(async (req) => {
         if (signedError) throw signedError;
         results.push({ sceneIndex: scene.index, colorImageUrl: signed.signedUrl });
       } catch (error) {
+        console.error("Color media generation failed", { sceneIndex: scene.index, error });
         results.push({ sceneIndex: scene.index, error: error instanceof Error ? error.message : String(error) });
       }
     }
