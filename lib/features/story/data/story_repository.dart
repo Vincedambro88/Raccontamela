@@ -100,7 +100,7 @@ class StoryRepository {
 
     final rows = await client
         .from('stories')
-        .select('id,title,protagonist_name,setting,story_city,friends,animal_friends,duration_seconds,created_at,story_scenes(index,text)')
+        .select('id,title,protagonist_name,setting,story_city,friends,animal_friends,duration_seconds,created_at,story_scenes(index,text,color_image_path,bw_image_path,narration_path)')
         .eq('user_id', user.id)
         .eq('is_premium_story', true)
         .eq('status', 'ready')
@@ -109,13 +109,33 @@ class StoryRepository {
     return (rows as List<dynamic>).map((row) {
       final map = Map<String, dynamic>.from(row as Map);
       final rawScenes = (map['story_scenes'] as List<dynamic>? ?? const []);
-      final scenes = rawScenes
-          .map((scene) {
-            final s = Map<String, dynamic>.from(scene as Map);
-            return StoryScene(index: s['index'] as int, text: s['text'] as String);
-          })
-          .toList()
-        ..sort((a, b) => a.index.compareTo(b.index));
+      final scenes = <StoryScene>[];
+      for (final scene in rawScenes) {
+        final s = Map<String, dynamic>.from(scene as Map);
+        final colorPath = s['color_image_path'] as String?;
+        final bwPath = s['bw_image_path'] as String?;
+        final narrationPath = s['narration_path'] as String?;
+        String? colorUrl;
+        String? bwUrl;
+        String? narrationUrl;
+        if (colorPath != null) {
+          colorUrl = (await client.storage.from('story-assets').createSignedUrl(colorPath, 3600)).signedUrl;
+        }
+        if (bwPath != null) {
+          bwUrl = (await client.storage.from('story-assets').createSignedUrl(bwPath, 3600)).signedUrl;
+        }
+        if (narrationPath != null) {
+          narrationUrl = (await client.storage.from('story-assets').createSignedUrl(narrationPath, 3600)).signedUrl;
+        }
+        scenes.add(StoryScene(
+          index: s['index'] as int,
+          text: s['text'] as String,
+          colorImageUrl: colorUrl,
+          bwImageUrl: bwUrl,
+          narrationUrl: narrationUrl,
+        ));
+      }
+      scenes.sort((a, b) => a.index.compareTo(b.index));
 
       return Story(
         id: map['id'] as String,
