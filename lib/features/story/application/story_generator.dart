@@ -44,7 +44,7 @@ class StoryGenerator {
       friends: request.friends,
       animalFriends: request.animalFriends,
       scenes: scenes,
-      durationSeconds: ((words / 140) * 60).round(),
+      durationSeconds: ((words / 135) * 60).round(),
     );
   }
 
