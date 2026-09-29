@@ -38,10 +38,10 @@ function buildStory(input: {
         const animalName = rest.join(":").trim();
         return animalName ? `${species.trim()} ${animalName}` : species.trim();
       })()
-    : animalRaw || ({
+    : (animalRaw || ({
         it: "un piccolo animale curioso", en: "a curious little animal", fr: "un petit animal curieux",
         es: "un pequeño animal curioso", de: "ein neugieriges kleines Tier",
-      } as Record<string, string>)[l] ?? "a curious little animal";
+      } as Record<string, string>)[l] || "a curious little animal");
 
   const templates: Record<string, string[]> = {
     it: [
