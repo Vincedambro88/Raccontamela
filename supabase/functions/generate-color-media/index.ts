@@ -96,8 +96,10 @@ Deno.serve(async (req) => {
     const model = Deno.env.get("OPENAI_IMAGE_MODEL") || "gpt-image-2";
     const results: unknown[] = [];
 
-    for (const scene of body.story.scenes) {
+
+    const generateScene = async (scene: { index: number; text: string }) => {
       try {
+        const visualAction = body.story.sceneVisuals?.[String(scene.index)] || scene.text;
         const json = await openAi({
           model,
           prompt: `Full-color children's picture-book page illustration for Raccontamela. Warm, cinematic, whimsical, age-appropriate, consistent children's picture-book style. This is one exact page of a continuous 8-page story, so preserve the same characters, animal anatomy and location from page to page.
@@ -111,7 +113,7 @@ ANIMAL COMPANIONS: ${body.story.animalFriends?.join(", ") || "none"}. Every anim
 PLACE: ${body.story.setting}. Treat it as the physical place where the action occurs, not as a generic background and not as a person.
 
 EXACT VISUAL ACTION FOR THIS PAGE:
-${body.story.sceneVisuals?.[String(scene.index)] || scene.text}
+${visualAction}
 
 EXACT PAGE TEXT:
 ${scene.text}
@@ -122,23 +124,47 @@ Show the main action from this page clearly. Keep important objects and clues co
         const image = json.data?.[0]?.b64_json;
         if (!image) throw new Error("Image provider returned no image");
         const path = `${prefix}/scene-${scene.index}-color.png`;
-        const { error } = await admin.storage.from("story-assets").upload(path, b64ToBytes(image), { contentType: "image/png", upsert: true });
+        const { error } = await admin.storage.from("story-assets").upload(
+          path,
+          b64ToBytes(image),
+          { contentType: "image/png", upsert: true },
+        );
         if (error) throw error;
+
         if (persistentStoryId) {
           const { data: sceneRow } = await admin.from("story_scenes")
             .select("id").eq("story_id", persistentStoryId).eq("scene_index", scene.index).maybeSingle();
           if (sceneRow) {
-            await admin.from("story_scenes").update({ color_image_path: path }).eq("id", sceneRow.id);
+            const { error: updateError } = await admin.from("story_scenes")
+              .update({ color_image_path: path }).eq("id", sceneRow.id);
+            if (updateError) throw updateError;
           }
         }
-        const { data: signed, error: signedError } = await admin.storage.from("story-assets").createSignedUrl(path, 60 * 60);
+
+        const { data: signed, error: signedError } =
+          await admin.storage.from("story-assets").createSignedUrl(path, 60 * 60);
         if (signedError) throw signedError;
-        results.push({ sceneIndex: scene.index, colorImageUrl: signed.signedUrl });
+        return { sceneIndex: scene.index, colorImageUrl: signed.signedUrl };
       } catch (error) {
-        console.error("Color media generation failed", { sceneIndex: scene.index, error });
-        results.push({ sceneIndex: scene.index, error: error instanceof Error ? error.message : String(error) });
+        console.error("Color media generation failed", {
+          sceneIndex: scene.index,
+          error: error instanceof Error ? error.message : String(error),
+        });
+        return {
+          sceneIndex: scene.index,
+          error: error instanceof Error ? error.message : String(error),
+        };
       }
+    };
+
+    // Generate several pages in parallel so eight illustrations do not hit the
+    // Edge Function request timeout. Keep concurrency bounded to avoid provider throttling.
+    for (let offset = 0; offset < body.story.scenes.length; offset += 4) {
+      const batch = body.story.scenes.slice(offset, offset + 4);
+      const batchResults = await Promise.all(batch.map(generateScene));
+      results.push(...batchResults);
     }
+
 
     return new Response(JSON.stringify({ results }), { headers: { ...cors, "Content-Type": "application/json" } });
   } catch (error) {
