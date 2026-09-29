@@ -4,6 +4,8 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 
 import '../../../l10n/app_localizations.dart';
 import '../../premium/data/premium_media_repository.dart';
+import '../../premium/data/premium_entitlement_repository.dart';
+import '../../premium/presentation/premium_page.dart';
 import '../domain/story.dart';
 
 class StoryReaderPage extends StatefulWidget {
@@ -19,9 +21,32 @@ class _StoryReaderPageState extends State<StoryReaderPage> {
   Story? _story;
   String _voice = PremiumMediaRepository.voices.first;
   bool _loadingPremiumMedia = false;
+  bool _premiumActive = false;
   int? _playingScene;
 
   Story get story => _story ?? widget.story;
+
+  @override
+  void initState() {
+    super.initState();
+    _loadPremiumState();
+  }
+
+  Future<void> _loadPremiumState() async {
+    try {
+      final active = await PremiumEntitlementRepository().hasActivePremium();
+      if (mounted) setState(() => _premiumActive = active);
+    } catch (_) {
+      if (mounted) setState(() => _premiumActive = false);
+    }
+  }
+
+  Future<void> _openPremium() async {
+    await Navigator.of(context).push(
+      MaterialPageRoute(builder: (_) => const PremiumPage()),
+    );
+    await _loadPremiumState();
+  }
 
   @override
   void dispose() {
@@ -30,6 +55,10 @@ class _StoryReaderPageState extends State<StoryReaderPage> {
   }
 
   Future<void> _generatePremiumMedia() async {
+    if (!_premiumActive) {
+      await _openPremium();
+      return;
+    }
     if (Supabase.instance.client.auth.currentUser == null) {
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
@@ -81,30 +110,55 @@ class _StoryReaderPageState extends State<StoryReaderPage> {
           if (index == 0) return _Header(story: story, l10n: l10n);
           if (index == story.scenes.length + 1) {
             return Card(
+              elevation: 0,
+              color: Theme.of(context).colorScheme.secondaryContainer,
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(22)),
               child: Padding(
-                padding: const EdgeInsets.all(16),
+                padding: const EdgeInsets.all(18),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.stretch,
                   children: [
-                    Text(l10n.premium, style: Theme.of(context).textTheme.titleLarge),
+                    Row(
+                      children: [
+                        Icon(Icons.auto_awesome_rounded, color: Theme.of(context).colorScheme.primary),
+                        const SizedBox(width: 9),
+                        Expanded(child: Text(l10n.premium, style: Theme.of(context).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w800))),
+                      ],
+                    ),
                     const SizedBox(height: 8),
                     Text(l10n.narration + ' + ' + l10n.printColoring),
-                    const SizedBox(height: 12),
-                    DropdownButtonFormField<String>(
-                      initialValue: _voice,
-                      decoration: InputDecoration(labelText: l10n.voice),
-                      items: PremiumMediaRepository.voices.map((voice) => DropdownMenuItem(value: voice, child: Text(voice))).toList(),
-                      onChanged: _loadingPremiumMedia ? null : (value) {
-                        if (value != null) setState(() => _voice = value);
-                      },
-                    ),
+                    const SizedBox(height: 14),
+                    if (_premiumActive)
+                      DropdownButtonFormField<String>(
+                        initialValue: _voice,
+                        decoration: InputDecoration(labelText: l10n.voice),
+                        items: PremiumMediaRepository.voices.map((voice) => DropdownMenuItem(value: voice, child: Text(voice))).toList(),
+                        onChanged: _loadingPremiumMedia ? null : (value) {
+                          if (value != null) setState(() => _voice = value);
+                        },
+                      )
+                    else
+                      InkWell(
+                        onTap: _openPremium,
+                        borderRadius: BorderRadius.circular(16),
+                        child: InputDecorator(
+                          decoration: InputDecoration(
+                            labelText: l10n.voice,
+                            prefixIcon: const Icon(Icons.lock_outline_rounded),
+                            suffixIcon: const Icon(Icons.arrow_forward_ios_rounded, size: 16),
+                          ),
+                          child: Text('Disponibile con Premium', style: Theme.of(context).textTheme.bodyLarge),
+                        ),
+                      ),
                     const SizedBox(height: 12),
                     FilledButton.icon(
                       onPressed: _loadingPremiumMedia ? null : _generatePremiumMedia,
                       icon: _loadingPremiumMedia
                           ? const SizedBox.square(dimension: 18, child: CircularProgressIndicator(strokeWidth: 2))
-                          : const Icon(Icons.auto_awesome),
-                      label: Text(hasPremiumMedia ? l10n.regeneratePremium : l10n.activatePremiumContent),
+                          : Icon(_premiumActive ? Icons.auto_awesome : Icons.lock_outline_rounded),
+                      label: Text(_premiumActive
+                          ? (hasPremiumMedia ? l10n.regeneratePremium : l10n.activatePremiumContent)
+                          : l10n.buyPremium),
                     ),
                   ],
                 ),
@@ -187,7 +241,7 @@ class _Header extends StatelessWidget {
         children: [
           Text(story.title, style: Theme.of(context).textTheme.headlineMedium?.copyWith(fontWeight: FontWeight.w700)),
           const SizedBox(height: 8),
-          Text(story.protagonistName + ' · ' + story.city + ' · ' + story.setting),
+          Text(story.protagonistName + ' · ' + story.setting),
           const SizedBox(height: 12),
           Wrap(
             spacing: 8,
