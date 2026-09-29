@@ -65,20 +65,23 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
           Text(
             l10n.newStory,
             style: Theme.of(context).textTheme.headlineSmall?.copyWith(
-                  fontWeight: FontWeight.w800,
+                  fontWeight: FontWeight.w900,
                 ),
           ),
           const SizedBox(height: 5),
           Text(
-            'Costruiamo insieme un’avventura su misura.',
+            'Scegli gli ingredienti della tua avventura.',
             style: Theme.of(context).textTheme.bodyMedium?.copyWith(
                   color: colors.onSurfaceVariant,
                 ),
           ),
           const SizedBox(height: 16),
           _SectionCard(
+            accent: colors.primary,
+            number: '1',
             icon: Icons.person_rounded,
-            title: '1 · Il protagonista',
+            title: 'Il protagonista',
+            subtitle: 'Chi sarà l’eroe della storia?',
             child: _field(
               l10n.protagonistName,
               protagonistController,
@@ -88,19 +91,50 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
           ),
           const SizedBox(height: 12),
           _SectionCard(
-            icon: Icons.place_rounded,
-            title: '2 · Il luogo dell’avventura',
-            child: _field(
-              l10n.storyCity,
-              settingController,
-              hint: 'Es. un castello, una spiaggia, una foresta incantata, Roma',
-              requiredField: true,
+            accent: colors.tertiary,
+            number: '2',
+            icon: Icons.explore_rounded,
+            title: 'Il luogo dell’avventura',
+            subtitle: 'Dove comincia il viaggio?',
+            child: Column(
+              children: [
+                _field(
+                  l10n.storyCity,
+                  settingController,
+                  hint: 'Es. castello, spiaggia, foresta incantata...',
+                  requiredField: true,
+                ),
+                const SizedBox(height: 10),
+                Align(
+                  alignment: Alignment.centerLeft,
+                  child: Text(
+                    'Idee veloci',
+                    style: Theme.of(context).textTheme.labelLarge?.copyWith(
+                          fontWeight: FontWeight.w800,
+                        ),
+                  ),
+                ),
+                const SizedBox(height: 7),
+                Wrap(
+                  spacing: 7,
+                  runSpacing: 7,
+                  children: [
+                    _IdeaChip('🏰 Castello', () => _setSetting('un castello incantato')),
+                    _IdeaChip('🌲 Foresta', () => _setSetting('una foresta magica')),
+                    _IdeaChip('🏖️ Spiaggia', () => _setSetting('una spiaggia misteriosa')),
+                    _IdeaChip('🚀 Spazio', () => _setSetting('una stazione spaziale')),
+                  ],
+                ),
+              ],
             ),
           ),
           const SizedBox(height: 12),
           _SectionCard(
+            accent: colors.secondary,
+            number: '3',
             icon: Icons.groups_rounded,
-            title: '3 · Chi parte con lui?',
+            title: 'Gli amici dell’avventura',
+            subtitle: 'Chi viene con te?',
             child: Column(
               children: [
                 _field(
@@ -112,37 +146,72 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
                 _field(
                   l10n.animalFriends,
                   animalsController,
-                  hint: 'Es. cane: Milo, gatto: Luna, drago fantastico: Fiamma',
+                  hint: 'Es. cane: Milo, gatto: Luna',
                 ),
-                const SizedBox(height: 8),
-                Row(
-                  crossAxisAlignment: CrossAxisAlignment.start,
+                const SizedBox(height: 9),
+                Wrap(
+                  spacing: 7,
+                  runSpacing: 7,
                   children: [
-                    Icon(
-                      Icons.pets_rounded,
-                      size: 19,
-                      color: colors.tertiary,
-                    ),
-                    const SizedBox(width: 9),
-                    Expanded(
-                      child: Text(
-                        'Indica specie e nome se vuoi: gli animali saranno compagni reali o fantastici, ma resteranno sempre animali. Non saranno mai trasformati in persone o personaggi umani.',
-                        style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                              color: colors.onSurfaceVariant,
-                              height: 1.35,
-                            ),
-                      ),
-                    ),
+                    _IdeaChip('🐶 Cane', () => _addAnimal('cane: Milo')),
+                    _IdeaChip('🐱 Gatto', () => _addAnimal('gatto: Luna')),
+                    _IdeaChip('🐉 Drago', () => _addAnimal('drago fantastico: Fiamma')),
                   ],
+                ),
+                const SizedBox(height: 10),
+                Container(
+                  padding: const EdgeInsets.all(11),
+                  decoration: BoxDecoration(
+                    color: colors.tertiaryContainer.withOpacity(.55),
+                    borderRadius: BorderRadius.circular(14),
+                  ),
+                  child: Row(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Icon(Icons.pets_rounded, size: 19, color: colors.tertiary),
+                      const SizedBox(width: 9),
+                      Expanded(
+                        child: Text(
+                          'Gli animali restano animali: possono correre, saltare, volare, annusare e aiutare nella storia con comportamenti adatti alla loro specie.',
+                          style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                                color: colors.onSurfaceVariant,
+                                height: 1.3,
+                              ),
+                        ),
+                      ),
+                    ],
+                  ),
                 ),
               ],
             ),
           ),
           const SizedBox(height: 18),
+          Container(
+            padding: const EdgeInsets.fromLTRB(16, 13, 16, 13),
+            decoration: BoxDecoration(
+              color: colors.primaryContainer.withOpacity(.5),
+              borderRadius: BorderRadius.circular(18),
+            ),
+            child: Row(
+              children: [
+                Icon(Icons.auto_awesome_rounded, color: colors.primary),
+                const SizedBox(width: 10),
+                Expanded(
+                  child: Text(
+                    generating ? 'Sto preparando la tua avventura...' : 'Tutto pronto? Si parte!',
+                    style: Theme.of(context).textTheme.titleSmall?.copyWith(
+                          fontWeight: FontWeight.w800,
+                        ),
+                  ),
+                ),
+              ],
+            ),
+          ),
+          const SizedBox(height: 10),
           FilledButton.icon(
             onPressed: generating ? null : _generate,
             style: FilledButton.styleFrom(
-              minimumSize: const Size.fromHeight(56),
+              minimumSize: const Size.fromHeight(58),
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(18),
               ),
@@ -152,10 +221,10 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
                     dimension: 20,
                     child: CircularProgressIndicator(strokeWidth: 2),
                   )
-                : const Icon(Icons.auto_awesome_rounded),
+                : const Icon(Icons.rocket_launch_rounded),
             label: Text(
               generating ? l10n.creatingStory : l10n.generateStory,
-              style: const TextStyle(fontWeight: FontWeight.w700),
+              style: const TextStyle(fontWeight: FontWeight.w800),
             ),
           ),
           const SizedBox(height: 18),
@@ -187,6 +256,20 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
     );
   }
 
+  void _setSetting(String value) {
+    settingController.text = value;
+    settingController.selection = TextSelection.collapsed(offset: value.length);
+    setState(() {});
+  }
+
+  void _addAnimal(String value) {
+    final current = animalsController.text.trim();
+    final next = current.isEmpty ? value : '$current, $value';
+    animalsController.text = next;
+    animalsController.selection = TextSelection.collapsed(offset: next.length);
+    setState(() {});
+  }
+
   Future<void> _generate() async {
     final l10n = AppLocalizations.of(context)!;
     final protagonist = protagonistController.text.trim();
@@ -215,8 +298,6 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
         StoryRequest(
           protagonistName: protagonist,
           setting: setting,
-          // Kept internally for backward compatibility with the existing
-          // database/API contract: the story location is no longer a city.
           city: setting,
           friends: friends,
           animalFriends: animals,
@@ -348,15 +429,37 @@ class _MiniBadge extends StatelessWidget {
   }
 }
 
+class _IdeaChip extends StatelessWidget {
+  const _IdeaChip(this.label, this.onTap);
+  final String label;
+  final VoidCallback onTap;
+
+  @override
+  Widget build(BuildContext context) {
+    return ActionChip(
+      label: Text(label),
+      onPressed: onTap,
+      padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 4),
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
+    );
+  }
+}
+
 class _SectionCard extends StatelessWidget {
   const _SectionCard({
+    required this.accent,
+    required this.number,
     required this.icon,
     required this.title,
+    required this.subtitle,
     required this.child,
   });
 
+  final Color accent;
+  final String number;
   final IconData icon;
   final String title;
+  final String subtitle;
   final Widget child;
 
   @override
@@ -365,25 +468,47 @@ class _SectionCard extends StatelessWidget {
     return Card(
       margin: EdgeInsets.zero,
       elevation: 0,
-      color: colors.surfaceContainerLow,
+      color: colors.surface,
       shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(22),
-        side: BorderSide(color: colors.outlineVariant),
+        borderRadius: BorderRadius.circular(24),
+        side: BorderSide(color: accent.withOpacity(.28)),
       ),
       child: Padding(
-        padding: const EdgeInsets.fromLTRB(16, 15, 16, 16),
+        padding: const EdgeInsets.fromLTRB(16, 15, 16, 17),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Row(
               children: [
-                Icon(icon, size: 21, color: colors.primary),
-                const SizedBox(width: 9),
-                Text(
-                  title,
-                  style: Theme.of(context).textTheme.titleMedium?.copyWith(
-                        fontWeight: FontWeight.w800,
+                Container(
+                  width: 40,
+                  height: 40,
+                  decoration: BoxDecoration(
+                    color: accent.withOpacity(.14),
+                    borderRadius: BorderRadius.circular(13),
+                  ),
+                  child: Icon(icon, size: 21, color: accent),
+                ),
+                const SizedBox(width: 10),
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        '$number · $title',
+                        style: Theme.of(context).textTheme.titleMedium?.copyWith(
+                              fontWeight: FontWeight.w900,
+                            ),
                       ),
+                      const SizedBox(height: 2),
+                      Text(
+                        subtitle,
+                        style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                              color: colors.onSurfaceVariant,
+                            ),
+                      ),
+                    ],
+                  ),
                 ),
               ],
             ),
