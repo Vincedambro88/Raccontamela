@@ -15,11 +15,11 @@ void main() {
     );
 
     expect(story.protagonistName, 'Luca');
-    expect(story.city, 'Rimini');
+    expect(story.city, 'un castello incantato');
     expect(story.setting, 'un castello incantato');
     expect(story.friends, contains('Anna'));
     expect(story.animalFriends, contains('Milo'));
-    expect(story.scenes, hasLength(5));
+    expect(story.scenes, hasLength(7));
     expect(story.wordCount, greaterThan(200));
     expect(story.durationSeconds, greaterThan(90));
   });
