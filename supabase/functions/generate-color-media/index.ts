@@ -15,6 +15,8 @@ type Body = {
     city: string;
     scenes: Array<{ index: number; text: string }>;
   };
+  storyId?: string | null;
+  mediaToken?: string;
 };
 
 async function openAi(body: unknown, key: string) {
@@ -56,13 +58,37 @@ Deno.serve(async (req) => {
     const key = Deno.env.get("OPENAI_API_KEY");
     if (!key) throw new Error("Media provider is not configured");
     const body = await req.json() as Body;
-    if (!body.story?.title || !Array.isArray(body.story.scenes) || !body.story.scenes.length || typeof (body as any).mediaToken !== "string") throw new Error("Invalid story payload");
+    if (!body.story?.title || !Array.isArray(body.story.scenes) || !body.story.scenes.length) throw new Error("Invalid story payload");
 
     const supabaseUrl = Deno.env.get("SUPABASE_URL")!;
     const serviceKey = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!;
     const admin = createClient(supabaseUrl, serviceKey, { auth: { persistSession: false } });
-    if (!await verifyMediaToken(body.story, (body as any).mediaToken, serviceKey)) throw new Error("Invalid or expired media token");
-    const prefix = `anonymous/${crypto.randomUUID()}`;
+
+    let prefix = `anonymous/${crypto.randomUUID()}`;
+    let persistentStoryId: string | null = null;
+
+    const auth = req.headers.get("Authorization");
+    if (body.storyId) {
+      if (!auth?.startsWith("Bearer ")) throw new Error("Authentication required");
+      const { data: userData, error: authError } = await admin.auth.getUser(auth.slice(7));
+      if (authError || !userData.user) throw new Error("Authentication required");
+
+      const { data: entitlement } = await admin.from("premium_entitlements")
+        .select("status,expires_at").eq("user_id", userData.user.id).maybeSingle();
+      const active = entitlement?.status === "active" &&
+        (!entitlement.expires_at || new Date(entitlement.expires_at) > new Date());
+      if (!active) throw new Error("Premium entitlement required");
+
+      const { data: ownedStory } = await admin.from("stories")
+        .select("id").eq("id", body.storyId).eq("user_id", userData.user.id).maybeSingle();
+      if (!ownedStory) throw new Error("Story not found");
+      persistentStoryId = body.storyId;
+      prefix = `${userData.user.id}/${body.storyId}`;
+    } else {
+      if (typeof body.mediaToken !== "string" || !await verifyMediaToken(body.story, body.mediaToken, serviceKey)) {
+        throw new Error("Invalid or expired media token");
+      }
+    }
     const model = Deno.env.get("OPENAI_IMAGE_MODEL") || "gpt-image-2";
     const results: unknown[] = [];
 
@@ -75,9 +101,16 @@ Deno.serve(async (req) => {
         }, key);
         const image = json.data?.[0]?.b64_json;
         if (!image) throw new Error("Image provider returned no image");
-        const path = `${prefix}/scene-${scene.index}.png`;
-        const { error } = await admin.storage.from("story-assets").upload(path, b64ToBytes(image), { contentType: "image/png", upsert: false });
+        const path = `${prefix}/scene-${scene.index}-color.png`;
+        const { error } = await admin.storage.from("story-assets").upload(path, b64ToBytes(image), { contentType: "image/png", upsert: true });
         if (error) throw error;
+        if (persistentStoryId) {
+          const { data: sceneRow } = await admin.from("story_scenes")
+            .select("id").eq("story_id", persistentStoryId).eq("scene_index", scene.index).maybeSingle();
+          if (sceneRow) {
+            await admin.from("story_scenes").update({ color_image_path: path }).eq("id", sceneRow.id);
+          }
+        }
         const { data: signed, error: signedError } = await admin.storage.from("story-assets").createSignedUrl(path, 60 * 60);
         if (signedError) throw signedError;
         results.push({ sceneIndex: scene.index, colorImageUrl: signed.signedUrl });
