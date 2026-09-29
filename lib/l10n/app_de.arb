@@ -6,10 +6,17 @@
   "setting": "Umgebung",
   "storyCity": "Stadt der Geschichte",
   "friends": "Freunde der Hauptfigur",
+  "friendsHint": "Bis zu 4, durch Kommas getrennt",
   "animalFriends": "Tierfreunde",
   "generateStory": "Geschichte erstellen",
+  "creatingStory": "Geschichte wird erstellt…",
+  "requiredFields": "Name, Umgebung und Stadt eingeben.",
+  "maxFriends": "Du kannst bis zu 4 Freunde eingeben.",
   "premium": "Premium",
   "narration": "Sprachwiedergabe",
   "printColoring": "Drucken und ausmalen",
-  "history": "Meine Geschichten"
+  "history": "Meine Geschichten",
+  "introText": "Erstelle in wenigen Sekunden eine persönliche Geschichte. Du bestimmst Hauptfigur, Freunde und die Welt der Geschichte.",
+  "premiumDescription": "Erzählstimmen, Schwarz-Weiß-Bilder zum Ausmalen und Geschichtenverlauf.",
+  "buyPremium": "Premium entdecken"
 }
