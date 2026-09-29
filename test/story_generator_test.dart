@@ -2,7 +2,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:raccontamela/features/story/application/story_generator.dart';
 
 void main() {
-  test('generates a five-scene story with the requested inputs', () async {
+  test('generates an eight-page story with the requested inputs', () async {
     final story = await StoryGenerator().generate(
       const StoryRequest(
         protagonistName: 'Luca',
@@ -19,8 +19,8 @@ void main() {
     expect(story.setting, 'un castello incantato');
     expect(story.friends, contains('Anna'));
     expect(story.animalFriends, contains('Milo'));
-    expect(story.scenes, hasLength(7));
+    expect(story.scenes, hasLength(8));
     expect(story.wordCount, greaterThan(200));
-    expect(story.durationSeconds, greaterThan(90));
+    expect(story.durationSeconds, greaterThan(300));
   });
 }
