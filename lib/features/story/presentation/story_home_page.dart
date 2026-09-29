@@ -93,7 +93,7 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
             child: _field(
               l10n.storyCity,
               settingController,
-              hint: 'Es. un castello incantato, una spiaggia, una foresta',
+              hint: 'Es. un castello, una spiaggia, una foresta incantata, Roma',
               requiredField: true,
             ),
           ),
@@ -112,7 +112,7 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
                 _field(
                   l10n.animalFriends,
                   animalsController,
-                  hint: 'Es. cane, gatto, cavallo',
+                  hint: 'Es. cane: Milo, gatto: Luna, drago fantastico: Fiamma',
                 ),
                 const SizedBox(height: 8),
                 Row(
@@ -126,7 +126,7 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
                     const SizedBox(width: 9),
                     Expanded(
                       child: Text(
-                        'Gli animali restano animali: nella storia potranno correre, giocare, seguire, annusare e interagire con i personaggi.',
+                        'Indica specie e nome se vuoi: gli animali saranno compagni reali o fantastici, ma resteranno sempre animali. Non saranno mai trasformati in persone o personaggi umani.',
                         style: Theme.of(context).textTheme.bodySmall?.copyWith(
                               color: colors.onSurfaceVariant,
                               height: 1.35,
