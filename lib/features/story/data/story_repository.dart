@@ -58,6 +58,7 @@ class StoryRepository {
               .toList(),
         },
         'mediaToken': data['mediaToken'],
+        'storyId': story.id,
       });
       final mediaData = Map<String, dynamic>.from(mediaResponse.data as Map);
       final byIndex = <int, String>{};
