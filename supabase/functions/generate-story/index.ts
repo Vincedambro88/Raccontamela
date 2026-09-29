@@ -120,6 +120,136 @@ function buildStory(input: {
     wordCount,
   };
 }
+
+async function generateAiStory(input: {
+  protagonistName: string;
+  setting: string;
+  locale: string;
+  friends: string[];
+  animalFriends: string[];
+}) {
+  const key = Deno.env.get("OPENAI_API_KEY");
+  if (!key) throw new Error("OPENAI_API_KEY not configured");
+
+  const languageNames: Record<string, string> = {
+    it: "Italian",
+    en: "English",
+    fr: "French",
+    es: "Spanish",
+    de: "German",
+  };
+
+  const schema = {
+    type: "object",
+    properties: {
+      title: { type: "string" },
+      visualBible: { type: "string" },
+      scenes: {
+        type: "array",
+        items: {
+          type: "object",
+          properties: {
+            index: { type: "integer" },
+            text: { type: "string" },
+            visual: { type: "string" },
+          },
+          required: ["index", "text", "visual"],
+          additionalProperties: false,
+        },
+      },
+    },
+    required: ["title", "visualBible", "scenes"],
+    additionalProperties: false,
+  };
+
+  const instructions = [
+    "You are the story engine for Raccontamela, a personalized children's picture-book app.",
+    `Write the story in ${languageNames[input.locale] ?? "Italian"}.`,
+    "Return ONLY the requested structured JSON; never add commentary.",
+    "Create exactly 8 consecutive book pages. The story must have a clear beginning, development, problem or goal, escalating discoveries, resolution and a calm ending.",
+    "Continuity is mandatory: every page must pick up from the concrete action, object, place or discovery of the previous page. Do not restart the story on each page and do not introduce unrelated events.",
+    "The setting is a PLACE, real or imaginary. Treat it as the physical environment where the adventure unfolds. If it is a city, it may be a city; otherwise never call it a city and never turn it into a character.",
+    "Human friends are human children/people and must participate naturally in the same adventure.",
+    "Animal companions are animals. Parse entries such as 'cane: Milo' as a dog named Milo. Animals must keep real or fantastical animal anatomy and behavior: walking/running/flying, sniffing, observing, etc. Never make an animal speak, attend school, use human tools like a person, or become a human-like character.",
+    "Use the supplied names and setting meaningfully rather than merely inserting them into generic sentences.",
+    "For the 8 pages, target 85-100 words per page in Italian/English/French/Spanish/German, for roughly 680-800 words total and a 5-6 minute read at a child-friendly pace.",
+    "Avoid filler, moralizing and repeated descriptions. Make the plot specific: establish one central mystery/goal and carry the same clues and objects through the pages until the resolution.",
+    "visualBible must be a concise stable description of the protagonist, human friends, animal companions and the physical setting. It is used by an image generator to keep characters and place consistent across pages.",
+    "Each scene.visual must describe the MAIN VISUAL ACTION of that exact page, including who is present, what they are doing, the important object/clue, and the relevant part of the setting. It must be suitable as an image prompt and must match scene.text exactly.",
+    "Do not put text, captions, letters or page numbers into scene.visual.",
+  ].join(" ");
+
+  const userInput = JSON.stringify({
+    protagonistName: input.protagonistName,
+    setting: input.setting,
+    friends: input.friends,
+    animalFriends: input.animalFriends,
+    locale: input.locale,
+  });
+
+  const response = await fetch("https://api.openai.com/v1/responses", {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${key}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      model: Deno.env.get("OPENAI_TEXT_MODEL") || "gpt-6-luna",
+      instructions,
+      input: userInput,
+      store: false,
+      text: {
+        format: {
+          type: "json_schema",
+          name: "raccontamela_story",
+          schema,
+          strict: true,
+        },
+      },
+    }),
+  });
+
+  if (!response.ok) {
+    throw new Error(`Story AI provider error ${response.status}: ${await response.text()}`);
+  }
+
+  const payload = await response.json();
+  const outputText = payload.output_text ??
+    payload.output?.flatMap((item: any) => item.content ?? [])
+      .find((item: any) => item.type === "output_text")?.text;
+  if (!outputText) throw new Error("Story AI returned no text");
+
+  const parsed = JSON.parse(outputText);
+  if (!Array.isArray(parsed.scenes) || parsed.scenes.length !== 8) {
+    throw new Error("Story AI returned an invalid page count");
+  }
+
+  const scenes = parsed.scenes.map((scene: any, index: number) => ({
+    index,
+    text: String(scene.text).trim(),
+  }));
+  const sceneVisuals: Record<string, string> = {};
+  parsed.scenes.forEach((scene: any, index: number) => {
+    sceneVisuals[String(index)] = String(scene.visual).trim();
+  });
+
+  const text = scenes.map((scene) => scene.text).join("\n\n");
+  const wordCount = text.trim().split(/\s+/).filter(Boolean).length;
+  if (wordCount < 620 || wordCount > 900) {
+    throw new Error(`Story AI word count out of range: ${wordCount}`);
+  }
+
+  return {
+    title: String(parsed.title).trim(),
+    visualBible: String(parsed.visualBible).trim(),
+    scenes,
+    sceneVisuals,
+    text,
+    durationSeconds: Math.round((wordCount / 135) * 60),
+    wordCount,
+  };
+}
+
 async function mediaTokenFor(story: unknown, serviceKey: string) {
   const fingerprintBytes = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(JSON.stringify(story)));
   const fingerprint = Array.from(new Uint8Array(fingerprintBytes)).map((b) => b.toString(16).padStart(2, "0")).join("");
@@ -145,7 +275,18 @@ Deno.serve(async (req) => {
     if (Array.isArray(body.friends) && body.friends.length > 4) return new Response(JSON.stringify({ error: "A maximum of 4 protagonist friends is allowed" }), { status: 400, headers: { ...corsHeaders, "Content-Type": "application/json" } });
     if (!allowedLocales.has(locale)) return new Response(JSON.stringify({ error: "Unsupported locale" }), { status: 400, headers: { ...corsHeaders, "Content-Type": "application/json" } });
 
-    const story = buildStory({ protagonistName, setting, locale, friends, animalFriends });
+    let story: any;
+    let visualBible = "";
+    let sceneVisuals: Record<string, string> = {};
+    try {
+      const generated = await generateAiStory({ protagonistName, setting, locale, friends, animalFriends });
+      story = generated;
+      visualBible = generated.visualBible;
+      sceneVisuals = generated.sceneVisuals;
+    } catch (error) {
+      console.error("AI story generation failed, using deterministic fallback", error);
+      story = buildStory({ protagonistName, setting, locale, friends, animalFriends });
+    }
     let saved = false;
     let storyId: string | null = null;
     const supabaseUrl = Deno.env.get("SUPABASE_URL");
@@ -181,8 +322,10 @@ Deno.serve(async (req) => {
       friends,
       animalFriends,
       scenes: story.scenes,
+      visualBible,
+      sceneVisuals,
     }, serviceRoleKey) : null;
-    return new Response(JSON.stringify({ ...story, saved, storyId, mediaToken }), { headers: { ...corsHeaders, "Content-Type": "application/json" } });
+    return new Response(JSON.stringify({ ...story, visualBible, sceneVisuals, saved, storyId, mediaToken }), { headers: { ...corsHeaders, "Content-Type": "application/json" } });
   } catch (error) {
     console.error(error);
     return new Response(JSON.stringify({ error: "Story generation failed" }), { status: 500, headers: { ...corsHeaders, "Content-Type": "application/json" } });
