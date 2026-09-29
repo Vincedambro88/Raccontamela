@@ -33,7 +33,7 @@ class _StoryReaderPageState extends State<StoryReaderPage> {
     if (Supabase.instance.client.auth.currentUser == null) {
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(content: Text('Accedi per usare le funzioni Premium.')),
+          SnackBar(content: Text(AppLocalizations.of(context)!.accountDescription)),
         );
       }
       return;
@@ -63,7 +63,7 @@ class _StoryReaderPageState extends State<StoryReaderPage> {
       await _player.play();
       if (mounted) setState(() => _playingScene = null);
     } catch (e) {
-      if (mounted) ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('Riproduzione non disponibile: $e')));
+      if (mounted) ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('${l10n.playbackUnavailable}: $e')));
     }
   }
 
@@ -92,7 +92,7 @@ class _StoryReaderPageState extends State<StoryReaderPage> {
                     const SizedBox(height: 12),
                     DropdownButtonFormField<String>(
                       value: _voice,
-                      decoration: const InputDecoration(labelText: 'Voce'),
+                      decoration: InputDecoration(labelText: l10n.voice),
                       items: PremiumMediaRepository.voices.map((voice) => DropdownMenuItem(value: voice, child: Text(voice))).toList(),
                       onChanged: _loadingPremiumMedia ? null : (value) {
                         if (value != null) setState(() => _voice = value);
@@ -104,7 +104,7 @@ class _StoryReaderPageState extends State<StoryReaderPage> {
                       icon: _loadingPremiumMedia
                           ? const SizedBox.square(dimension: 18, child: CircularProgressIndicator(strokeWidth: 2))
                           : const Icon(Icons.auto_awesome),
-                      label: Text(hasPremiumMedia ? 'Rigenera Premium' : 'Attiva contenuti Premium'),
+                      label: Text(hasPremiumMedia ? l10n.regeneratePremium : l10n.activatePremiumContent),
                     ),
                   ],
                 ),
@@ -142,7 +142,7 @@ class _StoryReaderPageState extends State<StoryReaderPage> {
                       child: OutlinedButton.icon(
                         onPressed: () => _playScene(scene),
                         icon: Icon(_playingScene == scene.index && _player.playing ? Icons.pause : Icons.play_arrow),
-                        label: Text(_playingScene == scene.index && _player.playing ? 'Pausa' : l10n.narration),
+                        label: Text(_playingScene == scene.index && _player.playing ? l10n.pause : l10n.narration),
                       ),
                     ),
                 ],
@@ -192,7 +192,7 @@ class _Header extends StatelessWidget {
             spacing: 8,
             children: [
               Chip(avatar: const Icon(Icons.schedule, size: 18), label: Text(duration)),
-              Chip(avatar: const Icon(Icons.menu_book, size: 18), label: Text(story.wordCount.toString() + ' parole')),
+              Chip(avatar: const Icon(Icons.menu_book, size: 18), label: Text(story.wordCount.toString() + ' ' + l10n.words)),
             ],
           ),
         ],
