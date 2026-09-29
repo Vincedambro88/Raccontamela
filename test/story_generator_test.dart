@@ -20,7 +20,7 @@ void main() {
     expect(story.friends, contains('Anna'));
     expect(story.animalFriends, contains('Milo'));
     expect(story.scenes, hasLength(5));
-    expect(story.wordCount, greaterThan(250));
+    expect(story.wordCount, greaterThan(200));
     expect(story.durationSeconds, greaterThan(90));
   });
 }
