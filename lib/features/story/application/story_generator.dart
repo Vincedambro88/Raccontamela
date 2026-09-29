@@ -12,8 +12,6 @@ class StoryRequest {
 
   final String protagonistName;
   final String setting;
-  // Kept for compatibility with the existing API/database contract.
-  // The value now represents the story location, not a city.
   final String city;
   final List<String> friends;
   final List<String> animalFriends;
@@ -26,22 +24,19 @@ class StoryGenerator {
 
     final name = request.protagonistName.trim();
     final setting = request.setting.trim();
-    final humanFriends = request.friends;
-    final animals = request.animalFriends;
-
-    final paragraphs = _paragraphs(
+    final scenesText = _paragraphs(
       request.locale,
       name,
       setting,
-      humanFriends,
-      animals,
+      request.friends,
+      request.animalFriends,
     );
     final scenes = List.generate(
-      paragraphs.length,
-      (index) => StoryScene(index: index, text: paragraphs[index]),
+      scenesText.length,
+      (index) => StoryScene(index: index, text: scenesText[index]),
     );
     final words = scenes
-        .map((scene) => scene.text.split(RegExp(r'\s+')).length)
+        .map((scene) => scene.text.split(RegExp(r'\s+')).where((w) => w.isNotEmpty).length)
         .fold<int>(0, (a, b) => a + b);
 
     return Story(
@@ -49,10 +44,10 @@ class StoryGenerator {
       protagonistName: name,
       setting: setting,
       city: setting,
-      friends: humanFriends,
-      animalFriends: animals,
+      friends: request.friends,
+      animalFriends: request.animalFriends,
       scenes: scenes,
-      durationSeconds: ((words / 145) * 60).round(),
+      durationSeconds: ((words / 140) * 60).round(),
     );
   }
 
@@ -63,6 +58,40 @@ class StoryGenerator {
         'de' => 'Das Abenteuer von $name',
         _ => 'L’avventura di $name',
       };
+
+  String _animalPhrase(List<String> animals, String locale) {
+    if (animals.isEmpty) {
+      return ({
+        'it': 'un piccolo animale curioso',
+        'en': 'a curious little animal',
+        'fr': 'un petit animal curieux',
+        'es': 'un pequeño animal curioso',
+        'de': 'ein neugieriges kleines Tier',
+      }[locale] ?? 'a curious little animal');
+    }
+    final value = animals.first.trim();
+    if (value.contains(':')) {
+      final parts = value.split(':');
+      final species = parts.first.trim();
+      final name = parts.skip(1).join(':').trim();
+      if (name.isNotEmpty) {
+        return switch (locale) {
+          'en' => 'the $species named $name',
+          'fr' => 'le $species appelé $name',
+          'es' => 'el $species llamado $name',
+          'de' => 'das $species namens $name',
+          _ => 'il $species $name',
+        };
+      }
+    }
+    return switch (locale) {
+      'en' => 'the animal companion called $value',
+      'fr' => "l’animal compagnon appelé $value",
+      'es' => 'el animal compañero llamado $value',
+      'de' => 'das Tier namens $value',
+      _ => 'l’animale compagno chiamato $value',
+    };
+  }
 
   List<String> _paragraphs(
     String locale,
@@ -80,101 +109,63 @@ class StoryGenerator {
             'de': 'ein neuer Freund',
           }[locale] ?? 'a new friend')
         : friends.join(', ');
-
-    final animal = animals.isEmpty
-        ? ({
-            'it': 'un piccolo animale curioso',
-            'en': 'a curious little animal',
-            'fr': 'un petit animal curieux',
-            'es': 'un pequeño animal curioso',
-            'de': 'ein neugieriges kleines Tier',
-          }[locale] ?? 'a curious little animal')
-        : animals.length == 1
-            ? animals.first
-            : animals.join(', ');
-
-    final hasAnimals = animals.isNotEmpty;
+    final animal = _animalPhrase(animals, locale);
 
     switch (locale) {
       case 'en':
         return [
-          'One bright morning, $name discovered a tiny golden light at the entrance to $setting. It moved slowly between the trees, doors or rocks, as if it wanted to show the way. $name decided to follow it and invited $human to come along.',
-          hasAnimals
-              ? '$name reached a quiet corner of $setting where $animal was waiting. The animal sniffed the ground, listened carefully and then trotted toward the glowing trail. $name followed, watching the animal explore the place in its own way.'
-              : '$name reached a quiet corner of $setting where the trail suddenly disappeared. Together with $human, they looked carefully until they noticed tiny golden footprints.',
-          'The footprints led to a hidden path. Along the way, $name and $human found a blue feather, a silver bell and a little wooden key. Each clue revealed something about $setting: a secret passage, a small bridge and a door hidden behind leaves.',
-          hasAnimals
-              ? 'At the bridge, $animal became excited and ran ahead. The animal stopped beside a loose stone and looked back at $name. Under the stone was the missing key. $name thanked the animal with a gentle stroke and placed the key in the lock.'
-              : 'At the bridge, $name noticed a loose stone. Under it was the missing key. $human helped hold the lantern while $name placed the key in the lock.',
-          'The hidden door opened onto the most beautiful part of $setting: a garden filled with warm lights, soft music and colorful flowers. At its center stood a small mechanical bird that could no longer move its wings.',
-          hasAnimals
-              ? '$name listened to the bird while $animal watched from the grass. When a tiny gear rolled away, the animal followed it and stopped beside it. $name picked up the gear, fitted it back into the bird and the wings began to move again.'
-              : '$name listened carefully while $human searched nearby. They found a tiny gear, fitted it back into the bird and the wings began to move again.',
-          'The golden light rose above $setting and turned into hundreds of little stars. $name understood that the adventure had not been about finding a treasure. It was about exploring, paying attention and discovering how every person and every animal can have a special part in a shared adventure.',
+          'One bright morning, $name entered $setting and immediately noticed that the place seemed to be hiding a secret. A warm golden light moved between the real details of the place, turning around trees, walls, boats or rocks without changing them. $name invited $human to follow it. The adventure began not in a city, but inside this particular place, with its own paths, sounds, corners and surprises.',
+          '$name and $human followed the light deeper into $setting. The path became narrower and revealed a little stream, an old wooden gate and a patch of flowers that moved even though there was no wind. Nearby, $animal watched from the grass. The animal sniffed the ground, listened, then trotted toward the light. It was clearly an animal exploring the place, not a person in disguise.',
+          'The trail led the group to a quiet part of $setting where they found three clues: a blue feather, a silver bell and a wooden key. Each clue belonged to the place itself. They followed the sound of the bell past a bridge and discovered a hidden door covered with leaves. $name realized that the story was unfolding through the location, not simply happening in front of a generic background.',
+          'Before opening the door, the animal companion ran ahead and stopped beside a loose stone. It sniffed the stone, pawed the ground and looked back at $name. Underneath was a tiny map. $name picked it up while $human held the lantern. The map showed a path leading to the heart of $setting, with drawings of the same trees, rocks and paths they had just crossed.',
+          'The map led them to a beautiful central area inside $setting. There were warm lights, colorful plants and a small mechanical bird resting on a wooden bench. Its wings were stuck. $name examined it carefully. The animal stayed on the ground, watching and sniffing around the bench. When a tiny metal gear rolled away, the animal followed it across the grass and stopped beside it.',
+          '$name picked up the gear and repaired the little bird. The bird moved its wings and released a soft musical sound. That sound changed the place around them: lights appeared along the path, flowers opened and the hidden door behind the bench became visible. The animal explored the new path first, trotting ahead and occasionally turning back to check where the children were.',
+          'The final path brought everyone to a viewpoint inside $setting. From there, $name could recognize the details that had made the adventure possible: the bridge, the stream, the gate, the flowers and the hidden door. The golden light rose from the ground and became a trail of stars above the place. Nothing about the location had to become a city or a character; it remained the real or imagined place where the adventure happened.',
+          'At the end, $name understood that an adventure can be created from any place: a real beach, a forest, a museum, a garden, a castle or an entirely imaginary world. The important thing was to look closely and let the place guide the story. The animal companion settled beside the children, still a real animal, while the last golden stars faded above $setting. Everyone went home with a story that belonged to that place.'
         ];
       case 'fr':
         return [
-          'Un matin lumineux, $name découvrit une petite lumière dorée à l’entrée de $setting. Elle avançait doucement entre les arbres, les portes ou les rochers, comme pour montrer le chemin. $name décida de la suivre et invita $human à venir.',
-          hasAnimals
-              ? '$name arriva dans un coin tranquille de $setting où $animal attendait. L’animal renifla le sol, écouta attentivement puis trottina vers la lumière. $name le suivit en le regardant explorer le lieu à sa manière.'
-              : '$name arriva dans un coin tranquille de $setting où la piste avait disparu. Avec $human, ils cherchèrent attentivement et remarquèrent de petites empreintes dorées.',
-          'Les empreintes conduisirent à un passage secret. En chemin, $name et $human trouvèrent une plume bleue, une clochette argentée et une petite clé en bois. Chaque indice révélait quelque chose sur $setting : un passage caché, un petit pont et une porte derrière les feuilles.',
-          hasAnimals
-              ? 'Au pont, $animal s’agita et partit devant. L’animal s’arrêta près d’une pierre déplacée et regarda $name. Sous la pierre se trouvait la clé manquante. $name caressa doucement l’animal puis plaça la clé dans la serrure.'
-              : 'Au pont, $name remarqua une pierre déplacée. Sous celle-ci se trouvait la clé manquante. $human tint la lanterne pendant que $name plaça la clé dans la serrure.',
-          'La porte cachée s’ouvrit sur le plus bel endroit de $setting : un jardin rempli de lumières douces, de musique et de fleurs colorées. Au centre se trouvait un petit oiseau mécanique qui ne pouvait plus bouger ses ailes.',
-          hasAnimals
-              ? '$name écouta l’oiseau tandis que $animal observait depuis l’herbe. Lorsqu’une minuscule roue roula au loin, l’animal la suivit et s’arrêta à côté d’elle. $name récupéra la roue et la remit en place : les ailes recommencèrent à bouger.'
-              : '$name écouta attentivement pendant que $human cherchait autour d’eux. Ils trouvèrent une minuscule roue, la remirent en place et les ailes recommencèrent à bouger.',
-          'La lumière dorée monta au-dessus de $setting et se transforma en centaines de petites étoiles. $name comprit que l’aventure ne consistait pas à trouver un trésor, mais à explorer, observer et découvrir que chaque personne et chaque animal peut avoir une place spéciale dans une aventure partagée.',
+          'Un matin lumineux, $name entra dans $setting et remarqua aussitôt que le lieu semblait cacher un secret. Une lumière dorée avançait entre les éléments du lieu, autour des arbres, des murs, des bateaux ou des rochers, sans les transformer. $name invita $human à la suivre. L’aventure commença dans ce lieu précis, avec ses chemins, ses bruits, ses recoins et ses surprises.',
+          '$name et $human suivirent la lumière plus profondément dans $setting. Le chemin révéla un petit ruisseau, une vieille porte en bois et des fleurs qui bougeaient sans vent. Près de l’herbe, $animal observait. L’animal renifla le sol, écouta puis trottina vers la lumière. Il restait un véritable animal qui explorait le lieu, jamais une personne déguisée.',
+          'Le chemin mena à un endroit calme de $setting où ils trouvèrent trois indices : une plume bleue, une clochette argentée et une clé en bois. Chaque indice semblait appartenir au lieu. Le son de la clochette les conduisit jusqu’à un pont puis à une porte cachée sous les feuilles. $name comprit que l’histoire se construisait à partir de $setting lui-même.',
+          'Avant d’ouvrir la porte, l’animal partit devant. Il renifla une pierre, gratta le sol et regarda $name. Sous la pierre se trouvait une petite carte. $name la prit pendant que $human tenait la lanterne. La carte montrait un chemin vers le cœur de $setting et dessinait les arbres, les rochers et les chemins qu’ils venaient de traverser.',
+          'La carte conduisit le groupe vers un bel endroit au centre de $setting. Des lumières chaudes éclairaient des plantes colorées et un petit oiseau mécanique posé sur un banc. Ses ailes étaient bloquées. $name l’examina attentivement. L’animal resta au sol, observant et reniflant autour du banc. Quand une minuscule roue roula dans l’herbe, il la suivit et s’arrêta à côté d’elle.',
+          '$name récupéra la roue et répara le petit oiseau. Ses ailes bougèrent et une douce musique résonna. Des lumières apparurent alors sur le chemin, les fleurs s’ouvrirent et une porte cachée devint visible derrière le banc. L’animal explora le nouveau passage en premier, trottinant puis se retournant parfois pour vérifier que les enfants suivaient.',
+          'Le dernier chemin mena à un point élevé de $setting. De là, $name reconnaissait les éléments de l’aventure : le pont, le ruisseau, la porte, les fleurs et le passage secret. La lumière dorée monta du sol et devint un chemin d’étoiles au-dessus du lieu. $setting resta exactement ce qu’il était : le lieu réel ou imaginaire où l’aventure avait pris vie.',
+          'À la fin, $name comprit qu’une aventure peut naître de n’importe quel lieu : une plage, une forêt, un musée, un jardin, un château ou un monde imaginaire. Il suffit de regarder attentivement et de laisser le lieu guider l’histoire. L’animal compagnon s’installa près des enfants, toujours un véritable animal, tandis que les dernières étoiles disparaissaient au-dessus de $setting.'
         ];
       case 'es':
         return [
-          'Una mañana luminosa, $name descubrió una pequeña luz dorada en la entrada de $setting. Avanzaba lentamente entre árboles, puertas o rocas, como si quisiera mostrar el camino. $name decidió seguirla e invitó a $human a acompañarle.',
-          hasAnimals
-              ? '$name llegó a un rincón tranquilo de $setting donde esperaba $animal. El animal olfateó el suelo, escuchó con atención y después trotó hacia la luz. $name lo siguió mientras exploraba el lugar a su manera.'
-              : '$name llegó a un rincón tranquilo de $setting donde el rastro desaparecía. Junto a $human, buscó con cuidado hasta descubrir pequeñas huellas doradas.',
-          'Las huellas llevaron a un camino escondido. Por el camino, $name y $human encontraron una pluma azul, una campanita de plata y una pequeña llave de madera. Cada pista revelaba algo sobre $setting: un pasadizo secreto, un pequeño puente y una puerta escondida entre las hojas.',
-          hasAnimals
-              ? 'En el puente, $animal se adelantó. El animal se detuvo junto a una piedra suelta y miró a $name. Debajo estaba la llave que faltaba. $name acarició suavemente al animal y colocó la llave en la cerradura.'
-              : 'En el puente, $name vio una piedra suelta. Debajo estaba la llave que faltaba. $human sostuvo la linterna mientras $name colocaba la llave en la cerradura.',
-          'La puerta escondida se abrió hacia el lugar más bonito de $setting: un jardín lleno de luces cálidas, música suave y flores de colores. En el centro había un pequeño pájaro mecánico que ya no podía mover las alas.',
-          hasAnimals
-              ? '$name escuchó al pájaro mientras $animal observaba desde la hierba. Cuando una diminuta pieza rodó lejos, el animal la siguió y se detuvo junto a ella. $name recogió la pieza, la colocó en el pájaro y las alas volvieron a moverse.'
-              : '$name escuchó con atención mientras $human buscaba cerca. Encontraron una pequeña pieza, la colocaron en el pájaro y las alas volvieron a moverse.',
-          'La luz dorada subió sobre $setting y se convirtió en cientos de pequeñas estrellas. $name comprendió que la aventura no consistía en encontrar un tesoro, sino en explorar, observar y descubrir que cada persona y cada animal puede tener un papel especial en una aventura compartida.',
+          'Una mañana luminosa, $name entró en $setting y notó que aquel lugar escondía un secreto. Una luz dorada avanzaba entre árboles, paredes, barcos o rocas sin cambiar el lugar. $name invitó a $human a seguirla. La aventura comenzó dentro de ese lugar concreto, con sus caminos, sonidos, rincones y sorpresas.',
+          '$name y $human siguieron la luz por $setting. El camino mostró un pequeño arroyo, una vieja puerta de madera y unas flores que se movían sin viento. Cerca de la hierba, $animal observaba. El animal olfateó el suelo, escuchó y trotó hacia la luz. Era un animal que exploraba el lugar, nunca una persona disfrazada.',
+          'El camino llevó a una zona tranquila de $setting donde encontraron tres pistas: una pluma azul, una campanita de plata y una llave de madera. Cada pista parecía pertenecer al lugar. Siguieron el sonido de la campana hasta un puente y una puerta escondida entre las hojas. $name comprendió que la aventura nacía del propio lugar.',
+          'Antes de abrir la puerta, el animal se adelantó. Olfateó una piedra, arañó el suelo y miró a $name. Debajo había un pequeño mapa. $name lo recogió mientras $human sostenía la linterna. El mapa mostraba un camino hacia el corazón de $setting y dibujaba los árboles, las rocas y los senderos que habían recorrido.',
+          'El mapa los llevó a una zona hermosa en el centro de $setting. Había luces cálidas, plantas de colores y un pequeño pájaro mecánico sobre un banco. Sus alas estaban bloqueadas. $name lo examinó. El animal permaneció en el suelo, observando y olfateando. Cuando una pequeña pieza rodó por la hierba, la siguió y se detuvo junto a ella.',
+          '$name recogió la pieza y reparó el pájaro. Las alas volvieron a moverse y sonó una música suave. Aparecieron luces en el camino, las flores se abrieron y una puerta escondida se hizo visible detrás del banco. El animal exploró primero el nuevo camino, trotando y mirando de vez en cuando hacia atrás para comprobar que los niños lo seguían.',
+          'El último sendero llevó a un lugar elevado de $setting. Desde allí, $name reconoció el puente, el arroyo, la puerta, las flores y el pasadizo secreto. La luz dorada subió del suelo y se convirtió en un camino de estrellas. $setting siguió siendo exactamente lo que era: el lugar real o imaginario donde había ocurrido la aventura.',
+          'Al final, $name entendió que una aventura puede nacer en cualquier lugar: una playa, un bosque, un museo, un jardín, un castillo o un mundo imaginario. Solo hay que observar y dejar que el lugar guíe la historia. El animal compañero se quedó junto a los niños, siempre como un animal real, mientras las últimas estrellas desaparecían sobre $setting.'
         ];
       case 'de':
         return [
-          'An einem hellen Morgen entdeckte $name am Eingang von $setting ein kleines goldenes Licht. Es bewegte sich langsam zwischen Bäumen, Türen oder Felsen, als wollte es den Weg zeigen. $name beschloss, ihm zu folgen, und lud $human ein mitzukommen.',
-          hasAnimals
-              ? '$name erreichte eine ruhige Ecke von $setting, wo $animal wartete. Das Tier schnupperte am Boden, lauschte aufmerksam und trottete dann dem Licht hinterher. $name folgte und beobachtete, wie das Tier den Ort auf seine eigene Art erkundete.'
-              : '$name erreichte eine ruhige Ecke von $setting, wo die Spur plötzlich endete. Zusammen mit $human entdeckte $name kleine goldene Fußspuren.',
-          'Die Spuren führten zu einem versteckten Weg. Unterwegs fanden $name und $human eine blaue Feder, eine silberne Glocke und einen kleinen Holzschlüssel. Jeder Hinweis zeigte etwas Neues über $setting: einen geheimen Durchgang, eine kleine Brücke und eine Tür hinter den Blättern.',
-          hasAnimals
-              ? 'Auf der Brücke lief $animal voraus. Das Tier blieb neben einem lockeren Stein stehen und sah zu $name zurück. Darunter lag der fehlende Schlüssel. $name streichelte das Tier sanft und steckte den Schlüssel ins Schloss.'
-              : 'Auf der Brücke bemerkte $name einen lockeren Stein. Darunter lag der fehlende Schlüssel. $human hielt die Laterne, während $name den Schlüssel ins Schloss steckte.',
-          'Die versteckte Tür öffnete sich zum schönsten Teil von $setting: ein Garten voller warmer Lichter, leiser Musik und bunter Blumen. In der Mitte stand ein kleiner mechanischer Vogel, der seine Flügel nicht mehr bewegen konnte.',
-          hasAnimals
-              ? '$name lauschte dem Vogel, während $animal im Gras beobachtete. Als ein winziges Zahnrad davonrollte, folgte das Tier ihm und blieb daneben stehen. $name hob das Zahnrad auf und setzte es wieder ein. Die Flügel bewegten sich erneut.'
-              : '$name hörte aufmerksam zu, während $human in der Nähe suchte. Sie fanden ein winziges Zahnrad, setzten es wieder ein und die Flügel bewegten sich erneut.',
-          'Das goldene Licht stieg über $setting auf und wurde zu Hunderten kleiner Sterne. $name verstand, dass es bei dem Abenteuer nicht um einen Schatz ging, sondern darum, zu erkunden, aufmerksam zu sein und zu entdecken, dass jeder Mensch und jedes Tier einen besonderen Platz in einem gemeinsamen Abenteuer haben kann.',
+          'An einem hellen Morgen betrat $name $setting und bemerkte sofort, dass dieser Ort ein Geheimnis verbarg. Ein goldenes Licht bewegte sich zwischen Bäumen, Mauern, Booten oder Felsen, ohne den Ort zu verändern. $name lud $human ein, ihm zu folgen. Das Abenteuer begann an diesem besonderen Ort mit seinen Wegen, Geräuschen, Ecken und Überraschungen.',
+          '$name und $human folgten dem Licht tiefer in $setting. Der Weg führte zu einem kleinen Bach, einem alten Holztor und Blumen, die sich ohne Wind bewegten. Im Gras beobachtete $animal alles. Das Tier schnupperte am Boden, lauschte und trottete zum Licht. Es blieb ein echtes Tier, das den Ort erkundete, niemals eine verkleidete Person.',
+          'Der Weg führte zu einem ruhigen Teil von $setting. Dort fanden sie drei Hinweise: eine blaue Feder, eine silberne Glocke und einen Holzschlüssel. Jeder Hinweis schien zum Ort zu gehören. Der Klang der Glocke führte über eine Brücke zu einer versteckten Tür. $name verstand, dass die Geschichte aus den Besonderheiten von $setting entstand.',
+          'Bevor sie die Tür öffneten, lief das Tier voraus. Es schnupperte an einem Stein, scharrte im Boden und sah zu $name zurück. Unter dem Stein lag eine kleine Karte. $name hob sie auf, während $human die Laterne hielt. Die Karte zeigte einen Weg zum Herzen von $setting und zeichnete die Bäume, Felsen und Wege ein, die sie gerade gesehen hatten.',
+          'Die Karte führte zu einem schönen Bereich im Zentrum von $setting. Warme Lichter beleuchteten bunte Pflanzen und einen kleinen mechanischen Vogel auf einer Bank. Seine Flügel waren blockiert. $name untersuchte ihn. Das Tier blieb am Boden, beobachtete und schnupperte. Als ein winziges Zahnrad ins Gras rollte, folgte es ihm und blieb daneben stehen.',
+          '$name hob das Zahnrad auf und reparierte den Vogel. Seine Flügel bewegten sich wieder und leise Musik erklang. Lichter erschienen am Weg, Blumen öffneten sich und hinter der Bank wurde eine geheime Tür sichtbar. Das Tier erkundete den neuen Weg zuerst, trottete voraus und sah manchmal zurück, ob die Kinder folgten.',
+          'Der letzte Weg führte zu einem erhöhten Punkt von $setting. Von dort erkannte $name die Brücke, den Bach, die Tür, die Blumen und den geheimen Durchgang. Das goldene Licht stieg vom Boden auf und wurde zu einem Sternenweg über dem Ort. $setting blieb genau das, was es war: der reale oder erfundene Ort, an dem das Abenteuer geschah.',
+          'Am Ende verstand $name, dass ein Abenteuer überall entstehen kann: an einem Strand, in einem Wald, einem Museum, einem Garten, einem Schloss oder in einer Fantasiewelt. Man muss nur genau hinsehen und den Ort die Geschichte führen lassen. Das tierische Wesen blieb bei den Kindern, immer ein echtes Tier, während die letzten Sterne über $setting verblassten.'
         ];
       default:
         return [
-          'Una mattina luminosa, $name scoprì una piccola luce dorata all’ingresso di $setting. Si muoveva lentamente tra alberi, porte o rocce, come se volesse indicare la strada. $name decise di seguirla e invitò $human a venire con lui.',
-          hasAnimals
-              ? '$name arrivò in un angolo tranquillo di $setting dove aspettava $animal. L’animale annusò il terreno, ascoltò con attenzione e poi trotterellò verso la luce. $name lo seguì osservandolo esplorare il luogo a modo suo.'
-              : '$name arrivò in un angolo tranquillo di $setting dove la traccia spariva. Insieme a $human cercò con attenzione, finché notò piccole impronte dorate.',
-          'Le impronte conducevano a un sentiero nascosto. Lungo il cammino, $name e $human trovarono una piuma blu, una campanella d’argento e una piccola chiave di legno. Ogni indizio rivelava qualcosa di nuovo su $setting: un passaggio segreto, un piccolo ponte e una porta nascosta tra le foglie.',
-          hasAnimals
-              ? 'Sul ponte, $animal corse avanti. L’animale si fermò accanto a una pietra spostata e guardò $name. Sotto la pietra c’era la chiave che mancava. $name accarezzò piano l’animale e inserì la chiave nella serratura.'
-              : 'Sul ponte, $name notò una pietra spostata. Sotto c’era la chiave che mancava. $human tenne la lanterna mentre $name inseriva la chiave nella serratura.',
-          'La porta nascosta si aprì sul luogo più bello di $setting: un giardino pieno di luci calde, musica dolce e fiori colorati. Al centro c’era un piccolo uccellino meccanico che non riusciva più a muovere le ali.',
-          hasAnimals
-              ? '$name ascoltò l’uccellino mentre $animal osservava dall’erba. Quando un minuscolo ingranaggio rotolò via, l’animale lo seguì e si fermò accanto a lui. $name raccolse l’ingranaggio, lo rimise al suo posto e le ali ripresero a muoversi.'
-              : '$name ascoltò con attenzione mentre $human cercava nei dintorni. Trovarono un minuscolo ingranaggio, lo rimisero al suo posto e le ali ripresero a muoversi.',
-          'La luce dorata salì sopra $setting e si trasformò in centinaia di piccole stelle. $name capì che l’avventura non consisteva nel trovare un tesoro, ma nell’esplorare, osservare e scoprire che ogni persona e ogni animale può avere un ruolo speciale in un’avventura condivisa.',
+          'Una mattina luminosa, $name entrò in $setting e si accorse subito che quel luogo nascondeva un segreto. Una luce dorata avanzava tra alberi, muri, barche o rocce senza trasformare nulla. $name invitò $human a seguirla. L’avventura cominciò proprio dentro quel luogo, con i suoi sentieri, i suoi suoni, i suoi angoli e le sue sorprese.',
+          '$name e $human seguirono la luce più in profondità dentro $setting. Il sentiero mostrò un piccolo ruscello, un vecchio cancello di legno e un gruppo di fiori che si muoveva anche senza vento. Poco lontano osservava $animal. L’animale annusò il terreno, ascoltò e poi trotterellò verso la luce. Era un vero animale che esplorava il luogo, non una persona travestita.',
+          'Il sentiero portò tutti in una parte tranquilla di $setting, dove trovarono tre indizi: una piuma blu, una campanella d’argento e una piccola chiave di legno. Ogni indizio sembrava appartenere proprio a quel luogo. Seguendo il suono della campanella passarono accanto a un ponte e scoprirono una porta nascosta tra le foglie. $name capì che l’avventura stava nascendo dal luogo stesso.',
+          'Prima di aprire la porta, l’animale corse avanti. Annusò una pietra, raschiò il terreno con una zampa e guardò $name. Sotto la pietra c’era una piccola mappa. $name la raccolse mentre $human teneva la lanterna. La mappa mostrava un percorso verso il cuore di $setting e disegnava proprio gli alberi, le rocce e i sentieri che avevano appena attraversato.',
+          'La mappa condusse il gruppo in una zona bellissima di $setting. C’erano luci calde, piante colorate e un piccolo uccellino meccanico appoggiato su una panca. Le sue ali erano bloccate. $name lo osservò con attenzione. L’animale rimase a terra, guardando e annusando intorno alla panca. Quando un minuscolo ingranaggio rotolò nell’erba, lo seguì e si fermò accanto a lui.',
+          '$name raccolse l’ingranaggio e riparò l’uccellino. Le ali tornarono a muoversi e una musica dolce riempì l’aria. Lungo il sentiero comparvero piccole luci, i fiori si aprirono e dietro la panca apparve una porta segreta. L’animale esplorò per primo il nuovo passaggio, trotterellando avanti e voltandosi ogni tanto per controllare che i bambini fossero ancora lì.',
+          'L’ultimo sentiero portò tutti in un punto speciale di $setting. Da lì $name riconobbe il ponte, il ruscello, il cancello, i fiori e la porta nascosta che avevano incontrato. La luce dorata salì dal terreno e diventò un sentiero di stelle sopra il luogo. $setting rimase esattamente ciò che era: un luogo reale o di fantasia nel quale l’avventura aveva preso vita.',
+          'Alla fine $name capì che una storia può nascere da qualsiasi luogo: una spiaggia, una foresta, un museo, un giardino, un castello o un mondo completamente fantastico. Basta osservare bene e lasciare che il luogo guidi l’avventura. L’animale compagno si sistemò vicino ai bambini, sempre un vero animale, mentre le ultime stelle svanivano sopra $setting. Quella storia apparteneva a quel luogo.'
         ];
     }
   }
