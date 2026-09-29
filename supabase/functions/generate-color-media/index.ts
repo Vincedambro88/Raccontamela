@@ -27,6 +27,20 @@ async function openAi(body: unknown, key: string) {
   return response.json();
 }
 
+async function verifyMediaToken(story: unknown, token: string, serviceKey: string) {
+  const parts = token.split(".");
+  if (parts.length !== 3) return false;
+  const exp = Number(parts[1]);
+  if (!Number.isFinite(exp) || exp < Math.floor(Date.now() / 1000)) return false;
+  const fingerprintBytes = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(JSON.stringify(story)));
+  const fingerprint = Array.from(new Uint8Array(fingerprintBytes)).map((b) => b.toString(16).padStart(2, "0")).join("");
+  if (parts[0] !== fingerprint) return false;
+  const payload = `${parts[0]}.${parts[1]}`;
+  const key = await crypto.subtle.importKey("raw", new TextEncoder().encode(serviceKey), { name: "HMAC", hash: "SHA-256" }, false, ["verify"]);
+  const sig = Uint8Array.from(atob(parts[2].replace(/-/g, "+").replace(/_/g, "/") + "=".repeat((4 - parts[2].length % 4) % 4)), (c) => c.charCodeAt(0));
+  return crypto.subtle.verify("HMAC", key, sig, new TextEncoder().encode(payload));
+}
+
 function b64ToBytes(value: string) {
   const raw = atob(value);
   const bytes = new Uint8Array(raw.length);
@@ -42,11 +56,12 @@ Deno.serve(async (req) => {
     const key = Deno.env.get("OPENAI_API_KEY");
     if (!key) throw new Error("Media provider is not configured");
     const body = await req.json() as Body;
-    if (!body.story?.title || !Array.isArray(body.story.scenes) || !body.story.scenes.length) throw new Error("Invalid story payload");
+    if (!body.story?.title || !Array.isArray(body.story.scenes) || !body.story.scenes.length || typeof (body as any).mediaToken !== "string") throw new Error("Invalid story payload");
 
     const supabaseUrl = Deno.env.get("SUPABASE_URL")!;
     const serviceKey = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!;
     const admin = createClient(supabaseUrl, serviceKey, { auth: { persistSession: false } });
+    if (!await verifyMediaToken(body.story, (body as any).mediaToken, serviceKey)) throw new Error("Invalid or expired media token");
     const prefix = `anonymous/${crypto.randomUUID()}`;
     const model = Deno.env.get("OPENAI_IMAGE_MODEL") || "gpt-image-2";
     const results: unknown[] = [];
