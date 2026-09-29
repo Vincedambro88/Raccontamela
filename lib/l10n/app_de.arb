@@ -29,5 +29,9 @@
   "storeUnavailable": "Google Play ist auf diesem Gerät nicht verfügbar.",
   "restorePurchase": "Kauf wiederherstellen",
   "purchaseValidationNotice": "Der Kauf wird vor der Aktivierung von Premium überprüft.",
-  "supabaseRequired": "Konfiguriere Supabase, um das Konto zu verwenden."
+  "supabaseRequired": "Konfiguriere Supabase, um das Konto zu verwenden.",
+  "storyHistory": "Meine Geschichten",
+  "historyLoadError": "Der Geschichtenverlauf konnte nicht geladen werden.",
+  "noStoriesYet": "Du hast noch keine gespeicherten Geschichten. Bei aktivem Premium werden Geschichten in deinem Konto gespeichert.",
+  "generationError": "Die Geschichte konnte nicht erstellt werden. Bitte versuche es erneut."
 }
