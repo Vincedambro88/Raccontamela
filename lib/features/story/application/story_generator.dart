@@ -12,6 +12,8 @@ class StoryRequest {
 
   final String protagonistName;
   final String setting;
+  // Kept for compatibility with the existing API/database contract.
+  // The value now represents the story location, not a city.
   final String city;
   final List<String> friends;
   final List<String> animalFriends;
@@ -24,17 +26,15 @@ class StoryGenerator {
 
     final name = request.protagonistName.trim();
     final setting = request.setting.trim();
-    final city = request.city.trim();
-    final allCompanions = [...request.friends, ...request.animalFriends];
-    final companion = allCompanions.isEmpty
-        ? _fallbackCompanion(request.locale)
-        : allCompanions.join(', ');
+    final humanFriends = request.friends;
+    final animals = request.animalFriends;
+
     final paragraphs = _paragraphs(
       request.locale,
       name,
       setting,
-      city,
-      companion,
+      humanFriends,
+      animals,
     );
     final scenes = List.generate(
       paragraphs.length,
@@ -48,9 +48,9 @@ class StoryGenerator {
       title: _title(request.locale, name),
       protagonistName: name,
       setting: setting,
-      city: city,
-      friends: request.friends,
-      animalFriends: request.animalFriends,
+      city: setting,
+      friends: humanFriends,
+      animalFriends: animals,
       scenes: scenes,
       durationSeconds: ((words / 145) * 60).round(),
     );
@@ -64,58 +64,118 @@ class StoryGenerator {
         _ => 'L’avventura di $name',
       };
 
-  String _fallbackCompanion(String locale) => switch (locale) {
-        'en' => 'a curious little fox',
-        'fr' => 'un petit renard curieux',
-        'es' => 'un pequeño zorro curioso',
-        'de' => 'ein neugieriger kleiner Fuchs',
-        _ => 'una piccola volpe curiosa',
-      };
-
   List<String> _paragraphs(
     String locale,
     String name,
     String setting,
-    String city,
-    String companion,
+    List<String> friends,
+    List<String> animals,
   ) {
-    final data = switch (locale) {
-      'en' => [
-        'One bright morning, $name discovered a tiny golden star near the window. In $city, the area around $setting was unusually quiet. The star shimmered and pointed toward the door. With $companion nearby, $name decided to follow it.',
-        'The trail crossed $setting and led to an old wooden gate. Behind it was a secret garden filled with lanterns, giant flowers and a little stream. On a stone table was a message: “The city needs someone who knows how to listen.” $name looked at $companion and smiled.',
-        'They followed the stream and found a silver bell, a blue feather and a red button. Together the clues formed a map to the rooftops of $city. The wind carried a soft melody. $name understood that the adventure was not about treasure. Someone was waiting for a friend.',
-        'On the highest roof they found a small mechanical bird. Its wings were still and its music box had stopped. $name placed the three clues beside it. Nothing happened until $companion gave a gentle nudge. Click! Music filled the sky and the bird opened its wings.',
-        'When $name returned home, the golden stars had disappeared, but the adventure remained. People in $city talked about the mysterious music. $name kept the little gate key as a reminder: stop, listen, look carefully and remember that even a small act of kindness can change an entire day.',
-      ],
-      'fr' => [
-        'Un matin lumineux, $name découvrit une petite étoile dorée près de la fenêtre. À $city, les alentours de $setting étaient étonnamment calmes. L’étoile scintilla et indiqua la porte. Avec $companion tout près, $name décida de la suivre.',
-        'La piste traversa $setting et mena à une vieille porte en bois. Derrière se trouvait un jardin secret avec des lanternes, des fleurs géantes et un ruisseau. Sur une table de pierre, un message disait : « La ville a besoin de quelqu’un qui sache écouter. » $name regarda $companion et sourit.',
-        'Ils suivirent le ruisseau et trouvèrent une clochette, une plume bleue et un bouton rouge. Ensemble, les indices formaient une carte vers les toits de $city. Le vent apporta une douce mélodie. $name comprit que l’aventure ne concernait pas un trésor. Quelqu’un attendait un ami.',
-        'Sur le toit le plus haut, ils trouvèrent un petit oiseau mécanique. Ses ailes étaient immobiles. $name plaça les trois indices près de lui. Rien ne se passa jusqu’à ce que $companion donne un petit coup de museau. Clic ! La musique remplit le ciel et l’oiseau ouvrit ses ailes.',
-        'Quand $name rentra chez lui, les étoiles dorées avaient disparu, mais l’aventure restait dans son cœur. Les habitants de $city parlèrent de la musique mystérieuse. $name garda la clé en souvenir : s’arrêter, écouter, regarder attentivement et se rappeler qu’un petit geste de gentillesse peut changer une journée.',
-      ],
-      'es' => [
-        'Una mañana luminosa, $name descubrió una pequeña estrella dorada junto a la ventana. En $city, los alrededores de $setting estaban extrañamente tranquilos. La estrella brilló y señaló la puerta. Con $companion cerca, $name decidió seguirla.',
-        'El rastro cruzó $setting y llegó a una vieja puerta de madera. Detrás había un jardín secreto con faroles, flores enormes y un arroyo. Sobre una mesa de piedra había un mensaje: «La ciudad necesita a alguien que sepa escuchar». $name miró a $companion y sonrió.',
-        'Siguieron el arroyo y encontraron una campanita, una pluma azul y un botón rojo. Juntos formaban un mapa hacia los tejados de $city. El viento llevó una melodía suave. $name comprendió que la aventura no trataba de un tesoro. Alguien esperaba a un amigo.',
-        'En el tejado más alto encontraron un pequeño pájaro mecánico. Sus alas estaban quietas. $name colocó las tres pistas junto a él. Nada ocurrió hasta que $companion le dio un pequeño empujón. ¡Clic! La música llenó el cielo y el pájaro abrió sus alas.',
-        'Cuando $name volvió a casa, las estrellas doradas habían desaparecido, pero la aventura seguía en su corazón. La gente de $city habló de la música misteriosa. $name guardó la llave como recuerdo: detenerse, escuchar, mirar con atención y recordar que un pequeño gesto de bondad puede cambiar un día.',
-      ],
-      'de' => [
-        'An einem hellen Morgen entdeckte $name einen kleinen goldenen Stern am Fenster. In $city war es rund um $setting ungewöhnlich still. Der Stern glitzerte und zeigte zur Tür. Mit $companion an seiner Seite beschloss $name, ihm zu folgen.',
-        'Die Spur führte durch $setting zu einem alten Holztor. Dahinter lag ein geheimer Garten mit Laternen, riesigen Blumen und einem kleinen Bach. Auf einem Steintisch stand: „Die Stadt braucht jemanden, der zuhören kann.“ $name sah $companion an und lächelte.',
-        'Sie folgten dem Bach und fanden eine silberne Glocke, eine blaue Feder und einen roten Knopf. Zusammen ergaben sie eine Karte zu den Dächern von $city. Der Wind trug eine leise Melodie heran. $name verstand: Es ging nicht um einen Schatz. Jemand wartete auf einen Freund.',
-        'Auf dem höchsten Dach fanden sie einen kleinen mechanischen Vogel. Seine Flügel waren still. $name legte die drei Hinweise daneben. Nichts geschah, bis $companion ihn sanft anstupste. Klick! Musik erfüllte den Himmel und der Vogel öffnete seine Flügel.',
-        'Als $name nach Hause kam, waren die goldenen Sterne verschwunden, aber das Abenteuer blieb. Die Menschen in $city erzählten von der geheimnisvollen Musik. $name bewahrte den Schlüssel auf: innehalten, zuhören, genau hinsehen und nie vergessen, dass eine kleine freundliche Tat einen ganzen Tag verändern kann.',
-      ],
-      _ => [
-        'Una mattina luminosa, $name scoprì una piccola stella dorata vicino alla finestra. A $city, intorno a $setting, c’era un silenzio insolito. La stella brillò e indicò la porta. Con $companion vicino, $name decise di seguirla.',
-        'La traccia attraversò $setting e arrivò davanti a un vecchio cancello di legno. Dietro c’era un giardino segreto pieno di lanterne, fiori enormi e un ruscello. Su un tavolo di pietra c’era un messaggio: «La città ha bisogno di qualcuno che sappia ascoltare». $name guardò $companion e sorrise.',
-        'Seguirono il ruscello e trovarono una campanella d’argento, una piuma blu e un bottone rosso. Insieme formavano una mappa verso i tetti di $city. Il vento portò una melodia dolce. $name capì che l’avventura non riguardava un tesoro. Qualcuno stava aspettando un amico.',
-        'Sul tetto più alto trovarono un piccolo uccellino meccanico. Le sue ali erano ferme. $name mise i tre indizi accanto a lui. Non accadde nulla finché $companion non gli diede un piccolo colpetto. Clic! La musica riempì il cielo e l’uccellino aprì le ali.',
-        'Quando $name tornò a casa, le stelle dorate erano scomparse, ma l’avventura era rimasta. Gli abitanti di $city raccontarono della musica misteriosa. $name conservò la chiave come ricordo: fermarsi, ascoltare, guardare con attenzione e ricordare che anche un piccolo gesto di gentilezza può cambiare un’intera giornata.',
-      ],
-    };
-    return data;
+    final human = friends.isEmpty
+        ? ({
+            'it': 'un nuovo amico',
+            'en': 'a new friend',
+            'fr': 'un nouvel ami',
+            'es': 'un nuevo amigo',
+            'de': 'ein neuer Freund',
+          }[locale] ?? 'a new friend')
+        : friends.join(', ');
+
+    final animal = animals.isEmpty
+        ? ({
+            'it': 'un piccolo animale curioso',
+            'en': 'a curious little animal',
+            'fr': 'un petit animal curieux',
+            'es': 'un pequeño animal curioso',
+            'de': 'ein neugieriges kleines Tier',
+          }[locale] ?? 'a curious little animal')
+        : animals.length == 1
+            ? animals.first
+            : animals.join(', ');
+
+    final hasAnimals = animals.isNotEmpty;
+
+    switch (locale) {
+      case 'en':
+        return [
+          'One bright morning, $name discovered a tiny golden light at the entrance to $setting. It moved slowly between the trees, doors or rocks, as if it wanted to show the way. $name decided to follow it and invited $human to come along.',
+          hasAnimals
+              ? '$name reached a quiet corner of $setting where $animal was waiting. The animal sniffed the ground, listened carefully and then trotted toward the glowing trail. $name followed, watching the animal explore the place in its own way.'
+              : '$name reached a quiet corner of $setting where the trail suddenly disappeared. Together with $human, they looked carefully until they noticed tiny golden footprints.',
+          'The footprints led to a hidden path. Along the way, $name and $human found a blue feather, a silver bell and a little wooden key. Each clue revealed something about $setting: a secret passage, a small bridge and a door hidden behind leaves.',
+          hasAnimals
+              ? 'At the bridge, $animal became excited and ran ahead. The animal stopped beside a loose stone and looked back at $name. Under the stone was the missing key. $name thanked the animal with a gentle stroke and placed the key in the lock.'
+              : 'At the bridge, $name noticed a loose stone. Under it was the missing key. $human helped hold the lantern while $name placed the key in the lock.',
+          'The hidden door opened onto the most beautiful part of $setting: a garden filled with warm lights, soft music and colorful flowers. At its center stood a small mechanical bird that could no longer move its wings.',
+          hasAnimals
+              ? '$name listened to the bird while $animal watched from the grass. When a tiny gear rolled away, the animal followed it and stopped beside it. $name picked up the gear, fitted it back into the bird and the wings began to move again.'
+              : '$name listened carefully while $human searched nearby. They found a tiny gear, fitted it back into the bird and the wings began to move again.',
+          'The golden light rose above $setting and turned into hundreds of little stars. $name understood that the adventure had not been about finding a treasure. It was about exploring, paying attention and discovering how every person and every animal can have a special part in a shared adventure.',
+        ];
+      case 'fr':
+        return [
+          'Un matin lumineux, $name découvrit une petite lumière dorée à l’entrée de $setting. Elle avançait doucement entre les arbres, les portes ou les rochers, comme pour montrer le chemin. $name décida de la suivre et invita $human à venir.',
+          hasAnimals
+              ? '$name arriva dans un coin tranquille de $setting où $animal attendait. L’animal renifla le sol, écouta attentivement puis trottina vers la lumière. $name le suivit en le regardant explorer le lieu à sa manière.'
+              : '$name arriva dans un coin tranquille de $setting où la piste avait disparu. Avec $human, ils cherchèrent attentivement et remarquèrent de petites empreintes dorées.',
+          'Les empreintes conduisirent à un passage secret. En chemin, $name et $human trouvèrent une plume bleue, une clochette argentée et une petite clé en bois. Chaque indice révélait quelque chose sur $setting : un passage caché, un petit pont et une porte derrière les feuilles.',
+          hasAnimals
+              ? 'Au pont, $animal s’agita et partit devant. L’animal s’arrêta près d’une pierre déplacée et regarda $name. Sous la pierre se trouvait la clé manquante. $name caressa doucement l’animal puis plaça la clé dans la serrure.'
+              : 'Au pont, $name remarqua une pierre déplacée. Sous celle-ci se trouvait la clé manquante. $human tint la lanterne pendant que $name plaça la clé dans la serrure.',
+          'La porte cachée s’ouvrit sur le plus bel endroit de $setting : un jardin rempli de lumières douces, de musique et de fleurs colorées. Au centre se trouvait un petit oiseau mécanique qui ne pouvait plus bouger ses ailes.',
+          hasAnimals
+              ? '$name écouta l’oiseau tandis que $animal observait depuis l’herbe. Lorsqu’une minuscule roue roula au loin, l’animal la suivit et s’arrêta à côté d’elle. $name récupéra la roue et la remit en place : les ailes recommencèrent à bouger.'
+              : '$name écouta attentivement pendant que $human cherchait autour d’eux. Ils trouvèrent une minuscule roue, la remirent en place et les ailes recommencèrent à bouger.',
+          'La lumière dorée monta au-dessus de $setting et se transforma en centaines de petites étoiles. $name comprit que l’aventure ne consistait pas à trouver un trésor, mais à explorer, observer et découvrir que chaque personne et chaque animal peut avoir une place spéciale dans une aventure partagée.',
+        ];
+      case 'es':
+        return [
+          'Una mañana luminosa, $name descubrió una pequeña luz dorada en la entrada de $setting. Avanzaba lentamente entre árboles, puertas o rocas, como si quisiera mostrar el camino. $name decidió seguirla e invitó a $human a acompañarle.',
+          hasAnimals
+              ? '$name llegó a un rincón tranquilo de $setting donde esperaba $animal. El animal olfateó el suelo, escuchó con atención y después trotó hacia la luz. $name lo siguió mientras exploraba el lugar a su manera.'
+              : '$name llegó a un rincón tranquilo de $setting donde el rastro desaparecía. Junto a $human, buscó con cuidado hasta descubrir pequeñas huellas doradas.',
+          'Las huellas llevaron a un camino escondido. Por el camino, $name y $human encontraron una pluma azul, una campanita de plata y una pequeña llave de madera. Cada pista revelaba algo sobre $setting: un pasadizo secreto, un pequeño puente y una puerta escondida entre las hojas.',
+          hasAnimals
+              ? 'En el puente, $animal se adelantó. El animal se detuvo junto a una piedra suelta y miró a $name. Debajo estaba la llave que faltaba. $name acarició suavemente al animal y colocó la llave en la cerradura.'
+              : 'En el puente, $name vio una piedra suelta. Debajo estaba la llave que faltaba. $human sostuvo la linterna mientras $name colocaba la llave en la cerradura.',
+          'La puerta escondida se abrió hacia el lugar más bonito de $setting: un jardín lleno de luces cálidas, música suave y flores de colores. En el centro había un pequeño pájaro mecánico que ya no podía mover las alas.',
+          hasAnimals
+              ? '$name escuchó al pájaro mientras $animal observaba desde la hierba. Cuando una diminuta pieza rodó lejos, el animal la siguió y se detuvo junto a ella. $name recogió la pieza, la colocó en el pájaro y las alas volvieron a moverse.'
+              : '$name escuchó con atención mientras $human buscaba cerca. Encontraron una pequeña pieza, la colocaron en el pájaro y las alas volvieron a moverse.',
+          'La luz dorada subió sobre $setting y se convirtió en cientos de pequeñas estrellas. $name comprendió que la aventura no consistía en encontrar un tesoro, sino en explorar, observar y descubrir que cada persona y cada animal puede tener un papel especial en una aventura compartida.',
+        ];
+      case 'de':
+        return [
+          'An einem hellen Morgen entdeckte $name am Eingang von $setting ein kleines goldenes Licht. Es bewegte sich langsam zwischen Bäumen, Türen oder Felsen, als wollte es den Weg zeigen. $name beschloss, ihm zu folgen, und lud $human ein mitzukommen.',
+          hasAnimals
+              ? '$name erreichte eine ruhige Ecke von $setting, wo $animal wartete. Das Tier schnupperte am Boden, lauschte aufmerksam und trottete dann dem Licht hinterher. $name folgte und beobachtete, wie das Tier den Ort auf seine eigene Art erkundete.'
+              : '$name erreichte eine ruhige Ecke von $setting, wo die Spur plötzlich endete. Zusammen mit $human entdeckte $name kleine goldene Fußspuren.',
+          'Die Spuren führten zu einem versteckten Weg. Unterwegs fanden $name und $human eine blaue Feder, eine silberne Glocke und einen kleinen Holzschlüssel. Jeder Hinweis zeigte etwas Neues über $setting: einen geheimen Durchgang, eine kleine Brücke und eine Tür hinter den Blättern.',
+          hasAnimals
+              ? 'Auf der Brücke lief $animal voraus. Das Tier blieb neben einem lockeren Stein stehen und sah zu $name zurück. Darunter lag der fehlende Schlüssel. $name streichelte das Tier sanft und steckte den Schlüssel ins Schloss.'
+              : 'Auf der Brücke bemerkte $name einen lockeren Stein. Darunter lag der fehlende Schlüssel. $human hielt die Laterne, während $name den Schlüssel ins Schloss steckte.',
+          'Die versteckte Tür öffnete sich zum schönsten Teil von $setting: ein Garten voller warmer Lichter, leiser Musik und bunter Blumen. In der Mitte stand ein kleiner mechanischer Vogel, der seine Flügel nicht mehr bewegen konnte.',
+          hasAnimals
+              ? '$name lauschte dem Vogel, während $animal im Gras beobachtete. Als ein winziges Zahnrad davonrollte, folgte das Tier ihm und blieb daneben stehen. $name hob das Zahnrad auf und setzte es wieder ein. Die Flügel bewegten sich erneut.'
+              : '$name hörte aufmerksam zu, während $human in der Nähe suchte. Sie fanden ein winziges Zahnrad, setzten es wieder ein und die Flügel bewegten sich erneut.',
+          'Das goldene Licht stieg über $setting auf und wurde zu Hunderten kleiner Sterne. $name verstand, dass es bei dem Abenteuer nicht um einen Schatz ging, sondern darum, zu erkunden, aufmerksam zu sein und zu entdecken, dass jeder Mensch und jedes Tier einen besonderen Platz in einem gemeinsamen Abenteuer haben kann.',
+        ];
+      default:
+        return [
+          'Una mattina luminosa, $name scoprì una piccola luce dorata all’ingresso di $setting. Si muoveva lentamente tra alberi, porte o rocce, come se volesse indicare la strada. $name decise di seguirla e invitò $human a venire con lui.',
+          hasAnimals
+              ? '$name arrivò in un angolo tranquillo di $setting dove aspettava $animal. L’animale annusò il terreno, ascoltò con attenzione e poi trotterellò verso la luce. $name lo seguì osservandolo esplorare il luogo a modo suo.'
+              : '$name arrivò in un angolo tranquillo di $setting dove la traccia spariva. Insieme a $human cercò con attenzione, finché notò piccole impronte dorate.',
+          'Le impronte conducevano a un sentiero nascosto. Lungo il cammino, $name e $human trovarono una piuma blu, una campanella d’argento e una piccola chiave di legno. Ogni indizio rivelava qualcosa di nuovo su $setting: un passaggio segreto, un piccolo ponte e una porta nascosta tra le foglie.',
+          hasAnimals
+              ? 'Sul ponte, $animal corse avanti. L’animale si fermò accanto a una pietra spostata e guardò $name. Sotto la pietra c’era la chiave che mancava. $name accarezzò piano l’animale e inserì la chiave nella serratura.'
+              : 'Sul ponte, $name notò una pietra spostata. Sotto c’era la chiave che mancava. $human tenne la lanterna mentre $name inseriva la chiave nella serratura.',
+          'La porta nascosta si aprì sul luogo più bello di $setting: un giardino pieno di luci calde, musica dolce e fiori colorati. Al centro c’era un piccolo uccellino meccanico che non riusciva più a muovere le ali.',
+          hasAnimals
+              ? '$name ascoltò l’uccellino mentre $animal osservava dall’erba. Quando un minuscolo ingranaggio rotolò via, l’animale lo seguì e si fermò accanto a lui. $name raccolse l’ingranaggio, lo rimise al suo posto e le ali ripresero a muoversi.'
+              : '$name ascoltò con attenzione mentre $human cercava nei dintorni. Trovarono un minuscolo ingranaggio, lo rimisero al suo posto e le ali ripresero a muoversi.',
+          'La luce dorata salì sopra $setting e si trasformò in centinaia di piccole stelle. $name capì che l’avventura non consisteva nel trovare un tesoro, ma nell’esplorare, osservare e scoprire che ogni persona e ogni animale può avere un ruolo speciale in un’avventura condivisa.',
+        ];
+    }
   }
 }
