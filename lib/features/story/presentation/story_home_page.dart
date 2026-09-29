@@ -159,40 +159,11 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
       .toList();
 
   void _showPremium(BuildContext context) {
-    Navigator.of(context).push(MaterialPageRoute(builder: (_) => const PremiumPage()));
-    return;
-    /*
-    final l10n = AppLocalizations.of(context)!;
-    showModalBottomSheet<void>(
-      context: context,
-      showDragHandle: true,
-      builder: (context) => Padding(
-        padding: const EdgeInsets.fromLTRB(24, 8, 24, 32),
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(
-              l10n.premium,
-              style: Theme.of(context)
-                  .textTheme
-                  .headlineSmall
-                  ?.copyWith(fontWeight: FontWeight.w700),
-            ),
-            const SizedBox(height: 12),
-            Text(l10n.premiumDescription),
-            const SizedBox(height: 20),
-            FilledButton.icon(
-              onPressed: () => Navigator.pop(context),
-              icon: const Icon(Icons.shopping_bag_outlined),
-              label: Text(l10n.buyPremium),
-            ),
-          ],
-        ),
-      ),
+    Navigator.of(context).push(
+      MaterialPageRoute(builder: (_) => const PremiumPage()),
     );
-    */
   }
+
 }
 
 class _IntroCard extends StatelessWidget {
