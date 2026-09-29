@@ -174,14 +174,40 @@ class _StoryReaderPageState extends State<StoryReaderPage> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: [
+                  Padding(
+                    padding: const EdgeInsets.fromLTRB(18, 18, 18, 12),
+                    child: Row(
+                      children: [
+                        Text(
+                          'Pagina ${scene.index + 1}',
+                          style: Theme.of(context).textTheme.labelLarge?.copyWith(
+                                fontWeight: FontWeight.w800,
+                                color: Theme.of(context).colorScheme.primary,
+                              ),
+                        ),
+                      ],
+                    ),
+                  ),
+                  Padding(
+                    padding: const EdgeInsets.fromLTRB(18, 0, 18, 16),
+                    child: Text(
+                      scene.text,
+                      style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                            height: 1.65,
+                            fontSize: 17,
+                          ),
+                    ),
+                  ),
                   if (scene.colorImageUrl != null)
-                    Image.network(scene.colorImageUrl!, height: 260, fit: BoxFit.cover, errorBuilder: (_, __, ___) => const _ImageFallback())
+                    Image.network(
+                      scene.colorImageUrl!,
+                      height: 300,
+                      width: double.infinity,
+                      fit: BoxFit.cover,
+                      errorBuilder: (_, __, ___) => const _ImageFallback(),
+                    )
                   else
                     const _ImageFallback(),
-                  Padding(
-                    padding: const EdgeInsets.all(18),
-                    child: Text(scene.text, style: Theme.of(context).textTheme.bodyLarge?.copyWith(height: 1.55)),
-                  ),
                   if (scene.bwImageUrl != null)
                     Padding(
                       padding: const EdgeInsets.fromLTRB(18, 0, 18, 12),
