@@ -6,10 +6,17 @@
   "setting": "Setting",
   "storyCity": "Story city",
   "friends": "Protagonist friends",
+  "friendsHint": "Up to 4, separated by commas",
   "animalFriends": "Animal friends",
   "generateStory": "Create story",
+  "creatingStory": "Creating story…",
+  "requiredFields": "Enter the protagonist name, setting and city.",
+  "maxFriends": "You can enter up to 4 protagonist friends.",
   "premium": "Premium",
   "narration": "Voice narration",
   "printColoring": "Print and color",
-  "history": "My stories"
+  "history": "My stories",
+  "introText": "Create a personalized story in seconds. You choose the protagonist, friends and world of the story.",
+  "premiumDescription": "Narrated voices, black-and-white coloring pages and story history.",
+  "buyPremium": "Discover Premium"
 }
