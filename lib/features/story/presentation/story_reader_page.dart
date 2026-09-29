@@ -49,7 +49,7 @@ class _StoryReaderPageState extends State<StoryReaderPage> {
     }
   }
 
-  Future<void> _playScene(StoryScene scene) async {
+  Future<void> _playScene(StoryScene scene, AppLocalizations l10n) async {
     final url = scene.narrationUrl;
     if (url == null) return;
     try {
@@ -78,7 +78,7 @@ class _StoryReaderPageState extends State<StoryReaderPage> {
         padding: const EdgeInsets.fromLTRB(20, 16, 20, 32),
         itemCount: story.scenes.length + 2,
         itemBuilder: (context, index) {
-          if (index == 0) return _Header(story: story);
+          if (index == 0) return _Header(story: story, l10n: l10n);
           if (index == story.scenes.length + 1) {
             return Card(
               child: Padding(
@@ -91,7 +91,7 @@ class _StoryReaderPageState extends State<StoryReaderPage> {
                     Text(l10n.narration + ' + ' + l10n.printColoring),
                     const SizedBox(height: 12),
                     DropdownButtonFormField<String>(
-                      value: _voice,
+                      initialValue: _voice,
                       decoration: InputDecoration(labelText: l10n.voice),
                       items: PremiumMediaRepository.voices.map((voice) => DropdownMenuItem(value: voice, child: Text(voice))).toList(),
                       onChanged: _loadingPremiumMedia ? null : (value) {
@@ -140,7 +140,7 @@ class _StoryReaderPageState extends State<StoryReaderPage> {
                     Padding(
                       padding: const EdgeInsets.fromLTRB(18, 0, 18, 18),
                       child: OutlinedButton.icon(
-                        onPressed: () => _playScene(scene),
+                        onPressed: () => _playScene(scene, l10n),
                         icon: Icon(_playingScene == scene.index && _player.playing ? Icons.pause : Icons.play_arrow),
                         label: Text(_playingScene == scene.index && _player.playing ? l10n.pause : l10n.narration),
                       ),
@@ -170,8 +170,9 @@ class _ImageFallback extends StatelessWidget {
 }
 
 class _Header extends StatelessWidget {
-  const _Header({required this.story});
+  const _Header({required this.story, required this.l10n});
   final Story story;
+  final AppLocalizations l10n;
 
   @override
   Widget build(BuildContext context) {
