@@ -57,7 +57,7 @@ Deno.serve(async (req) => {
     if (!active) throw new Error("Premium entitlement required");
 
     const { data: story, error: storyError } = await admin.from("stories")
-      .select("id,title,protagonist_name,setting,story_city,story_scenes(id,scene_index,text)")
+      .select("id,title,protagonist_name,setting,story_city,friends,animal_friends,story_scenes(id,scene_index,text)")
       .eq("id", body.storyId).eq("user_id", userData.user.id).single();
     if (storyError || !story) throw new Error("Story not found");
 
@@ -93,7 +93,7 @@ Deno.serve(async (req) => {
               : "full color children's storybook illustration, warm whimsical style, clear characters, friendly and age-appropriate";
             const response = await openAi("images/generations", {
               model: imageModel,
-              prompt: `${mode}. Scene from "${story.title}". Setting: ${story.setting}. City: ${story.story_city}. Protagonist: ${story.protagonist_name}. Scene: ${scene.text}`,
+              prompt: `${mode}. Scene from "${story.title}". Location: ${story.setting}. Protagonist: ${story.protagonist_name}. Human friends: ${(story.friends ?? []).join(", ") || "none"}. Animals: ${(story.animal_friends ?? []).join(", ") || "none"}. Treat animals as real animals, never as human characters. Scene: ${scene.text}`,
               size: "1024x1024",
             }, openAiKey);
             const json = await response.json();
