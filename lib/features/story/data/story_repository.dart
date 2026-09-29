@@ -53,6 +53,7 @@ class StoryRepository {
           'protagonistName': story.protagonistName,
           'setting': story.setting,
           'city': story.city,
+          'friends': story.friends,
           'animalFriends': story.animalFriends,
           'scenes': story.scenes
               .map((scene) => {'index': scene.index, 'text': scene.text})
