@@ -100,7 +100,7 @@ class StoryRepository {
 
     final rows = await client
         .from('stories')
-        .select('id,title,protagonist_name,setting,story_city,friends,animal_friends,duration_seconds,created_at,story_scenes(index,text,color_image_path,bw_image_path,narration_path)')
+        .select('id,title,protagonist_name,setting,story_city,friends,animal_friends,duration_seconds,created_at,story_scenes(scene_index,text,color_image_path,bw_image_path,narration_path)')
         .eq('user_id', user.id)
         .eq('is_premium_story', true)
         .eq('status', 'ready')
@@ -128,7 +128,7 @@ class StoryRepository {
           narrationUrl = (await client.storage.from('story-assets').createSignedUrl(narrationPath, 3600)).signedUrl;
         }
         scenes.add(StoryScene(
-          index: s['index'] as int,
+          index: s['scene_index'] as int,
           text: s['text'] as String,
           colorImageUrl: colorUrl,
           bwImageUrl: bwUrl,
