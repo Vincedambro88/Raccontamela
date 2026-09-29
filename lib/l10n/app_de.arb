@@ -33,5 +33,11 @@
   "storyHistory": "Meine Geschichten",
   "historyLoadError": "Der Geschichtenverlauf konnte nicht geladen werden.",
   "noStoriesYet": "Du hast noch keine gespeicherten Geschichten. Bei aktivem Premium werden Geschichten in deinem Konto gespeichert.",
-  "generationError": "Die Geschichte konnte nicht erstellt werden. Bitte versuche es erneut."
+  "generationError": "Die Geschichte konnte nicht erstellt werden. Bitte versuche es erneut.",
+  "voice": "Stimme",
+  "regeneratePremium": "Premium neu erzeugen",
+  "activatePremiumContent": "Premium-Inhalte aktivieren",
+  "pause": "Pause",
+  "playbackUnavailable": "Wiedergabe nicht verfügbar",
+  "words": "Wörter"
 }
