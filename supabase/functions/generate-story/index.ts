@@ -99,6 +99,17 @@ function buildStory(input: { protagonistName: string; setting: string; city: str
   };
 }
 
+async function mediaTokenFor(story: unknown, serviceKey: string) {
+  const fingerprintBytes = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(JSON.stringify(story)));
+  const fingerprint = Array.from(new Uint8Array(fingerprintBytes)).map((b) => b.toString(16).padStart(2, "0")).join("");
+  const exp = Math.floor(Date.now() / 1000) + 15 * 60;
+  const payload = `${fingerprint}.${exp}`;
+  const key = await crypto.subtle.importKey("raw", new TextEncoder().encode(serviceKey), { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
+  const signature = await crypto.subtle.sign("HMAC", key, new TextEncoder().encode(payload));
+  const sig = btoa(String.fromCharCode(...new Uint8Array(signature))).replace(/\\+/g, "-").replace(/\\//g, "_").replace(/=+$/, "");
+  return `${payload}.${sig}`;
+}
+
 Deno.serve(async (req) => {
   if (req.method === "OPTIONS") return new Response("ok", { headers: corsHeaders });
   if (req.method !== "POST") return new Response(JSON.stringify({ error: "Method not allowed" }), { status: 405, headers: { ...corsHeaders, "Content-Type": "application/json" } });
@@ -142,7 +153,14 @@ Deno.serve(async (req) => {
         }
       }
     }
-    return new Response(JSON.stringify({ ...story, saved, storyId }), { headers: { ...corsHeaders, "Content-Type": "application/json" } });
+    const mediaToken = serviceRoleKey ? await mediaTokenFor({
+      title: story.title,
+      protagonistName,
+      setting,
+      city,
+      scenes: story.scenes,
+    }, serviceRoleKey) : null;
+    return new Response(JSON.stringify({ ...story, saved, storyId, mediaToken }), { headers: { ...corsHeaders, "Content-Type": "application/json" } });
   } catch (error) {
     console.error(error);
     return new Response(JSON.stringify({ error: "Story generation failed" }), { status: 500, headers: { ...corsHeaders, "Content-Type": "application/json" } });
