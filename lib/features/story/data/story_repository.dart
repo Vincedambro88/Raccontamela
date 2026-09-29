@@ -54,7 +54,7 @@ class StoryRepository {
           'title': story.title,
           'protagonistName': story.protagonistName,
           'setting': story.setting,
-          'city': story.city,
+          'city': story.setting,
           'friends': story.friends,
           'animalFriends': story.animalFriends,
           'visualBible': visualBible,
