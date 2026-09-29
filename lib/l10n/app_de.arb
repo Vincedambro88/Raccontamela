@@ -39,5 +39,6 @@
   "activatePremiumContent": "Premium-Inhalte aktivieren",
   "pause": "Pause",
   "playbackUnavailable": "Wiedergabe nicht verfügbar",
-  "words": "Wörter"
+  "words": "Wörter",
+  "premiumSignInRequired": "Melde dich an, um Premium-Funktionen zu nutzen."
 }
