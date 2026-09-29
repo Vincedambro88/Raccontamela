@@ -1,0 +1,15 @@
+{
+  "@@locale": "de",
+  "appTitle": "Raccontamela",
+  "newStory": "Neue Geschichte",
+  "protagonistName": "Name der Hauptfigur",
+  "setting": "Umgebung",
+  "storyCity": "Stadt der Geschichte",
+  "friends": "Freunde der Hauptfigur",
+  "animalFriends": "Tierfreunde",
+  "generateStory": "Geschichte erstellen",
+  "premium": "Premium",
+  "narration": "Sprachwiedergabe",
+  "printColoring": "Drucken und ausmalen",
+  "history": "Meine Geschichten"
+}
