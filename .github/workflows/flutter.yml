@@ -20,6 +20,20 @@ jobs:
       - name: Generate Android project
         run: flutter create . --platforms=android --org com.vincedambro
 
+      - name: Install Raccontamela launcher icon
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p android/app/src/main/res/drawable
+          cp assets/raccontamela_icon.jpg android/app/src/main/res/drawable/raccontamela_icon.jpg
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path("android/app/src/main/AndroidManifest.xml")
+          s = p.read_text()
+          s = s.replace('android:icon="@mipmap/ic_launcher"', 'android:icon="@drawable/raccontamela_icon"')
+          p.write_text(s)
+          PY
+
       - name: Harden Android Play configuration
         shell: bash
         run: |
