@@ -33,5 +33,11 @@
   "storyHistory": "Mes histoires",
   "historyLoadError": "Impossible de charger l’historique des histoires.",
   "noStoriesYet": "Vous n’avez pas encore d’histoires enregistrées. Les histoires sont sauvegardées sur votre compte lorsque Premium est actif.",
-  "generationError": "Impossible de créer l’histoire. Réessayez."
+  "generationError": "Impossible de créer l’histoire. Réessayez.",
+  "voice": "Voix",
+  "regeneratePremium": "Régénérer Premium",
+  "activatePremiumContent": "Activer le contenu Premium",
+  "pause": "Pause",
+  "playbackUnavailable": "Lecture indisponible",
+  "words": "mots"
 }
