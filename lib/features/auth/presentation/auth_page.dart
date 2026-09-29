@@ -3,6 +3,7 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 
 import '../../../l10n/app_localizations.dart';
 import '../../../core/config/app_config.dart';
+import '../data/device_registration_service.dart';
 
 class AuthPage extends StatefulWidget {
   const AuthPage({super.key});
@@ -46,6 +47,7 @@ class _AuthPageState extends State<AuthPage> {
       } else {
         await client.auth.signInWithPassword(email: email, password: password);
       }
+      await DeviceRegistrationService().registerCurrentDevice();
       if (!mounted) return;
       Navigator.pop(context, true);
     } on AuthException catch (e) {
