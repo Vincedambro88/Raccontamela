@@ -20,6 +20,19 @@ jobs:
       - name: Generate Android project
         run: flutter create . --platforms=android --org com.vincedambro
 
+      - name: Harden Android Play configuration
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path("android/app/build.gradle.kts")
+          s = p.read_text()
+          s = s.replace("compileSdk = flutter.compileSdkVersion", "compileSdk = 36")
+          s = s.replace("targetSdk = flutter.targetSdkVersion", "targetSdk = 36")
+          p.write_text(s)
+          PY
+
       - name: Get dependencies
         run: flutter pub get
 
