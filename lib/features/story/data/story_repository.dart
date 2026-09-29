@@ -24,6 +24,8 @@ class StoryRepository {
     });
     final data = Map<String, dynamic>.from(response.data as Map);
     final rawScenes = (data['scenes'] as List<dynamic>);
+    final visualBible = data['visualBible'] as String? ?? '';
+    final sceneVisuals = Map<String, dynamic>.from(data['sceneVisuals'] as Map? ?? const {});
     final scenes = rawScenes
         .map((item) => StoryScene(
               index: item['index'] as int,
@@ -55,6 +57,8 @@ class StoryRepository {
           'city': story.city,
           'friends': story.friends,
           'animalFriends': story.animalFriends,
+          'visualBible': visualBible,
+          'sceneVisuals': sceneVisuals,
           'scenes': story.scenes
               .map((scene) => {'index': scene.index, 'text': scene.text})
               .toList(),
