@@ -1,0 +1,806 @@
+{
+  "version": 1,
+  "batch": 8,
+  "stories": [
+    {
+      "id": "RM-295",
+      "title": "Il sentiero del vento",
+      "setting": "il bosco",
+      "animal": "cervo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco e notò subito che il vento aveva abbattuto un piccolo ramo sul passaggio. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il bosco. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il bosco e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-296",
+      "title": "La barca del mattino",
+      "setting": "il lago",
+      "animal": "anatra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il lago e notò subito che una barca era rimasta legata lontano dal pontile. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il lago. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il lago e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-297",
+      "title": "La porta della biblioteca",
+      "setting": "la biblioteca",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la biblioteca e notò subito che un libro era rimasto davanti alla porta. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la biblioteca. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la biblioteca e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-298",
+      "title": "Il campanile dopo la pioggia",
+      "setting": "il villaggio",
+      "animal": "rondine",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio e notò subito che l'acqua gocciolava dalla campana. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il villaggio. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il villaggio e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-299",
+      "title": "Il ponte della fattoria",
+      "setting": "la fattoria",
+      "animal": "pony",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria e notò subito che una tavola si era allentata. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la fattoria. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la fattoria e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-300",
+      "title": "La finestra del castello",
+      "setting": "il castello",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il castello e notò subito che la pioggia aveva appannato il vetro. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il castello. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il castello e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-301",
+      "title": "La riva del mare",
+      "setting": "la spiaggia",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la spiaggia e notò subito che un piccolo sentiero tra gli scogli era coperto di alghe. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la spiaggia. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la spiaggia e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-302",
+      "title": "Il banco del mercato",
+      "setting": "il mercato",
+      "animal": "gazza",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il mercato e notò subito che una cassetta era stata spostata davanti al banco. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il mercato. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il mercato e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-303",
+      "title": "Il sentiero del parco",
+      "setting": "il parco",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il parco e notò subito che una panchina aveva ceduto da un lato. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il parco. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il parco e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-304",
+      "title": "La ruota del mulino",
+      "setting": "il mulino",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il mulino e notò subito che un ramo era rimasto incastrato nella ruota. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il mulino. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il mulino e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-305",
+      "title": "Il cancello del giardino",
+      "setting": "il giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il giardino e notò subito che alcune foglie bloccavano il chiavistello. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il giardino. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il giardino e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-306",
+      "title": "La scala del faro",
+      "setting": "il faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il faro e notò subito che la sabbia aveva coperto due gradini. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il faro. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il faro e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-307",
+      "title": "Il sentiero della valle",
+      "setting": "la valle",
+      "animal": "capra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la valle e notò subito che una pietra aveva fatto deviare il piccolo percorso. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la valle. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la valle e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-308",
+      "title": "La rete del porto",
+      "setting": "il porto",
+      "animal": "pellicano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il porto e notò subito che una rete era rimasta impigliata a un palo. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il porto. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il porto e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-309",
+      "title": "Il tetto della scuola",
+      "setting": "la scuola",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la scuola e notò subito che un nastro era rimasto sulla grondaia. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la scuola. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la scuola e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-310",
+      "title": "La porta della serra",
+      "setting": "la serra",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la serra e notò subito che un vaso impediva alla porta di aprirsi. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la serra. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la serra e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-311",
+      "title": "Il sentiero della neve",
+      "setting": "il villaggio innevato",
+      "animal": "volpe",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio innevato e notò subito che la neve aveva nascosto una freccia. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il villaggio innevato. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il villaggio innevato e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-312",
+      "title": "Il fiume dietro casa",
+      "setting": "il fiume",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il fiume e notò subito che un ramo aveva deviato l'acqua verso la riva. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il fiume. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il fiume e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-313",
+      "title": "Il palco della festa",
+      "setting": "il villaggio",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio e notò subito che una corda attraversava il passaggio. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il villaggio. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il villaggio e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-314",
+      "title": "La torre delle mappe",
+      "setting": "il museo",
+      "animal": "topo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il museo e notò subito che una mappa era scivolata a terra. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il museo. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il museo e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-315",
+      "title": "Il sentiero della collina",
+      "setting": "la collina",
+      "animal": "farfalla",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la collina e notò subito che l'erba alta aveva coperto una pietra. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la collina. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la collina e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-316",
+      "title": "Il pozzo antico",
+      "setting": "la piazza",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la piazza e notò subito che la corda del secchio era troppo corta. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la piazza. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la piazza e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-317",
+      "title": "Il ponte delle canne",
+      "setting": "il lago",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il lago e notò subito che una canna piegata occupava il passaggio. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il lago. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il lago e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-318",
+      "title": "La finestra del fienile",
+      "setting": "la fattoria",
+      "animal": "rondine",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria e notò subito che una persiana sbatteva nel vento. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la fattoria. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la fattoria e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-319",
+      "title": "La stanza del faro",
+      "setting": "il faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il faro e notò subito che una lampada aveva lasciato una zona d'ombra. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il faro. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il faro e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-320",
+      "title": "Il sentiero del castello",
+      "setting": "il castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il castello e notò subito che un cancello era rimasto aperto. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il castello. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il castello e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-321",
+      "title": "La fontana della piazza",
+      "setting": "la piazza",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la piazza e notò subito che una foglia copriva il piccolo scarico. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la piazza. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la piazza e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-322",
+      "title": "La barca del porto",
+      "setting": "il porto",
+      "animal": "delfino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il porto e notò subito che una cima era rimasta tesa sul molo. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il porto. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il porto e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-323",
+      "title": "Il giardino della scuola",
+      "setting": "la scuola",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la scuola e notò subito che un pallone era finito tra i cespugli. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la scuola. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la scuola e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-324",
+      "title": "La sala del museo",
+      "setting": "il museo",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il museo e notò subito che una tenda copriva una vetrina. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il museo. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il museo e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-325",
+      "title": "Il sentiero delle felci",
+      "setting": "il bosco",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco e notò subito che un ramo basso impediva il passaggio. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il bosco. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il bosco e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-326",
+      "title": "La strada della fattoria",
+      "setting": "la fattoria",
+      "animal": "asino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria e notò subito che un carretto era rimasto di traverso. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la fattoria. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la fattoria e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-327",
+      "title": "Il pontile del lago",
+      "setting": "il lago",
+      "animal": "cigno",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il lago e notò subito che una tavola scricchiolava sotto il peso. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il lago. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il lago e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-328",
+      "title": "La casa sulla collina",
+      "setting": "la casa",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la casa e notò subito che una finestra era rimasta aperta. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la casa. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la casa e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-329",
+      "title": "Il sentiero del porto",
+      "setting": "il porto",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il porto e notò subito che una cassetta bloccava una parte della banchina. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il porto. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il porto e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-330",
+      "title": "La torre del castello",
+      "setting": "il castello",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il castello e notò subito che un gradino era coperto di foglie. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il castello. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il castello e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-331",
+      "title": "Il prato del parco",
+      "setting": "il parco",
+      "animal": "merlo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il parco e notò subito che una fontanella aveva smesso di scorrere. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il parco. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il parco e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-332",
+      "title": "La porta del fiume",
+      "setting": "il fiume",
+      "animal": "castoro",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il fiume e notò subito che un piccolo tronco bloccava l'acqua. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il fiume. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il fiume e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-333",
+      "title": "Il mercato al tramonto",
+      "setting": "il mercato",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il mercato e notò subito che un telo aveva coperto un passaggio. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il mercato. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il mercato e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-334",
+      "title": "La serra della collina",
+      "setting": "la serra",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la serra e notò subito che un vetro era rimasto appannato. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la serra. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la serra e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-335",
+      "title": "Il sentiero del ghiaccio",
+      "setting": "la montagna",
+      "animal": "stambecco",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la montagna e notò subito che una lastra di ghiaccio copriva il bordo. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la montagna. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la montagna e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-336",
+      "title": "Il rifugio nel bosco",
+      "setting": "il bosco",
+      "animal": "volpe",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco e notò subito che un segnale era caduto vicino al sentiero. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il bosco. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il bosco e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-337",
+      "title": "La barca della baia",
+      "setting": "la baia",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la baia e notò subito che una corda era finita tra due pali. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la baia. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la baia e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-338",
+      "title": "Il campanile della scuola",
+      "setting": "la scuola",
+      "animal": "rondine",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la scuola e notò subito che un nastro si era impigliato nella grondaia. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la scuola. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la scuola e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-339",
+      "title": "La strada del villaggio",
+      "setting": "il villaggio",
+      "animal": "asino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio e notò subito che un secchio occupava il passaggio. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il villaggio. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il villaggio e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-340",
+      "title": "Il giardino dopo il temporale",
+      "setting": "il giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il giardino e notò subito che un ramo aveva coperto il vialetto. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il giardino. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il giardino e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-341",
+      "title": "La finestra della biblioteca",
+      "setting": "la biblioteca",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la biblioteca e notò subito che una tenda impediva di vedere fuori. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la biblioteca. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la biblioteca e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-342",
+      "title": "Il ponte della valle",
+      "setting": "la valle",
+      "animal": "capra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la valle e notò subito che una pietra aveva reso stretto il passaggio. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la valle. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la valle e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-343",
+      "title": "Il sentiero della costa",
+      "setting": "la costa",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la costa e notò subito che la sabbia aveva cancellato una freccia. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la costa. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò la costa e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    },
+    {
+      "id": "RM-344",
+      "title": "La luce del porto",
+      "setting": "il porto",
+      "animal": "pellicano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il porto e notò subito che una lanterna si era spenta prima di sera. Il cambiamento era piccolo, ma bastava a modificare il modo in cui quel luogo veniva attraversato o usato. {{ANIMALE}} osservava da vicino.",
+        "Invece di spostare subito ciò che sembrava fuori posto, {{PROTAGONISTA}} guardò intorno. Trovò un segno che raccontava cosa era successo: una traccia, un oggetto fuori posizione o un cambiamento nel terreno. {{ANIMALE}} seguì il movimento.",
+        "Quel segno portò {{PROTAGONISTA}} a un secondo punto del luogo. La causa non era dove appariva il problema. Qualcosa era accaduto poco prima e aveva prodotto quella piccola conseguenza.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il porto. Insieme controllarono la situazione. Prima di intervenire decisero dove mettere le mani e dove invece era meglio non toccare nulla.",
+        "Il primo intervento sembrò sufficiente, ma dopo poco comparve un nuovo indizio. {{PROTAGONISTA}} capì che mancava ancora un passaggio. Tornò al punto osservato all'inizio e collegò finalmente i due dettagli.",
+        "Sistemarono la causa e aspettarono. Il luogo cominciò a comportarsi di nuovo come doveva. L'acqua trovò il suo percorso, una porta tornò a muoversi, un sentiero riapparve o il vento smise di spostare ciò che non doveva.",
+        "{{ANIMALE}} si avvicinò quando il pericolo era passato. {{PROTAGONISTA}} guardò il porto e riconobbe i suoi rumori abituali. Il problema era risolto non perché fosse stato ignorato, ma perché era stato capito.",
+        "Prima di andare via, {{PROTAGONISTA}} conservò nella mente il primo piccolo indizio. A volte una cosa importante non fa rumore e non chiede attenzione: basta fermarsi abbastanza a lungo per accorgersi che sta indicando qualcosa."
+      ]
+    }
+  ]
+}
