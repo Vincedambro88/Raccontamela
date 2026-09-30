@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "batch": 3,
+  "stories": [
+    {
+      "id": "RM-021",
+      "title": "La campana che non suonava",
+      "setting": "il villaggio",
+      "animal": "capra",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò nella piazza del villaggio, il forno aveva appena acceso il fuoco e dalle finestre usciva odore di pane caldo. Ma c'era una cosa strana: la campana della torre, che ogni mattina chiamava tutti a scuola, era rimasta muta. {{ANIMALE}} sollevò il muso verso la torre e belò piano. {{PROTAGONISTA}} guardò in alto. Il batacchio c'era ancora, ma sembrava fermo. Decise di capire perché.",
+        "Il custode mostrò a {{PROTAGONISTA}} il meccanismo. La corda scendeva fino a una botola, ma qualcosa la tratteneva. {{ANIMALE}} si infilò sotto una panca e ne uscì con un pezzetto di stoffa tra i denti. Era dello stesso colore del fiocco appeso alla porta della torre. {{PROTAGONISTA}} lo seguì fino al cortile della scuola, dove trovò una scatola di legno rovesciata.",
+        "Dentro la scatola c'erano vecchi nastri della festa del villaggio. Il vento ne aveva trascinato uno fin dentro la torre. {{ANIMALE}} tornò di corsa verso la botola. {{PROTAGONISTA}} lo seguì e vide il nastro avvolto intorno alla ruota di legno. Tirarlo avrebbe potuto rompere la corda, così chiamò il custode. Insieme lo liberarono, un giro alla volta.",
+        "La ruota ricominciò a muoversi, ma la campana rimase silenziosa. Il custode guardò meglio. Un piccolo ramo era entrato dalla finestra e si era incastrato tra il martello e il bordo della campana. {{PROTAGONISTA}} lo indicò. Il custode lo tolse con attenzione. {{ANIMALE}} fece un passo indietro proprio mentre il martello oscillava.",
+        "La campana suonò. Un colpo limpido attraversò i tetti e arrivò fino ai campi. Gli abitanti uscirono dalle porte. {{PROTAGONISTA}} rise, mentre {{ANIMALE}} abbassava le orecchie per il rumore improvviso. Il custode controllò ancora una volta il meccanismo: la corda scorreva libera e la ruota girava senza attriti.",
+        "Prima di scendere, {{PROTAGONISTA}} raccolse il nastro rimasto sul pavimento. Lo rimise nella scatola della festa e guardò il punto in cui era stato trovato. Il problema sembrava grande quando avevano sentito la campana tacere, ma era nato da due cose piccole: un nastro e un ramo.",
+        "Nella piazza, la scuola stava finalmente aprendo. Dal forno arrivava il profumo del pane e il sole illuminava le finestre della torre. {{ANIMALE}} si fermò davanti alla porta della scuola. {{PROTAGONISTA}} gli accarezzò il dorso. Non avevano fatto nulla di spettacolare: avevano osservato, seguito un indizio e chiesto aiuto quando serviva.",
+        "Quando {{PROTAGONISTA}} tornò verso casa, la campana suonò ancora una volta. {{ANIMALE}} camminava al suo fianco e la piazza aveva ripreso il suo ritmo. {{PROTAGONISTA}} sorrise. Da quel giorno, quando qualcosa sembrava bloccato, prima di tirare più forte avrebbe guardato con attenzione che cosa stava facendo resistenza."
+      ]
+    },
+    {
+      "id": "RM-022",
+      "title": "Il sentiero delle lucciole",
+      "setting": "il bosco",
+      "animal": "riccio",
+      "pages": [
+        "Al tramonto, {{PROTAGONISTA}} entrò nel bosco seguendo il sentiero della vecchia radura. {{ANIMALE}} avanzava tra le foglie con piccoli passi rumorosi. Era la sera in cui comparivano le prime lucciole dell'anno. Ma un tronco caduto aveva coperto i segni bianchi sulle pietre e il sentiero sembrava scomparso. {{PROTAGONISTA}} non voleva rinunciare alla radura. Decise di cercare una traccia.",
+        "Il bosco diventava sempre più scuro. {{PROTAGONISTA}} guardò il terreno, mentre {{ANIMALE}} si fermò davanti a un ciuffo di muschio. Poco più avanti c'era una pietra coperta dallo stesso muschio, con un piccolo tratto bianco ancora visibile. {{PROTAGONISTA}} capì che i segni non erano spariti: alcuni erano soltanto nascosti.",
+        "La traccia conduceva a un ruscello. Il vecchio ponte era ancora in piedi, ma una delle assi era bagnata e scivolosa. {{PROTAGONISTA}} fece un passo indietro. {{ANIMALE}} passò sotto il ponte e si fermò vicino a un gruppo di radici. Accanto alle radici c'era un passaggio asciutto. Non era comodo, ma permetteva di attraversare senza rischiare.",
+        "Dall'altra parte, il sentiero entrava tra felci alte quasi quanto le ginocchia di {{PROTAGONISTA}}. Le pietre con i segni bianchi comparivano a intervalli. Poi arrivò un bivio. A sinistra il terreno era umido e pieno di impronte; a destra le foglie erano asciutte e schiacciate. {{PROTAGONISTA}} scelse la strada più usata.",
+        "Camminarono ancora. Il bosco profumava di terra e foglie bagnate. {{ANIMALE}} si muoveva davanti a {{PROTAGONISTA}}, fermandosi ogni volta che il sentiero cambiava. Finalmente gli alberi si aprirono. La vecchia radura era lì, silenziosa sotto il cielo che diventava blu.",
+        "La prima lucciola comparve sopra l'erba. Poi una seconda. Poi molte altre. Le piccole luci si accendevano e spegnevano tra i cespugli. {{PROTAGONISTA}} rimase immobile. {{ANIMALE}} si sistemò vicino ai suoi piedi. Per qualche minuto nessuno dei due parlò né si mosse.",
+        "Prima di tornare, {{PROTAGONISTA}} lasciò una piccola pietra bianca vicino al punto in cui il sentiero poteva confondersi. Non voleva cambiare il bosco; voleva soltanto aiutare chi fosse arrivato dopo. Poi spostò un ramo caduto dal passaggio e lo appoggiò lontano dalle radici.",
+        "Nel viaggio di ritorno, le lucciole restarono alle loro spalle come piccole stelle tra gli alberi. Il bosco non sembrava più un labirinto. {{PROTAGONISTA}} conosceva il sentiero, ma ora sapeva anche leggerne i segnali: il muschio, le foglie asciutte, le pietre. {{ANIMALE}} camminava piano accanto a lui mentre sopra i pini comparivano le prime stelle."
+      ]
+    }
+  ]
+}
