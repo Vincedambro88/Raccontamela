@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "batch": 3,
+  "stories": [
+    {
+      "id": "RM-021",
+      "title": "Il sentiero delle lucciole",
+      "setting": "il bosco",
+      "animal": "riccio",
+      "pages": [
+        "Quando {{PROTAGONISTA}} entrò nel bosco, il sole stava scendendo dietro i faggi. Di solito, al primo buio, lungo il sentiero comparivano piccole lucciole. Quella sera, però, non ce n’era nemmeno una. {{ANIMALE}} avanzava tra le foglie umide, fermandosi ogni tanto come se cercasse qualcosa.",
+        "{{PROTAGONISTA}} pensò che fosse troppo presto. Poi vide che vicino al ruscello l’acqua scorreva torbida e che alcune foglie erano rimaste impigliate tra le pietre. Il sentiero era ancora riconoscibile, ma il piccolo corso d’acqua sembrava diverso.",
+        "Seguendo il ruscello, {{PROTAGONISTA}} trovò un punto in cui un ramo aveva formato una barriera. L’acqua passava appena e aveva invaso il bordo del sentiero. {{ANIMALE}} annusò il terreno e si fermò davanti a una zona fangosa, senza entrarci.",
+        "{{PROTAGONISTA}} chiamò la guardia del parco, che conosceva bene quel tratto di bosco. Insieme osservarono il ruscello. Non bastava togliere il ramo: bisognava liberare anche le foglie accumulate più a valle, lasciando che l’acqua tornasse nel suo letto.",
+        "Lavorarono con pazienza. Il ramo venne spostato e le foglie furono raccolte senza rovinare le rive. All’inizio l’acqua continuò a scorrere lentamente. Poi una piccola corrente passò tra le pietre e portò via il fango più leggero.",
+        "Quando il sentiero fu asciutto, il bosco sembrò cambiare rumore. Il ruscello tornò limpido e {{ANIMALE}} attraversò il tratto sicuro. {{PROTAGONISTA}} guardò tra l’erba, aspettando senza sapere esattamente cosa cercare.",
+        "Una luce verde tremolò vicino a un cespuglio. Poi un’altra rispose dall’altra parte del sentiero. Le lucciole erano tornate, una alla volta, seguendo il bordo umido del prato. {{PROTAGONISTA}} rimase fermo per non disturbarle.",
+        "Nel buio, il sentiero sembrava cucito di minuscoli punti luminosi. {{ANIMALE}} riprese lentamente la strada e {{PROTAGONISTA}} lo seguì. Quella sera aveva capito che il bosco non aveva bisogno di essere cambiato: aveva bisogno che qualcuno si accorgesse quando qualcosa non scorreva più come prima."
+      ]
+    },
+    {
+      "id": "RM-022",
+      "title": "La campana sul molo",
+      "setting": "il porto",
+      "animal": "gabbiano",
+      "pages": [
+        "Al porto, {{PROTAGONISTA}} conosceva ogni rumore: le cime che sbattevano contro i pali, le ruote dei carrelli, le voci dei pescatori. Quella mattina mancava però un suono. La piccola campana del molo non aveva suonato con il cambio della marea. {{ANIMALE}} volò basso sopra l’acqua e si posò sul palo accanto.",
+        "{{PROTAGONISTA}} raggiunse la campana e vide che la corda pendeva quasi fino all’acqua. Non era spezzata. Un nodo, invece, era finito dietro una carrucola e impediva al battaglio di muoversi.",
+        "Provò a capire come fosse successo. Sul legno c’erano segni freschi e una cima bagnata era stata trascinata sulla banchina. Poco più avanti, una piccola barca oscillava contro il molo. {{ANIMALE}} seguì con lo sguardo quella barca.",
+        "Arrivò il guardiano del porto. Controllò la corda e spiegò a {{PROTAGONISTA}} che durante la notte una cima doveva essersi impigliata. Prima di liberare la campana, spostarono la barca e misero in sicurezza il tratto di banchina.",
+        "Quando la cima fu libera, il nodo sembrò sciogliersi facilmente. Ma il battaglio rimase fermo. {{PROTAGONISTA}} guardò ancora la carrucola e vide un piccolo frammento di corda avvolto nell’asse.",
+        "Il frammento venne rimosso e la carrucola tornò a girare. Il guardiano tirò piano la corda. La campana suonò una volta, poi un’altra. Il suo rintocco attraversò il porto e si mescolò alle voci del mattino.",
+        "{{ANIMALE}} si alzò dal palo proprio mentre un pescatore usciva dalla barca. {{PROTAGONISTA}} sorrise: non aveva semplicemente fatto suonare una campana. Aveva ricostruito quello che era successo durante la notte.",
+        "Quando si allontanò dal molo, il suono della campana arrivò ancora una volta dall’acqua. {{ANIMALE}} seguì il vento verso il largo. {{PROTAGONISTA}} continuò a camminare, ascoltando il porto: ora ogni rumore sembrava avere un posto preciso."
+      ]
+    }
+  ]
+}
