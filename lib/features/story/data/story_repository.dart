@@ -57,11 +57,11 @@ class StoryRepository {
           'city': story.setting,
           'friends': story.friends,
           'animalFriends': story.animalFriends,
-          'visualBible': visualBible,
-          'sceneVisuals': sceneVisuals,
           'scenes': story.scenes
               .map((scene) => {'index': scene.index, 'text': scene.text})
               .toList(),
+          'visualBible': visualBible,
+          'sceneVisuals': sceneVisuals,
         },
         'mediaToken': data['mediaToken'],
         'storyId': story.id,
