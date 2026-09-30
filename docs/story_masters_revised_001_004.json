@@ -16,7 +16,8 @@
         "Il primo tentativo non bastò. {{PROTAGONISTA}} controllò meglio e vide una piccola parte dell'oggetto tra due assi. Con cautela lo raggiunse senza spostare la tavola.",
         "{{PROTAGONISTA}} ritrovò finalmente l'oggetto. {{ANIMALE}} scodinzolò e tornò sul sentiero. Il bosco era lo stesso di prima, ma ora ogni piccolo segno aveva raccontato una parte della storia.",
         "Prima di ripartire, {{PROTAGONISTA}} attraversò il ponte con più attenzione. {{ANIMALE}} lo precedette di qualche passo e poi si voltò. La ricerca era finita: non per fortuna, ma perché avevano seguito gli indizi uno alla volta."
-      ]
+      ],
+      "status": "editorial-rewrite-v7"
     },
     {
       "id": "RM-002",
@@ -32,7 +33,8 @@
         "Tra due pietre trovò finalmente un dettaglio familiare. Il primo tentativo non bastò, ma spostando con cura una rosa caduta dal davanzale riuscì a vedere l'oggetto.",
         "{{PROTAGONISTA}} recuperò ciò che aveva perso. {{ANIMALE}} si sedette accanto a lui, tranquillo. La torre era silenziosa e il cortile di rose tornò a essere il punto di partenza.",
         "Prima di andare via, {{PROTAGONISTA}} guardò la strada percorsa. Ogni dettaglio minuscolo aveva avuto un ruolo. {{ANIMALE}} tornò nel cortile, e la ricerca si concluse senza fretta."
-      ]
+      ],
+      "status": "editorial-rewrite-v7"
     },
     {
       "id": "RM-003",
@@ -48,7 +50,8 @@
         "Un piccolo tratto era coperto dall'acqua. {{PROTAGONISTA}} non lo attraversò subito: cercò un passaggio più alto. {{ANIMALE}} trovò una curva tra le rocce che permetteva di aggirarlo.",
         "Il sentiero terminò proprio accanto alla barca. {{PROTAGONISTA}} aveva ritrovato la strada grazie ai segni del luogo, mentre {{ANIMALE}} aveva notato per primo quali rocce fossero sicure.",
         "Prima di ripartire, {{PROTAGONISTA}} guardò il bivio da lontano. Ora sembrava semplice. Non serviva indovinare: bastava osservare ciò che il mare e il sentiero stavano già mostrando."
-      ]
+      ],
+      "status": "editorial-rewrite-v7"
     },
     {
       "id": "RM-004",
@@ -64,7 +67,8 @@
         "Un tratto del sentiero era coperto dalle nuvole basse. {{PROTAGONISTA}} aspettò qualche momento invece di avanzare alla cieca. Quando la nebbia si aprì, vide il passaggio tra due rocce.",
         "Il sentiero riportò al rifugio. {{ANIMALE}} si fermò vicino all'ingresso e guardò {{PROTAGONISTA}}. La strada giusta era rimasta nascosta finché non avevano imparato a cercare i piccoli segnali.",
         "Prima di entrare, {{PROTAGONISTA}} osservò ancora i pini e la roccia segnata. Il bivio non era cambiato, ma ora sapeva che in montagna anche un dettaglio minuscolo può indicare la direzione."
-      ]
+      ],
+      "status": "editorial-rewrite-v7"
     }
   ]
 }
