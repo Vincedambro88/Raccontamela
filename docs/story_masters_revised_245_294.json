@@ -1,0 +1,806 @@
+{
+  "version": 2,
+  "status": "editorial-rewrite",
+  "stories": [
+    {
+      "id": "RM-245",
+      "title": "Il ponte del torrente",
+      "setting": "bosco",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco e notò che una passerella è coperta di rami. Era un dettaglio facile da ignorare, ma rendeva difficile raggiungere la radura. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: la piena ha lasciato legna sulla passerella. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene bosco. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la radura. il passaggio viene liberato senza entrare nell'acqua. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-246",
+      "title": "La finestra della torre",
+      "setting": "castello",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e notò che una finestra resta aperta. Era un dettaglio facile da ignorare, ma rendeva difficile proteggere la sala dalla pioggia. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il gancio è uscito dalla sede. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene castello. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere la sala dalla pioggia. il gancio viene rimesso. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-247",
+      "title": "Il cestino del frutteto",
+      "setting": "fattoria",
+      "animal": "pony",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e notò che un cestino blocca il cancello. Era un dettaglio facile da ignorare, ma rendeva difficile raggiungere gli alberi. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: è stato lasciato dopo la raccolta. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene fattoria. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere gli alberi. il cestino viene spostato. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-248",
+      "title": "La lanterna della spiaggia",
+      "setting": "spiaggia",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in spiaggia e notò che una lanterna è coperta di sabbia. Era un dettaglio facile da ignorare, ma rendeva difficile vedere il sentiero al tramonto. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il vento ha riempito il vetro. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene spiaggia. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere il sentiero al tramonto. il vetro viene pulito. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-249",
+      "title": "Il remo del lago",
+      "setting": "lago",
+      "animal": "cigno",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in lago e notò che un remo galleggia vicino alla riva. Era un dettaglio facile da ignorare, ma rendeva difficile riportarlo alla barca. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: è caduto durante l'ormeggio. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene lago. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riportarlo alla barca. il remo viene recuperato con un'asta. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-250",
+      "title": "La porta del fienile",
+      "setting": "fattoria",
+      "animal": "cavallo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e notò che la porta non scorre. Era un dettaglio facile da ignorare, ma rendeva difficile aprire il fienile. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: la guida è piena di terra. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene fattoria. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente aprire il fienile. la guida viene pulita. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-251",
+      "title": "Il sentiero della valle",
+      "setting": "valle",
+      "animal": "camoscio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle e notò che un cartello è coperto dalla neve. Era un dettaglio facile da ignorare, ma rendeva difficile seguire il percorso. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il vento ha accumulato neve contro il palo. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene valle. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente seguire il percorso. il cartello viene liberato. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-252",
+      "title": "La fontana del castello",
+      "setting": "castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e notò che l'acqua esce a filo. Era un dettaglio facile da ignorare, ma rendeva difficile riempire la brocca. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: un sassolino blocca il beccuccio. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene castello. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riempire la brocca. il beccuccio viene pulito. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-253",
+      "title": "Il molo della baia",
+      "setting": "baia",
+      "animal": "delfino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in baia e notò che una cima pende nell'acqua. Era un dettaglio facile da ignorare, ma rendeva difficile evitare che si impigli. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il nodo è scivolato lungo il palo. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene baia. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che si impigli. la cima viene raccolta. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-254",
+      "title": "La panchina del parco",
+      "setting": "parco",
+      "animal": "merlo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in parco e notò che una vite sporge dal legno. Era un dettaglio facile da ignorare, ma rendeva difficile rendere sicura la panchina. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il legno si è ritirato con il freddo. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene parco. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente rendere sicura la panchina. la vite viene fissata. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-255",
+      "title": "La mappa del sentiero",
+      "setting": "montagna",
+      "animal": "marmotta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in montagna e notò che una piega nasconde una parte della mappa. Era un dettaglio facile da ignorare, ma rendeva difficile ritrovare il percorso. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: la carta si è bagnata con la pioggia. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene montagna. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente ritrovare il percorso. il percorso viene ricostruito osservando i segnali. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-256",
+      "title": "La porta della biblioteca",
+      "setting": "biblioteca",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in biblioteca e notò che la serratura gira a vuoto. Era un dettaglio facile da ignorare, ma rendeva difficile aprire la sala. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: una vite si è allentata. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene biblioteca. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente aprire la sala. la serratura viene sistemata. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-257",
+      "title": "Il ponte del villaggio",
+      "setting": "villaggio",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e notò che una tavola è spostata. Era un dettaglio facile da ignorare, ma rendeva difficile far passare i pedoni. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: l'acqua ha spinto il legno. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene villaggio. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente far passare i pedoni. la tavola viene riposizionata. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-258",
+      "title": "La rete sulla riva",
+      "setting": "spiaggia",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in spiaggia e notò che una rete vuota è rimasta sulla sabbia. Era un dettaglio facile da ignorare, ma rendeva difficile evitare che torni in mare. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: la marea l'ha trascinata a riva. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene spiaggia. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che torni in mare. la rete viene raccolta. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-259",
+      "title": "Il tetto della serra",
+      "setting": "serra",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in serra e notò che una lastra lascia passare acqua. Era un dettaglio facile da ignorare, ma rendeva difficile proteggere le piante. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: una vite si è allentata. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene serra. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere le piante. la lastra viene fissata. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-260",
+      "title": "La campana del rifugio",
+      "setting": "montagna",
+      "animal": "capra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in montagna e notò che la campana è coperta di ghiaccio. Era un dettaglio facile da ignorare, ma rendeva difficile controllare il segnale. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: la notte fredda ha gelato il battente. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene montagna. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente controllare il segnale. il ghiaccio viene rimosso senza forzare. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-261",
+      "title": "La cesta del porto",
+      "setting": "porto",
+      "animal": "pellicano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e notò che una cesta galleggia vicino al molo. Era un dettaglio facile da ignorare, ma rendeva difficile scoprire a chi appartiene. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: è caduta durante lo scarico. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene porto. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente scoprire a chi appartiene. la cesta viene riportata a riva. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-262",
+      "title": "La ruota del mulino",
+      "setting": "mulino",
+      "animal": "anatra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in mulino e notò che la ruota gira lentamente. Era un dettaglio facile da ignorare, ma rendeva difficile capire cosa la frena. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: un ramo è entrato nel canale. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene mulino. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente capire cosa la frena. il ramo viene rimosso. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-263",
+      "title": "Il sentiero del giardino",
+      "setting": "giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in giardino e notò che un ramo copre il vialetto. Era un dettaglio facile da ignorare, ma rendeva difficile raggiungere la serra. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il temporale lo ha spezzato. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene giardino. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la serra. il ramo viene spostato. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-264",
+      "title": "La finestra della casa",
+      "setting": "villaggio",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e notò che un'imposta sbatte. Era un dettaglio facile da ignorare, ma rendeva difficile evitare che il vetro si rompa. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: una cerniera è allentata. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene villaggio. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che il vetro si rompa. la cerniera viene regolata. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-265",
+      "title": "Il faro nella nebbia",
+      "setting": "faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in faro e notò che il bordo del molo è poco visibile. Era un dettaglio facile da ignorare, ma rendeva difficile raggiungere il faro. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: la nebbia riflette la luce. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene faro. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere il faro. viene scelto un segnale più vicino a terra. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-266",
+      "title": "La cesta del lago",
+      "setting": "lago",
+      "animal": "anatra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in lago e notò che una cesta rischia di galleggiare via. Era un dettaglio facile da ignorare, ma rendeva difficile recuperarla. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il vento ha spostato il telo che la copriva. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene lago. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente recuperarla. la cesta viene portata al riparo. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-267",
+      "title": "Il gradino del teatro",
+      "setting": "teatro",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in teatro e notò che un gradino è nascosto. Era un dettaglio facile da ignorare, ma rendeva difficile evitare che qualcuno inciampi. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il sipario è stato spostato. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene teatro. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che qualcuno inciampi. il gradino torna visibile. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-268",
+      "title": "La corda del pozzo",
+      "setting": "villaggio",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e notò che la corda è sfilacciata. Era un dettaglio facile da ignorare, ma rendeva difficile recuperare il secchio. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: l'uso ha consumato le fibre. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene villaggio. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente recuperare il secchio. la corda viene sostituita. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-269",
+      "title": "Il cartello del mercato",
+      "setting": "mercato",
+      "animal": "gazza",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in mercato e notò che un cartello indica il banco sbagliato. Era un dettaglio facile da ignorare, ma rendeva difficile trovare il venditore. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: è stato spostato durante l'allestimento. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene mercato. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente trovare il venditore. il cartello viene orientato. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-270",
+      "title": "La barca del canale",
+      "setting": "canale",
+      "animal": "airone",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in canale e notò che una barca è incastrata tra i giunchi. Era un dettaglio facile da ignorare, ma rendeva difficile riportarla al pontile. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il vento l'ha spinta fuori rotta. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene canale. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riportarla al pontile. la barca viene liberata dalla riva. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-271",
+      "title": "La porta della serra",
+      "setting": "serra",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in serra e notò che la porta non resta aperta. Era un dettaglio facile da ignorare, ma rendeva difficile far entrare aria. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: un vaso è caduto contro il battente. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene serra. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente far entrare aria. il vaso viene spostato. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-272",
+      "title": "Il sentiero della cascata",
+      "setting": "valle",
+      "animal": "camoscio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle e notò che un rivolo attraversa il sentiero. Era un dettaglio facile da ignorare, ma rendeva difficile raggiungere il punto panoramico. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: la neve si sta sciogliendo. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene valle. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere il punto panoramico. viene scelto un passaggio più alto. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-273",
+      "title": "La lanterna del bosco",
+      "setting": "bosco",
+      "animal": "cervo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco e notò che una lanterna è caduta. Era un dettaglio facile da ignorare, ma rendeva difficile evitare che si rompa. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il gancio del ramo si è spezzato. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene bosco. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che si rompa. la lanterna viene messa al sicuro. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-274",
+      "title": "La porta del museo",
+      "setting": "museo",
+      "animal": "topo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in museo e notò che il cancello resta socchiuso. Era un dettaglio facile da ignorare, ma rendeva difficile proteggere la sala. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il chiavistello è consumato. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene museo. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere la sala. il chiavistello viene sostituito. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-275",
+      "title": "Il ponte della collina",
+      "setting": "collina",
+      "animal": "lepre",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in collina e notò che una tavola scricchiola. Era un dettaglio facile da ignorare, ma rendeva difficile capire se il passaggio è sicuro. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: un fissaggio è allentato. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene collina. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente capire se il passaggio è sicuro. la tavola viene fissata. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-276",
+      "title": "La fontana della piazza",
+      "setting": "piazza",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in piazza e notò che la fontana gocciola. Era un dettaglio facile da ignorare, ma rendeva difficile capire da dove perde. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: una guarnizione è consumata. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene piazza. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente capire da dove perde. la guarnizione viene sostituita. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-277",
+      "title": "La vela del porto",
+      "setting": "porto",
+      "animal": "foca",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e notò che una vela resta incastrata. Era un dettaglio facile da ignorare, ma rendeva difficile liberare la barca. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: la cima si è avvolta al palo. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene porto. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente liberare la barca. la cima viene sciolta. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-278",
+      "title": "Il sentiero del fiume",
+      "setting": "fiume",
+      "animal": "cervo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fiume e notò che una passerella è coperta d'acqua. Era un dettaglio facile da ignorare, ma rendeva difficile raggiungere l'altra riva. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il livello del fiume è salito. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene fiume. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere l'altra riva. viene scelta una passerella più alta. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-279",
+      "title": "La finestra del faro",
+      "setting": "faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in faro e notò che il vetro è opaco. Era un dettaglio facile da ignorare, ma rendeva difficile vedere la luce del mare. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: la salsedine si è depositata. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene faro. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere la luce del mare. il vetro viene pulito. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-280",
+      "title": "Il cancello del frutteto",
+      "setting": "fattoria",
+      "animal": "asino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e notò che il cancello non chiude. Era un dettaglio facile da ignorare, ma rendeva difficile proteggere gli alberi. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il fango blocca la guida. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene fattoria. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere gli alberi. la guida viene liberata. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-281",
+      "title": "La tenda della montagna",
+      "setting": "montagna",
+      "animal": "capra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in montagna e notò che un tirante si allenta. Era un dettaglio facile da ignorare, ma rendeva difficile tenere stabile la tenda. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: la pioggia ha ammorbidito il terreno. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene montagna. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente tenere stabile la tenda. il tirante viene fissato più lontano. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-282",
+      "title": "La mappa del castello",
+      "setting": "castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e notò che un'indicazione è strappata. Era un dettaglio facile da ignorare, ma rendeva difficile ritrovare il cortile. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il vento ha sollevato la pagina. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene castello. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente ritrovare il cortile. il percorso viene ricostruito dai segnali. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-283",
+      "title": "Il remo del fiume",
+      "setting": "fiume",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fiume e notò che un remo è incastrato tra le pietre. Era un dettaglio facile da ignorare, ma rendeva difficile recuperarlo. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: è caduto da una barca. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene fiume. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente recuperarlo. il remo viene tirato con una corda. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-284",
+      "title": "Il tetto della biblioteca",
+      "setting": "biblioteca",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in biblioteca e notò che una tegola lascia passare acqua. Era un dettaglio facile da ignorare, ma rendeva difficile proteggere i libri. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il vento l'ha spostata. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene biblioteca. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere i libri. la tegola viene sistemata. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-285",
+      "title": "Il cestino della piazza",
+      "setting": "piazza",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in piazza e notò che un cestino è rovesciato. Era un dettaglio facile da ignorare, ma rendeva difficile evitare che la carta voli. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il vento lo ha spinto. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene piazza. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che la carta voli. il cestino viene fissato. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-286",
+      "title": "La campana del porto",
+      "setting": "porto",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e notò che la campana suona male. Era un dettaglio facile da ignorare, ma rendeva difficile segnalare l'ingresso. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: la corda è aggrovigliata. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene porto. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente segnalare l'ingresso. la corda viene liberata. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-287",
+      "title": "Il vaso del giardino",
+      "setting": "giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in giardino e notò che un vaso è sul bordo del vialetto. Era un dettaglio facile da ignorare, ma rendeva difficile evitare che cada. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: un ramo lo ha spinto. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene giardino. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che cada. il vaso viene spostato. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-288",
+      "title": "La scala del faro",
+      "setting": "faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in faro e notò che un gradino è scivoloso. Era un dettaglio facile da ignorare, ma rendeva difficile salire in sicurezza. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: la condensa ha bagnato il metallo. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene faro. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente salire in sicurezza. il gradino viene asciugato. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-289",
+      "title": "La barca della baia",
+      "setting": "baia",
+      "animal": "delfino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in baia e notò che la barca tocca il fondo. Era un dettaglio facile da ignorare, ma rendeva difficile raggiungere il pontile. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: la marea è scesa. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene baia. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere il pontile. viene scelta una rotta più profonda. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-290",
+      "title": "La porta del mulino",
+      "setting": "mulino",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in mulino e notò che la porta non si apre completamente. Era un dettaglio facile da ignorare, ma rendeva difficile raggiungere la ruota. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: un sacco è dietro il battente. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene mulino. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la ruota. il sacco viene spostato. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-291",
+      "title": "Il sentiero della neve",
+      "setting": "villaggio innevato",
+      "animal": "volpe",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio innevato e notò che un cartello è coperto. Era un dettaglio facile da ignorare, ma rendeva difficile trovare il percorso. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: la neve ha nascosto la freccia. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene villaggio innevato. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente trovare il percorso. il cartello viene liberato. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-292",
+      "title": "La finestra del teatro",
+      "setting": "teatro",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in teatro e notò che una finestra resta aperta. Era un dettaglio facile da ignorare, ma rendeva difficile proteggere i costumi. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il fermo è rotto. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene teatro. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere i costumi. il fermo viene riparato. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-293",
+      "title": "Il ponte del giardino",
+      "setting": "giardino",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in giardino e notò che una passerella è umida. Era un dettaglio facile da ignorare, ma rendeva difficile attraversare senza scivolare. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: l'irrigazione ha bagnato il legno. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene giardino. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente attraversare senza scivolare. il passaggio viene asciugato. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    },
+    {
+      "id": "RM-294",
+      "title": "La luce del sentiero",
+      "setting": "bosco",
+      "animal": "lucciola",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco e notò che una lanterna illumina poco. Era un dettaglio facile da ignorare, ma rendeva difficile vedere il sentiero al crepuscolo. Si fermò quindi a osservare ciò che aveva intorno, cercando il cambiamento che aveva dato origine al problema.",
+        "{{ANIMALE}} era poco distante e si muoveva normalmente. {{PROTAGONISTA}} seguì per un momento il suo percorso e notò un indizio vicino alla zona interessata. Qualcosa era fuori posto. Non era ancora la risposta, ma indicava dove guardare meglio.",
+        "L'indizio portò {{PROTAGONISTA}} alla causa: il vetro è coperto di polvere. Ora il problema aveva una spiegazione. La soluzione, però, doveva essere abbastanza precisa da sistemare quel punto senza danneggiare il resto del luogo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene bosco. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre il lavoro cominciava.",
+        "Il primo tentativo sembrò riuscire, ma durò poco. Un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} tornò sull'indizio iniziale e capì che aveva risolto soltanto la parte più evidente del problema.",
+        "Con più attenzione, {{PROTAGONISTA}} intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché una buona soluzione doveva continuare a funzionare anche senza essere sorvegliata.",
+        "Questa volta tutto rimase stabile. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere il sentiero al crepuscolo. il vetro viene pulito. Il luogo tornò così a essere sicuro e utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il punto che aveva creato il problema. Sembrava un dettaglio insignificante, ma aveva insegnato una cosa importante: per trovare una soluzione bisogna imparare a leggere i piccoli cambiamenti del luogo."
+      ]
+    }
+  ]
+}
