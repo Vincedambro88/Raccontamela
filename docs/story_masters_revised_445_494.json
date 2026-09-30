@@ -1,0 +1,806 @@
+{
+  "version": 2,
+  "status": "editorial-rewrite",
+  "stories": [
+    {
+      "id": "RM-445",
+      "title": "Il ponte della nebbia",
+      "setting": "valle",
+      "animal": "cervo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle e si accorse che la nebbia nasconde il primo tratto. Era un dettaglio piccolo, ma rendeva difficile raggiungere il rifugio. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: l'umidità ha ridotto la visibilità. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene valle. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere il rifugio. il percorso viene rimandato finché il ponte torna visibile. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-446",
+      "title": "La finestra sul mare",
+      "setting": "costa",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in costa e si accorse che una finestra non si chiude. Era un dettaglio piccolo, ma rendeva difficile proteggere la stanza dal vento. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: la sabbia blocca il fermo. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene costa. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere la stanza dal vento. la sabbia viene rimossa. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-447",
+      "title": "Il sentiero delle betulle",
+      "setting": "bosco",
+      "animal": "lepre",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco e si accorse che un ramo copre il sentiero. Era un dettaglio piccolo, ma rendeva difficile raggiungere la radura. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: il vento lo ha spezzato. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene bosco. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la radura. il passaggio viene liberato. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-448",
+      "title": "La fontana del villaggio",
+      "setting": "villaggio",
+      "animal": "rondine",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e si accorse che l'acqua scorre lentamente. Era un dettaglio piccolo, ma rendeva difficile riempire le borracce. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: una foglia blocca il condotto. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene villaggio. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riempire le borracce. la foglia viene rimossa. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-449",
+      "title": "La barca del mattino",
+      "setting": "lago",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in lago e si accorse che la barca è legata alla riva sbagliata. Era un dettaglio piccolo, ma rendeva difficile riportarla al pontile. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: la corrente ha spostato la cima. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene lago. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riportarla al pontile. la cima viene fissata al palo corretto. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-450",
+      "title": "Il portone della torre",
+      "setting": "castello",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e si accorse che il portone non resta aperto. Era un dettaglio piccolo, ma rendeva difficile far passare i visitatori. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: un cuneo è incastrato sotto il battente. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene castello. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente far passare i visitatori. il cuneo viene tolto. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-451",
+      "title": "Il sentiero del frutteto",
+      "setting": "fattoria",
+      "animal": "pony",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e si accorse che una carriola occupa il passaggio. Era un dettaglio piccolo, ma rendeva difficile raggiungere gli alberi. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: è stata lasciata dopo la raccolta. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene fattoria. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere gli alberi. la carriola viene spostata. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-452",
+      "title": "La lanterna della grotta",
+      "setting": "grotta",
+      "animal": "pipistrello",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in grotta e si accorse che una lanterna è spenta. Era un dettaglio piccolo, ma rendeva difficile segnalare un tratto del percorso. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: il vento ha spento la fiamma. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene grotta. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente segnalare un tratto del percorso. la lanterna viene riparata e protetta. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-453",
+      "title": "Il tetto della biblioteca",
+      "setting": "biblioteca",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in biblioteca e si accorse che una grondaia perde acqua. Era un dettaglio piccolo, ma rendeva difficile proteggere i libri. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: una foglia ha ostruito il canale. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene biblioteca. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere i libri. il canale viene liberato. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-454",
+      "title": "La panchina del prato",
+      "setting": "parco",
+      "animal": "merlo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in parco e si accorse che una tavola è sollevata. Era un dettaglio piccolo, ma rendeva difficile rendere sicura la panchina. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: un fissaggio si è allentato. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene parco. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente rendere sicura la panchina. la tavola viene fissata. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-455",
+      "title": "La corda della barca",
+      "setting": "porto",
+      "animal": "foca",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e si accorse che la corda è troppo vicina all'acqua. Era un dettaglio piccolo, ma rendeva difficile evitare che si impigli. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: il nodo è scivolato lungo il palo. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene porto. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che si impigli. il nodo viene rifatto. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-456",
+      "title": "Il sentiero del castello",
+      "setting": "castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e si accorse che una pozzanghera copre i gradini. Era un dettaglio piccolo, ma rendeva difficile raggiungere il cortile. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: la pioggia ha riempito una buca. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene castello. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere il cortile. viene scelta una parte asciutta. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-457",
+      "title": "La finestra della fattoria",
+      "setting": "fattoria",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e si accorse che un'imposta sbatte. Era un dettaglio piccolo, ma rendeva difficile proteggere il vetro. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: una cerniera è lenta. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene fattoria. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere il vetro. la cerniera viene regolata. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-458",
+      "title": "Il molo del lago",
+      "setting": "lago",
+      "animal": "cigno",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in lago e si accorse che una tavola è bagnata. Era un dettaglio piccolo, ma rendeva difficile raggiungere la barca. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: l'acqua è salita durante la notte. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene lago. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la barca. la zona viene asciugata e segnalata. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-459",
+      "title": "La campana della valle",
+      "setting": "valle",
+      "animal": "stambecco",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle e si accorse che la campana non si vede. Era un dettaglio piccolo, ma rendeva difficile controllare il sentiero. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: la neve l'ha coperta. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene valle. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente controllare il sentiero. la campana viene liberata. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-460",
+      "title": "Il cancello del porto",
+      "setting": "porto",
+      "animal": "pellicano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e si accorse che il cancello striscia a terra. Era un dettaglio piccolo, ma rendeva difficile chiuderlo prima di sera. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: il terreno si è abbassato. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene porto. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente chiuderlo prima di sera. il cancello viene riallineato. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-461",
+      "title": "Il vaso del giardino",
+      "setting": "giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in giardino e si accorse che un vaso è sul bordo del vialetto. Era un dettaglio piccolo, ma rendeva difficile evitare che cada. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: un ramo lo ha spinto. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene giardino. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che cada. il vaso viene spostato. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-462",
+      "title": "La mappa del bosco",
+      "setting": "bosco",
+      "animal": "scoiattolo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco e si accorse che una parte della mappa è coperta di fango. Era un dettaglio piccolo, ma rendeva difficile ritrovare il sentiero. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: è caduta vicino a una pozzanghera. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene bosco. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente ritrovare il sentiero. il percorso viene ricostruito usando gli alberi segnati. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-463",
+      "title": "La rete della spiaggia",
+      "setting": "spiaggia",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in spiaggia e si accorse che una rete vuota è sulla sabbia. Era un dettaglio piccolo, ma rendeva difficile evitare che torni in mare. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: la marea l'ha trascinata a riva. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene spiaggia. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che torni in mare. la rete viene raccolta. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-464",
+      "title": "La scala del faro",
+      "setting": "faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in faro e si accorse che un gradino è umido. Era un dettaglio piccolo, ma rendeva difficile salire in sicurezza. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: la condensa si è raccolta sul metallo. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene faro. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente salire in sicurezza. il gradino viene asciugato. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-465",
+      "title": "Il cancello del pascolo",
+      "setting": "fattoria",
+      "animal": "pecora",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e si accorse che il chiavistello non entra. Era un dettaglio piccolo, ma rendeva difficile chiudere il recinto. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: il legno si è gonfiato con la pioggia. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene fattoria. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente chiudere il recinto. il chiavistello viene regolato. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-466",
+      "title": "La finestra della torre",
+      "setting": "castello",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e si accorse che una tenda copre il vetro. Era un dettaglio piccolo, ma rendeva difficile vedere il cortile. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: il cordone è caduto. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene castello. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere il cortile. la tenda viene raccolta. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-467",
+      "title": "Il ponte del ruscello",
+      "setting": "bosco",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco e si accorse che un sasso rende instabile una tavola. Era un dettaglio piccolo, ma rendeva difficile attraversare il ruscello. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: la piena ha spostato il terreno. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene bosco. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente attraversare il ruscello. la tavola viene rimossa dal passaggio. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-468",
+      "title": "La cesta della piazza",
+      "setting": "villaggio",
+      "animal": "gazza",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e si accorse che una cesta blocca la fontana. Era un dettaglio piccolo, ma rendeva difficile riempire l'acqua. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: è stata lasciata durante il mercato. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene villaggio. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riempire l'acqua. la cesta viene spostata. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-469",
+      "title": "Il sentiero della baia",
+      "setting": "baia",
+      "animal": "delfino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in baia e si accorse che un cartello è inclinato. Era un dettaglio piccolo, ma rendeva difficile ritrovare il punto di accesso. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: la sabbia ha ceduto sotto la base. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene baia. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente ritrovare il punto di accesso. il cartello viene fissato. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-470",
+      "title": "La porta del fienile",
+      "setting": "fattoria",
+      "animal": "cavallo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e si accorse che la porta resta socchiusa. Era un dettaglio piccolo, ma rendeva difficile riparare il fienile dal vento. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: una paglia è incastrata nella guida. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene fattoria. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riparare il fienile dal vento. la paglia viene rimossa. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-471",
+      "title": "La luce della piazza",
+      "setting": "villaggio",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e si accorse che una lampada illumina male. Era un dettaglio piccolo, ma rendeva difficile vedere il gradino della fontana. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: il vetro è sporco. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene villaggio. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere il gradino della fontana. il vetro viene pulito. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-472",
+      "title": "Il sentiero del mulino",
+      "setting": "mulino",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in mulino e si accorse che un sacco è caduto sul passaggio. Era un dettaglio piccolo, ma rendeva difficile raggiungere la ruota. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: si è rotto il laccio durante il trasporto. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene mulino. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la ruota. il sacco viene spostato. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-473",
+      "title": "La barca della laguna",
+      "setting": "laguna",
+      "animal": "airone",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in laguna e si accorse che la barca tocca il fondo. Era un dettaglio piccolo, ma rendeva difficile raggiungere il pontile. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: l'acqua è più bassa del solito. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene laguna. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere il pontile. viene scelta una rotta più profonda. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-474",
+      "title": "Il ponte della spiaggia",
+      "setting": "spiaggia",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in spiaggia e si accorse che una tavola è coperta di sabbia. Era un dettaglio piccolo, ma rendeva difficile vedere il bordo del ponte. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: il vento l'ha accumulata. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene spiaggia. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere il bordo del ponte. la sabbia viene spazzata via. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-475",
+      "title": "La porta della serra",
+      "setting": "serra",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in serra e si accorse che la porta lascia entrare troppo vento. Era un dettaglio piccolo, ma rendeva difficile proteggere le piantine. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: la guarnizione è uscita dalla sede. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene serra. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere le piantine. la guarnizione viene rimessa. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-476",
+      "title": "Il sentiero della montagna",
+      "setting": "montagna",
+      "animal": "marmotta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in montagna e si accorse che un segnale è piegato. Era un dettaglio piccolo, ma rendeva difficile seguire il percorso corretto. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: la neve ha premuto sul palo. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene montagna. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente seguire il percorso corretto. il segnale viene raddrizzato. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-477",
+      "title": "La fontana del castello",
+      "setting": "castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e si accorse che il getto dell'acqua è debole. Era un dettaglio piccolo, ma rendeva difficile riempire una brocca. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: un sassolino è nel beccuccio. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene castello. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riempire una brocca. il beccuccio viene pulito. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-478",
+      "title": "Il molo della nebbia",
+      "setting": "porto",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e si accorse che una luce è difficile da vedere. Era un dettaglio piccolo, ma rendeva difficile segnalare il bordo del molo. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: la nebbia riflette la luce verso il basso. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene porto. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente segnalare il bordo del molo. viene aggiunto un segnale più vicino a terra. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-479",
+      "title": "La panchina della collina",
+      "setting": "collina",
+      "animal": "lepre",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in collina e si accorse che una vite sporge dal legno. Era un dettaglio piccolo, ma rendeva difficile evitare che qualcuno si graffi. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: il legno si è ritirato con il freddo. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene collina. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che qualcuno si graffi. la vite viene fissata. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-480",
+      "title": "Il tetto del fienile",
+      "setting": "fattoria",
+      "animal": "rondine",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e si accorse che un piccolo foro lascia passare la pioggia. Era un dettaglio piccolo, ma rendeva difficile proteggere il fieno. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: una tegola si è spostata. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene fattoria. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere il fieno. la tegola viene riposizionata. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-481",
+      "title": "La corda del pozzo",
+      "setting": "villaggio",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e si accorse che la corda è consumata. Era un dettaglio piccolo, ma rendeva difficile recuperare il secchio. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: l'uso ripetuto ha sfilacciato le fibre. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene villaggio. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente recuperare il secchio. la corda viene sostituita. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-482",
+      "title": "La finestra del museo",
+      "setting": "museo",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in museo e si accorse che un riflesso impedisce di vedere un quadro. Era un dettaglio piccolo, ma rendeva difficile guardare l'opera. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: la luce entra direttamente dal vetro. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene museo. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente guardare l'opera. la tenda viene regolata. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-483",
+      "title": "Il sentiero del fiume",
+      "setting": "fiume",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fiume e si accorse che una passerella è coperta d'acqua. Era un dettaglio piccolo, ma rendeva difficile raggiungere l'altra riva. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: il livello del fiume è salito. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene fiume. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere l'altra riva. viene scelta una passerella più alta. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-484",
+      "title": "Il cancello del giardino",
+      "setting": "giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in giardino e si accorse che il cancello tocca il terreno. Era un dettaglio piccolo, ma rendeva difficile chiuderlo bene. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: la terra si è accumulata sotto il battente. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene giardino. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente chiuderlo bene. la terra viene rimossa. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-485",
+      "title": "La lanterna del rifugio",
+      "setting": "montagna",
+      "animal": "capra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in montagna e si accorse che la lanterna è senza vetro. Era un dettaglio piccolo, ma rendeva difficile proteggere la fiamma. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: il vento ha rotto il pannello. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene montagna. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere la fiamma. viene usata una luce alternativa sicura. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-486",
+      "title": "La vela della baia",
+      "setting": "baia",
+      "animal": "delfino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in baia e si accorse che una vela resta arrotolata. Era un dettaglio piccolo, ma rendeva difficile preparare la barca. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: la cima si è incastrata. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene baia. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente preparare la barca. la cima viene liberata. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-487",
+      "title": "Il sentiero della biblioteca",
+      "setting": "biblioteca",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in biblioteca e si accorse che una scatola occupa il corridoio. Era un dettaglio piccolo, ma rendeva difficile raggiungere lo scaffale. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: è stata lasciata durante una consegna. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene biblioteca. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere lo scaffale. la scatola viene sistemata. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-488",
+      "title": "La ruota del pozzo",
+      "setting": "villaggio",
+      "animal": "asino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e si accorse che la ruota gira male. Era un dettaglio piccolo, ma rendeva difficile sollevare il secchio. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: un granello di sabbia blocca l'asse. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene villaggio. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente sollevare il secchio. l'asse viene pulito. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-489",
+      "title": "Il sentiero del faro",
+      "setting": "costa",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in costa e si accorse che un tratto è coperto di alghe. Era un dettaglio piccolo, ma rendeva difficile raggiungere la scogliera. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: la marea ha lasciato alghe sulle pietre. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene costa. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la scogliera. il tratto viene evitato. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-490",
+      "title": "La porta del teatro",
+      "setting": "teatro",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in teatro e si accorse che la porta cigola durante le prove. Era un dettaglio piccolo, ma rendeva difficile evitare il rumore. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: una cerniera è asciutta. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene teatro. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare il rumore. la cerniera viene lubrificata. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-491",
+      "title": "Il ponte della cascata",
+      "setting": "valle",
+      "animal": "camoscio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle e si accorse che un corrimano è allentato. Era un dettaglio piccolo, ma rendeva difficile passare in sicurezza. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: l'umidità ha indebolito il fissaggio. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene valle. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente passare in sicurezza. il corrimano viene serrato. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-492",
+      "title": "La cesta del lago",
+      "setting": "lago",
+      "animal": "anatra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in lago e si accorse che una cesta è rimasta vicino all'acqua. Era un dettaglio piccolo, ma rendeva difficile evitare che venga trascinata via. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: il vento ha spostato il telo che la copriva. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene lago. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che venga trascinata via. la cesta viene portata al riparo. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-493",
+      "title": "Il cartello del mercato",
+      "setting": "mercato",
+      "animal": "gazza",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in mercato e si accorse che un cartello indica la bancarella sbagliata. Era un dettaglio piccolo, ma rendeva difficile trovare il banco giusto. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: è stato spostato durante l'allestimento. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene mercato. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente trovare il banco giusto. il cartello viene riposizionato. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    },
+    {
+      "id": "RM-494",
+      "title": "Il vetro della serra",
+      "setting": "serra",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in serra e si accorse che un vetro è appannato. Era un dettaglio piccolo, ma rendeva difficile controllare le piante. Prima di muoversi, osservò il luogo e cercò di capire quale cambiamento avesse provocato quella situazione.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che seguì con gli occhi la direzione indicata. Vicino al problema c'era un particolare fuori posto. Poteva essere il primo indizio.",
+        "L'indizio condusse {{PROTAGONISTA}} alla causa: l'umidità è rimasta intrappolata. Ora il problema aveva una spiegazione concreta. Restava da trovare una soluzione che intervenisse proprio lì, senza creare un nuovo pericolo.",
+        "{{PROTAGONISTA}} chiese consiglio a chi conosceva bene serra. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase lontano mentre preparavano l'intervento.",
+        "Il primo tentativo funzionò soltanto per poco. Il problema tornò e {{PROTAGONISTA}} capì di avere corretto l'effetto, non l'origine. Tornò quindi al punto dell'indizio e lo osservò ancora più attentamente.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi fece un passo indietro e aspettò: la soluzione doveva restare efficace anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente controllare le piante. la serra viene ventilata. Il luogo era tornato ordinato grazie a un intervento preciso e senza sprechi.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto che aveva dato inizio alla vicenda. Sembrava un dettaglio insignificante, eppure conteneva la spiegazione di tutto. {{PROTAGONISTA}} riprese la strada portando con sé quella piccola lezione di attenzione."
+      ]
+    }
+  ]
+}
