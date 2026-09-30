@@ -158,30 +158,7 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
                     _IdeaChip('🐉 Drago', () => _addAnimal('drago fantastico: Fiamma')),
                   ],
                 ),
-                const SizedBox(height: 10),
-                Container(
-                  padding: const EdgeInsets.all(11),
-                  decoration: BoxDecoration(
-                    color: colors.tertiaryContainer.withOpacity(.55),
-                    borderRadius: BorderRadius.circular(14),
-                  ),
-                  child: Row(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Icon(Icons.pets_rounded, size: 19, color: colors.tertiary),
-                      const SizedBox(width: 9),
-                      Expanded(
-                        child: Text(
-                          'Gli animali restano animali: possono correre, saltare, volare, annusare e aiutare nella storia con comportamenti adatti alla loro specie.',
-                          style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                                color: colors.onSurfaceVariant,
-                                height: 1.3,
-                              ),
-                        ),
-                      ),
-                    ],
-                  ),
-                ),
+                const SizedBox(height: 1),
               ],
             ),
           ),
