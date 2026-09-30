@@ -1,0 +1,806 @@
+{
+  "version": 1,
+  "batch": 4,
+  "stories": [
+    {
+      "id": "RM-095",
+      "title": "La neve sulla panchina",
+      "setting": "il parco",
+      "animal": "merlo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il parco e notò subito che la neve aveva coperto la panchina dei semi. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il parco. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il parco tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il parco. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-096",
+      "title": "Il sentiero del pozzo",
+      "setting": "la campagna",
+      "animal": "asino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la campagna e notò subito che una pietra bloccava il sentiero. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la campagna. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la campagna tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la campagna. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-097",
+      "title": "La vela al tramonto",
+      "setting": "la baia",
+      "animal": "delfino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la baia e notò subito che una piccola vela era rimasta lontana dalla riva. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la baia. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la baia tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la baia. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-098",
+      "title": "Il gatto del campanile",
+      "setting": "il villaggio",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio e notò subito che un gatto non riusciva a scendere da un terrazzo. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il villaggio. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il villaggio tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il villaggio. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-099",
+      "title": "La porta della biblioteca",
+      "setting": "la biblioteca",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la biblioteca e notò subito che la porta scricchiolava e si richiudeva da sola. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la biblioteca. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la biblioteca tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la biblioteca. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-100",
+      "title": "Il centesimo seme",
+      "setting": "l'orto",
+      "animal": "scoiattolo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò l'orto e notò subito che un seme era sparito prima della semina. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene l'orto. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. l'orto tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare l'orto. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-101",
+      "title": "La scala del faro",
+      "setting": "il faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il faro e notò subito che una cassetta impediva di aprire la porta della scala. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il faro. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il faro tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il faro. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-102",
+      "title": "Il ruscello nascosto",
+      "setting": "il bosco",
+      "animal": "cervo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco e notò subito che il rumore dell'acqua proveniva da un punto insolito. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il bosco. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il bosco tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il bosco. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-103",
+      "title": "Il cappello del giardiniere",
+      "setting": "il giardino",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il giardino e notò subito che il cappello era finito tra i cespugli. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il giardino. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il giardino tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il giardino. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-104",
+      "title": "Il treno delle otto",
+      "setting": "la stazione",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la stazione e notò subito che un orologio era rimasto indietro. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la stazione. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la stazione tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la stazione. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-105",
+      "title": "La barca del pescatore",
+      "setting": "il porto",
+      "animal": "pellicano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il porto e notò subito che una rete aveva avvolto il remo. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il porto. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il porto tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il porto. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-106",
+      "title": "Il sentiero delle betulle",
+      "setting": "la montagna",
+      "animal": "marmotta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la montagna e notò subito che un albero aveva cancellato una freccia. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la montagna. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la montagna tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la montagna. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-107",
+      "title": "Il sipario azzurro",
+      "setting": "il teatro",
+      "animal": "topo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il teatro e notò subito che il sipario si era impigliato in una ruota. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il teatro. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il teatro tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il teatro. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-108",
+      "title": "La serra dopo la pioggia",
+      "setting": "il giardino botanico",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il giardino botanico e notò subito che l'acqua si era raccolta vicino alle radici. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il giardino botanico. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il giardino botanico tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il giardino botanico. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-109",
+      "title": "Il ponte dei salici",
+      "setting": "il fiume",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il fiume e notò subito che rami avevano ostruito il passaggio dell'acqua. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il fiume. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il fiume tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il fiume. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-110",
+      "title": "La cesta delle mele",
+      "setting": "il villaggio",
+      "animal": "asino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio e notò subito che una cesta era rimasta sulla strada. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il villaggio. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il villaggio tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il villaggio. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-111",
+      "title": "La luce del rifugio",
+      "setting": "la montagna",
+      "animal": "capra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la montagna e notò subito che una lampada non illuminava il sentiero. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la montagna. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la montagna tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la montagna. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-112",
+      "title": "Il cancello della scuola",
+      "setting": "la scuola",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la scuola e notò subito che il cancello non si chiudeva. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la scuola. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la scuola tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la scuola. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-113",
+      "title": "La conchiglia nel faro",
+      "setting": "il faro",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il faro e notò subito che una conchiglia era rimasta sul pavimento. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il faro. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il faro tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il faro. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-114",
+      "title": "Il sentiero delle margherite",
+      "setting": "la collina",
+      "animal": "farfalla",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la collina e notò subito che un nastro era stato trascinato dal vento. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la collina. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la collina tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la collina. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-115",
+      "title": "La ruota dell'acqua",
+      "setting": "il mulino",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il mulino e notò subito che una tavola deviava il flusso. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il mulino. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il mulino tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il mulino. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-116",
+      "title": "Il tetto della serra",
+      "setting": "l'orto",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò l'orto e notò subito che foglie bagnate coprivano il vetro. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene l'orto. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. l'orto tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare l'orto. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-117",
+      "title": "La valigia blu",
+      "setting": "la stazione",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la stazione e notò subito che una valigia era rimasta vicino al binario. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la stazione. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la stazione tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la stazione. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-118",
+      "title": "Il ponte del castello",
+      "setting": "il castello",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il castello e notò subito che una catena si era allentata. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il castello. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il castello tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il castello. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-119",
+      "title": "Il sentiero dei pini",
+      "setting": "il bosco",
+      "animal": "scoiattolo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco e notò subito che un ramo impediva il passaggio. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il bosco. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il bosco tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il bosco. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-120",
+      "title": "La campana del porto",
+      "setting": "il porto",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il porto e notò subito che la corda della campana era troppo corta. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il porto. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il porto tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il porto. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-121",
+      "title": "Il libro delle mappe",
+      "setting": "la biblioteca",
+      "animal": "tartaruga",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la biblioteca e notò subito che una mappa si era arrotolata. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la biblioteca. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la biblioteca tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la biblioteca. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-122",
+      "title": "La fontana ghiacciata",
+      "setting": "il villaggio innevato",
+      "animal": "volpe",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio innevato e notò subito che il ghiaccio aveva chiuso il canale. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il villaggio innevato. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il villaggio innevato tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il villaggio innevato. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-123",
+      "title": "La strada del fienile",
+      "setting": "la fattoria",
+      "animal": "cavallo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria e notò subito che il fango bloccava il carro. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la fattoria. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la fattoria tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la fattoria. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-124",
+      "title": "Il nido sul balcone",
+      "setting": "la casa",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la casa e notò subito che un nido rischiava di cadere. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la casa. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la casa tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la casa. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-125",
+      "title": "La luce del museo",
+      "setting": "il museo",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il museo e notò subito che una tenda copriva la luce. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il museo. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il museo tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il museo. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-126",
+      "title": "Il remo perduto",
+      "setting": "il lago",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il lago e notò subito che un remo era incastrato tra due tronchi. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il lago. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il lago tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il lago. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-127",
+      "title": "Il ponte della piazza",
+      "setting": "la città",
+      "animal": "piccione",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la città e notò subito che una tavola era rimasta vicino al cantiere. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la città. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la città tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la città. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-128",
+      "title": "La finestra sul lago",
+      "setting": "la casa sul lago",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la casa sul lago e notò subito che il vento aveva fatto cadere una tenda. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la casa sul lago. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la casa sul lago tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la casa sul lago. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-129",
+      "title": "Il prato dopo la festa",
+      "setting": "il parco",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il parco e notò subito che piccoli oggetti erano rimasti nell'erba. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il parco. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il parco tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il parco. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-130",
+      "title": "Il sentiero del castello",
+      "setting": "il castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il castello e notò subito che la pioggia aveva creato fango. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il castello. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il castello tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il castello. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-131",
+      "title": "La barca nel canale",
+      "setting": "il villaggio",
+      "animal": "anatra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio e notò subito che una barca aveva attraversato il canale. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il villaggio. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il villaggio tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il villaggio. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-132",
+      "title": "Il vento alla finestra",
+      "setting": "la scuola",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la scuola e notò subito che un cartellone bloccava una finestra. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la scuola. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la scuola tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la scuola. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-133",
+      "title": "La cesta del mercato",
+      "setting": "il mercato",
+      "animal": "gazza",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il mercato e notò subito che un nastro era finito nella frutta. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il mercato. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il mercato tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il mercato. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-134",
+      "title": "Il sentiero del ghiaccio",
+      "setting": "la valle",
+      "animal": "stambecco",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la valle e notò subito che una lastra copriva il passaggio. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la valle. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la valle tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la valle. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-135",
+      "title": "La torre sul lago",
+      "setting": "il lago",
+      "animal": "airone",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il lago e notò subito che una porta lasciava entrare il vento. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il lago. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il lago tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il lago. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-136",
+      "title": "Il giardino d'autunno",
+      "setting": "il giardino botanico",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il giardino botanico e notò subito che le foglie coprivano le targhette. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il giardino botanico. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il giardino botanico tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il giardino botanico. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-137",
+      "title": "Il faro e la corda",
+      "setting": "il faro",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il faro e notò subito che una corda formava un groviglio. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il faro. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il faro tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il faro. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-138",
+      "title": "Il sentiero dei cervi",
+      "setting": "la valle",
+      "animal": "cervo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la valle e notò subito che le impronte attraversavano una zona nuova. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la valle. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la valle tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la valle. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-139",
+      "title": "La finestra del teatro",
+      "setting": "il teatro",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il teatro e notò subito che le foglie entravano sul palco. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il teatro. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il teatro tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il teatro. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-140",
+      "title": "Il piccolo ponte",
+      "setting": "il villaggio",
+      "animal": "capra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio e notò subito che una tavola era allentata. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il villaggio. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il villaggio tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il villaggio. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-141",
+      "title": "La pioggia nell'orto",
+      "setting": "l'orto",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò l'orto e notò subito che un canale era pieno di terra. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene l'orto. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. l'orto tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare l'orto. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-142",
+      "title": "Il sentiero della spiaggia",
+      "setting": "la spiaggia",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la spiaggia e notò subito che un cartello era caduto. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la spiaggia. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la spiaggia tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la spiaggia. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-143",
+      "title": "La porta del rifugio",
+      "setting": "la montagna",
+      "animal": "marmotta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la montagna e notò subito che la neve bloccava la soglia. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la montagna. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. la montagna tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare la montagna. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    },
+    {
+      "id": "RM-144",
+      "title": "Il segreto del vecchio albero",
+      "setting": "il bosco",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco e notò subito che un ramo cavo suonava al vento. {{ANIMALE}} era vicino e sembrava aver notato la stessa cosa. Invece di intervenire subito, {{PROTAGONISTA}} rimase a osservare il luogo, ascoltando i rumori e guardando ciò che era cambiato.",
+        "Il primo indizio comparve poco distante. C'era una traccia precisa: un segno sul terreno, un oggetto spostato, una corda fuori posto o una piccola variazione nell'acqua. {{ANIMALE}} si mosse verso quel punto e poi si fermò. {{PROTAGONISTA}} capì che l'indizio poteva spiegare l'origine del problema.",
+        "Seguendo il dettaglio, {{PROTAGONISTA}} ricostruì quello che era successo. Il vento, la pioggia, il peso o il movimento di qualcuno aveva modificato qualcosa nel luogo. La soluzione non era forzare l'ostacolo: bisognava capire quale parte fosse davvero fuori posto.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il bosco. Insieme controllarono la situazione senza correre rischi. {{PROTAGONISTA}} raccontò ciò che aveva osservato e l'adulto mostrò come intervenire. {{ANIMALE}} rimase a distanza, seguendo ogni movimento.",
+        "Il lavoro cominciò lentamente. Prima venne liberato il passaggio, poi sistemato l'oggetto che aveva provocato il problema. Ogni gesto veniva controllato prima del successivo. Per un momento sembrò che tutto fosse risolto, ma {{PROTAGONISTA}} notò un ultimo particolare che non tornava.",
+        "Quel particolare spiegava perché il problema avrebbe potuto ripresentarsi. L'adulto lo sistemò e controllò ancora una volta il luogo. Questa volta nulla spingeva, tirava, bloccava o perdeva dove non avrebbe dovuto. {{ANIMALE}} si avvicinò soltanto quando la situazione fu sicura.",
+        "Il cambiamento fu immediato. il bosco tornò tranquillo e {{ANIMALE}} riprese il proprio comportamento. {{PROTAGONISTA}} guardò il punto da cui era iniziata la storia e riconobbe il piccolo indizio che aveva visto all'inizio. Sembrava insignificante, ma aveva indicato la strada giusta.",
+        "Prima di tornare a casa, {{PROTAGONISTA}} rimase ancora un momento a osservare il bosco. {{ANIMALE}} si allontanò lungo il proprio percorso. Quel giorno {{PROTAGONISTA}} aveva scoperto che osservare con attenzione può trasformare un piccolo inconveniente in una storia, e che una buona soluzione comincia spesso da una domanda semplice."
+      ]
+    }
+  ]
+}
