@@ -10,6 +10,7 @@ void main() {
         city: 'Rimini',
         friends: ['Anna', 'Marco'],
         animalFriends: ['Milo'],
+        animal: 'cane',
         locale: 'it',
       ),
     );
