@@ -22,6 +22,7 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
   final friendsController = TextEditingController();
   final animalsController = TextEditingController();
   bool generating = false;
+  String? selectedAnimal;
 
   @override
   void dispose() {
@@ -132,33 +133,47 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
           _SectionCard(
             accent: colors.secondary,
             number: '3',
-            icon: Icons.groups_rounded,
-            title: 'Gli amici dell’avventura',
-            subtitle: 'Chi viene con te?',
+            icon: Icons.pets_rounded,
+            title: 'L’animale protagonista',
+            subtitle: 'Scegli l’animale che accompagnerà questa storia.',
             child: Column(
               children: [
+                DropdownButtonFormField<String>(
+                  initialValue: selectedAnimal,
+                  decoration: const InputDecoration(
+                    labelText: 'Animale *',
+                    prefixIcon: Icon(Icons.pets_rounded),
+                  ),
+                  items: const [
+                    DropdownMenuItem(value: 'cane', child: Text('🐶 Cane')),
+                    DropdownMenuItem(value: 'gatto', child: Text('🐱 Gatto')),
+                    DropdownMenuItem(value: 'coniglio', child: Text('🐰 Coniglio')),
+                    DropdownMenuItem(value: 'volpe', child: Text('🦊 Volpe')),
+                    DropdownMenuItem(value: 'orso', child: Text('🐻 Orso')),
+                    DropdownMenuItem(value: 'cavallo', child: Text('🐴 Cavallo')),
+                    DropdownMenuItem(value: 'gufo', child: Text('🦉 Gufo')),
+                    DropdownMenuItem(value: 'pappagallo', child: Text('🦜 Pappagallo')),
+                    DropdownMenuItem(value: 'delfino', child: Text('🐬 Delfino')),
+                    DropdownMenuItem(value: 'drago', child: Text('🐉 Drago fantastico')),
+                  ],
+                  onChanged: (value) => setState(() {
+                    selectedAnimal = value;
+                    animalsController.text = value ?? '';
+                  }),
+                ),
+                const SizedBox(height: 12),
                 _field(
                   l10n.friends,
                   friendsController,
                   hint: l10n.friendsHint,
                 ),
-                const SizedBox(height: 10),
-                _field(
-                  l10n.animalFriends,
-                  animalsController,
-                  hint: 'Es. cane: Milo, gatto: Luna',
+                const SizedBox(height: 8),
+                Text(
+                  'Puoi cambiare animale ogni volta che crei una nuova storia.',
+                  style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                        color: colors.onSurfaceVariant,
+                      ),
                 ),
-                const SizedBox(height: 9),
-                Wrap(
-                  spacing: 7,
-                  runSpacing: 7,
-                  children: [
-                    _IdeaChip('🐶 Cane', () => _addAnimal('cane: Milo')),
-                    _IdeaChip('🐱 Gatto', () => _addAnimal('gatto: Luna')),
-                    _IdeaChip('🐉 Drago', () => _addAnimal('drago fantastico: Fiamma')),
-                  ],
-                ),
-                const SizedBox(height: 1),
               ],
             ),
           ),
@@ -251,10 +266,11 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
     final l10n = AppLocalizations.of(context)!;
     final protagonist = protagonistController.text.trim();
     final setting = settingController.text.trim();
+    final animal = selectedAnimal;
 
-    if (protagonist.isEmpty || setting.isEmpty) {
+    if (protagonist.isEmpty || setting.isEmpty || animal == null) {
       ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text(l10n.requiredFields)),
+        SnackBar(content: Text(animal == null ? 'Scegli anche un animale.' : l10n.requiredFields)),
       );
       return;
     }
@@ -277,7 +293,8 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
           setting: setting,
           city: setting,
           friends: friends,
-          animalFriends: animals,
+          animalFriends: [animal],
+          animal: animal,
           locale: locale,
         ),
       );
