@@ -25,79 +25,88 @@ type Body = {
 
 async function generateImage(prompt: string, _model: string, seed: number) {
   const host = "https://black-forest-labs-flux-1-schnell.hf.space";
-  const submit = await fetch(host + "/gradio_api/call/infer", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      data: [prompt, seed, false, 1024, 1344, 4],
-    }),
-  });
+  let lastError = "unknown error";
 
-  if (!submit.ok) {
-    throw new Error("Hugging Face image submit error " + submit.status + ": " + await submit.text());
-  }
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      const submit = await fetch(host + "/gradio_api/call/infer", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ data: [prompt, seed, false, 1024, 1344, 4] }),
+      });
 
-  const submitted = await submit.json() as { event_id?: string };
-  if (!submitted.event_id) throw new Error("Hugging Face image generation did not return an event id");
-
-  const resultResponse = await fetch(host + "/gradio_api/call/infer/" + submitted.event_id);
-  if (!resultResponse.ok) {
-    throw new Error("Hugging Face image result error " + resultResponse.status + ": " + await resultResponse.text());
-  }
-
-  const stream = await resultResponse.text();
-  const completeLine = stream.split("\n").reverse().find((line) =>
-    line.startsWith("data: ") && line.trim() !== "data: [DONE]"
-  );
-  if (!completeLine) throw new Error("Hugging Face image generation returned no completed result");
-
-  let data: unknown;
-  try {
-    data = JSON.parse(completeLine.slice(6));
-  } catch {
-    throw new Error("Invalid Hugging Face image result");
-  }
-
-  const findUrl = (value: unknown): string | null => {
-    if (typeof value === "string") {
-      if (value.startsWith("http://") || value.startsWith("https://")) return value;
-      return null;
-    }
-    if (Array.isArray(value)) {
-      for (const item of value) {
-        const found = findUrl(item);
-        if (found) return found;
+      if (!submit.ok) {
+        throw new Error("Hugging Face submit error " + submit.status + ": " + await submit.text());
       }
-      return null;
-    }
-    if (value && typeof value === "object") {
-      const record = value as Record<string, unknown>;
-      for (const key of ["url", "path", "image"]) {
-        const raw = record[key];
-        if (typeof raw === "string") {
-          if (raw.startsWith("http://") || raw.startsWith("https://")) return raw;
-          if (raw.startsWith("/")) return host + raw;
-          if (raw.startsWith("file=")) return host + "/" + raw;
+
+      const submitted = await submit.json() as { event_id?: string };
+      if (!submitted.event_id) throw new Error("No Hugging Face event id");
+
+      const resultResponse = await fetch(host + "/gradio_api/call/infer/" + submitted.event_id);
+      if (!resultResponse.ok) {
+        throw new Error("Hugging Face result error " + resultResponse.status + ": " + await resultResponse.text());
+      }
+
+      const stream = await resultResponse.text();
+      const blocks = stream.split(/(?=event: )/g);
+      const completeBlock = blocks.reverse().find((block) => block.includes("event: complete"));
+      if (!completeBlock) throw new Error("Hugging Face generation did not complete");
+
+      const dataLine = completeBlock.split("\n").find((line) => line.startsWith("data: "));
+      if (!dataLine) throw new Error("Hugging Face completion contained no data");
+
+      let data: unknown;
+      try {
+        data = JSON.parse(dataLine.slice(6));
+      } catch {
+        throw new Error("Invalid Hugging Face completion data");
+      }
+
+      const findImageUrl = (value: unknown): string | null => {
+        if (typeof value !== "string") return null;
+        if (value.startsWith("https://") || value.startsWith("http://")) return value;
+        if (value.startsWith("/file=")) return host + value;
+        if (value.startsWith("file=")) return host + "/" + value;
+        if (value.includes("/tmp/") || value.endsWith(".png") || value.endsWith(".jpg") || value.endsWith(".webp")) {
+          return host + "/file=" + value.replace(/^\\/+/, "");
         }
-        const found = findUrl(raw);
-        if (found) return found;
+        return null;
+      };
+
+      const walk = (value: unknown): string | null => {
+        const direct = findImageUrl(value);
+        if (direct) return direct;
+        if (Array.isArray(value)) {
+          for (const item of value) {
+            const found = walk(item);
+            if (found) return found;
+          }
+        } else if (value && typeof value === "object") {
+          for (const item of Object.values(value as Record<string, unknown>)) {
+            const found = walk(item);
+            if (found) return found;
+          }
+        }
+        return null;
+      };
+
+      const imageUrl = walk(data);
+      if (!imageUrl) throw new Error("Hugging Face completion returned no image URL");
+
+      const imageResponse = await fetch(imageUrl);
+      if (!imageResponse.ok) {
+        throw new Error("Hugging Face image download error " + imageResponse.status);
       }
-      for (const item of Object.values(record)) {
-        const found = findUrl(item);
-        if (found) return found;
-      }
+      const bytes = new Uint8Array(await imageResponse.arrayBuffer());
+      if (bytes.length < 10000) throw new Error("Generated image is unexpectedly small");
+      return bytes;
+    } catch (error) {
+      lastError = error instanceof Error ? error.message : String(error);
+      if (attempt < 2) await new Promise((resolve) => setTimeout(resolve, 2500));
     }
-    return null;
-  };
-
-  const imageUrl = findUrl(data);
-  if (!imageUrl) throw new Error("Hugging Face image generation returned no image URL");
-
-  const imageResponse = await fetch(imageUrl);
-  if (!imageResponse.ok) {
-    throw new Error("Hugging Face image download error " + imageResponse.status + ": " + await imageResponse.text());
   }
-  return new Uint8Array(await imageResponse.arrayBuffer());
+
+  throw new Error(lastError);
 }
 
 async function verifyMediaToken(story: unknown, token: string, serviceKey: string) {
