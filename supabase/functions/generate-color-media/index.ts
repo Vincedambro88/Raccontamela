@@ -88,7 +88,6 @@ Deno.serve(async (req) => {
     const generateScene = async (scene: { index: number; text: string }) => {
       try {
         const visualAction = body.story.sceneVisuals?.[String(scene.index)] || scene.text;
-        const visualAction = body.story.sceneVisuals?.[String(scene.index)] || scene.text;
         const prompt = `Full-color children's picture-book page illustration for Raccontamela. Warm, cinematic, whimsical, age-appropriate, consistent children's picture-book style. This is one exact page of a continuous 8-page story, so preserve the same characters, animal anatomy and location from page to page.
 
 CHARACTER AND LOCATION CONTINUITY BIBLE:
