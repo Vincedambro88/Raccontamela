@@ -265,7 +265,7 @@ async function mediaTokenFor(story: unknown, serviceKey: string) {
   const payload = `${fingerprint}.${exp}`;
   const key = await crypto.subtle.importKey("raw", new TextEncoder().encode(serviceKey), { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
   const signature = await crypto.subtle.sign("HMAC", key, new TextEncoder().encode(payload));
-  const sig = btoa(String.fromCharCode(...new Uint8Array(signature))).replace(/\\+/g, "-").replace(/\\//g, "_").replace(/=+$/, "");
+  const sig = btoa(String.fromCharCode(...new Uint8Array(signature))).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
   return `${payload}.${sig}`;
 }
 
