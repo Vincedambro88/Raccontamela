@@ -23,7 +23,18 @@ type Body = {
   mediaToken?: string;
 };
 
-async function openAi(body: unknown, key: string) {
+async function pixazo(body: unknown, key: string) {
+  const response = await fetch("https://gateway.pixazo.ai/flux/text-to-image", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Ocp-Apim-Subscription-Key": key,
+    },
+    body: JSON.stringify(body),
+  });
+  if (!response.ok) throw new Error(`Pixazo error ${response.status}: ${await response.text()}`);
+  return response.json();
+}
   const response = await fetch("https://api.openai.com/v1/images/generations", {
     method: "POST",
     headers: { Authorization: `Bearer ${key}`, "Content-Type": "application/json" },
@@ -47,20 +58,13 @@ async function verifyMediaToken(story: unknown, token: string, serviceKey: strin
   return crypto.subtle.verify("HMAC", key, sig, new TextEncoder().encode(payload));
 }
 
-function b64ToBytes(value: string) {
-  const raw = atob(value);
-  const bytes = new Uint8Array(raw.length);
-  for (let i = 0; i < raw.length; i++) bytes[i] = raw.charCodeAt(i);
-  return bytes;
-}
-
 Deno.serve(async (req) => {
   if (req.method === "OPTIONS") return new Response("ok", { headers: cors });
   if (req.method !== "POST") return new Response(JSON.stringify({ error: "Method not allowed" }), { status: 405, headers: { ...cors, "Content-Type": "application/json" } });
 
   try {
-    const key = Deno.env.get("OPENAI_API_KEY");
-    if (!key) throw new Error("Media provider is not configured");
+    const key = Deno.env.get("PIXAZO_API_KEY");
+    if (!key) throw new Error("Pixazo API key is not configured");
     const body = await req.json() as Body;
     if (!body.story?.title || !Array.isArray(body.story.scenes) || !body.story.scenes.length) throw new Error("Invalid story payload");
 
@@ -93,14 +97,14 @@ Deno.serve(async (req) => {
         throw new Error("Invalid or expired media token");
       }
     }
-    const model = Deno.env.get("OPENAI_IMAGE_MODEL") || "gpt-image-2";
+    const model = Deno.env.get("PIXAZO_IMAGE_MODEL") || "flux-schnell";
     const results: unknown[] = [];
 
 
     const generateScene = async (scene: { index: number; text: string }) => {
       try {
         const visualAction = body.story.sceneVisuals?.[String(scene.index)] || scene.text;
-        const json = await openAi({
+        const json = await pixazo({
           model,
           prompt: `Full-color children's picture-book page illustration for Raccontamela. Warm, cinematic, whimsical, age-appropriate, consistent children's picture-book style. This is one exact page of a continuous 8-page story, so preserve the same characters, animal anatomy and location from page to page.
 
@@ -119,14 +123,18 @@ EXACT PAGE TEXT:
 ${scene.text}
 
 Show the main action from this page clearly. Keep important objects and clues consistent with the story. Do not add unrelated characters, locations or events. Do not include any text, letters, speech bubbles, captions or page numbers in the image because the app renders the page text above the illustration.`,
-          size: "1024x1024",
+          width: 1024,
+          height: 1024,
         }, key);
-        const image = json.data?.[0]?.b64_json;
-        if (!image) throw new Error("Image provider returned no image");
+        const imageUrl = json.media_url ?? json.output?.media_url ?? json.output ?? json.url;
+        if (typeof imageUrl !== "string" || !imageUrl.startsWith("http")) throw new Error("Pixazo returned no image URL");
+        const imageResponse = await fetch(imageUrl);
+        if (!imageResponse.ok) throw new Error(`Failed to download generated image: ${imageResponse.status}`);
+        const imageBytes = new Uint8Array(await imageResponse.arrayBuffer());
         const path = `${prefix}/scene-${scene.index}-color.png`;
         const { error } = await admin.storage.from("story-assets").upload(
           path,
-          b64ToBytes(image),
+          imageBytes,
           { contentType: "image/png", upsert: true },
         );
         if (error) throw error;
