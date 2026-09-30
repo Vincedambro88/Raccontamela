@@ -1,0 +1,70 @@
+{
+  "version": 7,
+  "status": "editorial-rewrite-v7",
+  "stories": [
+    {
+      "id": "RM-001",
+      "title": "La cosa perduta bosco",
+      "setting": "bosco",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò nel bosco seguendo il sentiero di muschio. Prima di attraversare il vecchio ponte di legno si accorse che l'oggetto che gli serviva non era più nella tasca. {{ANIMALE}} alzò il muso e iniziò a fiutare il terreno.",
+        "{{ANIMALE}} seguì una traccia tra le foglie umide e tornò indietro per chiamare {{PROTAGONISTA}}. Accanto a una radice c'era un piccolo segno: qualcosa era stato trascinato per pochi passi.",
+        "{{PROTAGONISTA}} seguì la pista fino al ponte. Una foglia piegata, un sassolino spostato e un filo d'erba schiacciato mostravano che l'oggetto era passato di lì. {{ANIMALE}} annusò ancora e proseguì verso la riva del sentiero.",
+        "La traccia terminava vicino a un cespuglio. {{PROTAGONISTA}} guardò sotto i rami senza infilare subito le mani: tra le foglie potevano esserci spine. {{ANIMALE}} girò intorno al cespuglio e tornò verso un secondo punto.",
+        "Lì c'era un'impronta più chiara. {{PROTAGONISTA}} capì che l'oggetto doveva essere scivolato quando aveva attraversato il ponte. Cercò sul lato del sentiero, poi sotto una tavola del ponte.",
+        "Il primo tentativo non bastò. {{PROTAGONISTA}} controllò meglio e vide una piccola parte dell'oggetto tra due assi. Con cautela lo raggiunse senza spostare la tavola.",
+        "{{PROTAGONISTA}} ritrovò finalmente l'oggetto. {{ANIMALE}} scodinzolò e tornò sul sentiero. Il bosco era lo stesso di prima, ma ora ogni piccolo segno aveva raccontato una parte della storia.",
+        "Prima di ripartire, {{PROTAGONISTA}} attraversò il ponte con più attenzione. {{ANIMALE}} lo precedette di qualche passo e poi si voltò. La ricerca era finita: non per fortuna, ma perché avevano seguito gli indizi uno alla volta."
+      ]
+    },
+    {
+      "id": "RM-002",
+      "title": "La cosa perduta castello",
+      "setting": "castello",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò nel castello per cercare un oggetto importante che gli serviva nella torre. Nel cortile pieno di rose si accorse che non era più con lui. {{ANIMALE}} si mosse silenziosamente vicino alle pietre del muro.",
+        "{{ANIMALE}} si fermò accanto a una rosa piegata. {{PROTAGONISTA}} guardò meglio e trovò un piccolo segno sulla ghiaia, come se qualcosa fosse stato trascinato verso la torre.",
+        "Seguendo quei dettagli, {{PROTAGONISTA}} attraversò il cortile. Una foglia attaccata a un bordo e una piccola impronta nella polvere indicavano che la pista continuava oltre la porta.",
+        "{{ANIMALE}} entrò per primo e si fermò davanti alla scala. {{PROTAGONISTA}} notò qualcosa tra i gradini: un segno recente che portava verso le finestre alte della torre.",
+        "La pista terminava vicino a una finestra. Il vento aveva mosso una tenda e fatto cadere alcuni piccoli oggetti. {{PROTAGONISTA}} controllò il pavimento senza spostare nulla inutilmente.",
+        "Tra due pietre trovò finalmente un dettaglio familiare. Il primo tentativo non bastò, ma spostando con cura una rosa caduta dal davanzale riuscì a vedere l'oggetto.",
+        "{{PROTAGONISTA}} recuperò ciò che aveva perso. {{ANIMALE}} si sedette accanto a lui, tranquillo. La torre era silenziosa e il cortile di rose tornò a essere il punto di partenza.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò la strada percorsa. Ogni dettaglio minuscolo aveva avuto un ruolo. {{ANIMALE}} tornò nel cortile, e la ricerca si concluse senza fretta."
+      ]
+    },
+    {
+      "id": "RM-003",
+      "title": "Il sentiero sbagliato mare",
+      "setting": "mare",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in una piccola baia con rocce lisce e una barca tirata a riva. Davanti a lui il sentiero si divideva in due. Prese il primo, ma dopo pochi passi capì di essersi allontanato dalla meta.",
+        "{{ANIMALE}} si mosse rapido ma prudente lungo il sentiero basso. {{PROTAGONISTA}} lo seguì e notò che il coniglio evitava le rocce più scure, scegliendo sempre quelle asciutte.",
+        "Il dettaglio fece fermare {{PROTAGONISTA}}. Guardò meglio le rocce: su quelle asciutte c'erano piccoli segni lasciati da chi era passato prima. Il sentiero giusto doveva seguire la parte più stabile della baia.",
+        "{{ANIMALE}} tornò verso il bivio e si fermò davanti al secondo sentiero. {{PROTAGONISTA}} osservò una corda legata a un palo e una fila di conchiglie schiacciate nella sabbia.",
+        "Seguendo quei segnali, i due avanzarono lungo la costa. Il rumore delle onde aumentava, ma il terreno restava compatto. La strada sembrava finalmente riportarli verso la barca.",
+        "Un piccolo tratto era coperto dall'acqua. {{PROTAGONISTA}} non lo attraversò subito: cercò un passaggio più alto. {{ANIMALE}} trovò una curva tra le rocce che permetteva di aggirarlo.",
+        "Il sentiero terminò proprio accanto alla barca. {{PROTAGONISTA}} aveva ritrovato la strada grazie ai segni del luogo, mentre {{ANIMALE}} aveva notato per primo quali rocce fossero sicure.",
+        "Prima di ripartire, {{PROTAGONISTA}} guardò il bivio da lontano. Ora sembrava semplice. Non serviva indovinare: bastava osservare ciò che il mare e il sentiero stavano già mostrando."
+      ]
+    },
+    {
+      "id": "RM-004",
+      "title": "Il sentiero sbagliato montagna",
+      "setting": "montagna",
+      "animal": "volpe",
+      "pages": [
+        "{{PROTAGONISTA}} partì dal rifugio tra pini e rocce, con le nuvole basse sopra la valle. Poco dopo trovò un bivio e scelse il sentiero più largo. Dopo una curva, però, il rifugio scomparve dalla vista.",
+        "{{ANIMALE}} rimase più in alto sul pendio e osservò il terreno. {{PROTAGONISTA}} notò che la volpe evitava una zona franosa e si dirigeva verso un gruppo di pini.",
+        "Tra i pini comparve un vecchio segnale di legno. Non indicava direttamente la meta, ma mostrava che il sentiero proseguiva in quella direzione. {{PROTAGONISTA}} tornò quindi verso il bivio.",
+        "Il secondo sentiero era stretto e coperto di aghi. {{ANIMALE}} lo percorse senza fretta, fermandosi ogni tanto per guardare indietro. {{PROTAGONISTA}} capì che stava seguendo una traccia sicura.",
+        "Più avanti trovarono una roccia con una piccola freccia incisa. Il segno era quasi nascosto dal muschio, ma confermava la direzione.",
+        "Un tratto del sentiero era coperto dalle nuvole basse. {{PROTAGONISTA}} aspettò qualche momento invece di avanzare alla cieca. Quando la nebbia si aprì, vide il passaggio tra due rocce.",
+        "Il sentiero riportò al rifugio. {{ANIMALE}} si fermò vicino all'ingresso e guardò {{PROTAGONISTA}}. La strada giusta era rimasta nascosta finché non avevano imparato a cercare i piccoli segnali.",
+        "Prima di entrare, {{PROTAGONISTA}} osservò ancora i pini e la roccia segnata. Il bivio non era cambiato, ma ora sapeva che in montagna anche un dettaglio minuscolo può indicare la direzione."
+      ]
+    }
+  ]
+}
