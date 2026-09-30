@@ -1,0 +1,806 @@
+{
+  "version": 1,
+  "batch": 5,
+  "stories": [
+    {
+      "id": "RM-145",
+      "title": "Il sentiero delle foglie",
+      "setting": "il bosco",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco e vide subito che un tappeto di foglie nascondeva una radice sporgente. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il bosco. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il bosco era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-146",
+      "title": "La barca di carta",
+      "setting": "il lago",
+      "animal": "anatra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il lago e vide subito che una barchetta di carta era rimasta tra i giunchi. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il lago. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il lago era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-147",
+      "title": "Il campanello della scuola",
+      "setting": "la scuola",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la scuola e vide subito che il campanello suonava con troppo anticipo. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la scuola. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la scuola era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-148",
+      "title": "La finestra del mulino",
+      "setting": "il mulino",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il mulino e vide subito che una finestra vibrava quando girava la ruota. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il mulino. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il mulino era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-149",
+      "title": "Il sasso bianco",
+      "setting": "la montagna",
+      "animal": "stambecco",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la montagna e vide subito che un sasso chiaro segnava un bivio del sentiero. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la montagna. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la montagna era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-150",
+      "title": "La cesta vuota",
+      "setting": "il mercato",
+      "animal": "gazza",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il mercato e vide subito che una cesta sembrava sparita dal banco. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il mercato. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il mercato era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-151",
+      "title": "Il ponte sul canale",
+      "setting": "il villaggio",
+      "animal": "anatra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio e vide subito che un'asse era scivolata dalla passerella. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il villaggio. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il villaggio era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-152",
+      "title": "La luce della soffitta",
+      "setting": "la casa",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la casa e vide subito che una luce filtrava da una soffitta che doveva essere vuota. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la casa. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la casa era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-153",
+      "title": "Il sentiero delle mele",
+      "setting": "la fattoria",
+      "animal": "cavallo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria e vide subito che alcune mele erano cadute sul percorso del carro. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la fattoria. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la fattoria era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-154",
+      "title": "La conchiglia azzurra",
+      "setting": "la spiaggia",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la spiaggia e vide subito che una conchiglia era rimasta incastrata tra gli scogli. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la spiaggia. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la spiaggia era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-155",
+      "title": "Il vento nel museo",
+      "setting": "il museo",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il museo e vide subito che una tenda si muoveva davanti a una teca. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il museo. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il museo era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-156",
+      "title": "Il ponte del torrente",
+      "setting": "la valle",
+      "animal": "capra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la valle e vide subito che l'acqua aveva scavato sotto una pietra del passaggio. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la valle. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la valle era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-157",
+      "title": "La campana del faro",
+      "setting": "il faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il faro e vide subito che la campana non si sentiva dalla banchina. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il faro. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il faro era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-158",
+      "title": "Il nido sul tetto",
+      "setting": "il villaggio",
+      "animal": "rondine",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio e vide subito che un nido era vicino al bordo del tetto. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il villaggio. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il villaggio era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-159",
+      "title": "Il sentiero del castello",
+      "setting": "il castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il castello e vide subito che un cancello laterale era rimasto aperto. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il castello. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il castello era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-160",
+      "title": "La barca al pontile",
+      "setting": "il lago",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il lago e vide subito che una corda si era allentata durante la notte. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il lago. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il lago era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-161",
+      "title": "Il libro caduto",
+      "setting": "la biblioteca",
+      "animal": "scoiattolo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la biblioteca e vide subito che un libro era finito dietro uno scaffale. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la biblioteca. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la biblioteca era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-162",
+      "title": "La ruota del pozzo",
+      "setting": "la campagna",
+      "animal": "asino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la campagna e vide subito che la corda del pozzo non scorreva. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la campagna. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la campagna era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-163",
+      "title": "Il prato silenzioso",
+      "setting": "il parco",
+      "animal": "merlo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il parco e vide subito che una fontanella non lasciava più acqua. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il parco. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il parco era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-164",
+      "title": "La porta del teatro",
+      "setting": "il teatro",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il teatro e vide subito che una porta laterale restava socchiusa. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il teatro. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il teatro era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-165",
+      "title": "La serra al mattino",
+      "setting": "l'orto",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò l'orto e vide subito che un vetro appannato impediva alla luce di entrare. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene l'orto. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. l'orto era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-166",
+      "title": "Il sentiero dei pini",
+      "setting": "la montagna",
+      "animal": "marmotta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la montagna e vide subito che un segnale era nascosto dietro un ramo. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la montagna. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la montagna era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-167",
+      "title": "Il ponte rosso",
+      "setting": "la città",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la città e vide subito che un passaggio pedonale era coperto da foglie. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la città. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la città era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-168",
+      "title": "Il vecchio remo",
+      "setting": "il porto",
+      "animal": "pellicano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il porto e vide subito che un remo era rimasto sulla banchina. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il porto. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il porto era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-169",
+      "title": "La finestra del faro",
+      "setting": "il faro",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il faro e vide subito che il vento faceva sbattere una persiana. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il faro. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il faro era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-170",
+      "title": "Il prato delle margherite",
+      "setting": "la collina",
+      "animal": "farfalla",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la collina e vide subito che un tratto del prato era stato calpestato. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la collina. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la collina era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-171",
+      "title": "Il sentiero dell'acqua",
+      "setting": "il bosco",
+      "animal": "cervo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco e vide subito che una piccola sorgente aveva cambiato percorso. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il bosco. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il bosco era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-172",
+      "title": "La chiave del teatro",
+      "setting": "il teatro",
+      "animal": "topo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il teatro e vide subito che una chiave era caduta dietro una quinta. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il teatro. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il teatro era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-173",
+      "title": "Il cancello blu",
+      "setting": "il giardino",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il giardino e vide subito che il cancello non si apriva completamente. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il giardino. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il giardino era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-174",
+      "title": "La barca dei pescatori",
+      "setting": "la baia",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la baia e vide subito che una rete era rimasta impigliata sotto lo scafo. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la baia. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la baia era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-175",
+      "title": "Il ponte di legno",
+      "setting": "il parco",
+      "animal": "tartaruga",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il parco e vide subito che una tavola era diventata scivolosa. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il parco. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il parco era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-176",
+      "title": "La campana del villaggio",
+      "setting": "il villaggio",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio e vide subito che il suono della campana era diventato più debole. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il villaggio. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il villaggio era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-177",
+      "title": "Il sentiero della neve",
+      "setting": "il villaggio innevato",
+      "animal": "volpe",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio innevato e vide subito che una corda segnava male il percorso. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il villaggio innevato. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il villaggio innevato era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-178",
+      "title": "La fontana del museo",
+      "setting": "il museo",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il museo e vide subito che l'acqua della fontana traboccava. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il museo. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il museo era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-179",
+      "title": "Il tetto della scuola",
+      "setting": "la scuola",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la scuola e vide subito che un pallone era rimasto sulla grondaia. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la scuola. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la scuola era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-180",
+      "title": "Il fiume e il ramo",
+      "setting": "il fiume",
+      "animal": "castoro",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il fiume e vide subito che un ramo aveva rallentato il corso dell'acqua. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il fiume. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il fiume era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-181",
+      "title": "La strada del mercato",
+      "setting": "il mercato",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il mercato e vide subito che una cassetta occupava il passaggio. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il mercato. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il mercato era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-182",
+      "title": "Il nido del giardino",
+      "setting": "il giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il giardino e vide subito che alcuni rami erano caduti vicino a un nido. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il giardino. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il giardino era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-183",
+      "title": "La porta del lago",
+      "setting": "il lago",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il lago e vide subito che una porta di servizio non chiudeva bene. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il lago. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il lago era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-184",
+      "title": "Il sentiero della torre",
+      "setting": "il castello",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il castello e vide subito che la pioggia aveva cancellato parte dei gradini. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il castello. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il castello era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-185",
+      "title": "La vela bianca",
+      "setting": "la baia",
+      "animal": "delfino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la baia e vide subito che una cima si era avvolta attorno al palo. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la baia. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la baia era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-186",
+      "title": "Il prato della fattoria",
+      "setting": "la fattoria",
+      "animal": "gallina",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria e vide subito che un secchio rovesciato aveva fatto una piccola pozzanghera. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la fattoria. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la fattoria era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-187",
+      "title": "Il libro della soffitta",
+      "setting": "la casa",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la casa e vide subito che un libro era rimasto aperto vicino alla finestra. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la casa. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la casa era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-188",
+      "title": "La strada dei girasoli",
+      "setting": "la campagna",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la campagna e vide subito che un cancello bloccava il passaggio verso i campi. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la campagna. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la campagna era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-189",
+      "title": "Il sentiero del faro",
+      "setting": "la costa",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la costa e vide subito che la sabbia aveva coperto le ultime indicazioni. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la costa. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la costa era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-190",
+      "title": "La ruota del carro",
+      "setting": "la fattoria",
+      "animal": "asino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria e vide subito che un fermo era caduto dalla ruota. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la fattoria. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la fattoria era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-191",
+      "title": "Il ponte delle lucciole",
+      "setting": "il prato",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il prato e vide subito che una luce troppo forte disturbava il sentiero. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il prato. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il prato era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-192",
+      "title": "La finestra sul fiume",
+      "setting": "la casa sul fiume",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la casa sul fiume e vide subito che una tenda nascondeva il panorama. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la casa sul fiume. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la casa sul fiume era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-193",
+      "title": "Il piccolo traghetto",
+      "setting": "il fiume",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il fiume e vide subito che una corda impediva al traghetto di partire. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene il fiume. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. il fiume era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    },
+    {
+      "id": "RM-194",
+      "title": "Il sentiero del ghiacciaio",
+      "setting": "la montagna",
+      "animal": "stambecco",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la montagna e vide subito che un segnale era coperto dalla neve. {{ANIMALE}} era poco distante e si fermò a osservare. Il luogo sembrava normale, ma quel piccolo cambiamento attirò l'attenzione di {{PROTAGONISTA}}.",
+        "Prima di fare qualsiasi cosa, {{PROTAGONISTA}} guardò intorno. C'erano segni che raccontavano cosa poteva essere successo: un'impronta, una corda spostata, una traccia nell'acqua o qualcosa fuori dal suo posto. {{ANIMALE}} si avvicinò senza entrare nella zona pericolosa.",
+        "Il dettaglio più importante era proprio quello che sembrava meno interessante. {{PROTAGONISTA}} lo collegò al problema e capì che il vento, la pioggia, l'acqua o un movimento aveva cambiato l'equilibrio del luogo. Non serviva forzare nulla: serviva trovare la causa.",
+        "{{PROTAGONISTA}} chiamò un adulto che conosceva bene la montagna. Insieme controllarono ogni particolare. L'adulto ascoltò l'osservazione di {{PROTAGONISTA}} e spiegò quale intervento fosse sicuro. {{ANIMALE}} rimase vicino, seguendo la scena.",
+        "Cominciarono dal punto più semplice. Liberarono un passaggio, sistemarono un oggetto o recuperarono ciò che era fuori posto. Sembrava tutto risolto, ma {{PROTAGONISTA}} notò un secondo dettaglio che avrebbe potuto far tornare il problema.",
+        "Quel particolare venne sistemato con pazienza. Poi controllarono di nuovo tutto. Questa volta il luogo funzionava come prima: l'acqua scorreva, il vento passava, una porta chiudeva o un sentiero tornava libero. {{ANIMALE}} si avvicinò quando fu sicuro.",
+        "Il risultato si vedeva senza bisogno di spiegazioni. la montagna era tornato tranquillo. {{PROTAGONISTA}} riconobbe l'indizio visto all'inizio e capì quanto fosse importante aver osservato prima di agire.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase ancora un momento. {{ANIMALE}} riprese il proprio percorso e il luogo tornò alla sua vita quotidiana. {{PROTAGONISTA}} portò con sé una piccola certezza: quando qualcosa cambia, anche un dettaglio minuscolo può indicare la strada per capire perché."
+      ]
+    }
+  ]
+}
