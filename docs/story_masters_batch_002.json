@@ -1,0 +1,262 @@
+{
+  "version": 1,
+  "batch": 2,
+  "stories": [
+    {
+      "id": "RM-005",
+      "title": "Il sentiero delle rose",
+      "setting": "il castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il castello quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: il cancello del giardino delle rose è rimasto chiuso e nessuno riesce a trovare la chiave. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} nota alcune foglie schiacciate sotto la siepe; dietro la siepe c'è un vecchio passaggio per il giardino {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. la chiave non era stata persa: era caduta in un vaso rovesciato durante la pioggia {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    },
+    {
+      "id": "RM-006",
+      "title": "Il nido sotto il tetto",
+      "setting": "il villaggio",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: un piccolo nido è caduto dal tetto della bottega del fornaio. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} continua a guardare verso una grondaia; {{PROTAGONISTA}} capisce che gli uccelli stanno cercando di tornare proprio lì {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. il nido viene sistemato in un punto sicuro e gli uccelli possono tornare senza essere disturbati {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    },
+    {
+      "id": "RM-007",
+      "title": "La barca che non partiva",
+      "setting": "la baia",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la baia quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: la piccola barca che doveva attraversare la baia ha una corda incastrata tra le rocce. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} mostra dove l'acqua entra e esce tra le rocce, indicando un punto raggiungibile dalla riva {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. la corda viene liberata senza entrare in acqua e la barca può essere riportata al suo posto {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    },
+    {
+      "id": "RM-008",
+      "title": "Il libro senza numero",
+      "setting": "la biblioteca",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la biblioteca quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: un vecchio libro è stato rimesso nello scaffale sbagliato e nessuno riesce a capire da dove provenga. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} si posa vicino a una finestra e {{PROTAGONISTA}} nota la luce che illumina un timbro quasi cancellato sul dorso {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. il timbro rivela la sezione corretta e il libro torna accanto agli altri della sua collezione {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    },
+    {
+      "id": "RM-009",
+      "title": "Il quadro girato",
+      "setting": "il museo",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il museo quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: un quadro è stato lasciato leggermente inclinato e sul muro compare una piccola traccia di polvere diversa. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} si ferma proprio sotto il quadro; osservando il bordo, {{PROTAGONISTA}} trova un'etichetta caduta dietro la cornice {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. l'etichetta permette di riconoscere il quadro e il custode lo rimette nella posizione corretta {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    },
+    {
+      "id": "RM-010",
+      "title": "Il fischio sul binario",
+      "setting": "la stazione",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la stazione quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: un fischio si sente ogni volta che passa il vento, ma nessuno trova da dove provenga. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} segue l'odore lungo la banchina e si ferma vicino a una vecchia cassetta di segnalazione {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. il vento passa attraverso una fessura della cassetta e produce il fischio; il rumore non nascondeva alcun mistero {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    },
+    {
+      "id": "RM-011",
+      "title": "La lanterna del faro",
+      "setting": "il faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il faro quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: una vecchia lanterna del faro è stata trovata sulla scogliera dopo una notte di vento. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} continua a volare tra la scogliera e il magazzino; {{PROTAGONISTA}} capisce che la lanterna apparteneva a un'attrezzatura conservata lì {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. la lanterna viene riconsegnata al guardiano, che la conserva insieme agli oggetti della storia del faro {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    },
+    {
+      "id": "RM-012",
+      "title": "Il ponticello del parco",
+      "setting": "il parco",
+      "animal": "tartaruga",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il parco quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: il piccolo ponticello sul laghetto è stato chiuso perché una tavola scricchiola. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} attraversa il prato e conduce {{PROTAGONISTA}} a un sentiero più sicuro verso l'altra sponda {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. il ponte viene lasciato chiuso fino alla riparazione e {{PROTAGONISTA}} scopre un percorso alternativo molto più tranquillo {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    },
+    {
+      "id": "RM-013",
+      "title": "Il cancello verde",
+      "setting": "il giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il giardino quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: un cancello rimasto aperto permette agli animali del giardino di uscire verso la strada. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} si muove tra le foglie vicino al cardine; {{PROTAGONISTA}} scopre che una piccola pietra impedisce al cancello di chiudersi {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. la pietra viene rimossa e il cancello torna a chiudersi; il giardino resta sicuro senza spaventare gli animali {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    },
+    {
+      "id": "RM-014",
+      "title": "La cesta del mercato",
+      "setting": "la città",
+      "animal": "volpe",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la città quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: una cesta di mele è caduta vicino al mercato e alcune mele stanno rotolando lungo il vicolo. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} segue le mele fino a un piccolo gradino dove una di esse si è fermata {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. la cesta viene ricomposta e le mele raccolte; il fruttivendolo regala a {{PROTAGONISTA}} una mela da mangiare durante il viaggio {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    },
+    {
+      "id": "RM-015",
+      "title": "La finestra sulle stelle",
+      "setting": "la stazione orbitale",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la stazione orbitale quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: un piccolo pannello davanti a una finestra impedisce di vedere le stelle durante l'osservazione serale. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} si ferma davanti al pannello e {{PROTAGONISTA}} nota che una leva di sicurezza è rimasta bloccata {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. il pannello viene spostato seguendo la procedura della stazione e la finestra torna libera {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    },
+    {
+      "id": "RM-016",
+      "title": "L'impronta nella sabbia",
+      "setting": "l'oasi",
+      "animal": "cammello",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò l'oasi quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: una serie di impronte attraversa l'oasi e arriva vicino alla fonte, dove gli animali devono poter bere. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} riconosce il percorso abituale e porta {{PROTAGONISTA}} verso un punto dove la sabbia è più compatta {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. le impronte appartengono a un animale che passa ogni sera; il gruppo lascia libera la zona della fonte {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    },
+    {
+      "id": "RM-017",
+      "title": "Il sasso che rotolava",
+      "setting": "la grotta",
+      "animal": "pipistrello",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la grotta quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: un piccolo sasso cade ogni volta che qualcuno passa vicino all'ingresso della grotta. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} vola verso una fessura sopra il sentiero; {{PROTAGONISTA}} vede che alcune pietre sono rimaste incastrate tra le radici {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. la zona viene evitata e segnalata agli adulti, che mettono in sicurezza il passaggio {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    },
+    {
+      "id": "RM-018",
+      "title": "La canna piegata",
+      "setting": "il lago",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il lago quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: una canna piegata blocca il piccolo canale che porta acqua alla riva. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} continua a saltare vicino al punto dove l'acqua si ferma {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. la canna viene spostata con attenzione e l'acqua torna a scorrere senza disturbare il resto dello stagno {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    },
+    {
+      "id": "RM-019",
+      "title": "La slitta ferma",
+      "setting": "il villaggio innevato",
+      "animal": "pinguino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio innevato quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: una slitta è rimasta incastrata vicino alla salita che porta alla piazza. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} indica con il suo percorso una parte più compatta della neve, dove è possibile spostarsi senza scivolare {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. la slitta viene liberata seguendo il tratto più sicuro e la salita torna libera {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    },
+    {
+      "id": "RM-020",
+      "title": "Il sipario aperto",
+      "setting": "il teatro",
+      "animal": "pappagallo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il teatro quando il luogo era ancora quieto. {{ANIMALE}} gli camminava vicino, curioso ma attento. Tutto sembrava pronto per una giornata semplice, finché {{PROTAGONISTA}} notò qualcosa che non andava: il sipario del piccolo teatro è rimasto aperto e la scenografia non può essere sistemata. Si fermò e guardò meglio, perché prima di agire voleva capire che cosa fosse successo.",
+        "{{PROTAGONISTA}} controllò ciò che aveva intorno. Non c'erano scorciatoie né soluzioni facili. {{ANIMALE}} iniziò a esplorare, seguendo ciò che sapeva fare meglio. {{PROTAGONISTA}} lo osservò e trovò un primo indizio. Non risolveva il problema, ma indicava una direzione precisa.",
+        "Il nuovo indizio portò {{PROTAGONISTA}} in un punto che conosceva poco. Lì il luogo mostrò un dettaglio che normalmente sarebbe passato inosservato. {{PROTAGONISTA}} si accovacciò, toccò il terreno e confrontò quello che vedeva con ciò che ricordava. La prima idea sembrava giusta, ma mancava ancora qualcosa.",
+        "{{ANIMALE}} si mosse improvvisamente verso un altro punto. {{PROTAGONISTA}} lo seguì e scoprì che il percorso precedente aveva nascosto un ostacolo. Per qualche momento non seppe che cosa fare. Poi decise di non forzare la situazione e tornò all'ultimo indizio, cercando un collegamento che prima non aveva visto.",
+        "Questa volta il collegamento apparve. I dettagli raccolti fino a quel momento conducevano tutti nella stessa direzione. {{PROTAGONISTA}} capì che il problema non poteva essere risolto con la fretta. Serviva una scelta precisa. {{ANIMALE}} rimase accanto a lui, pronto a seguirlo.",
+        "La scelta cambiò il corso della giornata. {{ANIMALE}} ripete un breve rumore proveniente dal lato del palcoscenico; {{PROTAGONISTA}} trova lì il cordino impigliato {{PROTAGONISTA}} fece un ultimo tentativo, questa volta usando ciò che aveva imparato dal luogo e da {{ANIMALE}}. Per un momento sembrò non succedere nulla. Poi qualcosa si mosse, proprio dove nessuno aveva guardato prima.",
+        "Il problema si risolse senza rumore e senza grandi gesti. il cordino viene liberato e il sipario torna a scorrere, lasciando il palcoscenico pronto per lo spettacolo {{PROTAGONISTA}} rimase qualche secondo a osservare ciò che aveva davanti. Era diverso da come lo aveva immaginato, ma proprio per questo gli sembrava più bello.",
+        "Quando {{PROTAGONISTA}} tornò sulla strada di casa, il luogo aveva ripreso il suo ritmo. {{ANIMALE}} camminava tranquillo al suo fianco. {{PROTAGONISTA}} si voltò un'ultima volta e sorrise. Quel giorno non aveva trovato una scorciatoia: aveva imparato a guardare meglio, e adesso sapeva che sarebbe bastato anche per la prossima avventura."
+      ]
+    }
+  ]
+}
