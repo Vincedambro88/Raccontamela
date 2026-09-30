@@ -20,7 +20,6 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
   final protagonistController = TextEditingController();
   final settingController = TextEditingController();
   final friendsController = TextEditingController();
-  final animalsController = TextEditingController();
   bool generating = false;
   String? selectedAnimal;
 
@@ -29,7 +28,6 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
     protagonistController.dispose();
     settingController.dispose();
     friendsController.dispose();
-    animalsController.dispose();
     super.dispose();
   }
 
@@ -158,7 +156,6 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
                   ],
                   onChanged: (value) => setState(() {
                     selectedAnimal = value;
-                    animalsController.text = value ?? '';
                   }),
                 ),
                 const SizedBox(height: 12),
@@ -254,13 +251,6 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
     setState(() {});
   }
 
-  void _addAnimal(String value) {
-    final current = animalsController.text.trim();
-    final next = current.isEmpty ? value : '$current, $value';
-    animalsController.text = next;
-    animalsController.selection = TextSelection.collapsed(offset: next.length);
-    setState(() {});
-  }
 
   Future<void> _generate() async {
     final l10n = AppLocalizations.of(context)!;
@@ -276,7 +266,6 @@ class _StoryHomePageState extends ConsumerState<StoryHomePage> {
     }
 
     final friends = _parseList(friendsController.text);
-    final animals = _parseList(animalsController.text);
     if (friends.length > 4) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(content: Text(l10n.maxFriends)),
