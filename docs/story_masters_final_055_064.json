@@ -1,0 +1,167 @@
+{
+  "version": 4,
+  "status": "editorial-rewrite-v4",
+  "editorial_note": "Individualized narrative pass for RM-055 to RM-064. No rotating page skeleton; each story has its own causal sequence, setting-specific details and animal role.",
+  "stories": [
+    {
+      "id": "RM-055",
+      "title": "La chiave nella serra",
+      "setting": "serra",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò nella serra quando il sole era già basso. La porta era chiusa e la chiave, che di solito stava sul davanzale, era sparita. Dentro, le foglie dei pomodori lasciavano ombre lunghe sui vetri. {{PROTAGONISTA}} cercò senza rovesciare i vasi: se la serra fosse rimasta chiusa, alcune piantine avrebbero passato la notte al freddo. Vicino ai fiori, {{ANIMALE}} entrava e usciva dalla stessa apertura, sempre nella medesima direzione.",
+        "Seguendo il volo di {{ANIMALE}}, {{PROTAGONISTA}} notò qualcosa che prima aveva ignorato: sul davanzale c'erano minuscoli granelli di terra e una foglia spezzata. Non erano vicino alla chiave, ma raccontavano che qualcosa era stato spostato. Guardò sotto il tavolo, poi dietro i vasi più grandi. Una folata entrò dalla finestra socchiusa e fece rotolare un piccolo cartellino di legno.",
+        "Il cartellino si fermò contro un vaso di basilico. Dietro il vaso comparve un segno sul pavimento, come una striscia lasciata da un oggetto trascinato. {{PROTAGONISTA}} spostò soltanto il vaso necessario e vide la chiave, incastrata tra il bordo e il muro. Capì allora che il vento aveva fatto cadere la chiave dal davanzale e l'aveva spinta lungo il pavimento. {{ANIMALE}} si posò su un fiore, tranquillo: la ricerca aveva finalmente una direzione.",
+        "Restava un problema: prendere la chiave senza spezzare le piantine cresciute proprio davanti al punto stretto. {{PROTAGONISTA}} non tirò il vaso verso di sé. Usò invece il piccolo cartellino di legno per avvicinare delicatamente la chiave, millimetro dopo millimetro. Una volta liberata, la raccolse e controllò che nessuna foglia fosse stata schiacciata. La porta poteva aprirsi, ma prima bisognava capire perché la chiave fosse caduta.",
+        "Guardando il davanzale, {{PROTAGONISTA}} trovò la risposta: un vecchio fermacarte era inclinato e non impediva più agli oggetti di scivolare. Lo sistemò e chiuse la finestra. Poi aspettò. La serra tornò silenziosa, mentre il calore rimaneva tra i vetri. {{ANIMALE}} continuò a cercare il nettare senza essere disturbato.",
+        "Quando il cielo diventò arancione, {{PROTAGONISTA}} aprì la porta e controllò le piantine una per una. Nessun vaso era caduto, nessuna foglia era stata spezzata. La chiave tornò al suo gancio, ma non prima che il piccolo fermacarte fosse stato rimesso al posto giusto. Il problema non era stato la chiave: era stato ciò che la lasciava scivolare.",
+        "{{ANIMALE}} uscì dalla serra e si fermò per un istante sul telaio della porta. {{PROTAGONISTA}} guardò le file ordinate di foglie illuminate dall'ultima luce. Tutto sembrava uguale a quella mattina, eppure qualcosa era cambiato: ora sapeva che anche un dettaglio quasi invisibile può decidere se una serra resta aperta oppure chiusa.",
+        "Prima di andare via, {{PROTAGONISTA}} spense la luce e tirò piano la porta. Il gancio della chiave rimase ben fermo. Fuori, l'aria della sera profumava di terra bagnata. {{ANIMALE}} scomparve tra i fiori del giardino, mentre dentro la serra il calore restava al suo posto."
+      ]
+    },
+    {
+      "id": "RM-056",
+      "title": "Il sentiero del castagno",
+      "setting": "bosco",
+      "animal": "scoiattolo",
+      "pages": [
+        "Il sentiero verso la radura era uno dei percorsi preferiti di {{PROTAGONISTA}}, ma quel mattino sembrava cambiato. Un tappeto di castagne copriva il tratto più stretto, proprio dove il terreno scendeva verso un ruscello. {{PROTAGONISTA}} provò a passare di lato e sentì il suolo scivolare sotto la scarpa. Poco più avanti, {{ANIMALE}} saltava da un ramo all'altro senza avvicinarsi al passaggio.",
+        "{{PROTAGONISTA}} si fermò ad ascoltare. Le castagne cadevano ancora, una dopo l'altra, con piccoli tocchi secchi sulle foglie. Guardando in alto vide un vecchio castagno carico di frutti e un ramo piegato sopra il sentiero. Il problema non era il mucchio già caduto: altri frutti sarebbero arrivati.",
+        "Prima di spostare qualcosa, {{PROTAGONISTA}} seguì {{ANIMALE}} fino a un punto asciutto della radura. Lì trovò molte castagne raccolte in piccole buche, nascoste tra le radici. Capì che lo scoiattolo aveva già scelto quel tratto come zona sicura per il proprio cibo. Liberare il sentiero spingendo tutto verso le radici avrebbe distrutto quelle provviste.",
+        "{{PROTAGONISTA}} cercò allora una soluzione che rispettasse entrambe le necessità. Con un ramo caduto segnò il bordo del tratto scivoloso e raccolse soltanto le castagne che impedivano il passaggio. Le sistemò più lontano, sotto il castagno, senza calpestare le buche nascoste. {{ANIMALE}} osservò da un ramo basso.",
+        "Sembrava sufficiente, ma una nuova castagna rotolò giù dal pendio e finì proprio al centro del sentiero. {{PROTAGONISTA}} tornò a guardare il ramo piegato. Era quello il vero problema. Non poteva spezzarlo: era ancora vivo e sosteneva molti frutti.",
+        "Con un lungo bastone, {{PROTAGONISTA}} spostò soltanto le foglie accumulate sotto il ramo. Il terreno tornò visibile e comparve una vecchia pietra che faceva da appoggio naturale. Con prudenza, il ramo fu sollevato quel tanto che bastava per evitare che i frutti cadessero direttamente sul passaggio.",
+        "Quando il vento riprese a soffiare, una castagna rotolò, ma si fermò contro la pietra. Il sentiero rimase libero. {{ANIMALE}} scese dal tronco, attraversò il tratto e raggiunse le proprie provviste. {{PROTAGONISTA}} capì che non serviva cambiare il bosco: bastava ascoltare come funzionava già.",
+        "Verso sera, la radura sembrava più vicina. Il rumore del ruscello arrivava chiaro tra gli alberi. {{PROTAGONISTA}} riprese il cammino, mentre {{ANIMALE}} tornava verso il castagno. Dietro di loro restarono soltanto alcune castagne sul sentiero: non un ostacolo, ma parte della stagione."
+      ]
+    },
+    {
+      "id": "RM-057",
+      "title": "La finestra del rifugio",
+      "setting": "montagna",
+      "animal": "capra",
+      "pages": [
+        "Nel rifugio di montagna il vento entrava da una finestra che non chiudeva bene. {{PROTAGONISTA}} se ne accorse quando una manciata di neve attraversò la fessura e cadde sul pavimento. Fuori, le nuvole correvano basse tra le cime. {{ANIMALE}} era vicino al muretto del rifugio e cercava riparo dal vento.",
+        "{{PROTAGONISTA}} controllò la finestra senza forzarla. Il legno era gonfio e il piccolo fermo di metallo era coperto di ghiaccio. Provò a muoverlo, ma il gelo lo bloccava. Una nuova raffica fece tremare i vetri. Non era il momento di tirare con forza.",
+        "Seguendo il muro esterno, {{PROTAGONISTA}} trovò una traccia insolita nella neve: piccoli segni di zoccoli arrivavano fino alla finestra e poi tornavano verso il muretto. {{ANIMALE}} aveva cercato proprio quel punto perché il calore usciva dalla fessura. La finestra non era soltanto un problema del rifugio: era diventata un riparo per l'animale.",
+        "{{PROTAGONISTA}} prese un panno asciutto e liberò il fermo dal ghiaccio, poco alla volta. Non usò acqua calda, perché avrebbe potuto congelare di nuovo. Quando il metallo cominciò a muoversi, la finestra si chiuse quasi completamente, ma una piccola fessura rimase.",
+        "Il vento passava ancora. {{PROTAGONISTA}} osservò il telaio e scoprì che una scheggia di legno impediva al battente di aderire. La tolse con attenzione e provò di nuovo. Questa volta la finestra chiuse bene. Il rifugio diventò improvvisamente più silenzioso.",
+        "{{ANIMALE}} rimase fuori, al riparo del muretto. {{PROTAGONISTA}} non lo inseguì né cercò di avvicinarlo. Sistemò invece un punto asciutto sotto la sporgenza del tetto, lontano dalla porta. Bastava che l'animale potesse scegliere da solo dove stare.",
+        "La sera arrivò con un cielo limpido. La neve non entrava più e il pavimento era asciutto. {{ANIMALE}} si spostò lentamente verso il nuovo riparo. {{PROTAGONISTA}} chiuse la porta del rifugio e ascoltò il vento senza più sentirlo fischiare tra le assi.",
+        "Prima di dormire, {{PROTAGONISTA}} guardò dalla finestra. Le montagne erano diventate blu sotto la luna. Il fermo brillava appena nel buio. Un piccolo gesto aveva restituito calore al rifugio e, senza volerlo, aveva lasciato un angolo tranquillo anche a chi cercava riparo fuori."
+      ]
+    },
+    {
+      "id": "RM-058",
+      "title": "Il remo bianco",
+      "setting": "lago",
+      "animal": "cigno",
+      "pages": [
+        "Un remo bianco galleggiava lontano dal pontile quando {{PROTAGONISTA}} arrivò al lago. Il vento lo spingeva lentamente verso una curva della riva. Se fosse arrivato fin lì, sarebbe stato difficile recuperarlo. {{ANIMALE}} nuotava poco distante, seguendo una linea calma sull'acqua.",
+        "{{PROTAGONISTA}} non entrò subito nel lago. Guardò la superficie, la direzione del vento e il movimento del remo. Un vecchio canotto era legato al pontile con una cima allentata. Forse il remo apparteneva a quello, ma serviva una prova.",
+        "{{ANIMALE}} cambiò direzione e passò vicino al canotto. Nel movimento dell'acqua, il remo si spostò verso una piccola insenatura. {{PROTAGONISTA}} notò allora una seconda cima che pendeva dal canotto: era abbastanza lunga da aver trattenuto il remo durante la notte e poi essersi sciolta.",
+        "Per recuperarlo senza inseguirlo in acqua, {{PROTAGONISTA}} prese una lunga pertica dal pontile. Si mise sul bordo più stabile e aspettò che il vento avvicinasse il remo. Ogni volta che provava a prenderlo troppo presto, la corrente lo allontanava.",
+        "Quando il remo passò davanti al pontile, {{PROTAGONISTA}} usò la pertica per fermarlo contro una tavola. Lo tirò piano verso di sé e lo afferrò. Era graffiato, ma integro. {{ANIMALE}} si allontanò con un battito d'ali, lasciando dietro di sé un cerchio sull'acqua.",
+        "Restava da capire a chi appartenesse. Sul manico c'era una piccola striscia blu, uguale a quella dipinta sul canotto. {{PROTAGONISTA}} rimise il remo accanto alla barca e sistemò la cima, questa volta in modo che non potesse sciogliersi facilmente.",
+        "Il vento aumentò nel pomeriggio. Il canotto rimase fermo e il remo non si mosse. {{PROTAGONISTA}} osservò il lago e si accorse che recuperare un oggetto era stato solo metà del lavoro: l'altra metà era fare in modo che non andasse perduto di nuovo.",
+        "{{ANIMALE}} tornò a nuotare vicino al pontile. L'acqua rifletteva il cielo chiaro e il remo bianco riposava sulla barca. {{PROTAGONISTA}} riprese il sentiero di casa con la sensazione che il lago, quel giorno, gli avesse insegnato ad aspettare il momento giusto."
+      ]
+    },
+    {
+      "id": "RM-059",
+      "title": "La porta della torre",
+      "setting": "castello",
+      "animal": "civetta",
+      "pages": [
+        "Prima della visita al castello, {{PROTAGONISTA}} doveva controllare la vecchia torre. La porta, però, restava socchiusa e sbatteva ogni volta che il vento entrava dal cortile. {{ANIMALE}} osservava dalla merlatura, immobile contro il cielo del mattino.",
+        "{{PROTAGONISTA}} spinse la porta e sentì un colpo secco. Una piccola pietra era incastrata tra il battente e il pavimento. La tolse, ma la porta tornò a bloccarsi dopo pochi secondi. Doveva esserci qualcosa sotto, non soltanto davanti.",
+        "Guardando il pavimento in controluce, {{PROTAGONISTA}} vide una lunga striscia di polvere interrotta proprio sotto il cardine. La pietra era stata trascinata fin lì. Seguì la traccia fino al cortile e trovò un mucchio di ghiaia appena caduto dal bordo di un vaso.",
+        "{{ANIMALE}} volò dalla merlatura al tetto della torre e poi sparì dietro una feritoia. {{PROTAGONISTA}} seguì con gli occhi il suo movimento e notò che la feritoia lasciava entrare un forte spiffero. Il vento spingeva la ghiaia verso il passaggio ogni volta che soffiava.",
+        "Con una scopa raccolse la ghiaia dal pavimento e controllò il bordo del vaso. Poi chiuse parzialmente la feritoia con uno sportello di legno già presente nella torre. Non serviva sigillarla: bastava ridurre il colpo diretto del vento.",
+        "La porta si mosse ancora una volta, ma senza sbattere. {{PROTAGONISTA}} aspettò qualche minuto. Nessuna pietra tornò sul pavimento. {{ANIMALE}} uscì dalla feritoia e si posò sulla trave più alta, dove il vento era ormai più calmo.",
+        "Prima della visita, {{PROTAGONISTA}} controllò la torre dall'alto in basso. Le scale erano libere, le finestre chiuse e la porta finalmente stabile. La vecchia costruzione sembrava respirare più lentamente.",
+        "Quando il castello si riempì di voci, {{PROTAGONISTA}} guardò verso la merlatura. {{ANIMALE}} era già scomparso nella luce del pomeriggio. La torre era pronta ad accogliere i visitatori, e nessuno avrebbe immaginato quanto fosse stato importante seguire una semplice striscia di polvere."
+      ]
+    },
+    {
+      "id": "RM-060",
+      "title": "Il nastro sul molo",
+      "setting": "porto",
+      "animal": "gabbiano",
+      "pages": [
+        "Un nastro rosso continuava a impigliarsi nella ringhiera del molo. {{PROTAGONISTA}} lo vide svolazzare tra le corde delle barche e pensò che fosse un pezzo di plastica portato dal vento. {{ANIMALE}} beccava il legno poco distante, senza avvicinarsi al nastro.",
+        "Quando una raffica lo tese, il nastro si sollevò e mostrò una cucitura blu. {{PROTAGONISTA}} capì che non era un rifiuto qualunque: sembrava stoffa di una vela. Lo seguì lungo la ringhiera, ma la stoffa scompariva sotto una passerella.",
+        "{{ANIMALE}} si spostò verso l'estremità del molo. {{PROTAGONISTA}} guardò nella stessa direzione e vide una piccola barca con una vela strappata. Una striscia rossa mancava proprio dal bordo. La corrente aveva portato il pezzo fino alla ringhiera.",
+        "Il nastro era ancora attaccato alla rete metallica. {{PROTAGONISTA}} lo liberò senza tirare, perché la stoffa avrebbe potuto strapparsi ancora. Poi lo portò alla barca. Il proprietario, che stava sistemando le corde, riconobbe subito il pezzo mancante.",
+        "Non bastava recuperare la stoffa. La vela aveva uno strappo più grande e rischiava di perdere altri pezzi. {{PROTAGONISTA}} aiutò a stenderla sul molo, mentre il vento la gonfiava come un grande lenzuolo.",
+        "{{ANIMALE}} restò sul parapetto, lontano dal lavoro. Quando il vento calò, il proprietario poté cucire temporaneamente il bordo e fissare la parte recuperata. Il nastro rosso tornò al suo posto.",
+        "Una nuova raffica fece vibrare la vela, ma questa volta nessun pezzo si staccò. {{PROTAGONISTA}} osservò il gabbiano, che riprese a cercare cibo tra le assi del molo. Il porto aveva smesso di trascinare quella striscia colorata.",
+        "Al tramonto, il nastro rosso era quasi invisibile tra le cuciture della vela. {{PROTAGONISTA}} tornò verso terra pensando a quanto poco serva, a volte, per cambiare una storia: un pezzo di stoffa, un uccello che si sposta e la pazienza di guardare meglio."
+      ]
+    },
+    {
+      "id": "RM-061",
+      "title": "La panchina bagnata",
+      "setting": "parco",
+      "animal": "merlo",
+      "pages": [
+        "La panchina sotto il grande tiglio era sempre bagnata, anche quando non pioveva. {{PROTAGONISTA}} arrivò al parco per sedersi a leggere, ma trovò ancora una volta le assi umide. {{ANIMALE}} saltellava sul terreno vicino, evitando una piccola zona fangosa.",
+        "{{PROTAGONISTA}} controllò il prato. L'acqua sembrava arrivare da sotto la panchina, non dall'alto. Seguendo il fango verso l'erba, trovò una sottile linea lucida che spariva sotto le radici del tiglio.",
+        "Il tubo dell'irrigazione passava proprio lì. Una piccola perdita aveva formato un rigagnolo che raggiungeva le assi ogni notte. {{ANIMALE}} si spostò verso il lato asciutto del prato e {{PROTAGONISTA}} capì perché quella zona era diventata sempre più fangosa.",
+        "Non era possibile riparare il tubo da soli. {{PROTAGONISTA}} segnalò il punto a chi si occupava del parco e, nell'attesa, spostò la panchina di qualche passo. Così l'acqua non avrebbe raggiunto il legno e il terreno avrebbe potuto asciugarsi.",
+        "Il giorno dopo la panchina era asciutta, ma il fango era ancora lì. Il tubo era stato riparato e l'acqua non scorreva più. {{ANIMALE}} tornò nella zona e cercò tra le foglie cadute.",
+        "{{PROTAGONISTA}} rimise la panchina al suo posto solo quando il terreno fu abbastanza stabile. Prima pulì le assi con un panno e controllò che nessuna vite fosse diventata allentata a causa dell'umidità.",
+        "Nel pomeriggio, {{ANIMALE}} saltò sulla panchina e poi scese subito, come se volesse controllare il lavoro. {{PROTAGONISTA}} sorrise e aprì il libro. Il rumore dell'acqua era scomparso.",
+        "Il tiglio proiettava una grande ombra sul prato. La panchina era tornata asciutta e il merlo aveva ripreso il suo giro tra le foglie. {{PROTAGONISTA}} lesse fino a quando il sole cominciò a scendere dietro i palazzi."
+      ]
+    },
+    {
+      "id": "RM-062",
+      "title": "Il libro nella fontana",
+      "setting": "piazza",
+      "animal": "passerotto",
+      "pages": [
+        "Il libro era caduto vicino alla fontana della piazza. Una pagina si muoveva nell'acqua ogni volta che il vento cambiava direzione. {{PROTAGONISTA}} lo vide da lontano e corse verso il bordo, ma si fermò prima di afferrarlo: la pietra era scivolosa.",
+        "{{ANIMALE}} saltò sulla ringhiera della fontana e poi sul bordo asciutto. Il suo movimento fece notare a {{PROTAGONISTA}} una cordicella impigliata sotto una panchina. Forse il vento aveva trascinato il libro fin lì.",
+        "Seguendo la cordicella, {{PROTAGONISTA}} trovò un segnalibro attaccato alla copertina. Il libro apparteneva alla biblioteca della piazza, a pochi metri di distanza. Ma ormai una parte era bagnata e continuava a scivolare verso l'acqua.",
+        "{{PROTAGONISTA}} prese un'asta utilizzata per raccogliere le foglie dalla fontana. La infilò sotto la copertina e la spinse lentamente verso il bordo. Il libro si mosse, ma una folata lo fece girare.",
+        "{{ANIMALE}} volò via proprio in quel momento. Il battito delle ali fece cadere una foglia sulla pagina aperta. La foglia si fermò contro una pietra e impedì al libro di scivolare ancora. {{PROTAGONISTA}} riuscì così ad avvicinarlo abbastanza per prenderlo.",
+        "Le pagine bagnate furono separate con attenzione. {{PROTAGONISTA}} portò il libro in biblioteca, dove venne appoggiato aperto in un luogo asciutto. Nessuno provò a chiuderlo di colpo, perché la carta avrebbe potuto incollarsi.",
+        "{{ANIMALE}} tornò alla fontana e riprese a saltare tra le pietre. {{PROTAGONISTA}} lo osservò dalla porta della biblioteca. Il libro non era ancora pronto per essere restituito, ma almeno era salvo.",
+        "Quando uscì dalla biblioteca, il sole aveva asciugato il bordo della fontana. {{PROTAGONISTA}} guardò il segnalibro appeso alla copertina. Una piccola perdita era stata evitata perché qualcuno aveva scelto di non avere fretta."
+      ]
+    },
+    {
+      "id": "RM-063",
+      "title": "Il cancello del frutteto",
+      "setting": "fattoria",
+      "animal": "pony",
+      "pages": [
+        "Il cancello del frutteto non restava chiuso. {{PROTAGONISTA}} lo trovò aperto al mattino, con alcune impronte di zoccoli vicino ai giovani alberi. {{ANIMALE}} era nel recinto accanto e guardava oltre il cancello. Non aveva ancora raggiunto le piante, ma bastava una spinta.",
+        "{{PROTAGONISTA}} controllò il chiavistello. Sembrava a posto, mentre la molla della chiusura era troppo lenta. Ogni volta che il vento spingeva il cancello, il gancio si sollevava di pochi millimetri.",
+        "Per capire se fosse davvero quella la causa, {{PROTAGONISTA}} osservò il cancello durante una raffica. Il gancio salì, ricadde e tornò a salire. Non serviva un nuovo cancello: serviva impedire quel piccolo movimento.",
+        "{{ANIMALE}} si avvicinò al recinto e annusò l'aria del frutteto. {{PROTAGONISTA}} richiuse il cancello e mise temporaneamente un piccolo fermo di legno. Il gancio rimase abbassato anche quando il vento aumentò.",
+        "Poi arrivò un problema diverso. Il fermo di legno poteva cadere e finire nel passaggio. {{PROTAGONISTA}} lo tolse e aspettò che arrivasse chi poteva sostituire la molla. Nel frattempo controllò che {{ANIMALE}} avesse acqua e spazio sufficiente.",
+        "La nuova molla fu montata nel pomeriggio. Il cancello si chiudeva da solo, ma senza scattare. {{PROTAGONISTA}} lo aprì e lo lasciò andare tre volte per essere sicuro che il meccanismo funzionasse.",
+        "Il frutteto rimase protetto. {{ANIMALE}} si avvicinò al cancello, lo annusò e tornò verso il proprio recinto. Gli alberi giovani erano ancora intatti, con le prime mele piccole tra le foglie.",
+        "Al tramonto, {{PROTAGONISTA}} attraversò il frutteto e guardò il cancello chiuso alle proprie spalle. Una molla quasi invisibile aveva deciso dove sarebbe finita la passeggiata di tutti quel giorno. Il vento continuava a soffiare, ma il cancello rimaneva fermo."
+      ]
+    },
+    {
+      "id": "RM-064",
+      "title": "La luce sul ghiaccio",
+      "setting": "villaggio innevato",
+      "animal": "volpe",
+      "pages": [
+        "Nel villaggio innevato, una piccola luce compariva ogni sera sul ghiaccio del laghetto. {{PROTAGONISTA}} la vedeva dalla finestra e pensava fosse una lanterna lasciata sulla riva. Una sera uscì per controllare. {{ANIMALE}} aveva attraversato la neve e si era fermato a distanza dal lago.",
+        "Il ghiaccio rifletteva la luce, ma sulla riva non c'era nessuna lanterna. {{PROTAGONISTA}} seguì le impronte della volpe e notò che terminavano vicino a un vecchio ponticello. Sotto le assi brillava qualcosa.",
+        "Era un piccolo pannello riflettente appartenuto a un vecchio cartello. Il vento lo aveva spinto sotto il ponte e la luce della casa dall'altra parte del villaggio si rifletteva sulla superficie. Il mistero sembrava risolto, ma {{PROTAGONISTA}} si accorse che il pannello era appoggiato proprio sul ghiaccio.",
+        "Non voleva avvicinarsi alla parte centrale del lago. Il ghiaccio vicino alla riva era spesso, ma più lontano diventava difficile da valutare. {{PROTAGONISTA}} decise di non recuperare il pannello da solo. Segnò il punto e tornò al villaggio.",
+        "Il mattino seguente, con l'aiuto di un adulto esperto, il pannello fu recuperato dalla riva usando un lungo attrezzo. {{ANIMALE}} osservava da un cumulo di neve, senza avvicinarsi all'acqua.",
+        "Quando il pannello fu portato via, la luce scomparve dal lago. Restò soltanto il riflesso della luna sulle piccole crepe superficiali. {{PROTAGONISTA}} capì che ciò che sembrava magico aveva una spiegazione semplice, ma non per questo era meno bello.",
+        "Quella sera {{ANIMALE}} tornò vicino al ponticello e seguì una traccia lasciata sulla neve. {{PROTAGONISTA}} rimase sulla riva, guardando il ghiaccio da lontano. Il lago era tornato buio e sicuro.",
+        "Prima di rientrare, {{PROTAGONISTA}} alzò gli occhi verso le finestre illuminate del villaggio. La luce non era più sul ghiaccio, ma il ricordo rimaneva. A volte un piccolo mistero non perde il suo fascino quando si scopre come funziona."
+      ]
+    }
+  ]
+}
