@@ -19,7 +19,8 @@ class StoryRepository {
       'setting': request.setting,
       'city': request.city,
       'friends': request.friends,
-      'animalFriends': request.animalFriends,
+      'animal': request.animal,
+      'animalFriends': [request.animal],
       'locale': request.locale,
     });
     final data = Map<String, dynamic>.from(response.data as Map);
@@ -40,7 +41,7 @@ class StoryRepository {
       setting: request.setting,
       city: request.city,
       friends: request.friends,
-      animalFriends: request.animalFriends,
+      animalFriends: [request.animal],
       scenes: scenes,
       durationSeconds: (data['durationSeconds'] as num).round(),
       savedToCloud: data['saved'] == true,
