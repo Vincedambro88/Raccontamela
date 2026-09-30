@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "status": "editorial-rewrite-v6",
+  "version": 5,
+  "status": "editorial-rewrite-v5",
   "stories": [
     {
       "id": "RM-055",
@@ -328,16 +328,16 @@
       "setting": "fattoria",
       "animal": "gatto",
       "pages": [
-        "{{PROTAGONISTA}} arrivò nel fattoria e notò subito la porta del granaio. Non si precipitò a intervenire: osservò il luogo, controllò dove si trovava {{ANIMALE}} e cercò di capire quale cambiamento avesse fatto nascere il problema.",
-        "{{PROTAGONISTA}} osservò la porta del granaio da vicino. {{ANIMALE}} annusò, guardò o si fermò proprio accanto al dettaglio più interessante. Quel comportamento fece cambiare prospettiva a {{PROTAGONISTA}}: forse la soluzione non era dove il problema sembrava più evidente.",
-        "Con il nuovo indizio, {{PROTAGONISTA}} ricostruì i passaggi uno alla volta. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il fango ha bloccato il bordo inferiore. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAG. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il fattoria e senza mettere in difficoltà {{ANIMALE}}.. Il dettaglio spiegava perché la situazione fosse cambiata e indicava anche quale parte del fattoria fosse meglio lasciare intatta.",
-        "{{ANIMALE}} fece un altro piccolo movimento verso il punto osservato. {{PROTAGONISTA}} lo seguì e trovò il modo di intervenire senza fretta. Preparò soltanto ciò che serviva e verificò prima che il passaggio fosse sicuro.",
-        "Il primo tentativo funzionò solo in parte. {{PROTAGONISTA}} se ne accorse subito perché il segnale iniziale tornò per un momento. Invece di ripetere lo stesso gesto, confrontò il risultato con ciò che aveva visto all'inizio.",
-        "Questa volta la soluzione partì dall'indizio giusto. {{PROTAGONISTA}} intervenne con attenzione, mentre {{ANIMALE}} rimase vicino abbastanza da seguire ciò che stava accadendo. Quando il piccolo cambiamento produsse l'effetto atteso, entrambi rimasero immobili ad aspettare.",
-        "Dopo qualche istante il fattoria tornò tranquillo. {{PROTAGONISTA}} verificò ancora una volta il risultato e capì che il problema non sarebbe tornato. {{ANIMALE}} riprese la propria attività e il compito della giornata poteva finalmente continuare.",
-        "Prima di allontanarsi, {{PROTAGONISTA}} ripensò a la porta del granaio. Non era bastato vedere il problema: era stato necessario collegare un dettaglio alla sua causa e scegliere il gesto giusto. {{ANIMALE}} si mosse per primo e indicò, con il proprio comportamento, che era tempo di andare."
+        "{{PROTAGONISTA}} arrivò nel fattoria e si fermò davanti a ciò che aveva attirato la sua attenzione: la porta del granaio. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: entrare senza forzarla.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del fattoria. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il fango ha bloccato il bordo inferiore. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAG. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il fattoria e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: entrare senza forzarla. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: entrare senza forzarla. il fango viene rimosso.. {{ANIMALE}} riprese il proprio percorso e il fattoria tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al fattoria."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-076",
@@ -345,16 +345,16 @@
       "setting": "faro",
       "animal": "gabbiano",
       "pages": [
-        "Nel faro, il faro nella nebbia attirò l'attenzione di {{PROTAGONISTA}}. La situazione sembrava semplice, ma impediva di La situazione era finalmente stabile. {{ANIMALE}} era nelle vicinanze e sembrava aver notato qualcosa.",
-        "Nel faro, {{PROTAGONISTA}} si prese un momento per ascoltare. {{ANIMALE}} reagì a un rumore vicino a il faro nella nebbia e attirò l'attenzione proprio sul particolare che mancava.",
-        "{{PROTAGONISTA}} seguì quella pista lentamente. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: la nebbia diffonde la luce. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} capì. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il faro e senza mettere in difficoltà {{ANIMALE}}.. Ora il problema aveva una spiegazione concreta, ma restava da capire come risolverlo senza creare un secondo problema.",
-        "La ricerca diventò un piccolo lavoro di squadra. {{PROTAGONISTA}} controllava il punto interessato e {{ANIMALE}} esplorava i dintorni, tornando ogni volta quando trovava qualcosa di utile. In questo modo comparve una soluzione semplice.",
-        "{{PROTAGONISTA}} fece una prima prova e aspettò. Il risultato fu incompleto: un dettaglio continuava a non funzionare. Quel particolare ricordò a {{PROTAGONISTA}} l'indizio trovato all'inizio.",
-        "Ripartì da lì. Spostò soltanto ciò che ostacolava la soluzione e lasciò libero il resto del faro. {{ANIMALE}} rimase a osservare finché il cambiamento non fu evidente.",
-        "Il segnale del problema scomparve. {{PROTAGONISTA}} controllò il risultato da due punti diversi e poi fece un passo indietro. Tutto rimaneva stabile anche senza continuare a intervenire.",
-        "{{ANIMALE}} tornò alla propria attività e {{PROTAGONISTA}} poté concludere ciò che era venuto a fare: La situazione era finalmente stabile. Il faro nella nebbia non era più un ostacolo, ma il ricordo di una piccola avventura."
+        "{{PROTAGONISTA}} arrivò nel faro e si fermò davanti a ciò che aveva attirato la sua attenzione: il faro nella nebbia. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: verificare che il faro funzioni.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del faro. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: la nebbia diffonde la luce. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} capì. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il faro e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: verificare che il faro funzioni. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: verificare che il faro funzioni. il guardiano controlla e conferma il funzionamento.. {{ANIMALE}} riprese il proprio percorso e il faro tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al faro."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-077",
@@ -362,16 +362,16 @@
       "setting": "lago",
       "animal": "anatra",
       "pages": [
-        "{{PROTAGONISTA}} era arrivato nel lago per La situazione era finalmente stabile. Poi vide la cesta sulla riva. Il problema non era grande, ma avrebbe potuto peggiorare se nessuno ne avesse capito la causa.",
-        "{{PROTAGONISTA}} guardò la cesta sulla riva e notò qualcosa che a un primo sguardo poteva sfuggire. {{ANIMALE}} si comportò in modo insolito e questo suggerì di controllare meglio il lago.",
-        "La seconda osservazione fu decisiva. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: è caduta da un piccolo pontile. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} . Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il lago e senza mettere in difficoltà {{ANIMALE}}.. Il collegamento tra causa ed effetto diventò finalmente chiaro.",
-        "{{PROTAGONISTA}} spiegò il piano a {{ANIMALE}} come se fosse un compagno di squadra, poi iniziò. Ogni gesto aveva uno scopo preciso e nessuno dei due aveva bisogno di correre.",
-        "A metà del lavoro arrivò un piccolo imprevisto. Il problema sembrò ripresentarsi, ma {{PROTAGONISTA}} capì che il primo tentativo aveva corretto solo ciò che si vedeva.",
-        "Tornò quindi alla causa. Con un gesto più mirato sistemò il punto giusto e lasciò passare qualche momento senza toccare nulla.",
-        "Il lago diede la risposta: il rumore, il movimento o il segno che aveva fatto nascere il dubbio non tornò. {{ANIMALE}} si avvicinò e {{PROTAGONISTA}} capì che la soluzione era completa.",
-        "Ora {{PROTAGONISTA}} poteva La situazione era finalmente stabile. Guardò ancora la cesta sulla riva e sorrise: la parte più importante non era stata la soluzione finale, ma aver capito da dove cominciare."
+        "{{PROTAGONISTA}} arrivò nel lago e si fermò davanti a ciò che aveva attirato la sua attenzione: la cesta sulla riva. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: scoprire da dove viene.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del lago. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: è caduta da un piccolo pontile. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} . Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il lago e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: scoprire da dove viene. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: scoprire da dove viene. la cesta viene riportata al proprietario.. {{ANIMALE}} riprese il proprio percorso e il lago tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al lago."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-078",
@@ -379,16 +379,16 @@
       "setting": "teatro",
       "animal": "colomba",
       "pages": [
-        "{{PROTAGONISTA}} arrivò nel teatro e notò subito la finestra del teatro. Non si precipitò a intervenire: osservò il luogo, controllò dove si trovava {{ANIMALE}} e cercò di capire quale cambiamento avesse fatto nascere il problema.",
-        "{{PROTAGONISTA}} osservò la finestra del teatro da vicino. {{ANIMALE}} annusò, guardò o si fermò proprio accanto al dettaglio più interessante. Quel comportamento fece cambiare prospettiva a {{PROTAGONISTA}}: forse la soluzione non era dove il problema sembrava più evidente.",
-        "Con il nuovo indizio, {{PROTAGONISTA}} ricostruì i passaggi uno alla volta. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il fermo è rotto. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} capì che la so. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il teatro e senza mettere in difficoltà {{ANIMALE}}.. Il dettaglio spiegava perché la situazione fosse cambiata e indicava anche quale parte del teatro fosse meglio lasciare intatta.",
-        "{{ANIMALE}} fece un altro piccolo movimento verso il punto osservato. {{PROTAGONISTA}} lo seguì e trovò il modo di intervenire senza fretta. Preparò soltanto ciò che serviva e verificò prima che il passaggio fosse sicuro.",
-        "Il primo tentativo funzionò solo in parte. {{PROTAGONISTA}} se ne accorse subito perché il segnale iniziale tornò per un momento. Invece di ripetere lo stesso gesto, confrontò il risultato con ciò che aveva visto all'inizio.",
-        "Questa volta la soluzione partì dall'indizio giusto. {{PROTAGONISTA}} intervenne con attenzione, mentre {{ANIMALE}} rimase vicino abbastanza da seguire ciò che stava accadendo. Quando il piccolo cambiamento produsse l'effetto atteso, entrambi rimasero immobili ad aspettare.",
-        "Dopo qualche istante il teatro tornò tranquillo. {{PROTAGONISTA}} verificò ancora una volta il risultato e capì che il problema non sarebbe tornato. {{ANIMALE}} riprese la propria attività e il compito della giornata poteva finalmente continuare.",
-        "Prima di allontanarsi, {{PROTAGONISTA}} ripensò a la finestra del teatro. Non era bastato vedere il problema: era stato necessario collegare un dettaglio alla sua causa e scegliere il gesto giusto. {{ANIMALE}} si mosse per primo e indicò, con il proprio comportamento, che era tempo di andare."
+        "{{PROTAGONISTA}} arrivò nel teatro e si fermò davanti a ciò che aveva attirato la sua attenzione: la finestra del teatro. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: proteggere i costumi dall'umidità.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del teatro. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il fermo è rotto. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} capì che la so. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il teatro e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: proteggere i costumi dall'umidità. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: proteggere i costumi dall'umidità. il fermo viene riparato.. {{ANIMALE}} riprese il proprio percorso e il teatro tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al teatro."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-079",
@@ -396,16 +396,16 @@
       "setting": "montagna",
       "animal": "stambecco",
       "pages": [
-        "Nel montagna, il sentiero del ghiacciaio attirò l'attenzione di {{PROTAGONISTA}}. La situazione sembrava semplice, ma impediva di La situazione era finalmente stabile. {{ANIMALE}} era nelle vicinanze e sembrava aver notato qualcosa.",
-        "Nel montagna, {{PROTAGONISTA}} si prese un momento per ascoltare. {{ANIMALE}} reagì a un rumore vicino a il sentiero del ghiacciaio e attirò l'attenzione proprio sul particolare che mancava.",
-        "{{PROTAGONISTA}} seguì quella pista lentamente. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il vento ha accumulato neve contro il segnale. {{ANIMALE}} si mosse lungo il bordo della zona e {{. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il montagna e senza mettere in difficoltà {{ANIMALE}}.. Ora il problema aveva una spiegazione concreta, ma restava da capire come risolverlo senza creare un secondo problema.",
-        "La ricerca diventò un piccolo lavoro di squadra. {{PROTAGONISTA}} controllava il punto interessato e {{ANIMALE}} esplorava i dintorni, tornando ogni volta quando trovava qualcosa di utile. In questo modo comparve una soluzione semplice.",
-        "{{PROTAGONISTA}} fece una prima prova e aspettò. Il risultato fu incompleto: un dettaglio continuava a non funzionare. Quel particolare ricordò a {{PROTAGONISTA}} l'indizio trovato all'inizio.",
-        "Ripartì da lì. Spostò soltanto ciò che ostacolava la soluzione e lasciò libero il resto del montagna. {{ANIMALE}} rimase a osservare finché il cambiamento non fu evidente.",
-        "Il segnale del problema scomparve. {{PROTAGONISTA}} controllò il risultato da due punti diversi e poi fece un passo indietro. Tutto rimaneva stabile anche senza continuare a intervenire.",
-        "{{ANIMALE}} tornò alla propria attività e {{PROTAGONISTA}} poté concludere ciò che era venuto a fare: La situazione era finalmente stabile. Il sentiero del ghiacciaio non era più un ostacolo, ma il ricordo di una piccola avventura."
+        "{{PROTAGONISTA}} arrivò nel montagna e si fermò davanti a ciò che aveva attirato la sua attenzione: il sentiero del ghiacciaio. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: ritrovare il percorso sicuro.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del montagna. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il vento ha accumulato neve contro il segnale. {{ANIMALE}} si mosse lungo il bordo della zona e {{. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il montagna e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: ritrovare il percorso sicuro. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: ritrovare il percorso sicuro. il segnale viene liberato.. {{ANIMALE}} riprese il proprio percorso e il montagna tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al montagna."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-080",
@@ -413,16 +413,16 @@
       "setting": "castello",
       "animal": "coniglio",
       "pages": [
-        "{{PROTAGONISTA}} era arrivato nel castello per La situazione era finalmente stabile. Poi vide la fontana del castello. Il problema non era grande, ma avrebbe potuto peggiorare se nessuno ne avesse capito la causa.",
-        "{{PROTAGONISTA}} guardò la fontana del castello e notò qualcosa che a un primo sguardo poteva sfuggire. {{ANIMALE}} si comportò in modo insolito e questo suggerì di controllare meglio il castello.",
-        "La seconda osservazione fu decisiva. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: una foglia blocca il filtro. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} cap. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il castello e senza mettere in difficoltà {{ANIMALE}}.. Il collegamento tra causa ed effetto diventò finalmente chiaro.",
-        "{{PROTAGONISTA}} spiegò il piano a {{ANIMALE}} come se fosse un compagno di squadra, poi iniziò. Ogni gesto aveva uno scopo preciso e nessuno dei due aveva bisogno di correre.",
-        "A metà del lavoro arrivò un piccolo imprevisto. Il problema sembrò ripresentarsi, ma {{PROTAGONISTA}} capì che il primo tentativo aveva corretto solo ciò che si vedeva.",
-        "Tornò quindi alla causa. Con un gesto più mirato sistemò il punto giusto e lasciò passare qualche momento senza toccare nulla.",
-        "Il castello diede la risposta: il rumore, il movimento o il segno che aveva fatto nascere il dubbio non tornò. {{ANIMALE}} si avvicinò e {{PROTAGONISTA}} capì che la soluzione era completa.",
-        "Ora {{PROTAGONISTA}} poteva La situazione era finalmente stabile. Guardò ancora la fontana del castello e sorrise: la parte più importante non era stata la soluzione finale, ma aver capito da dove cominciare."
+        "{{PROTAGONISTA}} arrivò nel castello e si fermò davanti a ciò che aveva attirato la sua attenzione: la fontana del castello. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: capire perché.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del castello. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: una foglia blocca il filtro. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} cap. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il castello e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: capire perché. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: capire perché. il filtro viene pulito.. {{ANIMALE}} riprese il proprio percorso e il castello tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al castello."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-081",
@@ -430,16 +430,16 @@
       "setting": "mercato",
       "animal": "gazza",
       "pages": [
-        "{{PROTAGONISTA}} arrivò nel mercato e notò subito il mercato vuoto. Non si precipitò a intervenire: osservò il luogo, controllò dove si trovava {{ANIMALE}} e cercò di capire quale cambiamento avesse fatto nascere il problema.",
-        "{{PROTAGONISTA}} osservò il mercato vuoto da vicino. {{ANIMALE}} annusò, guardò o si fermò proprio accanto al dettaglio più interessante. Quel comportamento fece cambiare prospettiva a {{PROTAGONISTA}}: forse la soluzione non era dove il problema sembrava più evidente.",
-        "Con il nuovo indizio, {{PROTAGONISTA}} ricostruì i passaggi uno alla volta. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: un cartello indica il banco sbagliato. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGON. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il mercato e senza mettere in difficoltà {{ANIMALE}}.. Il dettaglio spiegava perché la situazione fosse cambiata e indicava anche quale parte del mercato fosse meglio lasciare intatta.",
-        "{{ANIMALE}} fece un altro piccolo movimento verso il punto osservato. {{PROTAGONISTA}} lo seguì e trovò il modo di intervenire senza fretta. Preparò soltanto ciò che serviva e verificò prima che il passaggio fosse sicuro.",
-        "Il primo tentativo funzionò solo in parte. {{PROTAGONISTA}} se ne accorse subito perché il segnale iniziale tornò per un momento. Invece di ripetere lo stesso gesto, confrontò il risultato con ciò che aveva visto all'inizio.",
-        "Questa volta la soluzione partì dall'indizio giusto. {{PROTAGONISTA}} intervenne con attenzione, mentre {{ANIMALE}} rimase vicino abbastanza da seguire ciò che stava accadendo. Quando il piccolo cambiamento produsse l'effetto atteso, entrambi rimasero immobili ad aspettare.",
-        "Dopo qualche istante il mercato tornò tranquillo. {{PROTAGONISTA}} verificò ancora una volta il risultato e capì che il problema non sarebbe tornato. {{ANIMALE}} riprese la propria attività e il compito della giornata poteva finalmente continuare.",
-        "Prima di allontanarsi, {{PROTAGONISTA}} ripensò a il mercato vuoto. Non era bastato vedere il problema: era stato necessario collegare un dettaglio alla sua causa e scegliere il gesto giusto. {{ANIMALE}} si mosse per primo e indicò, con il proprio comportamento, che era tempo di andare."
+        "{{PROTAGONISTA}} arrivò nel mercato e si fermò davanti a ciò che aveva attirato la sua attenzione: il mercato vuoto. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: ritrovare il venditore.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del mercato. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: un cartello indica il banco sbagliato. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGON. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il mercato e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: ritrovare il venditore. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: ritrovare il venditore. il venditore viene trovato.. {{ANIMALE}} riprese il proprio percorso e il mercato tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al mercato."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-082",
@@ -447,16 +447,16 @@
       "setting": "parco",
       "animal": "tartaruga",
       "pages": [
-        "Nel parco, il ponte del parco attirò l'attenzione di {{PROTAGONISTA}}. La situazione sembrava semplice, ma impediva di La situazione era finalmente stabile. {{ANIMALE}} era nelle vicinanze e sembrava aver notato qualcosa.",
-        "Nel parco, {{PROTAGONISTA}} si prese un momento per ascoltare. {{ANIMALE}} reagì a un rumore vicino a il ponte del parco e attirò l'attenzione proprio sul particolare che mancava.",
-        "{{PROTAGONISTA}} seguì quella pista lentamente. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: un chiodo si è allentato. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} capì c. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il parco e senza mettere in difficoltà {{ANIMALE}}.. Ora il problema aveva una spiegazione concreta, ma restava da capire come risolverlo senza creare un secondo problema.",
-        "La ricerca diventò un piccolo lavoro di squadra. {{PROTAGONISTA}} controllava il punto interessato e {{ANIMALE}} esplorava i dintorni, tornando ogni volta quando trovava qualcosa di utile. In questo modo comparve una soluzione semplice.",
-        "{{PROTAGONISTA}} fece una prima prova e aspettò. Il risultato fu incompleto: un dettaglio continuava a non funzionare. Quel particolare ricordò a {{PROTAGONISTA}} l'indizio trovato all'inizio.",
-        "Ripartì da lì. Spostò soltanto ciò che ostacolava la soluzione e lasciò libero il resto del parco. {{ANIMALE}} rimase a osservare finché il cambiamento non fu evidente.",
-        "Il segnale del problema scomparve. {{PROTAGONISTA}} controllò il risultato da due punti diversi e poi fece un passo indietro. Tutto rimaneva stabile anche senza continuare a intervenire.",
-        "{{ANIMALE}} tornò alla propria attività e {{PROTAGONISTA}} poté concludere ciò che era venuto a fare: La situazione era finalmente stabile. Il ponte del parco non era più un ostacolo, ma il ricordo di una piccola avventura."
+        "{{PROTAGONISTA}} arrivò nel parco e si fermò davanti a ciò che aveva attirato la sua attenzione: il ponte del parco. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: evitare che qualcuno cada.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del parco. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: un chiodo si è allentato. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} capì c. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il parco e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: evitare che qualcuno cada. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: evitare che qualcuno cada. il ponte viene chiuso e riparato.. {{ANIMALE}} riprese il proprio percorso e il parco tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al parco."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-083",
@@ -464,16 +464,16 @@
       "setting": "costa",
       "animal": "granchio",
       "pages": [
-        "{{PROTAGONISTA}} era arrivato nel costa per La situazione era finalmente stabile. Poi vide la mappa della costa. Il problema non era grande, ma avrebbe potuto peggiorare se nessuno ne avesse capito la causa.",
-        "{{PROTAGONISTA}} guardò la mappa della costa e notò qualcosa che a un primo sguardo poteva sfuggire. {{ANIMALE}} si comportò in modo insolito e questo suggerì di controllare meglio il costa.",
-        "La seconda osservazione fu decisiva. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: l'acqua ha cancellato una parte. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}}. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il costa e senza mettere in difficoltà {{ANIMALE}}.. Il collegamento tra causa ed effetto diventò finalmente chiaro.",
-        "{{PROTAGONISTA}} spiegò il piano a {{ANIMALE}} come se fosse un compagno di squadra, poi iniziò. Ogni gesto aveva uno scopo preciso e nessuno dei due aveva bisogno di correre.",
-        "A metà del lavoro arrivò un piccolo imprevisto. Il problema sembrò ripresentarsi, ma {{PROTAGONISTA}} capì che il primo tentativo aveva corretto solo ciò che si vedeva.",
-        "Tornò quindi alla causa. Con un gesto più mirato sistemò il punto giusto e lasciò passare qualche momento senza toccare nulla.",
-        "Il costa diede la risposta: il rumore, il movimento o il segno che aveva fatto nascere il dubbio non tornò. {{ANIMALE}} si avvicinò e {{PROTAGONISTA}} capì che la soluzione era completa.",
-        "Ora {{PROTAGONISTA}} poteva La situazione era finalmente stabile. Guardò ancora la mappa della costa e sorrise: la parte più importante non era stata la soluzione finale, ma aver capito da dove cominciare."
+        "{{PROTAGONISTA}} arrivò nel costa e si fermò davanti a ciò che aveva attirato la sua attenzione: la mappa della costa. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: ritrovare un punto della costa.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del costa. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: l'acqua ha cancellato una parte. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}}. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il costa e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: ritrovare un punto della costa. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: ritrovare un punto della costa. il punto viene riconosciuto da un altro riferimento.. {{ANIMALE}} riprese il proprio percorso e il costa tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al costa."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-084",
@@ -481,16 +481,16 @@
       "setting": "villaggio",
       "animal": "rondine",
       "pages": [
-        "{{PROTAGONISTA}} arrivò nel villaggio e notò subito il campanile del villaggio. Non si precipitò a intervenire: osservò il luogo, controllò dove si trovava {{ANIMALE}} e cercò di capire quale cambiamento avesse fatto nascere il problema.",
-        "{{PROTAGONISTA}} osservò il campanile del villaggio da vicino. {{ANIMALE}} annusò, guardò o si fermò proprio accanto al dettaglio più interessante. Quel comportamento fece cambiare prospettiva a {{PROTAGONISTA}}: forse la soluzione non era dove il problema sembrava più evidente.",
-        "Con il nuovo indizio, {{PROTAGONISTA}} ricostruì i passaggi uno alla volta. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il vento ha intrecciato la corda. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il villaggio e senza mettere in difficoltà {{ANIMALE}}.. Il dettaglio spiegava perché la situazione fosse cambiata e indicava anche quale parte del villaggio fosse meglio lasciare intatta.",
-        "{{ANIMALE}} fece un altro piccolo movimento verso il punto osservato. {{PROTAGONISTA}} lo seguì e trovò il modo di intervenire senza fretta. Preparò soltanto ciò che serviva e verificò prima che il passaggio fosse sicuro.",
-        "Il primo tentativo funzionò solo in parte. {{PROTAGONISTA}} se ne accorse subito perché il segnale iniziale tornò per un momento. Invece di ripetere lo stesso gesto, confrontò il risultato con ciò che aveva visto all'inizio.",
-        "Questa volta la soluzione partì dall'indizio giusto. {{PROTAGONISTA}} intervenne con attenzione, mentre {{ANIMALE}} rimase vicino abbastanza da seguire ciò che stava accadendo. Quando il piccolo cambiamento produsse l'effetto atteso, entrambi rimasero immobili ad aspettare.",
-        "Dopo qualche istante il villaggio tornò tranquillo. {{PROTAGONISTA}} verificò ancora una volta il risultato e capì che il problema non sarebbe tornato. {{ANIMALE}} riprese la propria attività e il compito della giornata poteva finalmente continuare.",
-        "Prima di allontanarsi, {{PROTAGONISTA}} ripensò a il campanile del villaggio. Non era bastato vedere il problema: era stato necessario collegare un dettaglio alla sua causa e scegliere il gesto giusto. {{ANIMALE}} si mosse per primo e indicò, con il proprio comportamento, che era tempo di andare."
+        "{{PROTAGONISTA}} arrivò nel villaggio e si fermò davanti a ciò che aveva attirato la sua attenzione: il campanile del villaggio. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: far suonare la campana.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del villaggio. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il vento ha intrecciato la corda. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il villaggio e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: far suonare la campana. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: far suonare la campana. la corda viene liberata.. {{ANIMALE}} riprese il proprio percorso e il villaggio tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al villaggio."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-085",
@@ -498,16 +498,16 @@
       "setting": "mulino",
       "animal": "gufo",
       "pages": [
-        "Nel mulino, il sentiero del mulino attirò l'attenzione di {{PROTAGONISTA}}. La situazione sembrava semplice, ma impediva di La situazione era finalmente stabile. {{ANIMALE}} era nelle vicinanze e sembrava aver notato qualcosa.",
-        "Nel mulino, {{PROTAGONISTA}} si prese un momento per ascoltare. {{ANIMALE}} reagì a un rumore vicino a il sentiero del mulino e attirò l'attenzione proprio sul particolare che mancava.",
-        "{{PROTAGONISTA}} seguì quella pista lentamente. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: un ramo è entrato tra due pale. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} . Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il mulino e senza mettere in difficoltà {{ANIMALE}}.. Ora il problema aveva una spiegazione concreta, ma restava da capire come risolverlo senza creare un secondo problema.",
-        "La ricerca diventò un piccolo lavoro di squadra. {{PROTAGONISTA}} controllava il punto interessato e {{ANIMALE}} esplorava i dintorni, tornando ogni volta quando trovava qualcosa di utile. In questo modo comparve una soluzione semplice.",
-        "{{PROTAGONISTA}} fece una prima prova e aspettò. Il risultato fu incompleto: un dettaglio continuava a non funzionare. Quel particolare ricordò a {{PROTAGONISTA}} l'indizio trovato all'inizio.",
-        "Ripartì da lì. Spostò soltanto ciò che ostacolava la soluzione e lasciò libero il resto del mulino. {{ANIMALE}} rimase a osservare finché il cambiamento non fu evidente.",
-        "Il segnale del problema scomparve. {{PROTAGONISTA}} controllò il risultato da due punti diversi e poi fece un passo indietro. Tutto rimaneva stabile anche senza continuare a intervenire.",
-        "{{ANIMALE}} tornò alla propria attività e {{PROTAGONISTA}} poté concludere ciò che era venuto a fare: La situazione era finalmente stabile. Il sentiero del mulino non era più un ostacolo, ma il ricordo di una piccola avventura."
+        "{{PROTAGONISTA}} arrivò nel mulino e si fermò davanti a ciò che aveva attirato la sua attenzione: il sentiero del mulino. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: capire cosa la frena.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del mulino. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: un ramo è entrato tra due pale. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} . Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il mulino e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: capire cosa la frena. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: capire cosa la frena. il ramo viene rimosso.. {{ANIMALE}} riprese il proprio percorso e il mulino tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al mulino."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-086",
@@ -515,16 +515,16 @@
       "setting": "lago",
       "animal": "lontra",
       "pages": [
-        "{{PROTAGONISTA}} era arrivato nel lago per La situazione era finalmente stabile. Poi vide la barca del tramonto. Il problema non era grande, ma avrebbe potuto peggiorare se nessuno ne avesse capito la causa.",
-        "{{PROTAGONISTA}} guardò la barca del tramonto e notò qualcosa che a un primo sguardo poteva sfuggire. {{ANIMALE}} si comportò in modo insolito e questo suggerì di controllare meglio il lago.",
-        "La seconda osservazione fu decisiva. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: la corrente l'ha spinta dietro una curva. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTA. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il lago e senza mettere in difficoltà {{ANIMALE}}.. Il collegamento tra causa ed effetto diventò finalmente chiaro.",
-        "{{PROTAGONISTA}} spiegò il piano a {{ANIMALE}} come se fosse un compagno di squadra, poi iniziò. Ogni gesto aveva uno scopo preciso e nessuno dei due aveva bisogno di correre.",
-        "A metà del lavoro arrivò un piccolo imprevisto. Il problema sembrò ripresentarsi, ma {{PROTAGONISTA}} capì che il primo tentativo aveva corretto solo ciò che si vedeva.",
-        "Tornò quindi alla causa. Con un gesto più mirato sistemò il punto giusto e lasciò passare qualche momento senza toccare nulla.",
-        "Il lago diede la risposta: il rumore, il movimento o il segno che aveva fatto nascere il dubbio non tornò. {{ANIMALE}} si avvicinò e {{PROTAGONISTA}} capì che la soluzione era completa.",
-        "Ora {{PROTAGONISTA}} poteva La situazione era finalmente stabile. Guardò ancora la barca del tramonto e sorrise: la parte più importante non era stata la soluzione finale, ma aver capito da dove cominciare."
+        "{{PROTAGONISTA}} arrivò nel lago e si fermò davanti a ciò che aveva attirato la sua attenzione: la barca del tramonto. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: ritrovarla prima di sera.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del lago. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: la corrente l'ha spinta dietro una curva. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTA. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il lago e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: ritrovarla prima di sera. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: ritrovarla prima di sera. la barca viene recuperata.. {{ANIMALE}} riprese il proprio percorso e il lago tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al lago."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-087",
@@ -532,16 +532,16 @@
       "setting": "museo",
       "animal": "topo",
       "pages": [
-        "{{PROTAGONISTA}} arrivò nel museo e notò subito il cancello del museo. Non si precipitò a intervenire: osservò il luogo, controllò dove si trovava {{ANIMALE}} e cercò di capire quale cambiamento avesse fatto nascere il problema.",
-        "{{PROTAGONISTA}} osservò il cancello del museo da vicino. {{ANIMALE}} annusò, guardò o si fermò proprio accanto al dettaglio più interessante. Quel comportamento fece cambiare prospettiva a {{PROTAGONISTA}}: forse la soluzione non era dove il problema sembrava più evidente.",
-        "Con il nuovo indizio, {{PROTAGONISTA}} ricostruì i passaggi uno alla volta. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il chiavistello è consumato. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} cap. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il museo e senza mettere in difficoltà {{ANIMALE}}.. Il dettaglio spiegava perché la situazione fosse cambiata e indicava anche quale parte del museo fosse meglio lasciare intatta.",
-        "{{ANIMALE}} fece un altro piccolo movimento verso il punto osservato. {{PROTAGONISTA}} lo seguì e trovò il modo di intervenire senza fretta. Preparò soltanto ciò che serviva e verificò prima che il passaggio fosse sicuro.",
-        "Il primo tentativo funzionò solo in parte. {{PROTAGONISTA}} se ne accorse subito perché il segnale iniziale tornò per un momento. Invece di ripetere lo stesso gesto, confrontò il risultato con ciò che aveva visto all'inizio.",
-        "Questa volta la soluzione partì dall'indizio giusto. {{PROTAGONISTA}} intervenne con attenzione, mentre {{ANIMALE}} rimase vicino abbastanza da seguire ciò che stava accadendo. Quando il piccolo cambiamento produsse l'effetto atteso, entrambi rimasero immobili ad aspettare.",
-        "Dopo qualche istante il museo tornò tranquillo. {{PROTAGONISTA}} verificò ancora una volta il risultato e capì che il problema non sarebbe tornato. {{ANIMALE}} riprese la propria attività e il compito della giornata poteva finalmente continuare.",
-        "Prima di allontanarsi, {{PROTAGONISTA}} ripensò a il cancello del museo. Non era bastato vedere il problema: era stato necessario collegare un dettaglio alla sua causa e scegliere il gesto giusto. {{ANIMALE}} si mosse per primo e indicò, con il proprio comportamento, che era tempo di andare."
+        "{{PROTAGONISTA}} arrivò nel museo e si fermò davanti a ciò che aveva attirato la sua attenzione: il cancello del museo. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: proteggere la sala interna.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del museo. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il chiavistello è consumato. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} cap. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il museo e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: proteggere la sala interna. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: proteggere la sala interna. il chiavistello viene sostituito.. {{ANIMALE}} riprese il proprio percorso e il museo tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al museo."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-088",
@@ -549,16 +549,16 @@
       "setting": "villaggio innevato",
       "animal": "volpe",
       "pages": [
-        "Nel villaggio innevato, la strada della neve attirò l'attenzione di {{PROTAGONISTA}}. La situazione sembrava semplice, ma impediva di La situazione era finalmente stabile. {{ANIMALE}} era nelle vicinanze e sembrava aver notato qualcosa.",
-        "Nel villaggio innevato, {{PROTAGONISTA}} si prese un momento per ascoltare. {{ANIMALE}} reagì a un rumore vicino a la strada della neve e attirò l'attenzione proprio sul particolare che mancava.",
-        "{{PROTAGONISTA}} seguì quella pista lentamente. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il vento ha coperto il tratto successivo. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTA. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il villaggio innevato e senza mettere in difficoltà {{ANIMALE}}.. Ora il problema aveva una spiegazione concreta, ma restava da capire come risolverlo senza creare un secondo problema.",
-        "La ricerca diventò un piccolo lavoro di squadra. {{PROTAGONISTA}} controllava il punto interessato e {{ANIMALE}} esplorava i dintorni, tornando ogni volta quando trovava qualcosa di utile. In questo modo comparve una soluzione semplice.",
-        "{{PROTAGONISTA}} fece una prima prova e aspettò. Il risultato fu incompleto: un dettaglio continuava a non funzionare. Quel particolare ricordò a {{PROTAGONISTA}} l'indizio trovato all'inizio.",
-        "Ripartì da lì. Spostò soltanto ciò che ostacolava la soluzione e lasciò libero il resto del villaggio innevato. {{ANIMALE}} rimase a osservare finché il cambiamento non fu evidente.",
-        "Il segnale del problema scomparve. {{PROTAGONISTA}} controllò il risultato da due punti diversi e poi fece un passo indietro. Tutto rimaneva stabile anche senza continuare a intervenire.",
-        "{{ANIMALE}} tornò alla propria attività e {{PROTAGONISTA}} poté concludere ciò che era venuto a fare: La situazione era finalmente stabile. La strada della neve non era più un ostacolo, ma il ricordo di una piccola avventura."
+        "{{PROTAGONISTA}} arrivò nel villaggio innevato e si fermò davanti a ciò che aveva attirato la sua attenzione: la strada della neve. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: capire dove continua.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del villaggio innevato. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il vento ha coperto il tratto successivo. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTA. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il villaggio innevato e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: capire dove continua. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: capire dove continua. il percorso viene ritrovato vicino al muro.. {{ANIMALE}} riprese il proprio percorso e il villaggio innevato tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al villaggio innevato."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-089",
@@ -566,16 +566,16 @@
       "setting": "fattoria",
       "animal": "cavallo",
       "pages": [
-        "{{PROTAGONISTA}} era arrivato nel fattoria per La situazione era finalmente stabile. Poi vide il sentiero della fattoria. Il problema non era grande, ma avrebbe potuto peggiorare se nessuno ne avesse capito la causa.",
-        "{{PROTAGONISTA}} guardò il sentiero della fattoria e notò qualcosa che a un primo sguardo poteva sfuggire. {{ANIMALE}} si comportò in modo insolito e questo suggerì di controllare meglio il fattoria.",
-        "La seconda osservazione fu decisiva. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il secchio è stato spostato dal vento. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGON. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il fattoria e senza mettere in difficoltà {{ANIMALE}}.. Il collegamento tra causa ed effetto diventò finalmente chiaro.",
-        "{{PROTAGONISTA}} spiegò il piano a {{ANIMALE}} come se fosse un compagno di squadra, poi iniziò. Ogni gesto aveva uno scopo preciso e nessuno dei due aveva bisogno di correre.",
-        "A metà del lavoro arrivò un piccolo imprevisto. Il problema sembrò ripresentarsi, ma {{PROTAGONISTA}} capì che il primo tentativo aveva corretto solo ciò che si vedeva.",
-        "Tornò quindi alla causa. Con un gesto più mirato sistemò il punto giusto e lasciò passare qualche momento senza toccare nulla.",
-        "Il fattoria diede la risposta: il rumore, il movimento o il segno che aveva fatto nascere il dubbio non tornò. {{ANIMALE}} si avvicinò e {{PROTAGONISTA}} capì che la soluzione era completa.",
-        "Ora {{PROTAGONISTA}} poteva La situazione era finalmente stabile. Guardò ancora il sentiero della fattoria e sorrise: la parte più importante non era stata la soluzione finale, ma aver capito da dove cominciare."
+        "{{PROTAGONISTA}} arrivò nel fattoria e si fermò davanti a ciò che aveva attirato la sua attenzione: il sentiero della fattoria. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: raggiungere la stalla.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del fattoria. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il secchio è stato spostato dal vento. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGON. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il fattoria e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: raggiungere la stalla. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: raggiungere la stalla. il passaggio viene liberato.. {{ANIMALE}} riprese il proprio percorso e il fattoria tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al fattoria."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-090",
@@ -583,16 +583,16 @@
       "setting": "casa",
       "animal": "gatto",
       "pages": [
-        "{{PROTAGONISTA}} arrivò nel casa e notò subito la finestra del bosco. Non si precipitò a intervenire: osservò il luogo, controllò dove si trovava {{ANIMALE}} e cercò di capire quale cambiamento avesse fatto nascere il problema.",
-        "{{PROTAGONISTA}} osservò la finestra del bosco da vicino. {{ANIMALE}} annusò, guardò o si fermò proprio accanto al dettaglio più interessante. Quel comportamento fece cambiare prospettiva a {{PROTAGONISTA}}: forse la soluzione non era dove il problema sembrava più evidente.",
-        "Con il nuovo indizio, {{PROTAGONISTA}} ricostruì i passaggi uno alla volta. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il fermo è rotto. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} capì che la so. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il casa e senza mettere in difficoltà {{ANIMALE}}.. Il dettaglio spiegava perché la situazione fosse cambiata e indicava anche quale parte del casa fosse meglio lasciare intatta.",
-        "{{ANIMALE}} fece un altro piccolo movimento verso il punto osservato. {{PROTAGONISTA}} lo seguì e trovò il modo di intervenire senza fretta. Preparò soltanto ciò che serviva e verificò prima che il passaggio fosse sicuro.",
-        "Il primo tentativo funzionò solo in parte. {{PROTAGONISTA}} se ne accorse subito perché il segnale iniziale tornò per un momento. Invece di ripetere lo stesso gesto, confrontò il risultato con ciò che aveva visto all'inizio.",
-        "Questa volta la soluzione partì dall'indizio giusto. {{PROTAGONISTA}} intervenne con attenzione, mentre {{ANIMALE}} rimase vicino abbastanza da seguire ciò che stava accadendo. Quando il piccolo cambiamento produsse l'effetto atteso, entrambi rimasero immobili ad aspettare.",
-        "Dopo qualche istante il casa tornò tranquillo. {{PROTAGONISTA}} verificò ancora una volta il risultato e capì che il problema non sarebbe tornato. {{ANIMALE}} riprese la propria attività e il compito della giornata poteva finalmente continuare.",
-        "Prima di allontanarsi, {{PROTAGONISTA}} ripensò a la finestra del bosco. Non era bastato vedere il problema: era stato necessario collegare un dettaglio alla sua causa e scegliere il gesto giusto. {{ANIMALE}} si mosse per primo e indicò, con il proprio comportamento, che era tempo di andare."
+        "{{PROTAGONISTA}} arrivò nel casa e si fermò davanti a ciò che aveva attirato la sua attenzione: la finestra del bosco. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: evitare che si rompa.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del casa. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il fermo è rotto. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} capì che la so. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il casa e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: evitare che si rompa. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: evitare che si rompa. il fermo viene riparato.. {{ANIMALE}} riprese il proprio percorso e il casa tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al casa."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-091",
@@ -600,16 +600,16 @@
       "setting": "baia",
       "animal": "delfino",
       "pages": [
-        "Nel baia, il ponte della baia attirò l'attenzione di {{PROTAGONISTA}}. La situazione sembrava semplice, ma impediva di La situazione era finalmente stabile. {{ANIMALE}} era nelle vicinanze e sembrava aver notato qualcosa.",
-        "Nel baia, {{PROTAGONISTA}} si prese un momento per ascoltare. {{ANIMALE}} reagì a un rumore vicino a il ponte della baia e attirò l'attenzione proprio sul particolare che mancava.",
-        "{{PROTAGONISTA}} seguì quella pista lentamente. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: è parte di una vecchia cassetta. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}}. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il baia e senza mettere in difficoltà {{ANIMALE}}.. Ora il problema aveva una spiegazione concreta, ma restava da capire come risolverlo senza creare un secondo problema.",
-        "La ricerca diventò un piccolo lavoro di squadra. {{PROTAGONISTA}} controllava il punto interessato e {{ANIMALE}} esplorava i dintorni, tornando ogni volta quando trovava qualcosa di utile. In questo modo comparve una soluzione semplice.",
-        "{{PROTAGONISTA}} fece una prima prova e aspettò. Il risultato fu incompleto: un dettaglio continuava a non funzionare. Quel particolare ricordò a {{PROTAGONISTA}} l'indizio trovato all'inizio.",
-        "Ripartì da lì. Spostò soltanto ciò che ostacolava la soluzione e lasciò libero il resto del baia. {{ANIMALE}} rimase a osservare finché il cambiamento non fu evidente.",
-        "Il segnale del problema scomparve. {{PROTAGONISTA}} controllò il risultato da due punti diversi e poi fece un passo indietro. Tutto rimaneva stabile anche senza continuare a intervenire.",
-        "{{ANIMALE}} tornò alla propria attività e {{PROTAGONISTA}} poté concludere ciò che era venuto a fare: La situazione era finalmente stabile. Il ponte della baia non era più un ostacolo, ma il ricordo di una piccola avventura."
+        "{{PROTAGONISTA}} arrivò nel baia e si fermò davanti a ciò che aveva attirato la sua attenzione: il ponte della baia. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: capire da dove viene.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del baia. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: è parte di una vecchia cassetta. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}}. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il baia e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: capire da dove viene. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: capire da dove viene. il legno viene recuperato.. {{ANIMALE}} riprese il proprio percorso e il baia tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al baia."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-092",
@@ -617,16 +617,16 @@
       "setting": "parco",
       "animal": "merlo",
       "pages": [
-        "{{PROTAGONISTA}} era arrivato nel parco per La situazione era finalmente stabile. Poi vide la lanterna del sentiero. Il problema non era grande, ma avrebbe potuto peggiorare se nessuno ne avesse capito la causa.",
-        "{{PROTAGONISTA}} guardò la lanterna del sentiero e notò qualcosa che a un primo sguardo poteva sfuggire. {{ANIMALE}} si comportò in modo insolito e questo suggerì di controllare meglio il parco.",
-        "La seconda osservazione fu decisiva. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il vetro è sporco di fango. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} capì. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il parco e senza mettere in difficoltà {{ANIMALE}}.. Il collegamento tra causa ed effetto diventò finalmente chiaro.",
-        "{{PROTAGONISTA}} spiegò il piano a {{ANIMALE}} come se fosse un compagno di squadra, poi iniziò. Ogni gesto aveva uno scopo preciso e nessuno dei due aveva bisogno di correre.",
-        "A metà del lavoro arrivò un piccolo imprevisto. Il problema sembrò ripresentarsi, ma {{PROTAGONISTA}} capì che il primo tentativo aveva corretto solo ciò che si vedeva.",
-        "Tornò quindi alla causa. Con un gesto più mirato sistemò il punto giusto e lasciò passare qualche momento senza toccare nulla.",
-        "Il parco diede la risposta: il rumore, il movimento o il segno che aveva fatto nascere il dubbio non tornò. {{ANIMALE}} si avvicinò e {{PROTAGONISTA}} capì che la soluzione era completa.",
-        "Ora {{PROTAGONISTA}} poteva La situazione era finalmente stabile. Guardò ancora la lanterna del sentiero e sorrise: la parte più importante non era stata la soluzione finale, ma aver capito da dove cominciare."
+        "{{PROTAGONISTA}} arrivò nel parco e si fermò davanti a ciò che aveva attirato la sua attenzione: la lanterna del sentiero. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: mantenere illuminato il vialetto.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del parco. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: il vetro è sporco di fango. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONISTA}} capì. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il parco e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: mantenere illuminato il vialetto. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: mantenere illuminato il vialetto. il vetro viene pulito.. {{ANIMALE}} riprese il proprio percorso e il parco tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al parco."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-093",
@@ -634,16 +634,16 @@
       "setting": "biblioteca",
       "animal": "gufo",
       "pages": [
-        "{{PROTAGONISTA}} arrivò nel biblioteca e notò subito la porta della biblioteca. Non si precipitò a intervenire: osservò il luogo, controllò dove si trovava {{ANIMALE}} e cercò di capire quale cambiamento avesse fatto nascere il problema.",
-        "{{PROTAGONISTA}} osservò la porta della biblioteca da vicino. {{ANIMALE}} annusò, guardò o si fermò proprio accanto al dettaglio più interessante. Quel comportamento fece cambiare prospettiva a {{PROTAGONISTA}}: forse la soluzione non era dove il problema sembrava più evidente.",
-        "Con il nuovo indizio, {{PROTAGONISTA}} ricostruì i passaggi uno alla volta. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: una corrente attraversa due finestre. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONI. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il biblioteca e senza mettere in difficoltà {{ANIMALE}}.. Il dettaglio spiegava perché la situazione fosse cambiata e indicava anche quale parte del biblioteca fosse meglio lasciare intatta.",
-        "{{ANIMALE}} fece un altro piccolo movimento verso il punto osservato. {{PROTAGONISTA}} lo seguì e trovò il modo di intervenire senza fretta. Preparò soltanto ciò che serviva e verificò prima che il passaggio fosse sicuro.",
-        "Il primo tentativo funzionò solo in parte. {{PROTAGONISTA}} se ne accorse subito perché il segnale iniziale tornò per un momento. Invece di ripetere lo stesso gesto, confrontò il risultato con ciò che aveva visto all'inizio.",
-        "Questa volta la soluzione partì dall'indizio giusto. {{PROTAGONISTA}} intervenne con attenzione, mentre {{ANIMALE}} rimase vicino abbastanza da seguire ciò che stava accadendo. Quando il piccolo cambiamento produsse l'effetto atteso, entrambi rimasero immobili ad aspettare.",
-        "Dopo qualche istante il biblioteca tornò tranquillo. {{PROTAGONISTA}} verificò ancora una volta il risultato e capì che il problema non sarebbe tornato. {{ANIMALE}} riprese la propria attività e il compito della giornata poteva finalmente continuare.",
-        "Prima di allontanarsi, {{PROTAGONISTA}} ripensò a la porta della biblioteca. Non era bastato vedere il problema: era stato necessario collegare un dettaglio alla sua causa e scegliere il gesto giusto. {{ANIMALE}} si mosse per primo e indicò, con il proprio comportamento, che era tempo di andare."
+        "{{PROTAGONISTA}} arrivò nel biblioteca e si fermò davanti a ciò che aveva attirato la sua attenzione: la porta della biblioteca. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: evitare che resti chiusa durante l'apertura.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del biblioteca. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: una corrente attraversa due finestre. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONI. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il biblioteca e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: evitare che resti chiusa durante l'apertura. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: evitare che resti chiusa durante l'apertura. una finestra viene socchiusa diversamente.. {{ANIMALE}} riprese il proprio percorso e il biblioteca tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al biblioteca."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     },
     {
       "id": "RM-094",
@@ -651,16 +651,16 @@
       "setting": "valle",
       "animal": "capra",
       "pages": [
-        "Nel valle, il sentiero della cascata attirò l'attenzione di {{PROTAGONISTA}}. La situazione sembrava semplice, ma impediva di La situazione era finalmente stabile. {{ANIMALE}} era nelle vicinanze e sembrava aver notato qualcosa.",
-        "Nel valle, {{PROTAGONISTA}} si prese un momento per ascoltare. {{ANIMALE}} reagì a un rumore vicino a il sentiero della cascata e attirò l'attenzione proprio sul particolare che mancava.",
-        "{{PROTAGONISTA}} seguì quella pista lentamente. Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: un sasso ha deviato il piccolo corso. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONI. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il valle e senza mettere in difficoltà {{ANIMALE}}.. Ora il problema aveva una spiegazione concreta, ma restava da capire come risolverlo senza creare un secondo problema.",
-        "La ricerca diventò un piccolo lavoro di squadra. {{PROTAGONISTA}} controllava il punto interessato e {{ANIMALE}} esplorava i dintorni, tornando ogni volta quando trovava qualcosa di utile. In questo modo comparve una soluzione semplice.",
-        "{{PROTAGONISTA}} fece una prima prova e aspettò. Il risultato fu incompleto: un dettaglio continuava a non funzionare. Quel particolare ricordò a {{PROTAGONISTA}} l'indizio trovato all'inizio.",
-        "Ripartì da lì. Spostò soltanto ciò che ostacolava la soluzione e lasciò libero il resto del valle. {{ANIMALE}} rimase a osservare finché il cambiamento non fu evidente.",
-        "Il segnale del problema scomparve. {{PROTAGONISTA}} controllò il risultato da due punti diversi e poi fece un passo indietro. Tutto rimaneva stabile anche senza continuare a intervenire.",
-        "{{ANIMALE}} tornò alla propria attività e {{PROTAGONISTA}} poté concludere ciò che era venuto a fare: La situazione era finalmente stabile. Il sentiero della cascata non era più un ostacolo, ma il ricordo di una piccola avventura."
+        "{{PROTAGONISTA}} arrivò nel valle e si fermò davanti a ciò che aveva attirato la sua attenzione: il sentiero della cascata. Prima di muoversi, guardò il luogo con calma. C'era un particolare che non tornava e che poteva spiegare perché fosse diventato difficile di fare ciò per cui era venuto: raggiungere la cascata.",
+        "{{ANIMALE}} era poco distante. Invece di limitarsi a restare vicino, si mosse verso una parte precisa del valle. {{PROTAGONISTA}} lo seguì con gli occhi e notò un secondo dettaglio: una traccia, un rumore o un segno che collegava quel punto al problema. L'osservazione dell'animale diventò così il primo vero indizio.",
+        "Seguendo quella traccia, {{PROTAGONISTA}} ricostruì ciò che era successo. La causa sembrava essere . Dopo pochi passi trovò il collegamento: un sasso ha deviato il piccolo corso. {{ANIMALE}} si mosse lungo il bordo della zona e {{PROTAGONI. Ora sapeva dove guardare e, soprattutto, cosa evitare. Non bastava eliminare l'effetto visibile: bisognava intervenire senza danneggiare il valle e senza mettere in difficoltà {{ANIMALE}}.",
+        "{{PROTAGONISTA}} controllò il percorso un'altra volta e raccolse ciò che serviva per agire. {{ANIMALE}} rimase coinvolto nella ricerca: tornava verso il punto interessante, si fermava o indicava con il proprio comportamento dove osservare. Insieme trovarono il modo più semplice per affrontare il problema.",
+        "Il primo tentativo sembrò quasi sufficiente. Poi un piccolo segnale mostrò che qualcosa non era ancora a posto. {{PROTAGONISTA}} non si scoraggiò: confrontò il risultato con l'indizio iniziale e capì quale passaggio aveva trascurato. Anche {{ANIMALE}} tornò verso quel punto, confermando che la ricerca doveva continuare lì.",
+        "Questa volta {{PROTAGONISTA}} cambiò approccio. Fece soltanto ciò che serviva, passo dopo passo, e si fermò per osservare la reazione del luogo. {{ANIMALE}} aspettò nelle vicinanze. Per qualche momento non accadde nulla; poi il segnale che aveva fatto nascere il problema smise di comparire.",
+        "La situazione era finalmente stabile. {{PROTAGONISTA}} poté di fare ciò per cui era venuto: raggiungere la cascata. {{PROTAGONISTA}} poté finalmente fare ciò per cui era arrivato: raggiungere la cascata. il passaggio viene reso sicuro.. {{ANIMALE}} riprese il proprio percorso e il valle tornò al suo ritmo normale.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era cominciata la ricerca. La soluzione non era arrivata da un gesto complicato, ma dall'aver osservato bene, seguito un indizio e ascoltato ciò che {{ANIMALE}} stava mostrando. Il ricordo di quella piccola avventura rimase legato al valle."
       ],
-      "status": "editorial-rewrite-v6"
+      "status": "editorial-rewrite-v5"
     }
   ]
 }
