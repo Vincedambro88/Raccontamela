@@ -23,11 +23,28 @@ type Body = {
   mediaToken?: string;
 };
 
-async function generateImage(prompt: string, model: string) {
-  const url = `https://image.pollinations.ai/prompt/${encodeURIComponent(prompt)}?model=${encodeURIComponent(model)}&width=1024&height=1024&nologo=true`;
-  const response = await fetch(url);
-  if (!response.ok) throw new Error(`Pollinations error ${response.status}: ${await response.text()}`);
-  return new Uint8Array(await response.arrayBuffer());
+async function generateImage(prompt: string, model: string, seed: number) {
+  const url = `https://image.pollinations.ai/prompt/${encodeURIComponent(prompt)}?model=${encodeURIComponent(model)}&width=1024&height=1344&seed=${seed}&nologo=true`;
+
+  let lastError = "unknown error";
+  for (let attempt = 0; attempt < 2; attempt++) {
+    try {
+      const response = await fetch(url);
+      if (!response.ok) {
+        lastError = `Pollinations error ${response.status}: ${await response.text()}`;
+        if (attempt === 0) {
+          await new Promise((resolve) => setTimeout(resolve, 1800));
+          continue;
+        }
+        throw new Error(lastError);
+      }
+      return new Uint8Array(await response.arrayBuffer());
+    } catch (error) {
+      lastError = error instanceof Error ? error.message : String(error);
+      if (attempt === 0) await new Promise((resolve) => setTimeout(resolve, 1800));
+    }
+  }
+  throw new Error(lastError);
 }
 
 async function verifyMediaToken(story: unknown, token: string, serviceKey: string) {
@@ -81,33 +98,58 @@ Deno.serve(async (req) => {
         throw new Error("Invalid or expired media token");
       }
     }
+
     const model = "flux";
     const results: unknown[] = [];
-
 
     const generateScene = async (scene: { index: number; text: string }) => {
       try {
         const visualAction = body.story.sceneVisuals?.[String(scene.index)] || scene.text;
-        const prompt = `Full-color children's picture-book page illustration for Raccontamela. Warm, cinematic, whimsical, age-appropriate, consistent children's picture-book style. This is one exact page of a continuous 8-page story, so preserve the same characters, animal anatomy and location from page to page.
+        const prompt = `Create ONE polished full-page illustration for a real children's picture book called "Raccontamela".
+
+ART DIRECTION:
+- hand-painted modern picture-book illustration, charming and emotionally expressive
+- sophisticated children's publishing quality, not a generic AI fantasy image
+- warm natural lighting, rich but believable colors, soft painterly textures
+- clear silhouettes, readable facial expressions, appealing child-friendly anatomy
+- visually simple enough that the story remains the focus
+- no collage, no comic panels, no borders, no frames, no photorealism, no 3D render, no text
+
+THIS IMAGE IS THE BACKGROUND OF THE STORY PAGE:
+- vertical full-page portrait composition
+- fill the entire page edge-to-edge
+- reserve the lower 30-35% as a calm, visually quieter area with simple shapes and uncluttered background so the app can place the story text over it
+- do NOT draw a white text box, parchment, speech bubble, letters or words
+- keep important character faces and the main action in the upper/middle area
+- do not place critical objects exactly behind the text area
+
+CONTINUITY IS MANDATORY:
+This is page ${scene.index + 1} of one continuous 8-page story. Reuse the SAME protagonist appearance, clothing, hair, age, animal appearance, friends and location established in the continuity bible. Do not redesign them between pages.
+Never introduce a new character or object unless the page action explicitly requires it.
 
 CHARACTER AND LOCATION CONTINUITY BIBLE:
 ${body.story.visualBible || "Keep all named characters visually consistent."}
 
-HUMAN FRIENDS: ${body.story.friends?.join(", ") || "none"}.
-ANIMAL COMPANIONS: ${body.story.animalFriends?.join(", ") || "none"}. Every animal remains a real or fantastical animal with animal anatomy and natural animal behavior; never humanized.
+HUMAN FRIENDS:
+${body.story.friends?.join(", ") || "none"}
 
-PLACE: ${body.story.setting}. Treat it as the physical place where the action occurs, not as a generic background and not as a person.
+ANIMAL COMPANIONS:
+${body.story.animalFriends?.join(", ") || "none"}. Animals must retain correct animal anatomy and natural animal behavior; never turn them into people.
 
-EXACT VISUAL ACTION FOR THIS PAGE:
+STORY LOCATION:
+${body.story.setting}. Make this specific place clearly recognizable and use its physical features as part of the scene.
+
+EXACT ACTION TO ILLUSTRATE:
 ${visualAction}
 
-EXACT PAGE TEXT:
+PAGE TEXT FOR CONTEXT ONLY:
 ${scene.text}
 
-Show the main action from this page clearly. Keep important objects and clues consistent with the story. Do not add unrelated characters, locations or events. Do not include any text, letters, speech bubbles, captions or page numbers in the image because the app renders the page text above the illustration.`;
-        const imageBytes = await generateImage(prompt, model);
+The page text is supplied only to understand the scene. NEVER render the text in the image. Illustrate the concrete action, emotion and setting described above. Keep the composition coherent with the previous and next pages.`;
 
+        const imageBytes = await generateImage(prompt, model, 7000 + scene.index);
         const path = `${prefix}/scene-${scene.index}-color.png`;
+
         const { error } = await admin.storage.from("story-assets").upload(
           path,
           imageBytes,
@@ -141,14 +183,13 @@ Show the main action from this page clearly. Keep important objects and clues co
       }
     };
 
-    // Generate several pages in parallel so eight illustrations do not hit the
-    // Edge Function request timeout. Keep concurrency bounded to avoid provider throttling.
-    for (let offset = 0; offset < body.story.scenes.length; offset += 4) {
-      const batch = body.story.scenes.slice(offset, offset + 4);
+    // Two at a time reduces throttling from the free image endpoint while
+    // keeping the request inside the Edge Function execution window.
+    for (let offset = 0; offset < body.story.scenes.length; offset += 2) {
+      const batch = body.story.scenes.slice(offset, offset + 2);
       const batchResults = await Promise.all(batch.map(generateScene));
       results.push(...batchResults);
     }
-
 
     return new Response(JSON.stringify({ results }), { headers: { ...cors, "Content-Type": "application/json" } });
   } catch (error) {
