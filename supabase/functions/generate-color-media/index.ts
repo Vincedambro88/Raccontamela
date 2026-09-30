@@ -23,28 +23,81 @@ type Body = {
   mediaToken?: string;
 };
 
-async function generateImage(prompt: string, model: string, seed: number) {
-  const url = `https://image.pollinations.ai/prompt/${encodeURIComponent(prompt)}?model=${encodeURIComponent(model)}&width=1024&height=1344&seed=${seed}&nologo=true`;
+async function generateImage(prompt: string, _model: string, seed: number) {
+  const host = "https://black-forest-labs-flux-1-schnell.hf.space";
+  const submit = await fetch(host + "/gradio_api/call/infer", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      data: [prompt, seed, false, 1024, 1344, 4],
+    }),
+  });
 
-  let lastError = "unknown error";
-  for (let attempt = 0; attempt < 2; attempt++) {
-    try {
-      const response = await fetch(url);
-      if (!response.ok) {
-        lastError = `Pollinations error ${response.status}: ${await response.text()}`;
-        if (attempt === 0) {
-          await new Promise((resolve) => setTimeout(resolve, 1800));
-          continue;
-        }
-        throw new Error(lastError);
-      }
-      return new Uint8Array(await response.arrayBuffer());
-    } catch (error) {
-      lastError = error instanceof Error ? error.message : String(error);
-      if (attempt === 0) await new Promise((resolve) => setTimeout(resolve, 1800));
-    }
+  if (!submit.ok) {
+    throw new Error("Hugging Face image submit error " + submit.status + ": " + await submit.text());
   }
-  throw new Error(lastError);
+
+  const submitted = await submit.json() as { event_id?: string };
+  if (!submitted.event_id) throw new Error("Hugging Face image generation did not return an event id");
+
+  const resultResponse = await fetch(host + "/gradio_api/call/infer/" + submitted.event_id);
+  if (!resultResponse.ok) {
+    throw new Error("Hugging Face image result error " + resultResponse.status + ": " + await resultResponse.text());
+  }
+
+  const stream = await resultResponse.text();
+  const completeLine = stream.split("\n").reverse().find((line) =>
+    line.startsWith("data: ") && line.trim() !== "data: [DONE]"
+  );
+  if (!completeLine) throw new Error("Hugging Face image generation returned no completed result");
+
+  let data: unknown;
+  try {
+    data = JSON.parse(completeLine.slice(6));
+  } catch {
+    throw new Error("Invalid Hugging Face image result");
+  }
+
+  const findUrl = (value: unknown): string | null => {
+    if (typeof value === "string") {
+      if (value.startsWith("http://") || value.startsWith("https://")) return value;
+      return null;
+    }
+    if (Array.isArray(value)) {
+      for (const item of value) {
+        const found = findUrl(item);
+        if (found) return found;
+      }
+      return null;
+    }
+    if (value && typeof value === "object") {
+      const record = value as Record<string, unknown>;
+      for (const key of ["url", "path", "image"]) {
+        const raw = record[key];
+        if (typeof raw === "string") {
+          if (raw.startsWith("http://") || raw.startsWith("https://")) return raw;
+          if (raw.startsWith("/")) return host + raw;
+          if (raw.startsWith("file=")) return host + "/" + raw;
+        }
+        const found = findUrl(raw);
+        if (found) return found;
+      }
+      for (const item of Object.values(record)) {
+        const found = findUrl(item);
+        if (found) return found;
+      }
+    }
+    return null;
+  };
+
+  const imageUrl = findUrl(data);
+  if (!imageUrl) throw new Error("Hugging Face image generation returned no image URL");
+
+  const imageResponse = await fetch(imageUrl);
+  if (!imageResponse.ok) {
+    throw new Error("Hugging Face image download error " + imageResponse.status + ": " + await imageResponse.text());
+  }
+  return new Uint8Array(await imageResponse.arrayBuffer());
 }
 
 async function verifyMediaToken(story: unknown, token: string, serviceKey: string) {
