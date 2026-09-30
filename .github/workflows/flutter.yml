@@ -45,9 +45,9 @@ jobs:
       - name: Test
         run: flutter test
       - name: Build release APK
-        run: flutter build apk --release --dart-define=SUPABASE_URL="${{ secrets.SUPABASE_URL }}" --dart-define=SUPABASE_PUBLISHABLE_KEY="${{ secrets.SUPABASE_PUBLISHABLE_KEY }}"
+        run: flutter build apk --release --dart-define=SUPABASE_URL="https://psbdgeeknuxmdbvblvrx.supabase.co" --dart-define=SUPABASE_PUBLISHABLE_KEY="sb_publishable_8wB_7JUnMOQ4Gccj7_mPCg_uJMSr4O3"
       - name: Build release App Bundle
-        run: flutter build appbundle --release --dart-define=SUPABASE_URL="${{ secrets.SUPABASE_URL }}" --dart-define=SUPABASE_PUBLISHABLE_KEY="${{ secrets.SUPABASE_PUBLISHABLE_KEY }}"
+        run: flutter build appbundle --release --dart-define=SUPABASE_URL="https://psbdgeeknuxmdbvblvrx.supabase.co" --dart-define=SUPABASE_PUBLISHABLE_KEY="sb_publishable_8wB_7JUnMOQ4Gccj7_mPCg_uJMSr4O3"
       - name: Upload Android artifacts
         uses: actions/upload-artifact@v4
         with:
