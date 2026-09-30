@@ -152,6 +152,7 @@ Show the main action from this page clearly. Keep important objects and clues co
 
     return new Response(JSON.stringify({ results }), { headers: { ...cors, "Content-Type": "application/json" } });
   } catch (error) {
+    console.error("generate-color-media fatal", error instanceof Error ? error.message : String(error));
     return new Response(JSON.stringify({ error: error instanceof Error ? error.message : String(error) }), { status: 400, headers: { ...cors, "Content-Type": "application/json" } });
   }
 });
