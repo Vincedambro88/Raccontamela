@@ -1,0 +1,167 @@
+{
+  "version": 4,
+  "status": "editorial-rewrite-v4",
+  "editorial_note": "Individualized narrative pass for RM-065 to RM-074.",
+  "stories": [
+    {
+      "id": "RM-065",
+      "title": "La tenda del museo",
+      "setting": "museo",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò nel museo e si accorse subito che una tenda ha coperto una vetrina prima dell'apertura. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
+        "Invece di intervenire subito, {{PROTAGONISTA}} osservò ciò che lo circondava. Notò rumori, tracce e piccoli cambiamenti che gli altri avrebbero potuto ignorare. Un gancio piegato e un pannello troppo vicino.",
+        "{{ANIMALE}} attirò indirettamente l'attenzione verso un secondo dettaglio. {{PROTAGONISTA}} seguì quel segnale e ricostruì ciò che era successo. Ora il problema aveva una causa concreta, non era più soltanto qualcosa da sistemare.",
+        "{{PROTAGONISTA}} chiamò chi conosceva bene il luogo e spiegò ciò che aveva scoperto. Insieme decisero di intervenire con prudenza, evitando di danneggiare l'ambiente o di mettere {{ANIMALE}} in pericolo.",
+        "La prima soluzione sembrò funzionare, ma un piccolo segnale mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò al punto iniziale e confrontò ciò che vedeva con la causa appena scoperta.",
+        "Questa volta l'intervento fu preciso. La tenda viene liberata senza danneggiare l'oggetto. Poi {{PROTAGONISTA}} aspettò, perché una soluzione vera doveva funzionare anche senza qualcuno che continuasse a controllarla.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente guardare il museo con occhi diversi. La sala torna pronta per i visitatori.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il luogo. Aveva capito che piccoli segnali possono raccontare una storia intera, se si ha la pazienza di seguirli. {{ANIMALE}} scomparve lentamente nel proprio ambiente."
+      ]
+    },
+    {
+      "id": "RM-066",
+      "title": "La barca alla deriva",
+      "setting": "baia",
+      "animal": "delfino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò nel baia e si accorse subito che una piccola barca si allontana dal molo verso gli scogli. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
+        "Invece di intervenire subito, {{PROTAGONISTA}} osservò ciò che lo circondava. Notò rumori, tracce e piccoli cambiamenti che gli altri avrebbero potuto ignorare. La cima si è sciolta e il vento cambia direzione.",
+        "{{ANIMALE}} attirò indirettamente l'attenzione verso un secondo dettaglio. {{PROTAGONISTA}} seguì quel segnale e ricostruì ciò che era successo. Ora il problema aveva una causa concreta, non era più soltanto qualcosa da sistemare.",
+        "{{PROTAGONISTA}} chiamò chi conosceva bene il luogo e spiegò ciò che aveva scoperto. Insieme decisero di intervenire con prudenza, evitando di danneggiare l'ambiente o di mettere {{ANIMALE}} in pericolo.",
+        "La prima soluzione sembrò funzionare, ma un piccolo segnale mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò al punto iniziale e confrontò ciò che vedeva con la causa appena scoperta.",
+        "Questa volta l'intervento fu preciso. La barca viene recuperata dalla riva con una cima di sicurezza. Poi {{PROTAGONISTA}} aspettò, perché una soluzione vera doveva funzionare anche senza qualcuno che continuasse a controllarla.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente guardare il baia con occhi diversi. La cima consumata viene sostituita.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il luogo. Aveva capito che piccoli segnali possono raccontare una storia intera, se si ha la pazienza di seguirli. {{ANIMALE}} scomparve lentamente nel proprio ambiente."
+      ]
+    },
+    {
+      "id": "RM-067",
+      "title": "Il gradino del teatro",
+      "setting": "teatro",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò nel teatro e si accorse subito che un sipario nasconde un gradino laterale del palco. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
+        "Invece di intervenire subito, {{PROTAGONISTA}} osservò ciò che lo circondava. Notò rumori, tracce e piccoli cambiamenti che gli altri avrebbero potuto ignorare. Una corda di scena è rimasta agganciata nel punto sbagliato.",
+        "{{ANIMALE}} attirò indirettamente l'attenzione verso un secondo dettaglio. {{PROTAGONISTA}} seguì quel segnale e ricostruì ciò che era successo. Ora il problema aveva una causa concreta, non era più soltanto qualcosa da sistemare.",
+        "{{PROTAGONISTA}} chiamò chi conosceva bene il luogo e spiegò ciò che aveva scoperto. Insieme decisero di intervenire con prudenza, evitando di danneggiare l'ambiente o di mettere {{ANIMALE}} in pericolo.",
+        "La prima soluzione sembrò funzionare, ma un piccolo segnale mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò al punto iniziale e confrontò ciò che vedeva con la causa appena scoperta.",
+        "Questa volta l'intervento fu preciso. Il sipario viene riposizionato e il gradino reso visibile. Poi {{PROTAGONISTA}} aspettò, perché una soluzione vera doveva funzionare anche senza qualcuno che continuasse a controllarla.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente guardare il teatro con occhi diversi. Il passaggio resta sicuro durante lo spettacolo.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il luogo. Aveva capito che piccoli segnali possono raccontare una storia intera, se si ha la pazienza di seguirli. {{ANIMALE}} scomparve lentamente nel proprio ambiente."
+      ]
+    },
+    {
+      "id": "RM-068",
+      "title": "Il sentiero del fiume",
+      "setting": "fiume",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò nel fiume e si accorse subito che l'acqua invade il sentiero che porta al ponte. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
+        "Invece di intervenire subito, {{PROTAGONISTA}} osservò ciò che lo circondava. Notò rumori, tracce e piccoli cambiamenti che gli altri avrebbero potuto ignorare. Alcuni rami deviano una parte della corrente.",
+        "{{ANIMALE}} attirò indirettamente l'attenzione verso un secondo dettaglio. {{PROTAGONISTA}} seguì quel segnale e ricostruì ciò che era successo. Ora il problema aveva una causa concreta, non era più soltanto qualcosa da sistemare.",
+        "{{PROTAGONISTA}} chiamò chi conosceva bene il luogo e spiegò ciò che aveva scoperto. Insieme decisero di intervenire con prudenza, evitando di danneggiare l'ambiente o di mettere {{ANIMALE}} in pericolo.",
+        "La prima soluzione sembrò funzionare, ma un piccolo segnale mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò al punto iniziale e confrontò ciò che vedeva con la causa appena scoperta.",
+        "Questa volta l'intervento fu preciso. I rami vengono rimossi con prudenza e l'acqua torna nel suo letto. Poi {{PROTAGONISTA}} aspettò, perché una soluzione vera doveva funzionare anche senza qualcuno che continuasse a controllarla.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente guardare il fiume con occhi diversi. Il sentiero torna percorribile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il luogo. Aveva capito che piccoli segnali possono raccontare una storia intera, se si ha la pazienza di seguirli. {{ANIMALE}} scomparve lentamente nel proprio ambiente."
+      ]
+    },
+    {
+      "id": "RM-069",
+      "title": "Il vaso rovesciato",
+      "setting": "giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò nel giardino e si accorse subito che un grande vaso cade vicino al vialetto e scopre le radici di una pianta. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
+        "Invece di intervenire subito, {{PROTAGONISTA}} osservò ciò che lo circondava. Notò rumori, tracce e piccoli cambiamenti che gli altri avrebbero potuto ignorare. Un ramo lo ha colpito e il vaso era appoggiato su una pietra inclinata.",
+        "{{ANIMALE}} attirò indirettamente l'attenzione verso un secondo dettaglio. {{PROTAGONISTA}} seguì quel segnale e ricostruì ciò che era successo. Ora il problema aveva una causa concreta, non era più soltanto qualcosa da sistemare.",
+        "{{PROTAGONISTA}} chiamò chi conosceva bene il luogo e spiegò ciò che aveva scoperto. Insieme decisero di intervenire con prudenza, evitando di danneggiare l'ambiente o di mettere {{ANIMALE}} in pericolo.",
+        "La prima soluzione sembrò funzionare, ma un piccolo segnale mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò al punto iniziale e confrontò ciò che vedeva con la causa appena scoperta.",
+        "Questa volta l'intervento fu preciso. La pianta viene protetta e il vaso spostato in un punto stabile. Poi {{PROTAGONISTA}} aspettò, perché una soluzione vera doveva funzionare anche senza qualcuno che continuasse a controllarla.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente guardare il giardino con occhi diversi. Il giardino resta sicuro anche con il vento.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il luogo. Aveva capito che piccoli segnali possono raccontare una storia intera, se si ha la pazienza di seguirli. {{ANIMALE}} scomparve lentamente nel proprio ambiente."
+      ]
+    },
+    {
+      "id": "RM-070",
+      "title": "La campana della scuola",
+      "setting": "scuola",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò nel scuola e si accorse subito che la campana suona una seconda volta durante la ricreazione. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
+        "Invece di intervenire subito, {{PROTAGONISTA}} osservò ciò che lo circondava. Notò rumori, tracce e piccoli cambiamenti che gli altri avrebbero potuto ignorare. Un filo vicino al meccanismo vibra quando una finestra viene aperta.",
+        "{{ANIMALE}} attirò indirettamente l'attenzione verso un secondo dettaglio. {{PROTAGONISTA}} seguì quel segnale e ricostruì ciò che era successo. Ora il problema aveva una causa concreta, non era più soltanto qualcosa da sistemare.",
+        "{{PROTAGONISTA}} chiamò chi conosceva bene il luogo e spiegò ciò che aveva scoperto. Insieme decisero di intervenire con prudenza, evitando di danneggiare l'ambiente o di mettere {{ANIMALE}} in pericolo.",
+        "La prima soluzione sembrò funzionare, ma un piccolo segnale mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò al punto iniziale e confrontò ciò che vedeva con la causa appena scoperta.",
+        "Questa volta l'intervento fu preciso. Il filo viene spostato e fissato lontano dalla campana. Poi {{PROTAGONISTA}} aspettò, perché una soluzione vera doveva funzionare anche senza qualcuno che continuasse a controllarla.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente guardare il scuola con occhi diversi. L'ultima campanella suona una sola volta.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il luogo. Aveva capito che piccoli segnali possono raccontare una storia intera, se si ha la pazienza di seguirli. {{ANIMALE}} scomparve lentamente nel proprio ambiente."
+      ]
+    },
+    {
+      "id": "RM-071",
+      "title": "Il cartello nel bosco",
+      "setting": "bosco",
+      "animal": "cervo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò nel bosco e si accorse subito che un cartello indica una direzione sbagliata sul sentiero. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
+        "Invece di intervenire subito, {{PROTAGONISTA}} osservò ciò che lo circondava. Notò rumori, tracce e piccoli cambiamenti che gli altri avrebbero potuto ignorare. Una vite allentata permette al vento di ruotare la tavola.",
+        "{{ANIMALE}} attirò indirettamente l'attenzione verso un secondo dettaglio. {{PROTAGONISTA}} seguì quel segnale e ricostruì ciò che era successo. Ora il problema aveva una causa concreta, non era più soltanto qualcosa da sistemare.",
+        "{{PROTAGONISTA}} chiamò chi conosceva bene il luogo e spiegò ciò che aveva scoperto. Insieme decisero di intervenire con prudenza, evitando di danneggiare l'ambiente o di mettere {{ANIMALE}} in pericolo.",
+        "La prima soluzione sembrò funzionare, ma un piccolo segnale mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò al punto iniziale e confrontò ciò che vedeva con la causa appena scoperta.",
+        "Questa volta l'intervento fu preciso. Il cartello viene fissato e orientato verso il percorso principale. Poi {{PROTAGONISTA}} aspettò, perché una soluzione vera doveva funzionare anche senza qualcuno che continuasse a controllarla.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente guardare il bosco con occhi diversi. Il sentiero torna facile da seguire.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il luogo. Aveva capito che piccoli segnali possono raccontare una storia intera, se si ha la pazienza di seguirli. {{ANIMALE}} scomparve lentamente nel proprio ambiente."
+      ]
+    },
+    {
+      "id": "RM-072",
+      "title": "La corda del pozzo",
+      "setting": "villaggio",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò nel villaggio e si accorse subito che il secchio del pozzo non raggiunge più l'acqua. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
+        "Invece di intervenire subito, {{PROTAGONISTA}} osservò ciò che lo circondava. Notò rumori, tracce e piccoli cambiamenti che gli altri avrebbero potuto ignorare. La corda si è avvolta sulla carrucola e le fibre sono consumate.",
+        "{{ANIMALE}} attirò indirettamente l'attenzione verso un secondo dettaglio. {{PROTAGONISTA}} seguì quel segnale e ricostruì ciò che era successo. Ora il problema aveva una causa concreta, non era più soltanto qualcosa da sistemare.",
+        "{{PROTAGONISTA}} chiamò chi conosceva bene il luogo e spiegò ciò che aveva scoperto. Insieme decisero di intervenire con prudenza, evitando di danneggiare l'ambiente o di mettere {{ANIMALE}} in pericolo.",
+        "La prima soluzione sembrò funzionare, ma un piccolo segnale mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò al punto iniziale e confrontò ciò che vedeva con la causa appena scoperta.",
+        "Questa volta l'intervento fu preciso. La corda viene liberata e sostituita nel tratto usurato. Poi {{PROTAGONISTA}} aspettò, perché una soluzione vera doveva funzionare anche senza qualcuno che continuasse a controllarla.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente guardare il villaggio con occhi diversi. Il pozzo torna utilizzabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il luogo. Aveva capito che piccoli segnali possono raccontare una storia intera, se si ha la pazienza di seguirli. {{ANIMALE}} scomparve lentamente nel proprio ambiente."
+      ]
+    },
+    {
+      "id": "RM-073",
+      "title": "La vela blu",
+      "setting": "porto",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò nel porto e si accorse subito che una vela blu resta incastrata vicino al molo. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
+        "Invece di intervenire subito, {{PROTAGONISTA}} osservò ciò che lo circondava. Notò rumori, tracce e piccoli cambiamenti che gli altri avrebbero potuto ignorare. La cima si è avvolta intorno a un palo e una parte è consumata.",
+        "{{ANIMALE}} attirò indirettamente l'attenzione verso un secondo dettaglio. {{PROTAGONISTA}} seguì quel segnale e ricostruì ciò che era successo. Ora il problema aveva una causa concreta, non era più soltanto qualcosa da sistemare.",
+        "{{PROTAGONISTA}} chiamò chi conosceva bene il luogo e spiegò ciò che aveva scoperto. Insieme decisero di intervenire con prudenza, evitando di danneggiare l'ambiente o di mettere {{ANIMALE}} in pericolo.",
+        "La prima soluzione sembrò funzionare, ma un piccolo segnale mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò al punto iniziale e confrontò ciò che vedeva con la causa appena scoperta.",
+        "Questa volta l'intervento fu preciso. La cima viene liberata seguendo il movimento delle onde e poi sostituita. Poi {{PROTAGONISTA}} aspettò, perché una soluzione vera doveva funzionare anche senza qualcuno che continuasse a controllarla.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente guardare il porto con occhi diversi. La barca torna stabile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il luogo. Aveva capito che piccoli segnali possono raccontare una storia intera, se si ha la pazienza di seguirli. {{ANIMALE}} scomparve lentamente nel proprio ambiente."
+      ]
+    },
+    {
+      "id": "RM-074",
+      "title": "Il sentiero delle felci",
+      "setting": "bosco",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò nel bosco e si accorse subito che le felci nascondono una pietra sporgente sul sentiero. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
+        "Invece di intervenire subito, {{PROTAGONISTA}} osservò ciò che lo circondava. Notò rumori, tracce e piccoli cambiamenti che gli altri avrebbero potuto ignorare. La pioggia ha fatto crescere la vegetazione sopra il vecchio bordo.",
+        "{{ANIMALE}} attirò indirettamente l'attenzione verso un secondo dettaglio. {{PROTAGONISTA}} seguì quel segnale e ricostruì ciò che era successo. Ora il problema aveva una causa concreta, non era più soltanto qualcosa da sistemare.",
+        "{{PROTAGONISTA}} chiamò chi conosceva bene il luogo e spiegò ciò che aveva scoperto. Insieme decisero di intervenire con prudenza, evitando di danneggiare l'ambiente o di mettere {{ANIMALE}} in pericolo.",
+        "La prima soluzione sembrò funzionare, ma un piccolo segnale mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò al punto iniziale e confrontò ciò che vedeva con la causa appena scoperta.",
+        "Questa volta l'intervento fu preciso. La pietra viene resa visibile senza distruggere le felci. Poi {{PROTAGONISTA}} aspettò, perché una soluzione vera doveva funzionare anche senza qualcuno che continuasse a controllarla.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente guardare il bosco con occhi diversi. Il sentiero resta riconoscibile.",
+        "Prima di andare via, {{PROTAGONISTA}} osservò ancora una volta il luogo. Aveva capito che piccoli segnali possono raccontare una storia intera, se si ha la pazienza di seguirli. {{ANIMALE}} scomparve lentamente nel proprio ambiente."
+      ]
+    }
+  ]
+}
