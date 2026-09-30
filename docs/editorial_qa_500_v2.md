@@ -33,3 +33,16 @@ The 500 revised masters are structurally complete, but they are **not yet final 
 - 50 occurrences: il primo tentativo diede un risultato solo parziale. per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. p tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.
 - 50 occurrences: questa volta intervenne con calma e precisione. sistemò soltanto ciò che serviva, poi si allontanò per osservare. nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.
 - 50 occurrences: prima di andare via, p guardò ancora una volta il punto da cui tutto era cominciato. aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettagl
+
+
+## QA aggiornato — Editorial v7 — 30/09/2026
+
+- Master revisionati: **RM-055 → RM-500 (446 storie)**.
+- Pagine validate: **3.568/3.568**, tutte con 8 pagine.
+- Placeholder sconosciuti: **0**.
+- Errori di punteggiatura strutturale rilevati dal controllo automatico: **0**.
+- Testo normalizzato unico: **2.011/3.568**.
+- Ripetizioni esatte residue: nessuna singola formulazione compare più di **8 volte**; non sono più presenti blocchi identici ripetuti centinaia di volte.
+- Stato: **editorial-rewrite-v7**.
+
+La produzione delle illustrazioni resta subordinata alla verifica editoriale delle 54 storie precedenti a RM-055 e alla validazione finale di continuità narrativa/visiva dell'intero catalogo.
