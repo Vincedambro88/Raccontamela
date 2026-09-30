@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "batch": 12,
+  "stories": [
+    {
+      "id": "RM-495",
+      "title": "Il sentiero della luna",
+      "setting": "il bosco",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco proprio quando notò che la luce della luna non raggiungeva più una parte del sentiero. Si fermò a guardare. {{ANIMALE}} era poco distante e osservava lo stesso punto. Non sembrava un problema grande, ma in quel luogo ogni dettaglio aveva una ragione.",
+        "{{PROTAGONISTA}} decise di non intervenire subito. Guardò il terreno, ascoltò i rumori e cercò ciò che era cambiato per primo. Un piccolo segno mostrava una direzione. {{ANIMALE}} si mosse lungo il margine e {{PROTAGONISTA}} seguì con gli occhi quel movimento.",
+        "La traccia portò a un secondo indizio. {{PROTAGONISTA}} capì che ciò che vedeva era soltanto la conseguenza. Qualcosa, poco prima, aveva modificato l'equilibrio del luogo. Per risolvere il problema bisognava trovare quella causa.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il bosco. Insieme controllarono ogni particolare e stabilirono un modo sicuro per intervenire. {{ANIMALE}} rimase vicino, ma fuori dalla zona in cui stavano lavorando.",
+        "Il primo intervento sembrò funzionare. Poi, aspettando qualche istante, {{PROTAGONISTA}} notò che un piccolo dettaglio continuava a non essere come prima. Tornò allora al primo indizio e si accorse di ciò che mancava.",
+        "Sistemarono il punto che avevano trascurato. Questa volta non si limitarono a guardare: aspettarono e verificarono che la soluzione funzionasse da sola. Lentamente il bosco riprese il proprio ritmo e il problema non tornò.",
+        "{{ANIMALE}} si avvicinò quando tutto fu sicuro. {{PROTAGONISTA}} riconobbe i suoni abituali del luogo. Il cambiamento che aveva attirato la sua attenzione era scomparso, ma l'indizio iniziale era ancora lì a ricordare da dove era cominciata la ricerca.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase un momento in silenzio. Aveva imparato che non sempre bisogna fare qualcosa subito. A volte bisogna prima guardare bene. {{ANIMALE}} riprese il proprio cammino e il bosco tornò tranquillo."
+      ]
+    },
+    {
+      "id": "RM-496",
+      "title": "La barca del mattino",
+      "setting": "il lago",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il lago proprio quando notò che una corda aveva lasciato la barca lontana dal pontile. Si fermò a guardare. {{ANIMALE}} era poco distante e osservava lo stesso punto. Non sembrava un problema grande, ma in quel luogo ogni dettaglio aveva una ragione.",
+        "{{PROTAGONISTA}} decise di non intervenire subito. Guardò il terreno, ascoltò i rumori e cercò ciò che era cambiato per primo. Un piccolo segno mostrava una direzione. {{ANIMALE}} si mosse lungo il margine e {{PROTAGONISTA}} seguì con gli occhi quel movimento.",
+        "La traccia portò a un secondo indizio. {{PROTAGONISTA}} capì che ciò che vedeva era soltanto la conseguenza. Qualcosa, poco prima, aveva modificato l'equilibrio del luogo. Per risolvere il problema bisognava trovare quella causa.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il lago. Insieme controllarono ogni particolare e stabilirono un modo sicuro per intervenire. {{ANIMALE}} rimase vicino, ma fuori dalla zona in cui stavano lavorando.",
+        "Il primo intervento sembrò funzionare. Poi, aspettando qualche istante, {{PROTAGONISTA}} notò che un piccolo dettaglio continuava a non essere come prima. Tornò allora al primo indizio e si accorse di ciò che mancava.",
+        "Sistemarono il punto che avevano trascurato. Questa volta non si limitarono a guardare: aspettarono e verificarono che la soluzione funzionasse da sola. Lentamente il lago riprese il proprio ritmo e il problema non tornò.",
+        "{{ANIMALE}} si avvicinò quando tutto fu sicuro. {{PROTAGONISTA}} riconobbe i suoni abituali del luogo. Il cambiamento che aveva attirato la sua attenzione era scomparso, ma l'indizio iniziale era ancora lì a ricordare da dove era cominciata la ricerca.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase un momento in silenzio. Aveva imparato che non sempre bisogna fare qualcosa subito. A volte bisogna prima guardare bene. {{ANIMALE}} riprese il proprio cammino e il lago tornò tranquillo."
+      ]
+    },
+    {
+      "id": "RM-497",
+      "title": "Il portone del castello",
+      "setting": "il castello",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il castello proprio quando notò che una chiave era caduta vicino alla soglia. Si fermò a guardare. {{ANIMALE}} era poco distante e osservava lo stesso punto. Non sembrava un problema grande, ma in quel luogo ogni dettaglio aveva una ragione.",
+        "{{PROTAGONISTA}} decise di non intervenire subito. Guardò il terreno, ascoltò i rumori e cercò ciò che era cambiato per primo. Un piccolo segno mostrava una direzione. {{ANIMALE}} si mosse lungo il margine e {{PROTAGONISTA}} seguì con gli occhi quel movimento.",
+        "La traccia portò a un secondo indizio. {{PROTAGONISTA}} capì che ciò che vedeva era soltanto la conseguenza. Qualcosa, poco prima, aveva modificato l'equilibrio del luogo. Per risolvere il problema bisognava trovare quella causa.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il castello. Insieme controllarono ogni particolare e stabilirono un modo sicuro per intervenire. {{ANIMALE}} rimase vicino, ma fuori dalla zona in cui stavano lavorando.",
+        "Il primo intervento sembrò funzionare. Poi, aspettando qualche istante, {{PROTAGONISTA}} notò che un piccolo dettaglio continuava a non essere come prima. Tornò allora al primo indizio e si accorse di ciò che mancava.",
+        "Sistemarono il punto che avevano trascurato. Questa volta non si limitarono a guardare: aspettarono e verificarono che la soluzione funzionasse da sola. Lentamente il castello riprese il proprio ritmo e il problema non tornò.",
+        "{{ANIMALE}} si avvicinò quando tutto fu sicuro. {{PROTAGONISTA}} riconobbe i suoni abituali del luogo. Il cambiamento che aveva attirato la sua attenzione era scomparso, ma l'indizio iniziale era ancora lì a ricordare da dove era cominciata la ricerca.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase un momento in silenzio. Aveva imparato che non sempre bisogna fare qualcosa subito. A volte bisogna prima guardare bene. {{ANIMALE}} riprese il proprio cammino e il castello tornò tranquillo."
+      ]
+    },
+    {
+      "id": "RM-498",
+      "title": "La finestra del villaggio",
+      "setting": "il villaggio",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio proprio quando notò che una persiana era rimasta aperta dopo il temporale. Si fermò a guardare. {{ANIMALE}} era poco distante e osservava lo stesso punto. Non sembrava un problema grande, ma in quel luogo ogni dettaglio aveva una ragione.",
+        "{{PROTAGONISTA}} decise di non intervenire subito. Guardò il terreno, ascoltò i rumori e cercò ciò che era cambiato per primo. Un piccolo segno mostrava una direzione. {{ANIMALE}} si mosse lungo il margine e {{PROTAGONISTA}} seguì con gli occhi quel movimento.",
+        "La traccia portò a un secondo indizio. {{PROTAGONISTA}} capì che ciò che vedeva era soltanto la conseguenza. Qualcosa, poco prima, aveva modificato l'equilibrio del luogo. Per risolvere il problema bisognava trovare quella causa.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il villaggio. Insieme controllarono ogni particolare e stabilirono un modo sicuro per intervenire. {{ANIMALE}} rimase vicino, ma fuori dalla zona in cui stavano lavorando.",
+        "Il primo intervento sembrò funzionare. Poi, aspettando qualche istante, {{PROTAGONISTA}} notò che un piccolo dettaglio continuava a non essere come prima. Tornò allora al primo indizio e si accorse di ciò che mancava.",
+        "Sistemarono il punto che avevano trascurato. Questa volta non si limitarono a guardare: aspettarono e verificarono che la soluzione funzionasse da sola. Lentamente il villaggio riprese il proprio ritmo e il problema non tornò.",
+        "{{ANIMALE}} si avvicinò quando tutto fu sicuro. {{PROTAGONISTA}} riconobbe i suoni abituali del luogo. Il cambiamento che aveva attirato la sua attenzione era scomparso, ma l'indizio iniziale era ancora lì a ricordare da dove era cominciata la ricerca.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase un momento in silenzio. Aveva imparato che non sempre bisogna fare qualcosa subito. A volte bisogna prima guardare bene. {{ANIMALE}} riprese il proprio cammino e il villaggio tornò tranquillo."
+      ]
+    },
+    {
+      "id": "RM-499",
+      "title": "Il ponte della valle",
+      "setting": "la valle",
+      "animal": "stambecco",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la valle proprio quando notò che una pietra aveva reso stretto il passaggio. Si fermò a guardare. {{ANIMALE}} era poco distante e osservava lo stesso punto. Non sembrava un problema grande, ma in quel luogo ogni dettaglio aveva una ragione.",
+        "{{PROTAGONISTA}} decise di non intervenire subito. Guardò il terreno, ascoltò i rumori e cercò ciò che era cambiato per primo. Un piccolo segno mostrava una direzione. {{ANIMALE}} si mosse lungo il margine e {{PROTAGONISTA}} seguì con gli occhi quel movimento.",
+        "La traccia portò a un secondo indizio. {{PROTAGONISTA}} capì che ciò che vedeva era soltanto la conseguenza. Qualcosa, poco prima, aveva modificato l'equilibrio del luogo. Per risolvere il problema bisognava trovare quella causa.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la valle. Insieme controllarono ogni particolare e stabilirono un modo sicuro per intervenire. {{ANIMALE}} rimase vicino, ma fuori dalla zona in cui stavano lavorando.",
+        "Il primo intervento sembrò funzionare. Poi, aspettando qualche istante, {{PROTAGONISTA}} notò che un piccolo dettaglio continuava a non essere come prima. Tornò allora al primo indizio e si accorse di ciò che mancava.",
+        "Sistemarono il punto che avevano trascurato. Questa volta non si limitarono a guardare: aspettarono e verificarono che la soluzione funzionasse da sola. Lentamente la valle riprese il proprio ritmo e il problema non tornò.",
+        "{{ANIMALE}} si avvicinò quando tutto fu sicuro. {{PROTAGONISTA}} riconobbe i suoni abituali del luogo. Il cambiamento che aveva attirato la sua attenzione era scomparso, ma l'indizio iniziale era ancora lì a ricordare da dove era cominciata la ricerca.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase un momento in silenzio. Aveva imparato che non sempre bisogna fare qualcosa subito. A volte bisogna prima guardare bene. {{ANIMALE}} riprese il proprio cammino e la valle tornò tranquillo."
+      ]
+    },
+    {
+      "id": "RM-500",
+      "title": "La lanterna del faro",
+      "setting": "il faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il faro proprio quando notò che la luce aveva smesso di illuminare un lato della costa. Si fermò a guardare. {{ANIMALE}} era poco distante e osservava lo stesso punto. Non sembrava un problema grande, ma in quel luogo ogni dettaglio aveva una ragione.",
+        "{{PROTAGONISTA}} decise di non intervenire subito. Guardò il terreno, ascoltò i rumori e cercò ciò che era cambiato per primo. Un piccolo segno mostrava una direzione. {{ANIMALE}} si mosse lungo il margine e {{PROTAGONISTA}} seguì con gli occhi quel movimento.",
+        "La traccia portò a un secondo indizio. {{PROTAGONISTA}} capì che ciò che vedeva era soltanto la conseguenza. Qualcosa, poco prima, aveva modificato l'equilibrio del luogo. Per risolvere il problema bisognava trovare quella causa.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il faro. Insieme controllarono ogni particolare e stabilirono un modo sicuro per intervenire. {{ANIMALE}} rimase vicino, ma fuori dalla zona in cui stavano lavorando.",
+        "Il primo intervento sembrò funzionare. Poi, aspettando qualche istante, {{PROTAGONISTA}} notò che un piccolo dettaglio continuava a non essere come prima. Tornò allora al primo indizio e si accorse di ciò che mancava.",
+        "Sistemarono il punto che avevano trascurato. Questa volta non si limitarono a guardare: aspettarono e verificarono che la soluzione funzionasse da sola. Lentamente il faro riprese il proprio ritmo e il problema non tornò.",
+        "{{ANIMALE}} si avvicinò quando tutto fu sicuro. {{PROTAGONISTA}} riconobbe i suoni abituali del luogo. Il cambiamento che aveva attirato la sua attenzione era scomparso, ma l'indizio iniziale era ancora lì a ricordare da dove era cominciata la ricerca.",
+        "Prima di andare via, {{PROTAGONISTA}} rimase un momento in silenzio. Aveva imparato che non sempre bisogna fare qualcosa subito. A volte bisogna prima guardare bene. {{ANIMALE}} riprese il proprio cammino e il faro tornò tranquillo."
+      ]
+    }
+  ]
+}
