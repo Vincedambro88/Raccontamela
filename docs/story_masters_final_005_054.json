@@ -1,0 +1,807 @@
+{
+  "version": 3,
+  "status": "editorial-rewrite-v3",
+  "editorial_note": "Individualized narrative pass; varied openings, animal function, investigation, turning point and closure.",
+  "stories": [
+    {
+      "id": "RM-005",
+      "title": "Il sentiero delle rose",
+      "setting": "castello",
+      "animal": "coniglio",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in castello, il primo dettaglio a farsi notare fu questo:  arrivò a castello quando si accorse che una chiave era sparita dal tavolo del giardiniere . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  il coniglio ha rosicchiato accidentalmente il nastro che teneva la chiave e la chiave è caduta in un vaso. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora castello e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato castello: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-006",
+      "title": "Il nido sotto il tetto",
+      "setting": "villaggio",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in villaggio, ma appena arrivò trovò un ostacolo:  arrivò a villaggio quando si accorse che un nido è caduto dalla grondaia della bottega. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di villaggio. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva pensare alla cosa che aveva motivato la sua ricerca: riportare il nido in un punto sicuro prima della pioggia. {{ANIMALE}} si allontanò verso il proprio ambiente e villaggio tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-007",
+      "title": "La barca che non partiva",
+      "setting": "baia",
+      "animal": "lontra",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in baia:  arrivò a baia quando si accorse che la barca del traghettatore resta legata al pontile. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  la corda è impigliata sotto una tavola e la corrente la tende. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté pensare alla cosa che aveva motivato la sua ricerca: raggiungere l'altra riva con il pane per il faro. Il problema era scomparso senza lasciare un nuovo ostacolo.  {{ANIMALE}} tornò ad avvicinarsi e il suo comportamento tranquillo fu il segnale che la situazione era davvero cambiata.",
+        "Il viaggio di ritorno sembrò diverso. Non perché baia fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-008",
+      "title": "Il libro senza numero",
+      "setting": "biblioteca",
+      "animal": "gufo",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in biblioteca, il primo dettaglio a farsi notare fu questo:  arrivò a biblioteca quando si accorse che un vecchio libro non ha il cartellino . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  il libro contiene una dedica che porta alla sezione storia locale. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora biblioteca e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato biblioteca: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-009",
+      "title": "Il quadro girato",
+      "setting": "museo",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in museo, ma appena arrivò trovò un ostacolo:  arrivò a museo quando si accorse che un quadro è rivolto verso il muro. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di museo. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva pensare alla cosa che aveva motivato la sua ricerca: capire perché è stato spostato prima dell'apertura. {{ANIMALE}} si allontanò verso il proprio ambiente e museo tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-010",
+      "title": "Il fischio sul binario",
+      "setting": "stazione",
+      "animal": "cane",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in stazione:  arrivò a stazione quando si accorse che un fischio si sente su un binario vuoto. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  il vento passa attraverso un vecchio segnale metallico. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté pensare alla cosa che aveva motivato la sua ricerca: capire se qualcuno ha bisogno di aiuto. Il problema era scomparso senza lasciare un nuovo ostacolo.  {{ANIMALE}} tornò ad avvicinarsi e il suo comportamento tranquillo fu il segnale che la situazione era davvero cambiata.",
+        "Il viaggio di ritorno sembrò diverso. Non perché stazione fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-011",
+      "title": "La lanterna del faro",
+      "setting": "faro",
+      "animal": "gabbiano",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in faro, il primo dettaglio a farsi notare fu questo:  arrivò a faro quando si accorse che la lanterna del faro oscilla in modo insolito . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  un bullone allentato fa vibrare il telaio. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora faro e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato faro: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-012",
+      "title": "Il ponticello del parco",
+      "setting": "parco",
+      "animal": "tartaruga",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in parco, ma appena arrivò trovò un ostacolo:  arrivò a parco quando si accorse che una tavola del ponticello scricchiola. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di parco. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva pensare alla cosa che aveva motivato la sua ricerca: far passare una tartaruga verso lo stagno. {{ANIMALE}} si allontanò verso il proprio ambiente e parco tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-013",
+      "title": "Il cancello verde",
+      "setting": "giardino",
+      "animal": "riccio",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in giardino:  arrivò a giardino quando si accorse che il cancello resta socchiuso ogni sera. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  un ramo elastico spinge il chiavistello quando soffia vento. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté pensare alla cosa che aveva motivato la sua ricerca: scoprire perché gli animali entrano nell'orto. Il problema era scomparso senza lasciare un nuovo ostacolo.  {{ANIMALE}} tornò ad avvicinarsi e il suo comportamento tranquillo fu il segnale che la situazione era davvero cambiata.",
+        "Il viaggio di ritorno sembrò diverso. Non perché giardino fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-014",
+      "title": "La cesta del mercato",
+      "setting": "città",
+      "animal": "volpe",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in città, il primo dettaglio a farsi notare fu questo:  arrivò a città quando si accorse che una cesta di mele compare sotto un banco . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  la cesta appartiene al fruttivendolo della piazza vicina. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora città e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato città: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-015",
+      "title": "La finestra sulle stelle",
+      "setting": "stazione orbitale",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in stazione orbitale, ma appena arrivò trovò un ostacolo:  arrivò a stazione orbitale quando si accorse che una finestra panoramica mostra una strana luce intermittente. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di stazione orbitale. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva pensare alla cosa che aveva motivato la sua ricerca: capire cosa attraversa il campo visivo. {{ANIMALE}} si allontanò verso il proprio ambiente e stazione orbitale tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-016",
+      "title": "L'impronta nella sabbia",
+      "setting": "oasi",
+      "animal": "cammello",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in oasi:  arrivò a oasi quando si accorse che una serie di impronte finisce vicino al pozzo. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  le impronte appartengono a un cammello che ha seguito l'odore dell'acqua. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté pensare alla cosa che aveva motivato la sua ricerca: trovare un animale che potrebbe essersi allontanato. Il problema era scomparso senza lasciare un nuovo ostacolo.  {{ANIMALE}} tornò ad avvicinarsi e il suo comportamento tranquillo fu il segnale che la situazione era davvero cambiata.",
+        "Il viaggio di ritorno sembrò diverso. Non perché oasi fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-017",
+      "title": "Il sasso che rotolava",
+      "setting": "grotta",
+      "animal": "pipistrello",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in grotta, il primo dettaglio a farsi notare fu questo:  arrivò a grotta quando si accorse che piccoli sassi cadono vicino all'ingresso . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  l'acqua filtra da una fessura sopra la grotta. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora grotta e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato grotta: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-018",
+      "title": "La canna piegata",
+      "setting": "lago",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in lago, ma appena arrivò trovò un ostacolo:  arrivò a lago quando si accorse che una canna piegata nasconde una parte del pontile. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di lago. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva pensare alla cosa che aveva motivato la sua ricerca: raggiungere una rana senza calpestare il bordo. {{ANIMALE}} si allontanò verso il proprio ambiente e lago tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-019",
+      "title": "La slitta ferma",
+      "setting": "villaggio innevato",
+      "animal": "pinguino",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in villaggio innevato:  arrivò a villaggio innevato quando si accorse che una slitta resta bloccata davanti alla piazza. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  una ruota è finita in una buca coperta dalla neve. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté pensare alla cosa che aveva motivato la sua ricerca: portare legna alla casa più lontana. Il problema era scomparso senza lasciare un nuovo ostacolo.  {{ANIMALE}} tornò ad avvicinarsi e il suo comportamento tranquillo fu il segnale che la situazione era davvero cambiata.",
+        "Il viaggio di ritorno sembrò diverso. Non perché villaggio innevato fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-020",
+      "title": "Il sipario aperto",
+      "setting": "teatro",
+      "animal": "pappagallo",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in teatro, il primo dettaglio a farsi notare fu questo:  arrivò a teatro quando si accorse che il sipario resta aperto durante le prove . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  un filo del contrappeso si è incastrato dietro una quinta. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora teatro e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato teatro: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-021",
+      "title": "Il sentiero delle lucciole",
+      "setting": "bosco",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in bosco, ma appena arrivò trovò un ostacolo:  conosceva bosco, ma quella mattina le lucciole non comparivano più vicino al ruscello. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di bosco. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva occuparsi di ciò per cui era arrivato: scoprire perché il sentiero serale era diventato buio. {{ANIMALE}} si allontanò verso il proprio ambiente e bosco tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-022",
+      "title": "La campana sul molo",
+      "setting": "porto",
+      "animal": "gabbiano",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in porto:  conosceva porto, ma quella mattina la campana del molo non suona più. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté occuparsi di ciò per cui era arrivato: capire perché manca il segnale della marea. Il problema era scomparso senza lasciare un nuovo ostacolo.  Il luogo sembrava uguale a prima, ma ora {{PROTAGONISTA}} ne conosceva un segreto in più.",
+        "Il viaggio di ritorno sembrò diverso. Non perché porto fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-023",
+      "title": "Il cappello nel vento",
+      "setting": "collina",
+      "animal": "farfalla",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in collina, il primo dettaglio a farsi notare fu questo:  conosceva collina, ma quella mattina un cappello resta impigliato in un cespuglio . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora collina e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato collina: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-024",
+      "title": "La fontana senza voce",
+      "setting": "piazza",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in piazza, ma appena arrivò trovò un ostacolo:  conosceva piazza, ma quella mattina la fontana ha smesso di gorgogliare. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di piazza. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva occuparsi di ciò per cui era arrivato: scoprire perché l'acqua non arriva alla vasca. {{ANIMALE}} si allontanò verso il proprio ambiente e piazza tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-025",
+      "title": "Il sentiero delle impronte",
+      "setting": "neve",
+      "animal": "volpe",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in neve:  conosceva neve, ma quella mattina una fila di impronte termina davanti a un cumulo. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté occuparsi di ciò per cui era arrivato: capire dove porta il percorso. Il problema era scomparso senza lasciare un nuovo ostacolo.  Il luogo sembrava uguale a prima, ma ora {{PROTAGONISTA}} ne conosceva un segreto in più.",
+        "Il viaggio di ritorno sembrò diverso. Non perché neve fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-026",
+      "title": "La chiave del giardino",
+      "setting": "giardino",
+      "animal": "coniglio",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in giardino, il primo dettaglio a farsi notare fu questo:  conosceva giardino, ma quella mattina la chiave del cancelletto non è nel cassetto . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora giardino e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato giardino: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-027",
+      "title": "Il remo sotto il pontile",
+      "setting": "lago",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in lago, ma appena arrivò trovò un ostacolo:  conosceva lago, ma quella mattina un remo è incastrato sotto il pontile. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di lago. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva occuparsi di ciò per cui era arrivato: recuperarlo prima che la corrente lo porti via. {{ANIMALE}} si allontanò verso il proprio ambiente e lago tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-028",
+      "title": "La finestra del campanile",
+      "setting": "villaggio",
+      "animal": "civetta",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in villaggio:  conosceva villaggio, ma quella mattina una finestra sbatte durante il vento. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté occuparsi di ciò per cui era arrivato: evitare che il vetro si rompa. Il problema era scomparso senza lasciare un nuovo ostacolo.  Il luogo sembrava uguale a prima, ma ora {{PROTAGONISTA}} ne conosceva un segreto in più.",
+        "Il viaggio di ritorno sembrò diverso. Non perché villaggio fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-029",
+      "title": "Il nastro rosso",
+      "setting": "mercato",
+      "animal": "gazza",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in mercato, il primo dettaglio a farsi notare fu questo:  conosceva mercato, ma quella mattina un nastro compare ogni mattina su un banco diverso . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora mercato e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato mercato: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-030",
+      "title": "La pietra calda",
+      "setting": "montagna",
+      "animal": "marmotta",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in montagna, ma appena arrivò trovò un ostacolo:  conosceva montagna, ma quella mattina una pietra rotola sul sentiero ogni pomeriggio. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di montagna. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva occuparsi di ciò per cui era arrivato: capire perché il passaggio diventa rischioso. {{ANIMALE}} si allontanò verso il proprio ambiente e montagna tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-031",
+      "title": "Il ponte coperto",
+      "setting": "bosco",
+      "animal": "cervo",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in bosco:  conosceva bosco, ma quella mattina foglie e rami nascondono il bordo di un ponte. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté occuparsi di ciò per cui era arrivato: rendere visibile il passaggio. Il problema era scomparso senza lasciare un nuovo ostacolo.  Il luogo sembrava uguale a prima, ma ora {{PROTAGONISTA}} ne conosceva un segreto in più.",
+        "Il viaggio di ritorno sembrò diverso. Non perché bosco fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-032",
+      "title": "La vela strappata",
+      "setting": "baia",
+      "animal": "delfino",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in baia, il primo dettaglio a farsi notare fu questo:  conosceva baia, ma quella mattina una piccola vela resta piegata sulla barca . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora baia e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato baia: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-033",
+      "title": "Il libro sulla panca",
+      "setting": "parco",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in parco, ma appena arrivò trovò un ostacolo:  conosceva parco, ma quella mattina un libro compare ogni giorno sulla stessa panca. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di parco. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva occuparsi di ciò per cui era arrivato: trovare il proprietario. {{ANIMALE}} si allontanò verso il proprio ambiente e parco tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-034",
+      "title": "Il sentiero del miele",
+      "setting": "fattoria",
+      "animal": "ape",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in fattoria:  conosceva fattoria, ma quella mattina le api non raggiungono più un gruppo di fiori. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté occuparsi di ciò per cui era arrivato: capire cosa ostacola il percorso. Il problema era scomparso senza lasciare un nuovo ostacolo.  Il luogo sembrava uguale a prima, ma ora {{PROTAGONISTA}} ne conosceva un segreto in più.",
+        "Il viaggio di ritorno sembrò diverso. Non perché fattoria fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-035",
+      "title": "La ruota del carro",
+      "setting": "fattoria",
+      "animal": "asino",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in fattoria, il primo dettaglio a farsi notare fu questo:  conosceva fattoria, ma quella mattina un carro non riesce a uscire dal cortile . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora fattoria e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato fattoria: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-036",
+      "title": "La porta blu",
+      "setting": "casa",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in casa, ma appena arrivò trovò un ostacolo:  conosceva casa, ma quella mattina una porta interna non si chiude. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di casa. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva occuparsi di ciò per cui era arrivato: scoprire perché lascia entrare il freddo. {{ANIMALE}} si allontanò verso il proprio ambiente e casa tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-037",
+      "title": "Il ponte di pietra",
+      "setting": "valle",
+      "animal": "capra",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in valle:  conosceva valle, ma quella mattina una pietra bagnata rende scivoloso il passaggio. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté occuparsi di ciò per cui era arrivato: trovare un percorso sicuro. Il problema era scomparso senza lasciare un nuovo ostacolo.  Il luogo sembrava uguale a prima, ma ora {{PROTAGONISTA}} ne conosceva un segreto in più.",
+        "Il viaggio di ritorno sembrò diverso. Non perché valle fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-038",
+      "title": "La lanterna sul sentiero",
+      "setting": "faro",
+      "animal": "gabbiano",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in faro, il primo dettaglio a farsi notare fu questo:  conosceva faro, ma quella mattina una lanterna si spegne prima del tramonto . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora faro e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato faro: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-039",
+      "title": "Il quadro alla luce",
+      "setting": "museo",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in museo, ma appena arrivò trovò un ostacolo:  conosceva museo, ma quella mattina un quadro sembra diverso ogni pomeriggio. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di museo. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva occuparsi di ciò per cui era arrivato: capire perché cambiano i colori. {{ANIMALE}} si allontanò verso il proprio ambiente e museo tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-040",
+      "title": "Il secchio nel pozzo",
+      "setting": "villaggio",
+      "animal": "cane",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in villaggio:  conosceva villaggio, ma quella mattina il secchio non torna su. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté occuparsi di ciò per cui era arrivato: recuperarlo senza avvicinarsi troppo al bordo. Il problema era scomparso senza lasciare un nuovo ostacolo.  Il luogo sembrava uguale a prima, ma ora {{PROTAGONISTA}} ne conosceva un segreto in più.",
+        "Il viaggio di ritorno sembrò diverso. Non perché villaggio fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-041",
+      "title": "Il sentiero del teatro",
+      "setting": "teatro",
+      "animal": "gatto",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in teatro, il primo dettaglio a farsi notare fu questo:  conosceva teatro, ma quella mattina una porta laterale resta aperta dopo le prove . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora teatro e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato teatro: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-042",
+      "title": "La neve sul tetto",
+      "setting": "montagna",
+      "animal": "capra",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in montagna, ma appena arrivò trovò un ostacolo:  conosceva montagna, ma quella mattina la neve scivola vicino all'ingresso del rifugio. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di montagna. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva occuparsi di ciò per cui era arrivato: rendere sicuro l'ingresso. {{ANIMALE}} si allontanò verso il proprio ambiente e montagna tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-043",
+      "title": "Il fiume troppo stretto",
+      "setting": "fiume",
+      "animal": "castoro",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in fiume:  conosceva fiume, ma quella mattina l'acqua passa in uno spazio sempre più stretto. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté occuparsi di ciò per cui era arrivato: capire cosa ha cambiato il corso. Il problema era scomparso senza lasciare un nuovo ostacolo.  Il luogo sembrava uguale a prima, ma ora {{PROTAGONISTA}} ne conosceva un segreto in più.",
+        "Il viaggio di ritorno sembrò diverso. Non perché fiume fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-044",
+      "title": "La porta del mercato",
+      "setting": "mercato",
+      "animal": "cane",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in mercato, il primo dettaglio a farsi notare fu questo:  conosceva mercato, ma quella mattina una porta resta aperta durante la notte . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora mercato e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato mercato: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-045",
+      "title": "Il sentiero delle rose",
+      "setting": "castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in castello, ma appena arrivò trovò un ostacolo:  conosceva castello, ma quella mattina un'aiuola viene calpestata ogni mattina. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di castello. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva occuparsi di ciò per cui era arrivato: capire da dove arriva il passaggio. {{ANIMALE}} si allontanò verso il proprio ambiente e castello tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-046",
+      "title": "La finestra del mulino",
+      "setting": "mulino",
+      "animal": "gufo",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in mulino:  conosceva mulino, ma quella mattina la farina si deposita sempre nello stesso angolo. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté occuparsi di ciò per cui era arrivato: capire da dove entra la corrente. Il problema era scomparso senza lasciare un nuovo ostacolo.  Il luogo sembrava uguale a prima, ma ora {{PROTAGONISTA}} ne conosceva un segreto in più.",
+        "Il viaggio di ritorno sembrò diverso. Non perché mulino fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-047",
+      "title": "Il campanello della scuola",
+      "setting": "scuola",
+      "animal": "cane",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in scuola, il primo dettaglio a farsi notare fu questo:  conosceva scuola, ma quella mattina il campanello suona prima dell'orario . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora scuola e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato scuola: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-048",
+      "title": "La cesta del pescatore",
+      "setting": "baia",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in baia, ma appena arrivò trovò un ostacolo:  conosceva baia, ma quella mattina una cesta vuota compare sulla riva. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di baia. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva occuparsi di ciò per cui era arrivato: trovare chi l'ha persa. {{ANIMALE}} si allontanò verso il proprio ambiente e baia tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-049",
+      "title": "Il sentiero del museo",
+      "setting": "museo",
+      "animal": "topo",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in museo:  conosceva museo, ma quella mattina un cartello indica una sala chiusa. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté occuparsi di ciò per cui era arrivato: capire perché è rimasto lì. Il problema era scomparso senza lasciare un nuovo ostacolo.  Il luogo sembrava uguale a prima, ma ora {{PROTAGONISTA}} ne conosceva un segreto in più.",
+        "Il viaggio di ritorno sembrò diverso. Non perché museo fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-050",
+      "title": "Il cancello della neve",
+      "setting": "villaggio innevato",
+      "animal": "volpe",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in villaggio innevato, il primo dettaglio a farsi notare fu questo:  conosceva villaggio innevato, ma quella mattina il cancello del sentiero non si apre . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora villaggio innevato e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato villaggio innevato: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-051",
+      "title": "La barca senza remi",
+      "setting": "lago",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in lago, ma appena arrivò trovò un ostacolo:  conosceva lago, ma quella mattina una barca arriva alla riva senza remi. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di lago. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva occuparsi di ciò per cui era arrivato: capire da dove proviene. {{ANIMALE}} si allontanò verso il proprio ambiente e lago tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    },
+    {
+      "id": "RM-052",
+      "title": "Il ramo sul sentiero",
+      "setting": "bosco",
+      "animal": "cervo",
+      "pages": [
+        "Il problema era già lì quando {{PROTAGONISTA}} arrivò in bosco:  conosceva bosco, ma quella mattina un ramo impedisce il passaggio. Non c'erano cartelli che spiegassero cosa fare. C'era soltanto il luogo, con i suoi rumori e le sue tracce.",
+        "{{PROTAGONISTA}} fece il giro largo. Vide {{ANIMALE}}, poi notò che l'animale evitava proprio una zona. Non era paura raccontata a parole: era un comportamento concreto. {{PROTAGONISTA}} rispettò quella distanza e osservò da fuori.",
+        "Da lì emerse l'indizio decisivo. {{PROTAGONISTA}} capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. La spiegazione era semplice, ma richiedeva attenzione per non peggiorare le cose.",
+        "Prima di intervenire, {{PROTAGONISTA}} mise in sicurezza il passaggio. Poi provò una soluzione minima. Il cambiamento fu evidente, ma non definitivo.",
+        "Un rumore, un movimento o una nuova traccia mostrò che mancava ancora qualcosa. {{PROTAGONISTA}} tornò indietro e ricostruì mentalmente ogni passaggio dall'inizio.",
+        "La seconda soluzione partì dalla causa, non dal sintomo. Fu più lenta da preparare e molto più efficace. {{ANIMALE}} poté tornare nella zona soltanto quando tutto fu stabile.",
+        "Finalmente {{PROTAGONISTA}} poté occuparsi di ciò per cui era arrivato: raggiungere la radura senza uscire dal sentiero. Il problema era scomparso senza lasciare un nuovo ostacolo.  Il luogo sembrava uguale a prima, ma ora {{PROTAGONISTA}} ne conosceva un segreto in più.",
+        "Il viaggio di ritorno sembrò diverso. Non perché bosco fosse cambiato, ma perché {{PROTAGONISTA}} ora sapeva leggere meglio i suoi piccoli segnali."
+      ]
+    },
+    {
+      "id": "RM-053",
+      "title": "La finestra della serra",
+      "setting": "serra",
+      "animal": "ape",
+      "pages": [
+        "La mattina in cui {{PROTAGONISTA}} arrivò in serra, il primo dettaglio a farsi notare fu questo:  conosceva serra, ma quella mattina le piante ricevono poca luce . Non sembrava urgente, ma cambiava il modo di attraversare il luogo. {{PROTAGONISTA}} rimase fermo abbastanza da ascoltare i rumori e guardare le tracce.",
+        "Fu {{ANIMALE}} a spostare l'attenzione. Non parlò e non avrebbe potuto spiegare nulla: fece semplicemente ciò che fanno gli animali, seguendo un odore, un movimento o un riparo. {{PROTAGONISTA}} seguì quella direzione e trovò un secondo indizio.",
+        "Il secondo indizio raccontava come era iniziato tutto. {{PROTAGONISTA}} ricostruì i passaggi uno alla volta e capì che  Per risolverlo davvero doveva intervenire nel punto giusto, non nel punto più evidente. A quel punto non serviva più cercare dappertutto.",
+        "Il luogo aveva però una regola importante: prima di spostare qualcosa bisognava capire chi ne aveva bisogno. {{PROTAGONISTA}} osservò ancora serra e chiese consiglio a chi lo conosceva bene. Insieme prepararono un intervento piccolo e sicuro.",
+        "Quando provarono, il problema sembrò diminuire. Poi tornò. {{PROTAGONISTA}} non si scoraggiò: il fallimento aveva dato una nuova informazione. La prima idea aveva toccato il sintomo, non il punto da cui tutto era partito.",
+        "{{PROTAGONISTA}} tornò all'indizio e cambiò gesto. Questa volta la soluzione fu più semplice di quanto sembrasse. {{ANIMALE}} rimase a distanza, mentre il luogo tornava lentamente alla sua normalità.",
+        "Dopo qualche minuto non accadde più nulla di strano. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente completare ciò che voleva fare. La soluzione non aveva trasformato serra: aveva soltanto rimesso al suo posto un dettaglio importante.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò il punto da cui era partita la ricerca. Aveva imparato che un luogo racconta ciò che gli succede attraverso piccole tracce. Basta non avere troppa fretta di ignorarle."
+      ]
+    },
+    {
+      "id": "RM-054",
+      "title": "Il ponte del giardino",
+      "setting": "giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} aveva un obiettivo preciso quel giorno in giardino, ma appena arrivò trovò un ostacolo:  conosceva giardino, ma quella mattina il piccolo ponte scricchiola. Per un momento pensò di aggirarlo. Poi si accorse che farlo avrebbe lasciato il problema a chi sarebbe arrivato dopo.",
+        "Mentre cercava una soluzione, {{ANIMALE}} comparve nel posto meno atteso. Il suo comportamento attirò lo sguardo di {{PROTAGONISTA}} verso un dettaglio che nessuno aveva notato: una traccia, un oggetto spostato, una superficie diversa dal solito.",
+        "Quella traccia collegava due punti di giardino. {{PROTAGONISTA}} li raggiunse entrambi e ricostruì la piccola catena degli eventi. La causa era molto più concreta di quanto avesse immaginato.",
+        "Invece di forzare la situazione, {{PROTAGONISTA}} provò una prima soluzione. Funzionò soltanto a metà. Il risultato insegnò che il problema aveva bisogno di essere affrontato da un'altra direzione.",
+        "{{ANIMALE}} tornò vicino al luogo, ma senza entrare nella zona di lavoro. Il suo movimento indicò indirettamente che un passaggio era ancora libero. {{PROTAGONISTA}} ne approfittò per controllare il punto che aveva trascurato.",
+        "Lì trovò la vera chiave. Un gesto preciso bastò a cambiare la situazione. Poi {{PROTAGONISTA}} aspettò, perché non voleva confondere una soluzione momentanea con una soluzione stabile.",
+        "Il cambiamento rimase. Ora {{PROTAGONISTA}} poteva occuparsi di ciò per cui era arrivato: raggiungere l'altra parte senza rischi. {{ANIMALE}} si allontanò verso il proprio ambiente e giardino tornò silenzioso.",
+        "Quella sera {{PROTAGONISTA}} ricordò soprattutto il momento in cui aveva deciso di non aggirare il problema. A volte la strada più breve non è quella che porta più lontano: è quella che permette di capire cosa sta davvero succedendo."
+      ]
+    }
+  ]
+}
