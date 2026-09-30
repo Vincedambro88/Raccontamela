@@ -7,6 +7,7 @@ type StoryRequest = {
   city?: string;
   friends?: string[];
   animalFriends?: string[];
+  animal?: string;
   locale?: string;
 };
 
@@ -25,13 +26,14 @@ function buildStory(input: {
   locale: string;
   friends: string[];
   animalFriends: string[];
+  animal?: string;
 }) {
   const { protagonistName: n, setting: s, locale: l, friends, animalFriends } = input;
   const human = friends.length ? friends.join(", ") : ({
     it: "un nuovo amico", en: "a new friend", fr: "un nouvel ami",
     es: "un nuevo amigo", de: "ein neuer Freund",
   } as Record<string, string>)[l] ?? "a new friend";
-  const animalRaw = animalFriends[0] || "";
+  const animalRaw = input.animal?.trim() || animalFriends[0] || "";
   const animal = animalRaw.includes(":")
     ? (() => {
         const [species, ...rest] = animalRaw.split(":");
@@ -127,6 +129,7 @@ async function generateAiStory(input: {
   locale: string;
   friends: string[];
   animalFriends: string[];
+  animal?: string;
 }) {
   const key = Deno.env.get("OPENAI_API_KEY");
   if (!key) throw new Error("OPENAI_API_KEY not configured");
@@ -178,7 +181,7 @@ async function generateAiStory(input: {
     "Write like a polished read-aloud story for children: clear sentences, varied rhythm, dialogue only when it genuinely advances the scene, gentle humor where appropriate, emotional warmth and an ending that feels earned. Avoid moralizing, explaining the lesson, talking about 'the story', addressing the reader, or summarizing the adventure at the end.",
     "DO NOT use generic AI filler such as 'the adventure began', 'they knew something magical was about to happen', 'anything was possible', 'with a little courage', or repetitive statements about how special the place was. Show the adventure instead of explaining it.",
     "DO NOT use a chain of arbitrary fantasy props (random keys, feathers, bells, maps, doors, mechanical birds, golden lights, stars) unless each object is genuinely appropriate to the chosen setting and necessary to the central plot. One coherent set of clues is better than many unrelated magical objects.",
-    "Keep the story internally consistent with the user's choices. Never silently substitute a different protagonist, place, animal species or companion.",
+    "Keep the story internally consistent with the user's choices. Never silently substitute a different protagonist, place, animal species or companion. The selected animal is a first-class story parameter: it must appear naturally from the opening pages, remain the same species throughout, and have a consequential species-appropriate action. Never replace it with another animal.",
     "For the 8 pages, target 85-105 words per page in Italian/English/French/Spanish/German, for roughly 680-840 words total and a 5-6 minute read at a child-friendly read-aloud pace.",
     "Avoid filler and repeated descriptions. Each page should contain a concrete action, a consequence and either a new piece of information or an emotional beat that moves the same plot forward.",
     "The final page must resolve the central problem or goal, show what changed because of the characters' actions, and end on a calm, memorable image rooted in the chosen setting.",
@@ -191,6 +194,7 @@ async function generateAiStory(input: {
     protagonistName: input.protagonistName,
     setting: input.setting,
     friends: input.friends,
+    animal: input.animal,
     animalFriends: input.animalFriends,
     locale: input.locale,
   });
@@ -279,7 +283,7 @@ Deno.serve(async (req) => {
     const locale = String(body.locale ?? "it").slice(0, 2).toLowerCase();
     const friends = cleanList(body.friends, 4);
     const animalFriends = cleanList(body.animalFriends, 10);
-    if (!protagonistName || !setting) return new Response(JSON.stringify({ error: "Missing required fields" }), { status: 400, headers: { ...corsHeaders, "Content-Type": "application/json" } });
+    if (!protagonistName || !setting || !animal) return new Response(JSON.stringify({ error: "Missing required fields: protagonist, setting and animal are required" }), { status: 400, headers: { ...corsHeaders, "Content-Type": "application/json" } });
     if (Array.isArray(body.friends) && body.friends.length > 4) return new Response(JSON.stringify({ error: "A maximum of 4 protagonist friends is allowed" }), { status: 400, headers: { ...corsHeaders, "Content-Type": "application/json" } });
     if (!allowedLocales.has(locale)) return new Response(JSON.stringify({ error: "Unsupported locale" }), { status: 400, headers: { ...corsHeaders, "Content-Type": "application/json" } });
 
@@ -287,13 +291,13 @@ Deno.serve(async (req) => {
     let visualBible = "";
     let sceneVisuals: Record<string, string> = {};
     try {
-      const generated = await generateAiStory({ protagonistName, setting, locale, friends, animalFriends });
+      const generated = await generateAiStory({ protagonistName, setting, locale, friends, animalFriends, animal });
       story = generated;
       visualBible = generated.visualBible;
       sceneVisuals = generated.sceneVisuals;
     } catch (error) {
       console.error("AI story generation failed, using deterministic fallback", error);
-      story = buildStory({ protagonistName, setting, locale, friends, animalFriends });
+      story = buildStory({ protagonistName, setting, locale, friends, animalFriends, animal });
     }
     let saved = false;
     let storyId: string | null = null;
@@ -310,7 +314,7 @@ Deno.serve(async (req) => {
           if (active) {
             const { data: inserted, error } = await admin.from("stories").insert({
               user_id: data.user.id, locale, title: story.title, protagonist_name: protagonistName,
-              setting, story_city: setting, friends, animal_friends: animalFriends, story_text: story.text,
+              setting, story_city: setting, friends, animal_friends: [animal, ...animalFriends.filter((v) => v !== animal)], story_text: story.text,
               duration_seconds: story.durationSeconds, status: "ready", is_premium_story: true,
             }).select("id").single();
             if (error) throw error;
@@ -328,6 +332,7 @@ Deno.serve(async (req) => {
       setting,
       city: setting,
       friends,
+      animal,
       animalFriends,
       scenes: story.scenes,
       visualBible,
