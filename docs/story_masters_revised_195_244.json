@@ -1,0 +1,806 @@
+{
+  "version": 2,
+  "status": "editorial-rewrite",
+  "stories": [
+    {
+      "id": "RM-195",
+      "title": "Il ponte della nebbia",
+      "setting": "valle",
+      "animal": "cervo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle e si accorse che la nebbia nasconde l'inizio del ponte. Il dettaglio sembrava piccolo, ma rendeva difficile raggiungere il rifugio. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: l'aria umida ha ridotto la visibilità. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene valle. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere il rifugio. il percorso viene rimandato finché il ponte torna visibile. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-196",
+      "title": "La finestra sul mare",
+      "setting": "costa",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in costa e si accorse che una finestra non si chiude. Il dettaglio sembrava piccolo, ma rendeva difficile proteggere la stanza dal vento. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: la sabbia blocca il fermo. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene costa. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere la stanza dal vento. la sabbia viene rimossa. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-197",
+      "title": "Il sentiero delle betulle",
+      "setting": "bosco",
+      "animal": "lepre",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco e si accorse che un ramo caduto copre il sentiero. Il dettaglio sembrava piccolo, ma rendeva difficile raggiungere la radura. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: il vento lo ha spezzato. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene bosco. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la radura. il passaggio viene liberato. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-198",
+      "title": "La fontana del villaggio",
+      "setting": "villaggio",
+      "animal": "rondine",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e si accorse che l'acqua scorre lentamente. Il dettaglio sembrava piccolo, ma rendeva difficile riempire le borracce. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: una foglia blocca il condotto. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene villaggio. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riempire le borracce. la foglia viene rimossa. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-199",
+      "title": "La barca del mattino",
+      "setting": "lago",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in lago e si accorse che la barca è legata alla riva sbagliata. Il dettaglio sembrava piccolo, ma rendeva difficile riportarla al pontile. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: la corrente ha spostato la cima. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene lago. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riportarla al pontile. la cima viene fissata al palo corretto. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-200",
+      "title": "Il portone della torre",
+      "setting": "castello",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e si accorse che il portone non resta aperto. Il dettaglio sembrava piccolo, ma rendeva difficile far passare i visitatori. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: un cuneo è incastrato sotto il battente. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene castello. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente far passare i visitatori. il cuneo viene tolto. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-201",
+      "title": "Il sentiero del frutteto",
+      "setting": "fattoria",
+      "animal": "pony",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e si accorse che una carriola occupa il passaggio. Il dettaglio sembrava piccolo, ma rendeva difficile raggiungere gli alberi. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: è stata lasciata dopo la raccolta. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene fattoria. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere gli alberi. la carriola viene spostata. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-202",
+      "title": "La lanterna della grotta",
+      "setting": "grotta",
+      "animal": "pipistrello",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in grotta e si accorse che una lanterna è spenta. Il dettaglio sembrava piccolo, ma rendeva difficile segnalare un tratto del percorso. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: il vento ha spento la fiamma. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene grotta. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente segnalare un tratto del percorso. la lanterna viene riparata e accesa in sicurezza. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-203",
+      "title": "Il tetto della biblioteca",
+      "setting": "biblioteca",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in biblioteca e si accorse che una grondaia perde acqua. Il dettaglio sembrava piccolo, ma rendeva difficile proteggere i libri. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: una foglia ha ostruito il canale. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene biblioteca. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere i libri. il canale viene liberato. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-204",
+      "title": "La panchina del prato",
+      "setting": "parco",
+      "animal": "merlo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in parco e si accorse che una tavola è sollevata. Il dettaglio sembrava piccolo, ma rendeva difficile rendere sicura la panchina. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: un fissaggio si è allentato. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene parco. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente rendere sicura la panchina. la tavola viene fissata. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-205",
+      "title": "La corda della barca",
+      "setting": "porto",
+      "animal": "foca",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e si accorse che la corda è troppo vicina all'acqua. Il dettaglio sembrava piccolo, ma rendeva difficile evitare che si impigli. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: il nodo è scivolato lungo il palo. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene porto. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che si impigli. il nodo viene rifatto. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-206",
+      "title": "Il sentiero del castello",
+      "setting": "castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e si accorse che una pozzanghera copre i gradini. Il dettaglio sembrava piccolo, ma rendeva difficile raggiungere il cortile. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: la pioggia ha riempito una buca. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene castello. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere il cortile. viene scelta una parte asciutta del passaggio. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-207",
+      "title": "La finestra della fattoria",
+      "setting": "fattoria",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e si accorse che un'imposta sbatte. Il dettaglio sembrava piccolo, ma rendeva difficile proteggere il vetro. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: una cerniera è lenta. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene fattoria. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere il vetro. la cerniera viene serrata. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-208",
+      "title": "Il molo del lago",
+      "setting": "lago",
+      "animal": "cigno",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in lago e si accorse che una tavola è bagnata. Il dettaglio sembrava piccolo, ma rendeva difficile raggiungere la barca. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: l'acqua è salita durante la notte. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene lago. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la barca. la zona viene asciugata e segnalata. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-209",
+      "title": "La campana della valle",
+      "setting": "valle",
+      "animal": "stambecco",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle e si accorse che la campana di emergenza non si vede. Il dettaglio sembrava piccolo, ma rendeva difficile controllare il sentiero. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: la neve l'ha coperta. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene valle. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente controllare il sentiero. la campana viene liberata. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-210",
+      "title": "Il cancello del porto",
+      "setting": "porto",
+      "animal": "pellicano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e si accorse che il cancello striscia a terra. Il dettaglio sembrava piccolo, ma rendeva difficile chiuderlo prima di sera. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: il terreno si è abbassato. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene porto. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente chiuderlo prima di sera. il cancello viene riallineato. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-211",
+      "title": "Il vaso del giardino",
+      "setting": "giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in giardino e si accorse che un vaso è sul bordo del vialetto. Il dettaglio sembrava piccolo, ma rendeva difficile evitare che cada. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: un ramo lo ha spinto durante il vento. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene giardino. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che cada. il vaso viene spostato. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-212",
+      "title": "La mappa del bosco",
+      "setting": "bosco",
+      "animal": "scoiattolo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco e si accorse che una parte della mappa è coperta di fango. Il dettaglio sembrava piccolo, ma rendeva difficile ritrovare il sentiero. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: è caduta vicino a una pozzanghera. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene bosco. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente ritrovare il sentiero. il percorso viene ricostruito usando gli alberi segnati. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-213",
+      "title": "La rete della spiaggia",
+      "setting": "spiaggia",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in spiaggia e si accorse che una rete vuota è sulla sabbia. Il dettaglio sembrava piccolo, ma rendeva difficile evitare che torni in mare. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: la marea l'ha trascinata a riva. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene spiaggia. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che torni in mare. la rete viene raccolta. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-214",
+      "title": "La scala del faro",
+      "setting": "faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in faro e si accorse che un gradino è umido. Il dettaglio sembrava piccolo, ma rendeva difficile salire senza scivolare. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: la condensa si è raccolta sul metallo. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene faro. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente salire senza scivolare. il gradino viene asciugato. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-215",
+      "title": "Il cancello del pascolo",
+      "setting": "fattoria",
+      "animal": "pecora",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e si accorse che il chiavistello non entra. Il dettaglio sembrava piccolo, ma rendeva difficile chiudere il recinto. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: il legno si è gonfiato con la pioggia. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene fattoria. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente chiudere il recinto. il chiavistello viene regolato. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-216",
+      "title": "La finestra della torre",
+      "setting": "castello",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e si accorse che una tenda copre il vetro. Il dettaglio sembrava piccolo, ma rendeva difficile vedere il cortile. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: il cordone è caduto. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene castello. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere il cortile. la tenda viene raccolta. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-217",
+      "title": "Il ponte del ruscello",
+      "setting": "bosco",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco e si accorse che un sasso rende instabile una tavola. Il dettaglio sembrava piccolo, ma rendeva difficile attraversare il ruscello. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: la piena ha spostato il terreno. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene bosco. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente attraversare il ruscello. la tavola viene rimossa dal passaggio. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-218",
+      "title": "La cesta della piazza",
+      "setting": "villaggio",
+      "animal": "gazza",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e si accorse che una cesta blocca la fontana. Il dettaglio sembrava piccolo, ma rendeva difficile riempire l'acqua. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: è stata lasciata durante il mercato. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene villaggio. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riempire l'acqua. la cesta viene spostata. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-219",
+      "title": "Il sentiero della baia",
+      "setting": "baia",
+      "animal": "delfino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in baia e si accorse che un cartello è inclinato. Il dettaglio sembrava piccolo, ma rendeva difficile ritrovare il punto di accesso. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: la sabbia ha ceduto sotto la base. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene baia. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente ritrovare il punto di accesso. il cartello viene fissato. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-220",
+      "title": "La porta del fienile",
+      "setting": "fattoria",
+      "animal": "cavallo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e si accorse che la porta resta socchiusa. Il dettaglio sembrava piccolo, ma rendeva difficile riparare il fienile dal vento. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: una paglia è incastrata nella guida. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene fattoria. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riparare il fienile dal vento. la paglia viene rimossa. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-221",
+      "title": "La luce della piazza",
+      "setting": "villaggio",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e si accorse che una lampada illumina male. Il dettaglio sembrava piccolo, ma rendeva difficile vedere il gradino della fontana. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: il vetro è sporco. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene villaggio. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere il gradino della fontana. il vetro viene pulito. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-222",
+      "title": "Il sentiero del mulino",
+      "setting": "mulino",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in mulino e si accorse che un sacco è caduto sul passaggio. Il dettaglio sembrava piccolo, ma rendeva difficile raggiungere la ruota. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: si è rotto il laccio durante il trasporto. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene mulino. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la ruota. il sacco viene spostato. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-223",
+      "title": "La barca della laguna",
+      "setting": "laguna",
+      "animal": "airone",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in laguna e si accorse che la barca tocca il fondo. Il dettaglio sembrava piccolo, ma rendeva difficile raggiungere il pontile. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: l'acqua è più bassa del solito. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene laguna. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere il pontile. viene scelta una rotta più profonda. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-224",
+      "title": "Il ponte della spiaggia",
+      "setting": "spiaggia",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in spiaggia e si accorse che una tavola è coperta di sabbia. Il dettaglio sembrava piccolo, ma rendeva difficile vedere il bordo del ponte. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: il vento l'ha accumulata. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene spiaggia. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere il bordo del ponte. la sabbia viene spazzata via. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-225",
+      "title": "La porta della serra",
+      "setting": "serra",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in serra e si accorse che la porta lascia entrare troppo vento. Il dettaglio sembrava piccolo, ma rendeva difficile proteggere le piantine. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: la guarnizione è uscita dalla sede. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene serra. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere le piantine. la guarnizione viene rimessa. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-226",
+      "title": "Il sentiero della montagna",
+      "setting": "montagna",
+      "animal": "marmotta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in montagna e si accorse che un segnale è piegato. Il dettaglio sembrava piccolo, ma rendeva difficile seguire il percorso corretto. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: la neve ha premuto sul palo. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene montagna. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente seguire il percorso corretto. il segnale viene raddrizzato. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-227",
+      "title": "La fontana del castello",
+      "setting": "castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e si accorse che il getto dell'acqua è debole. Il dettaglio sembrava piccolo, ma rendeva difficile riempire una brocca. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: un sassolino è nel beccuccio. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene castello. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riempire una brocca. il beccuccio viene pulito. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-228",
+      "title": "Il molo della nebbia",
+      "setting": "porto",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e si accorse che una luce è difficile da vedere. Il dettaglio sembrava piccolo, ma rendeva difficile segnalare il bordo del molo. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: la nebbia riflette la luce verso il basso. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene porto. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente segnalare il bordo del molo. viene aggiunto un segnale più vicino a terra. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-229",
+      "title": "La panchina del sentiero",
+      "setting": "collina",
+      "animal": "lepre",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in collina e si accorse che una tavola scricchiola. Il dettaglio sembrava piccolo, ma rendeva difficile capire se è sicura. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: un chiodo è allentato. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene collina. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente capire se è sicura. la panchina viene riparata. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-230",
+      "title": "Il tetto del fienile",
+      "setting": "fattoria",
+      "animal": "rondine",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e si accorse che un piccolo foro lascia passare la pioggia. Il dettaglio sembrava piccolo, ma rendeva difficile proteggere il fieno. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: una tegola si è spostata. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene fattoria. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere il fieno. la tegola viene riposizionata. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-231",
+      "title": "La corda del pozzo",
+      "setting": "villaggio",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e si accorse che la corda è consumata. Il dettaglio sembrava piccolo, ma rendeva difficile recuperare il secchio. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: l'uso ripetuto ha sfilacciato le fibre. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene villaggio. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente recuperare il secchio. la corda viene sostituita. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-232",
+      "title": "La finestra del museo",
+      "setting": "museo",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in museo e si accorse che un riflesso impedisce di vedere un quadro. Il dettaglio sembrava piccolo, ma rendeva difficile guardarlo senza abbagliarsi. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: la luce entra direttamente dal vetro. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene museo. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente guardarlo senza abbagliarsi. la tenda viene regolata. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-233",
+      "title": "Il sentiero del fiume",
+      "setting": "fiume",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fiume e si accorse che una passerella è coperta d'acqua. Il dettaglio sembrava piccolo, ma rendeva difficile raggiungere l'altra riva. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: il livello del fiume è salito. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene fiume. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere l'altra riva. viene scelta una passerella più alta. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-234",
+      "title": "Il cancello del giardino",
+      "setting": "giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in giardino e si accorse che il cancello tocca il terreno. Il dettaglio sembrava piccolo, ma rendeva difficile chiuderlo bene. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: la terra si è accumulata sotto il battente. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene giardino. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente chiuderlo bene. la terra viene rimossa. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-235",
+      "title": "La lanterna del rifugio",
+      "setting": "montagna",
+      "animal": "capra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in montagna e si accorse che la lanterna è senza vetro. Il dettaglio sembrava piccolo, ma rendeva difficile proteggere la fiamma. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: il vento ha rotto il pannello. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene montagna. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere la fiamma. viene usata una luce alternativa sicura. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-236",
+      "title": "La vela della baia",
+      "setting": "baia",
+      "animal": "delfino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in baia e si accorse che una vela resta arrotolata. Il dettaglio sembrava piccolo, ma rendeva difficile preparare la barca. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: la cima si è incastrata. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene baia. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente preparare la barca. la cima viene liberata. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-237",
+      "title": "Il sentiero della biblioteca",
+      "setting": "biblioteca",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in biblioteca e si accorse che una scatola occupa il corridoio. Il dettaglio sembrava piccolo, ma rendeva difficile raggiungere lo scaffale. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: è stata lasciata durante una consegna. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene biblioteca. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere lo scaffale. la scatola viene sistemata. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-238",
+      "title": "La ruota del pozzo",
+      "setting": "villaggio",
+      "animal": "asino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e si accorse che la ruota gira male. Il dettaglio sembrava piccolo, ma rendeva difficile sollevare il secchio. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: un granello di sabbia blocca l'asse. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene villaggio. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente sollevare il secchio. l'asse viene pulito. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-239",
+      "title": "Il sentiero del faro",
+      "setting": "costa",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in costa e si accorse che un tratto è coperto di alghe. Il dettaglio sembrava piccolo, ma rendeva difficile raggiungere la scogliera. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: la marea ha lasciato alghe sulle pietre. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene costa. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la scogliera. il tratto viene evitato. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-240",
+      "title": "La porta del teatro",
+      "setting": "teatro",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in teatro e si accorse che la porta cigola durante le prove. Il dettaglio sembrava piccolo, ma rendeva difficile evitare il rumore. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: una cerniera è asciutta. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene teatro. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare il rumore. la cerniera viene lubrificata. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-241",
+      "title": "Il ponte della cascata",
+      "setting": "valle",
+      "animal": "camoscio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle e si accorse che un corrimano è allentato. Il dettaglio sembrava piccolo, ma rendeva difficile passare in sicurezza. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: l'umidità ha indebolito il fissaggio. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene valle. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente passare in sicurezza. il corrimano viene serrato. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-242",
+      "title": "La cesta del lago",
+      "setting": "lago",
+      "animal": "anatra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in lago e si accorse che una cesta è rimasta vicino all'acqua. Il dettaglio sembrava piccolo, ma rendeva difficile evitare che venga trascinata via. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: il vento ha spostato il telo che la copriva. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene lago. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che venga trascinata via. la cesta viene portata al riparo. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-243",
+      "title": "Il cartello del mercato",
+      "setting": "mercato",
+      "animal": "gazza",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in mercato e si accorse che un cartello indica la bancarella sbagliata. Il dettaglio sembrava piccolo, ma rendeva difficile trovare il banco giusto. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: è stato spostato durante l'allestimento. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene mercato. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente trovare il banco giusto. il cartello viene riposizionato. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    },
+    {
+      "id": "RM-244",
+      "title": "La luce della serra",
+      "setting": "serra",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in serra e si accorse che una lampada non illumina un angolo. Il dettaglio sembrava piccolo, ma rendeva difficile controllare le piante. Prima di fare qualcosa, si fermò a osservare il luogo e a capire cosa fosse cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento portò {{PROTAGONISTA}} a guardare verso un punto preciso. Lì compariva un segno che prima non aveva notato. Non era ancora una soluzione, ma poteva essere l'inizio della spiegazione.",
+        "Seguendo quel segno, {{PROTAGONISTA}} scoprì la causa: il paralume è ruotato. Ora il problema aveva un'origine concreta. Restava da trovare un modo per intervenire senza danneggiare ciò che funzionava già e senza mettere {{ANIMALE}} sulla traiettoria del lavoro.",
+        "{{PROTAGONISTA}} cercò chi conosceva bene serra. Insieme controllarono il passaggio, la stabilità degli oggetti e ciò che poteva essere spostato. Decisero di lavorare soltanto sul punto responsabile del problema.",
+        "Il primo tentativo diede un risultato solo parziale. Per qualche istante sembrò tutto risolto, poi un piccolo segnale mostrò che non bastava. {{PROTAGONISTA}} tornò allora all'indizio iniziale e capì quale dettaglio aveva trascurato.",
+        "Questa volta intervenne con calma e precisione. Sistemò soltanto ciò che serviva, poi si allontanò per osservare. Nessuno doveva continuare a tenere fermo il luogo: la soluzione doveva funzionare anche da sola.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente controllare le piante. la lampada viene orientata. Il luogo era tornato affidabile senza bisogno di grandi cambiamenti.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il punto da cui tutto era cominciato. Aveva imparato che un problema non si risolve guardando soltanto ciò che manca: spesso la risposta si trova seguendo il piccolo dettaglio che è cambiato."
+      ]
+    }
+  ]
+}
