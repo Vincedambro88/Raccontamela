@@ -1,0 +1,806 @@
+{
+  "version": 1,
+  "batch": 7,
+  "stories": [
+    {
+      "id": "RM-245",
+      "title": "Il ponte delle mele",
+      "setting": "la fattoria",
+      "animal": "pony",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria e si accorse subito che una cesta di mele era caduta vicino al ponte. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la fattoria. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la fattoria aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la fattoria tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-246",
+      "title": "La finestra del faro",
+      "setting": "la costa",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la costa e si accorse subito che una persiana copriva metà della finestra. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la costa. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la costa aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la costa tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-247",
+      "title": "Il sentiero dei funghi",
+      "setting": "il bosco",
+      "animal": "cervo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco e si accorse subito che la pioggia aveva reso scivolosa una curva. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il bosco. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il bosco aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il bosco tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-248",
+      "title": "La barca del lago",
+      "setting": "il lago",
+      "animal": "cigno",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il lago e si accorse subito che una cima si era impigliata tra le canne. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il lago. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il lago aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il lago tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-249",
+      "title": "Il cortile della scuola",
+      "setting": "la scuola",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la scuola e si accorse subito che un pallone era finito dietro il cancello. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la scuola. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la scuola aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la scuola tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-250",
+      "title": "La torre dell'orologio",
+      "setting": "la piazza",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la piazza e si accorse subito che l'orologio aveva perso alcuni minuti. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la piazza. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la piazza aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la piazza tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-251",
+      "title": "Il sentiero del castello",
+      "setting": "il castello",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il castello e si accorse subito che un cancello laterale non si chiudeva. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il castello. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il castello aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il castello tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-252",
+      "title": "La fontana del mercato",
+      "setting": "il mercato",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il mercato e si accorse subito che un piccolo oggetto bloccava lo scarico. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il mercato. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il mercato aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il mercato tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-253",
+      "title": "Il ponte sul ruscello",
+      "setting": "il parco",
+      "animal": "tartaruga",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il parco e si accorse subito che una pietra si era spostata nel passaggio. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il parco. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il parco aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il parco tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-254",
+      "title": "La stanza del mulino",
+      "setting": "il mulino",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il mulino e si accorse subito che un sacco di farina era rimasto vicino alla ruota. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il mulino. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il mulino aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il mulino tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-255",
+      "title": "Il cancello della fattoria",
+      "setting": "la fattoria",
+      "animal": "asino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria e si accorse subito che il chiavistello era rimasto aperto. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la fattoria. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la fattoria aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la fattoria tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-256",
+      "title": "Il sentiero della spiaggia",
+      "setting": "la spiaggia",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la spiaggia e si accorse subito che le onde avevano spostato una boa. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la spiaggia. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la spiaggia aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la spiaggia tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-257",
+      "title": "La porta della biblioteca",
+      "setting": "la biblioteca",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la biblioteca e si accorse subito che un libro impediva alla porta di chiudersi. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la biblioteca. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la biblioteca aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la biblioteca tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-258",
+      "title": "Il prato del villaggio",
+      "setting": "il villaggio",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio e si accorse subito che un secchio aveva lasciato una pozza d'acqua. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il villaggio. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il villaggio aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il villaggio tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-259",
+      "title": "La scala del faro",
+      "setting": "il faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il faro e si accorse subito che un gradino era coperto di sabbia. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il faro. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il faro aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il faro tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-260",
+      "title": "Il giardino dopo la pioggia",
+      "setting": "il giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il giardino e si accorse subito che un ramo aveva bloccato il piccolo cancello. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il giardino. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il giardino aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il giardino tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-261",
+      "title": "La riva del fiume",
+      "setting": "il fiume",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il fiume e si accorse subito che una corda galleggiava vicino alla riva. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il fiume. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il fiume aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il fiume tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-262",
+      "title": "Il teatro al mattino",
+      "setting": "il teatro",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il teatro e si accorse subito che un sipario era rimasto impigliato. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il teatro. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il teatro aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il teatro tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-263",
+      "title": "La collina dei papaveri",
+      "setting": "la collina",
+      "animal": "farfalla",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la collina e si accorse subito che un piccolo sentiero era quasi scomparso nell'erba. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la collina. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la collina aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la collina tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-264",
+      "title": "Il tetto del fienile",
+      "setting": "la fattoria",
+      "animal": "rondine",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria e si accorse subito che un nastro era rimasto impigliato sotto una tegola. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la fattoria. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la fattoria aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la fattoria tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-265",
+      "title": "La mappa del museo",
+      "setting": "il museo",
+      "animal": "topo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il museo e si accorse subito che una mappa si era piegata dietro una vetrina. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il museo. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il museo aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il museo tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-266",
+      "title": "Il sentiero innevato",
+      "setting": "il villaggio innevato",
+      "animal": "volpe",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio innevato e si accorse subito che un segnale era coperto dalla neve fresca. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il villaggio innevato. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il villaggio innevato aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il villaggio innevato tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-267",
+      "title": "Il ponte del porto",
+      "setting": "il porto",
+      "animal": "pellicano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il porto e si accorse subito che una cassetta impediva il passaggio. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il porto. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il porto aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il porto tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-268",
+      "title": "La serra chiusa",
+      "setting": "la serra",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la serra e si accorse subito che una finestra era rimasta chiusa. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la serra. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la serra aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la serra tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-269",
+      "title": "Il pozzo del villaggio",
+      "setting": "il villaggio",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio e si accorse subito che la carrucola faceva troppo rumore. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il villaggio. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il villaggio aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il villaggio tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-270",
+      "title": "La porta della torre",
+      "setting": "il castello",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il castello e si accorse subito che una chiave era rimasta nella serratura. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il castello. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il castello aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il castello tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-271",
+      "title": "Il sentiero delle querce",
+      "setting": "il bosco",
+      "animal": "scoiattolo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco e si accorse subito che un ramo aveva coperto un segnale. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il bosco. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il bosco aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il bosco tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-272",
+      "title": "La barca della baia",
+      "setting": "la baia",
+      "animal": "delfino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la baia e si accorse subito che una cima era rimasta tesa tra due pali. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la baia. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la baia aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la baia tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-273",
+      "title": "La finestra della scuola",
+      "setting": "la scuola",
+      "animal": "rondine",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la scuola e si accorse subito che un foglio si era incastrato nella grondaia. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la scuola. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la scuola aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la scuola tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-274",
+      "title": "Il prato della casa",
+      "setting": "la casa",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la casa e si accorse subito che una palla era finita sotto una panca. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la casa. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la casa aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la casa tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-275",
+      "title": "Il ponte della montagna",
+      "setting": "la montagna",
+      "animal": "stambecco",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la montagna e si accorse subito che il ghiaccio copriva una parte delle assi. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la montagna. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la montagna aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la montagna tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-276",
+      "title": "La strada del mercato",
+      "setting": "il mercato",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il mercato e si accorse subito che un carrello aveva bloccato una curva. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il mercato. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il mercato aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il mercato tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-277",
+      "title": "Il campanile del villaggio",
+      "setting": "il villaggio",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio e si accorse subito che una corda era rimasta troppo corta. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il villaggio. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il villaggio aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il villaggio tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-278",
+      "title": "La fontana del castello",
+      "setting": "il castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il castello e si accorse subito che l'acqua scorreva lentamente dalla vasca. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il castello. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il castello aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il castello tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-279",
+      "title": "Il sentiero della valle",
+      "setting": "la valle",
+      "animal": "capra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la valle e si accorse subito che una pietra aveva deviato il percorso. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la valle. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la valle aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la valle tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-280",
+      "title": "Il molo del lago",
+      "setting": "il lago",
+      "animal": "anatra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il lago e si accorse subito che una tavola era diventata instabile. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il lago. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il lago aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il lago tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-281",
+      "title": "Il fienile al tramonto",
+      "setting": "la fattoria",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria e si accorse subito che una lanterna era rimasta accesa. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la fattoria. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la fattoria aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la fattoria tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-282",
+      "title": "La sala delle conchiglie",
+      "setting": "il museo",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il museo e si accorse subito che un pannello copriva parte di una vetrina. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il museo. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il museo aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il museo tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-283",
+      "title": "Il sentiero del parco",
+      "setting": "il parco",
+      "animal": "merlo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il parco e si accorse subito che una panchina era caduta su un lato. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il parco. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il parco aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il parco tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-284",
+      "title": "La porta del porto",
+      "setting": "il porto",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il porto e si accorse subito che una catena era rimasta agganciata. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il porto. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il porto aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il porto tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-285",
+      "title": "Il sentiero della neve",
+      "setting": "la montagna",
+      "animal": "marmotta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la montagna e si accorse subito che un cumulo aveva coperto il passaggio. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la montagna. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la montagna aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la montagna tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-286",
+      "title": "La casa sul fiume",
+      "setting": "la casa sul fiume",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la casa sul fiume e si accorse subito che una finestra non si chiudeva bene. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la casa sul fiume. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la casa sul fiume aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la casa sul fiume tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-287",
+      "title": "Il giardino delle api",
+      "setting": "il giardino",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il giardino e si accorse subito che un vaso rovesciato aveva coperto alcuni fiori. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il giardino. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il giardino aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il giardino tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-288",
+      "title": "La sala degli specchi",
+      "setting": "il teatro",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il teatro e si accorse subito che una tenda copriva uno specchio. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il teatro. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il teatro aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il teatro tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-289",
+      "title": "Il sentiero del lago",
+      "setting": "il lago",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il lago e si accorse subito che un piccolo ponte era coperto di muschio. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il lago. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il lago aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il lago tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-290",
+      "title": "Il granaio silenzioso",
+      "setting": "la fattoria",
+      "animal": "cavallo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria e si accorse subito che una porta non si apriva completamente. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la fattoria. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la fattoria aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la fattoria tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-291",
+      "title": "La torre del villaggio",
+      "setting": "il villaggio",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio e si accorse subito che una finestra era rimasta socchiusa. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il villaggio. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il villaggio aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il villaggio tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-292",
+      "title": "Il sentiero del bosco",
+      "setting": "il bosco",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco e si accorse subito che alcuni rami rendevano difficile il passaggio. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene il bosco. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che il bosco aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e il bosco tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-293",
+      "title": "La riva della baia",
+      "setting": "la baia",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la baia e si accorse subito che una piccola boa era rimasta sulla sabbia. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la baia. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la baia aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la baia tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    },
+    {
+      "id": "RM-294",
+      "title": "La luce della montagna",
+      "setting": "la montagna",
+      "animal": "stambecco",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la montagna e si accorse subito che un cartello era nascosto dietro la neve. Non era un grande disastro, ma cambiava il modo in cui si poteva attraversare o usare quel luogo. {{ANIMALE}} comparve poco lontano e osservò la situazione.",
+        "{{PROTAGONISTA}} si fermò prima di intervenire. Guardò dove cominciava il problema e cercò il segno che lo aveva provocato. C'erano tracce precise: un'impronta, un segno sull'acqua, una foglia spostata o un oggetto fuori posto.",
+        "{{ANIMALE}} si mosse lungo il margine della zona. Quel movimento aiutò {{PROTAGONISTA}} a notare un secondo dettaglio. La prima cosa vista non era la causa, ma la conseguenza di qualcosa accaduto poco prima.",
+        "{{PROTAGONISTA}} chiese aiuto a una persona che conosceva bene la montagna. Insieme ricostruirono ciò che era successo. Decisero di intervenire soltanto quando il punto pericoloso fosse stato controllato e fosse chiaro cosa fare.",
+        "Il primo intervento cambiò la situazione, ma non la risolse del tutto. {{PROTAGONISTA}} tornò sul posto e confrontò ciò che vedeva con l'indizio trovato all'inizio. Questa volta il collegamento era evidente.",
+        "Sistemarono proprio quel punto. Un oggetto venne spostato, un passaggio liberato o un piccolo ostacolo rimosso. Poi aspettarono e controllarono: il luogo doveva funzionare da solo, non soltanto sembrare sistemato.",
+        "Quando tutto fu sicuro, {{ANIMALE}} si avvicinò. {{PROTAGONISTA}} vide che la montagna aveva ripreso il suo ritmo: l'acqua scorreva, il vento passava, il sentiero era leggibile o una porta tornava a chiudersi.",
+        "Prima di andare via, {{PROTAGONISTA}} riguardò il primo dettaglio che aveva notato. Sembrava piccolo, ma aveva indicato la strada giusta. {{ANIMALE}} riprese il proprio percorso e la montagna tornò tranquillo, con ogni cosa di nuovo al suo posto."
+      ]
+    }
+  ]
+}
