@@ -7,6 +7,7 @@ class StoryRequest {
     required this.city,
     required this.friends,
     required this.animalFriends,
+    required this.animal,
     required this.locale,
   });
 
@@ -15,6 +16,7 @@ class StoryRequest {
   final String city;
   final List<String> friends;
   final List<String> animalFriends;
+  final String animal;
   final String locale;
 }
 
@@ -26,7 +28,7 @@ class StoryGenerator {
     final setting = request.setting.trim();
     final scenesText = _expandForReading(
       request.locale,
-      _paragraphs(request.locale, name, setting, request.friends, request.animalFriends),
+      _paragraphs(request.locale, name, setting, request.friends, [request.animal]),
     );
     final scenes = List.generate(
       scenesText.length,
@@ -42,7 +44,7 @@ class StoryGenerator {
       setting: setting,
       city: setting,
       friends: request.friends,
-      animalFriends: request.animalFriends,
+      animalFriends: [request.animal],
       scenes: scenes,
       durationSeconds: ((words / 135) * 60).round(),
     );
