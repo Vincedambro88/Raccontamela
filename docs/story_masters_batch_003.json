@@ -3,35 +3,99 @@
   "batch": 3,
   "stories": [
     {
-      "id": "RM-021",
-      "title": "La campana che non suonava",
-      "setting": "il villaggio",
-      "animal": "capra",
+      "id": "RM-023",
+      "title": "Il vento nella soffitta",
+      "setting": "la casa sul lago",
+      "animal": "gatto",
       "pages": [
-        "Quando {{PROTAGONISTA}} arrivò nella piazza del villaggio, il forno aveva appena acceso il fuoco e dalle finestre usciva odore di pane caldo. Ma c'era una cosa strana: la campana della torre, che ogni mattina chiamava tutti a scuola, era rimasta muta. {{ANIMALE}} sollevò il muso verso la torre e belò piano. {{PROTAGONISTA}} guardò in alto. Il batacchio c'era ancora, ma sembrava fermo. Decise di capire perché.",
-        "Il custode mostrò a {{PROTAGONISTA}} il meccanismo. La corda scendeva fino a una botola, ma qualcosa la tratteneva. {{ANIMALE}} si infilò sotto una panca e ne uscì con un pezzetto di stoffa tra i denti. Era dello stesso colore del fiocco appeso alla porta della torre. {{PROTAGONISTA}} lo seguì fino al cortile della scuola, dove trovò una scatola di legno rovesciata.",
-        "Dentro la scatola c'erano vecchi nastri della festa del villaggio. Il vento ne aveva trascinato uno fin dentro la torre. {{ANIMALE}} tornò di corsa verso la botola. {{PROTAGONISTA}} lo seguì e vide il nastro avvolto intorno alla ruota di legno. Tirarlo avrebbe potuto rompere la corda, così chiamò il custode. Insieme lo liberarono, un giro alla volta.",
-        "La ruota ricominciò a muoversi, ma la campana rimase silenziosa. Il custode guardò meglio. Un piccolo ramo era entrato dalla finestra e si era incastrato tra il martello e il bordo della campana. {{PROTAGONISTA}} lo indicò. Il custode lo tolse con attenzione. {{ANIMALE}} fece un passo indietro proprio mentre il martello oscillava.",
-        "La campana suonò. Un colpo limpido attraversò i tetti e arrivò fino ai campi. Gli abitanti uscirono dalle porte. {{PROTAGONISTA}} rise, mentre {{ANIMALE}} abbassava le orecchie per il rumore improvviso. Il custode controllò ancora una volta il meccanismo: la corda scorreva libera e la ruota girava senza attriti.",
-        "Prima di scendere, {{PROTAGONISTA}} raccolse il nastro rimasto sul pavimento. Lo rimise nella scatola della festa e guardò il punto in cui era stato trovato. Il problema sembrava grande quando avevano sentito la campana tacere, ma era nato da due cose piccole: un nastro e un ramo.",
-        "Nella piazza, la scuola stava finalmente aprendo. Dal forno arrivava il profumo del pane e il sole illuminava le finestre della torre. {{ANIMALE}} si fermò davanti alla porta della scuola. {{PROTAGONISTA}} gli accarezzò il dorso. Non avevano fatto nulla di spettacolare: avevano osservato, seguito un indizio e chiesto aiuto quando serviva.",
-        "Quando {{PROTAGONISTA}} tornò verso casa, la campana suonò ancora una volta. {{ANIMALE}} camminava al suo fianco e la piazza aveva ripreso il suo ritmo. {{PROTAGONISTA}} sorrise. Da quel giorno, quando qualcosa sembrava bloccato, prima di tirare più forte avrebbe guardato con attenzione che cosa stava facendo resistenza."
+        "Da tre notti, nella casa sul lago, una finestra sbatteva quando arrivava il vento. {{PROTAGONISTA}} lo sentiva dalla camera e ogni volta immaginava che qualcuno fosse salito in soffitta. Una mattina decise di controllare. {{ANIMALE}} lo seguì sulle scale, fermandosi a ogni gradino. In cima, la porta era socchiusa. Dentro c'erano vecchie sedie, scatole di cartone e una grande finestra affacciata sull'acqua.",
+        "Il vento entrava da una fessura. {{PROTAGONISTA}} provò a chiudere la finestra, ma il battente tornava indietro con un colpo secco. Sul davanzale trovò piume e fili d'erba. {{ANIMALE}} saltò su una cassa e guardò dietro una tenda. Il fermo della finestra era sparito. {{PROTAGONISTA}} si inginocchiò e cercò sul pavimento senza trovare nulla.",
+        "{{ANIMALE}} scese dalla cassa e attraversò la soffitta fino a una piccola apertura nel muro. Si fermò lì. La luce che entrava dalla fessura illuminava qualcosa di metallico. {{PROTAGONISTA}} si avvicinò e riconobbe il fermo della finestra. Era finito dietro una tavola pesante appoggiata al muro.",
+        "{{PROTAGONISTA}} provò a spostare la tavola, ma capì subito che era troppo pesante. Non insistette. Scese a chiamare un adulto e tornò con lui. Insieme spostarono la tavola senza danneggiare il vecchio muro. Il fermo era incastrato tra due assi e l'adulto riuscì a recuperarlo.",
+        "Prima di sistemarlo, {{PROTAGONISTA}} guardò le piume sul davanzale. Non erano entrate dalla finestra: il vento arrivava da una piccola apertura sopra il tetto. {{ANIMALE}} sollevò il muso verso il soffitto. L'adulto controllò dall'esterno e trovò una tegola leggermente sollevata.",
+        "Sotto la tegola c'era un piccolo nido vuoto. Nessuno aveva bisogno di entrare nella casa: il vento passava dall'apertura, attraversava la soffitta e faceva sbattere la finestra. Il mistero che sembrava inquietante aveva una spiegazione semplice. {{PROTAGONISTA}} guardò {{ANIMALE}} e sorrise.",
+        "Il fermo venne rimesso al suo posto. L'adulto sistemò la tegola senza chiudere lo spazio necessario agli uccelli. La finestra rimase finalmente ferma. {{PROTAGONISTA}} guardò il lago attraverso il vetro. Il vento continuava a soffiare, ma adesso il suo rumore sembrava diverso.",
+        "Quella sera il cielo diventò rosa sopra l'acqua. Un uccello passò davanti alla finestra e scomparve tra i rami. {{ANIMALE}} lo seguì con gli occhi. {{PROTAGONISTA}} sorrise. Nella casa sul lago il vento continuava a raccontare la sua storia; soltanto, ora, lui sapeva da dove cominciava."
       ]
     },
     {
-      "id": "RM-022",
-      "title": "Il sentiero delle lucciole",
-      "setting": "il bosco",
-      "animal": "riccio",
+      "id": "RM-024",
+      "title": "La strada del mulino",
+      "setting": "la campagna",
+      "animal": "asino",
       "pages": [
-        "Al tramonto, {{PROTAGONISTA}} entrò nel bosco seguendo il sentiero della vecchia radura. {{ANIMALE}} avanzava tra le foglie con piccoli passi rumorosi. Era la sera in cui comparivano le prime lucciole dell'anno. Ma un tronco caduto aveva coperto i segni bianchi sulle pietre e il sentiero sembrava scomparso. {{PROTAGONISTA}} non voleva rinunciare alla radura. Decise di cercare una traccia.",
-        "Il bosco diventava sempre più scuro. {{PROTAGONISTA}} guardò il terreno, mentre {{ANIMALE}} si fermò davanti a un ciuffo di muschio. Poco più avanti c'era una pietra coperta dallo stesso muschio, con un piccolo tratto bianco ancora visibile. {{PROTAGONISTA}} capì che i segni non erano spariti: alcuni erano soltanto nascosti.",
-        "La traccia conduceva a un ruscello. Il vecchio ponte era ancora in piedi, ma una delle assi era bagnata e scivolosa. {{PROTAGONISTA}} fece un passo indietro. {{ANIMALE}} passò sotto il ponte e si fermò vicino a un gruppo di radici. Accanto alle radici c'era un passaggio asciutto. Non era comodo, ma permetteva di attraversare senza rischiare.",
-        "Dall'altra parte, il sentiero entrava tra felci alte quasi quanto le ginocchia di {{PROTAGONISTA}}. Le pietre con i segni bianchi comparivano a intervalli. Poi arrivò un bivio. A sinistra il terreno era umido e pieno di impronte; a destra le foglie erano asciutte e schiacciate. {{PROTAGONISTA}} scelse la strada più usata.",
-        "Camminarono ancora. Il bosco profumava di terra e foglie bagnate. {{ANIMALE}} si muoveva davanti a {{PROTAGONISTA}}, fermandosi ogni volta che il sentiero cambiava. Finalmente gli alberi si aprirono. La vecchia radura era lì, silenziosa sotto il cielo che diventava blu.",
-        "La prima lucciola comparve sopra l'erba. Poi una seconda. Poi molte altre. Le piccole luci si accendevano e spegnevano tra i cespugli. {{PROTAGONISTA}} rimase immobile. {{ANIMALE}} si sistemò vicino ai suoi piedi. Per qualche minuto nessuno dei due parlò né si mosse.",
-        "Prima di tornare, {{PROTAGONISTA}} lasciò una piccola pietra bianca vicino al punto in cui il sentiero poteva confondersi. Non voleva cambiare il bosco; voleva soltanto aiutare chi fosse arrivato dopo. Poi spostò un ramo caduto dal passaggio e lo appoggiò lontano dalle radici.",
-        "Nel viaggio di ritorno, le lucciole restarono alle loro spalle come piccole stelle tra gli alberi. Il bosco non sembrava più un labirinto. {{PROTAGONISTA}} conosceva il sentiero, ma ora sapeva anche leggerne i segnali: il muschio, le foglie asciutte, le pietre. {{ANIMALE}} camminava piano accanto a lui mentre sopra i pini comparivano le prime stelle."
+        "Ogni sabato {{PROTAGONISTA}} accompagnava la nonna al vecchio mulino. La strada passava tra campi di grano e un filare di pioppi. Quel giorno {{ANIMALE}} camminava davanti al carretto, ma a metà del percorso si fermò. {{PROTAGONISTA}} tirò piano la corda, poi guardò avanti: una pozzanghera enorme occupava tutta la strada. Dopo la pioggia della notte, il piccolo ponte doveva essere nascosto sotto l'acqua.",
+        "La nonna disse che forse avrebbero potuto aspettare, ma il grano sul carretto doveva arrivare al mulino prima di sera. {{PROTAGONISTA}} guardò il bordo della strada. Tra i pioppi c'era un sentiero stretto che non aveva mai notato. {{ANIMALE}} si avvicinò, annusò il terreno e fece qualche passo. Le sue impronte affondavano nel fango, poi comparivano su un tratto più compatto.",
+        "Tra i rami si vedeva il tetto del mulino. La strada alternativa esisteva davvero, ma era stretta e piena di radici. {{PROTAGONISTA}} tornò al carretto e propose di togliere due sacchi, per alleggerirlo. La nonna accettò. {{ANIMALE}} avanzò lungo il sentiero mentre {{PROTAGONISTA}} guidava lentamente il carretto.",
+        "Una radice sporgeva proprio al centro del passaggio. {{PROTAGONISTA}} fece fermare {{ANIMALE}} e spostò una ruota di lato. La nonna tenne fermo il carretto. Superato l'ostacolo, il sentiero continuò fino a un piccolo fosso. Lì il passaggio era ancora più stretto. {{PROTAGONISTA}} guardò il fosso e capì che non potevano proseguire da soli.",
+        "In quel momento arrivò un contadino con il trattore. Aveva visto le loro tracce entrando nel campo. Spostò un tronco caduto che bloccava il passaggio più avanti. Poi indicò una curva dove il terreno era asciutto. {{PROTAGONISTA}} ringraziò e riprese il cammino, questa volta sapendo esattamente dove mettere le ruote.",
+        "{{ANIMALE}} attraversò per primo. Il carretto seguì lentamente. Nessuno correva. Ogni ruota veniva controllata prima di avanzare. Finalmente raggiunsero il cortile del mulino. Il mugnaio li aspettava sulla porta e guardò il cielo: nuove nuvole stavano arrivando.",
+        "Scaricarono il grano appena in tempo. Poco dopo ricominciò a piovere. Dalla finestra del mulino {{PROTAGONISTA}} guardò la strada principale: la pozzanghera era diventata ancora più grande. Capì perché {{ANIMALE}} si era fermato. Non era testardaggine. Aveva sentito che quella strada non era sicura.",
+        "Al ritorno, la pioggia era diventata una pioggerellina sottile. {{PROTAGONISTA}} camminava accanto a {{ANIMALE}}, mentre tra i pioppi cadevano gocce lucenti. La strada del mulino non era quella che conoscevano, ma quel giorno aveva insegnato loro che, quando un percorso non è sicuro, fermarsi non significa arrendersi. Significa cercare meglio."
+      ]
+    },
+    {
+      "id": "RM-025",
+      "title": "La chiave sotto il palco",
+      "setting": "il teatro",
+      "animal": "topo",
+      "pages": [
+        "Nel piccolo teatro del paese, {{PROTAGONISTA}} aspettava che iniziasse la prova dello spettacolo. Ma quando il direttore cercò la chiave del baule dei costumi, non la trovò. Senza quella chiave nessuno poteva prendere i cappelli, i mantelli e le scarpe di scena. {{ANIMALE}}, che viveva dietro il palco, uscì da una fessura e si fermò vicino al baule. {{PROTAGONISTA}} notò che guardava continuamente verso le assi del pavimento.",
+        "Il direttore controllò le tasche, il tavolo e il cassetto della biglietteria. Niente. {{PROTAGONISTA}} osservò il palco. Una piccola striscia di stoffa rossa spuntava tra due assi. La tirò piano: era un nastro del vecchio sipario. Sotto il nastro compariva un graffio fresco nel legno. {{ANIMALE}} annusò il punto e corse verso il fondo del palco.",
+        "{{PROTAGONISTA}} lo seguì. Dietro una quinta c'era una piccola apertura nel pavimento, coperta da una tavola. Da lì arrivava un debole rumore. Il direttore sollevò la tavola con cautela. Sotto c'era un vecchio spazio usato per far passare i cavi delle luci. La chiave non era lì, ma una delle corde aveva una piccola traccia di vernice dorata.",
+        "La vernice era identica a quella sul bordo del baule. {{PROTAGONISTA}} tornò indietro e guardò la serratura. Il graffio sulla serratura continuava fino al pavimento. Sembrava che il baule fosse stato spostato. Lo spinsero leggermente, senza aprirlo, e sotto comparve una rotella bloccata da un pezzo di legno.",
+        "Quando liberarono la rotella, il baule si mosse di pochi centimetri. La chiave non c'era, ma {{ANIMALE}} corse dietro il baule e si fermò. {{PROTAGONISTA}} guardò sotto. La chiave era caduta in una piccola fessura accanto alla parete. Non poteva raggiungerla con le dita.",
+        "Il direttore prese un lungo righello di legno usato per segnare le scene. Lo infilò nella fessura e avvicinò la chiave al bordo. {{PROTAGONISTA}} la raccolse. Nessuno aveva dovuto rompere il pavimento o spostare il teatro. Bastava seguire i piccoli segni lasciati dalla chiave durante il suo viaggio.",
+        "Il baule si aprì e i costumi comparvero come un piccolo arcobaleno sul tavolo. {{ANIMALE}} tornò dietro il palco. {{PROTAGONISTA}} gli lasciò qualche briciola lontano dai costumi, così nessuno avrebbe avuto motivo di inseguirlo durante la prova. Il direttore chiuse il baule e mise la chiave in un gancio ben visibile.",
+        "Quando il sipario si alzò, {{PROTAGONISTA}} indossava il cappello di scena. Dal fondo del teatro arrivò un piccolo fruscio. {{ANIMALE}} sbucò per un istante tra le quinte e poi scomparve. {{PROTAGONISTA}} sorrise senza interrompere la prova. Quel giorno aveva scoperto che anche una chiave minuscola può lasciare una storia dietro di sé, se si impara a seguirne le tracce."
+      ]
+    },
+    {
+      "id": "RM-026",
+      "title": "La barca delle conchiglie",
+      "setting": "la spiaggia",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò sulla spiaggia con un piccolo secchio vuoto. Voleva raccogliere conchiglie da portare a casa, ma vicino alla riva trovò una barchetta di legno rovesciata. {{ANIMALE}} camminava sulla sabbia poco distante e continuava a guardare la barca. Sotto lo scafo si sentiva un rumore leggero, come qualcosa che urtava il legno.",
+        "{{PROTAGONISTA}} non sollevò subito la barca. Chiamò un adulto e insieme la girarono con attenzione. Dentro non c'era un tesoro: c'erano conchiglie, alghe secche e un piccolo pezzo di rete. La rete si era aggrovigliata intorno al timone. {{ANIMALE}} si avvicinò, ma {{PROTAGONISTA}} lo tenne a distanza per evitare che si impigliasse.",
+        "Il pezzo di rete era vecchio e pieno di sabbia. L'adulto lo tagliò con uno strumento adatto e lo raccolse. Sotto la rete comparve una targhetta con il nome della barca. {{PROTAGONISTA}} guardò verso il mare. Forse qualcuno stava cercando proprio quella barca.",
+        "Più avanti, vicino alle cabine, un uomo stava osservando la riva. Quando vide la targhetta, riconobbe la sua barca. Il vento l'aveva trascinata durante la notte. Ringraziò {{PROTAGONISTA}} e controllò lo scafo. La barca non era rotta, ma mancava un piccolo remo.",
+        "{{ANIMALE}} volò verso il punto in cui le onde lasciavano una linea di alghe. {{PROTAGONISTA}} seguì con gli occhi il suo volo. Tra due rocce c'era qualcosa di lungo e chiaro. Era il remo, incastrato nella sabbia bagnata. L'uomo lo recuperò senza entrare nell'acqua.",
+        "La barca tornò vicino alle cabine. Il proprietario sistemò il remo e raccolse la rete che avrebbe potuto finire in mare. {{PROTAGONISTA}} guardò le conchiglie rimaste nella barca. Alcune erano ancora abitate da piccoli animali. Le lasciò dove stavano e tenne soltanto una conchiglia vuota trovata sulla sabbia.",
+        "{{ANIMALE}} tornò a camminare lungo la riva. La barca, finalmente al sicuro, non sembrava più abbandonata. Il vento continuava a spingere le onde verso la spiaggia. {{PROTAGONISTA}} riempì il suo secchio con acqua e sabbia per giocare più tardi, senza prendere nulla che appartenesse al mare.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò. La barca era di nuovo al suo posto e {{ANIMALE}} volava sopra la riva. Nel secchio c'era una sola conchiglia vuota. Era piccola, liscia e bianca. {{PROTAGONISTA}} pensò che non servivano molti oggetti per ricordare una giornata: bastava una cosa trovata al momento giusto e una storia da portare a casa."
+      ]
+    },
+    {
+      "id": "RM-027",
+      "title": "La neve sulla serra",
+      "setting": "il giardino botanico",
+      "animal": "volpe",
+      "pages": [
+        "Durante la notte aveva nevicato. Quando {{PROTAGONISTA}} arrivò al giardino botanico, il tetto della piccola serra era coperto da uno strato spesso di neve. Una delle porte era rimasta socchiusa. {{ANIMALE}} passò tra i cespugli e si fermò davanti all'ingresso. Dentro la serra alcune piante erano piegate e sul pavimento c'erano gocce d'acqua.",
+        "{{PROTAGONISTA}} entrò con un adulto. Non toccarono le piante. Il responsabile della serra spiegò che il riscaldamento funzionava, ma la neve sul tetto impediva alla luce di entrare. Bisognava liberare il tetto, senza salire sopra la struttura.",
+        "{{ANIMALE}} si mosse lungo il lato della serra. {{PROTAGONISTA}} notò che il terreno era più pulito proprio sotto una grondaia. L'acqua della neve sciolta scendeva da lì, ma un piccolo mucchio di foglie bloccava il passaggio. Il responsabile liberò la grondaia con un attrezzo lungo.",
+        "L'acqua cominciò a scorrere. Sul tetto, però, la neve restava. Il responsabile prese un lungo spazzaneve telescopico e iniziò a spingere la neve dal bordo. {{PROTAGONISTA}} rimase a distanza e osservò il movimento. A ogni passaggio una parte del tetto tornava trasparente.",
+        "Quando arrivarono al centro, una lastra di neve scivolò lentamente verso il bordo. {{ANIMALE}} si allontanò tra i cespugli. La neve cadde a terra con un tonfo morbido. Dentro la serra entrò una striscia di luce. Alcune foglie si sollevarono lentamente.",
+        "Il responsabile controllò le piante una per una. Nessuna era spezzata. Le gocce sul pavimento provenivano dalla condensa, non da una perdita. {{PROTAGONISTA}} aiutò soltanto a raccogliere le foglie cadute vicino all'ingresso.",
+        "Nel pomeriggio il sole comparve tra le nuvole. La serra si riempì di luce e le foglie tornarono dritte. {{ANIMALE}} comparve oltre il vetro, fermandosi sulla neve. {{PROTAGONISTA}} lo osservò senza avvicinarsi. Il giardino era silenzioso, ma dentro la serra si sentiva di nuovo il piccolo rumore dell'acqua.",
+        "Prima di andare, il responsabile controllò ancora una volta la grondaia. {{PROTAGONISTA}} guardò il tetto libero dalla neve e poi le impronte di {{ANIMALE}} che attraversavano il giardino. La giornata aveva mostrato una cosa semplice: proteggere qualcosa non significa fare tutto da soli. Significa osservare, chiedere aiuto e fare soltanto ciò che si può fare bene."
+      ]
+    },
+    {
+      "id": "RM-028",
+      "title": "Il ponte di corda",
+      "setting": "la valle",
+      "animal": "aquila",
+      "pages": [
+        "Il sentiero della valle conduceva a un piccolo ponte di corda sopra un torrente. {{PROTAGONISTA}} lo attraversava spesso con un adulto, ma quel giorno il ponte oscillava più del solito. Una delle corde laterali era allentata. {{ANIMALE}} volava sopra la valle e tornava sempre nello stesso punto. {{PROTAGONISTA}} si fermò prima del ponte. Non voleva provare a passare.",
+        "L'adulto controllò il ponte dalla riva. La passerella era ancora fissata, ma una corda era scivolata fuori da un anello. {{PROTAGONISTA}} guardò il torrente. L'acqua correva veloce sotto le assi. Non era il momento di improvvisare.",
+        "{{ANIMALE}} atterrò su una roccia dall'altra parte del torrente. {{PROTAGONISTA}} lo osservò. Poco più a monte c'era un vecchio sentiero che costeggiava l'acqua e sembrava arrivare alla stessa zona. Era più lungo, ma forse permetteva di raggiungere il villaggio senza usare il ponte.",
+        "Il sentiero era coperto di foglie. {{PROTAGONISTA}} avanzò con l'adulto, controllando il terreno. A metà strada trovarono un albero caduto che bloccava il passaggio. Non potevano spostarlo. Tornare al ponte sembrava l'unica soluzione, ma il ponte restava inutilizzabile.",
+        "Un abitante del villaggio arrivò dalla direzione opposta. Aveva con sé gli attrezzi per la manutenzione del sentiero. Insieme raggiunsero il ponte dalla riva e controllarono la corda. Il nodo era ancora integro: si era soltanto sfilato dall'anello.",
+        "L'adulto e il manutentore misero in sicurezza il ponte. {{PROTAGONISTA}} rimase lontano dalla passerella e osservò come la corda veniva fatta passare di nuovo nell'anello e fissata. Prima di riaprirlo, provarono la struttura senza bambini sopra.",
+        "Quando il ponte fu dichiarato sicuro, {{PROTAGONISTA}} lo attraversò lentamente con l'adulto. Le assi scricchiolarono, ma la corda rimase ferma. {{ANIMALE}} volò sopra di loro e poi si posò su un albero della riva opposta.",
+        "Dal centro del ponte {{PROTAGONISTA}} guardò il torrente. Era lo stesso paesaggio di sempre, ma quella volta lo vedeva diversamente. Aveva imparato che fermarsi davanti a qualcosa di instabile può essere la scelta più utile. Il ponte non aveva bisogno di coraggio improvvisato: aveva bisogno di essere sistemato."
       ]
     }
   ]
