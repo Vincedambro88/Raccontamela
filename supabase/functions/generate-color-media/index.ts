@@ -35,14 +35,6 @@ async function pixazo(body: unknown, key: string) {
   if (!response.ok) throw new Error(`Pixazo error ${response.status}: ${await response.text()}`);
   return response.json();
 }
-  const response = await fetch("https://api.openai.com/v1/images/generations", {
-    method: "POST",
-    headers: { Authorization: `Bearer ${key}`, "Content-Type": "application/json" },
-    body: JSON.stringify(body),
-  });
-  if (!response.ok) throw new Error(`Provider error ${response.status}: ${await response.text()}`);
-  return response.json();
-}
 
 async function verifyMediaToken(story: unknown, token: string, serviceKey: string) {
   const parts = token.split(".");
