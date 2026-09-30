@@ -32,8 +32,8 @@ async function generateImage(prompt: string, _model: string, seed: number) {
       if (value.startsWith("https://") || value.startsWith("http://")) return value;
       if (value.startsWith("/file=")) return host + value;
       if (value.startsWith("file=")) return host + "/" + value;
-      if (value.includes("/tmp/") || /\\.(png|jpg|jpeg|webp)(?:\\?|$)/i.test(value)) {
-        return host + "/file=" + value.replace(/^\\/+/, "");
+      if (value.includes("/tmp/") || /\.(png|jpg|jpeg|webp)(\?|$)/i.test(value)) {
+        return host + "/file=" + value.replace(/^\/+/, "");
       }
       return null;
     }
@@ -65,10 +65,7 @@ async function generateImage(prompt: string, _model: string, seed: number) {
         headers: { "Content-Type": "application/json", "Accept": "application/json" },
         body: JSON.stringify({ data: [prompt, seed, false, 1024, 1344, 4] }),
       });
-
-      if (!submit.ok) {
-        throw new Error("Hugging Face submit error " + submit.status + ": " + await submit.text());
-      }
+      if (!submit.ok) throw new Error("Hugging Face submit error " + submit.status + ": " + await submit.text());
 
       const submitted = await submit.json() as { event_id?: string };
       if (!submitted.event_id) throw new Error("No Hugging Face event id");
@@ -76,9 +73,7 @@ async function generateImage(prompt: string, _model: string, seed: number) {
       const resultResponse = await fetch(host + "/gradio_api/call/infer/" + submitted.event_id, {
         headers: { "Accept": "text/event-stream" },
       });
-      if (!resultResponse.ok) {
-        throw new Error("Hugging Face result error " + resultResponse.status + ": " + await resultResponse.text());
-      }
+      if (!resultResponse.ok) throw new Error("Hugging Face result error " + resultResponse.status + ": " + await resultResponse.text());
       if (!resultResponse.body) throw new Error("Hugging Face returned no event stream");
 
       const reader = resultResponse.body.getReader();
@@ -102,29 +97,21 @@ async function generateImage(prompt: string, _model: string, seed: number) {
 
           const eventName = eventLine.slice(7).trim();
           let data: unknown;
-          try {
-            data = JSON.parse(dataLine.slice(6));
-          } catch {
-            data = dataLine.slice(6);
-          }
+          try { data = JSON.parse(dataLine.slice(6)); }
+          catch { data = dataLine.slice(6); }
 
-          if (eventName === "error") {
-            throw new Error("Hugging Face generation error: " + String(data));
-          }
+          if (eventName === "error") throw new Error("Hugging Face generation error: " + String(data));
           if (eventName === "complete") {
             const imageUrl = extractImageUrl(data);
             if (!imageUrl) throw new Error("Hugging Face completion returned no image URL");
             const imageResponse = await fetch(imageUrl);
-            if (!imageResponse.ok) {
-              throw new Error("Hugging Face image download error " + imageResponse.status);
-            }
+            if (!imageResponse.ok) throw new Error("Hugging Face image download error " + imageResponse.status);
             const bytes = new Uint8Array(await imageResponse.arrayBuffer());
             if (bytes.length < 10000) throw new Error("Generated image is unexpectedly small");
             return bytes;
           }
         }
       }
-
       throw new Error("Hugging Face generation did not complete");
     } catch (error) {
       lastError = error instanceof Error ? error.message : String(error);
@@ -132,7 +119,6 @@ async function generateImage(prompt: string, _model: string, seed: number) {
       if (attempt < 2) await new Promise((resolve) => setTimeout(resolve, 2500));
     }
   }
-
   throw new Error(lastError);
 }
 
