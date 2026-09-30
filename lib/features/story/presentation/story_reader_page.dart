@@ -259,7 +259,19 @@ class _StoryBookPage extends StatelessWidget {
                       fontSize: 17,
                       height: 1.45,
                       fontWeight: FontWeight.w500,
-                      color: const Color(0xFF342A38),
+                      color: Colors.white,
+                      shadows: const [
+                        Shadow(
+                          color: Color(0xCC000000),
+                          blurRadius: 5,
+                          offset: Offset(0, 2),
+                        ),
+                        Shadow(
+                          color: Color(0x99000000),
+                          blurRadius: 12,
+                          offset: Offset(0, 1),
+                        ),
+                      ],
                     ),
               ),
             ),
