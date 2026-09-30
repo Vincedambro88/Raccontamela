@@ -97,6 +97,134 @@
         "Quando il ponte fu dichiarato sicuro, {{PROTAGONISTA}} lo attraversò lentamente con l'adulto. Le assi scricchiolarono, ma la corda rimase ferma. {{ANIMALE}} volò sopra di loro e poi si posò su un albero della riva opposta.",
         "Dal centro del ponte {{PROTAGONISTA}} guardò il torrente. Era lo stesso paesaggio di sempre, ma quella volta lo vedeva diversamente. Aveva imparato che fermarsi davanti a qualcosa di instabile può essere la scelta più utile. Il ponte non aveva bisogno di coraggio improvvisato: aveva bisogno di essere sistemato."
       ]
+    },
+    {
+      "id": "RM-029",
+      "title": "Il campanello del faro",
+      "setting": "il faro",
+      "animal": "cane",
+      "pages": [
+        "Il faro si accendeva ogni sera prima che il cielo diventasse scuro. Quel pomeriggio {{PROTAGONISTA}} arrivò con {{ANIMALE}} e notò una cosa strana: il campanello sulla porta non suonava più. Il custode provò a tirare la corda, ma si sentì soltanto un piccolo tintinnio. Senza quel segnale, chi lavorava sulle barche non avrebbe saputo quando la nebbia rendeva difficile vedere la luce del faro.",
+        "Il custode controllò la corda dall'interno. Era intatta. {{PROTAGONISTA}} guardò il pavimento e vide una fila di gocce vicino alla porta. {{ANIMALE}} le annusò e seguì lentamente la traccia verso il molo. Le gocce finivano accanto a una cassetta di legno rovesciata. Sotto c'era un pezzo di corda bagnata.",
+        "Il pezzo non apparteneva al campanello. Era più grosso e aveva un nodo particolare. Il custode lo riconobbe: serviva per fissare una piccola boa davanti agli scogli. La boa non si vedeva dalla finestra del faro. Il mare era diventato grigio e il vento stava aumentando.",
+        "Il custode prese il binocolo e guardò verso gli scogli. La boa era ancora lì, ma penzolava inclinata. {{PROTAGONISTA}} capì che la corda trovata a terra doveva essersi spezzata durante il giorno. Non era la causa del campanello, ma poteva diventare un altro problema.",
+        "Prima di uscire, il custode controllò di nuovo la porta. {{ANIMALE}} si fermò davanti allo stipite e guardò in alto. La corda del campanello passava attraverso una piccola carrucola. Sopra di essa era incastrato un ciuffo di alghe portato dal vento. La carrucola non riusciva più a girare.",
+        "Il custode tolse le alghe con un attrezzo lungo e lubrificò la carrucola. La corda tornò a scorrere. Il campanello suonò una volta, poi un'altra. Dal molo arrivò il rumore di una barca che rientrava. Il custode sistemò anche la boa prima che il vento aumentasse.",
+        "Quando la nebbia scese sulla baia, il campanello funzionava di nuovo. Ogni suo suono arrivava chiaro fino al molo. {{PROTAGONISTA}} rimase sulla porta del faro accanto a {{ANIMALE}} e ascoltò. Non aveva trovato un grande mistero: aveva seguito piccoli indizi fino a due problemi diversi.",
+        "Al tramonto la luce del faro cominciò a ruotare sul mare. Il campanello suonò ancora, piano e regolare. {{PROTAGONISTA}} guardò il fascio di luce attraversare la nebbia. A volte, pensò, per rimettere in ordine una cosa non serve cercare lontano. Basta accorgersi di ciò che sta proprio davanti agli occhi."
+      ]
+    },
+    {
+      "id": "RM-030",
+      "title": "Il sentiero delle api",
+      "setting": "il frutteto",
+      "animal": "ape",
+      "pages": [
+        "Nel frutteto di nonno, {{PROTAGONISTA}} aspettava la prima raccolta delle mele. Ma quella mattina molti fiori erano ancora chiusi e poche api passavano tra i rami. {{ANIMALE}} volava basso sopra l'erba, poi tornava sempre verso una fila di alberi. {{PROTAGONISTA}} seguì il suo volo e notò che lì il terreno era asciutto.",
+        "Il nonno spiegò che durante la notte un tubo dell'acqua aveva perso pressione. Alcuni alberi avevano ricevuto poca acqua. {{PROTAGONISTA}} guardò il tubo lungo il filare. Non c'erano perdite visibili, ma vicino a una pietra l'erba era stranamente più verde.",
+        "Sollevando la pietra con il nonno, trovarono un piccolo rubinetto quasi chiuso. L'acqua riprese a scorrere, ma solo per una parte del filare. {{ANIMALE}} si posò su un fiore e poi volò verso il margine del frutteto, dove crescevano erbe selvatiche.",
+        "Il nonno spiegò che le api cercavano quei fiori perché erano già aperti. Il problema non era soltanto l'acqua: nel frutteto mancavano fiori abbastanza numerosi mentre gli alberi erano ancora in attesa. {{PROTAGONISTA}} propose di non tagliare le erbe fiorite vicino alla recinzione.",
+        "Per alcuni giorni lasciarono quella striscia di prato intatta. Il nonno controllò il tubo e regolò l'acqua. {{ANIMALE}} tornava ogni mattina tra i fiori. Poco alla volta altre api arrivarono, passando dal prato agli alberi di mele.",
+        "Una mattina {{PROTAGONISTA}} vide un'ape fermarsi su un fiore di melo. Poi un'altra. I rami erano ancora verdi e sottili, ma il frutteto sembrava improvvisamente più vivo. Il nonno disse che non serviva inseguire le api: bastava lasciare loro un posto dove trovare cibo.",
+        "Quando arrivò il giorno della raccolta, sui rami c'erano mele di diverse dimensioni. Alcune erano ancora acerbe e sarebbero rimaste sull'albero. {{PROTAGONISTA}} ne raccolse soltanto quelle mature. {{ANIMALE}} passò sopra il filare, diretto verso la striscia di fiori.",
+        "La sera il frutteto profumava di erba e mele. {{PROTAGONISTA}} guardò il prato lasciato crescere accanto agli alberi. Una cosa piccola aveva aiutato molte altre cose a funzionare insieme: l'acqua, i fiori, le api e infine la frutta. Nel frutteto nessuno lavorava davvero da solo."
+      ]
+    },
+    {
+      "id": "RM-031",
+      "title": "Il mistero della barca rossa",
+      "setting": "il porto",
+      "animal": "gatto",
+      "pages": [
+        "Al porto c'era una barca rossa che ogni mattina cambiava posto. {{PROTAGONISTA}} se ne accorse perché passava sempre davanti alla stessa banchina con {{ANIMALE}}. Il proprietario era convinto che qualcuno la spostasse di notte. Una mattina trovò persino la cima sciolta.",
+        "{{PROTAGONISTA}} osservò la barca senza toccarla. La cima era consumata, ma il nodo sembrava ancora stretto. Il gatto si mise sul bordo della banchina e fissò l'acqua sotto lo scafo. Da lì arrivava un rumore sordo, regolare.",
+        "Il proprietario controllò la catena dell'ancora. Era lunga abbastanza, ma passava sopra una vecchia protezione di gomma. Quando la marea saliva, la barca si sollevava e la catena tirava verso il largo. Quando l'acqua scendeva, la barca tornava verso la banchina.",
+        "Non bastava però a spiegare perché la cima sembrasse sciolta. Il proprietario seguì la corda fino al palo. Il nodo era stato fatto bene, ma la parte terminale sfregava contro un anello metallico arrugginito. A ogni movimento, l'anello consumava lentamente la corda.",
+        "Il proprietario sostituì l'anello e rifecero l'ormeggio. {{PROTAGONISTA}} guardò la barca. Sembrava ferma, ma dopo pochi minuti l'acqua cambiò e lo scafo si mosse di nuovo. Questa volta però la cima scorreva senza strappi.",
+        "{{ANIMALE}} si spostò lungo la banchina seguendo il movimento della barca. {{PROTAGONISTA}} capì che il porto non era immobile come sembrava: acqua, vento e corde continuavano a muoversi anche quando le persone dormivano.",
+        "Quella sera il proprietario segnò sul palo il punto in cui la barca doveva stare con la marea alta. Il mattino seguente la barca rossa era ancora lì. Aveva oscillato durante la notte, ma l'ormeggio aveva retto.",
+        "{{PROTAGONISTA}} salutò il proprietario e accarezzò {{ANIMALE}}. La barca rossa non aveva più un mistero. Aveva una spiegazione fatta di acqua, metallo e movimento. E al porto, da quel giorno, nessuno confondeva più ciò che si muove con ciò che viene spostato."
+      ]
+    },
+    {
+      "id": "RM-032",
+      "title": "La porta del giardino d'inverno",
+      "setting": "il giardino d'inverno",
+      "animal": "coniglio",
+      "pages": [
+        "Nel giardino d'inverno del paese c'era una porta che restava sempre chiusa. {{PROTAGONISTA}} la vedeva ogni volta che entrava con {{ANIMALE}}. Una mattina, però, trovò la porta socchiusa e sentì un rumore leggero dall'altra parte. Non entrò: chiamò il giardiniere.",
+        "Il giardiniere controllò la serratura. Non era rotta. Sul pavimento, invece, c'erano foglie secche trascinate dall'aria. {{ANIMALE}} annusò la soglia e poi si allontanò verso le grandi finestre del giardino.",
+        "Una finestra in alto era rimasta aperta di pochi centimetri. Il vento entrava da lì, attraversava la sala e faceva muovere la porta. Ma perché la porta non si chiudeva del tutto? Il giardiniere controllò il pavimento e trovò una piccola pietra sotto il battente.",
+        "{{PROTAGONISTA}} riconobbe la pietra: era simile a quelle usate per delimitare le aiuole. Il giardiniere la tolse e la porta si chiuse. Sembrava risolto, ma il rumore continuava. Da una stanza laterale arrivava un fruscio.",
+        "Aprirono la porta della stanza insieme. Un vecchio telo di protezione si era staccato da una mensola e si muoveva davanti a una grata. Il vento lo faceva sbattere contro il metallo. Il giardiniere lo ripiegò e controllò che nessun altro oggetto fosse libero.",
+        "{{ANIMALE}} rimase vicino all'ingresso, con le orecchie dritte. Quando tutto tornò silenzioso, si rilassò. {{PROTAGONISTA}} guardò le piante: alcune avevano foglie grandi e lucide, altre erano ancora piccole e nuove.",
+        "Il giardiniere richiuse la finestra lasciando soltanto l'apertura necessaria per il ricambio d'aria. Poi controllò ogni porta della sala. Questa volta non c'erano più pietre, teli o oggetti fuori posto.",
+        "Quando uscirono, il giardino d'inverno sembrava diverso soltanto perché era tornato tranquillo. {{PROTAGONISTA}} guardò {{ANIMALE}} e sorrise. Una porta che sbatte può sembrare un mistero, ma spesso il vento non inventa nulla: sposta soltanto ciò che qualcuno ha lasciato nel posto sbagliato."
+      ]
+    },
+    {
+      "id": "RM-033",
+      "title": "Il ponte sul ruscello",
+      "setting": "il bosco",
+      "animal": "cervo",
+      "pages": [
+        "Il sentiero nel bosco finiva davanti a un ruscello. Il piccolo ponte di legno era il passaggio più breve verso la radura. {{PROTAGONISTA}} arrivò con {{ANIMALE}} e vide che una tavola era inclinata. L'acqua correva sotto il ponte dopo la pioggia della notte.",
+        "{{PROTAGONISTA}} non mise il piede sulla tavola. Chiamò il guardaboschi, che controllò i sostegni. Il ponte era solido, ma una delle assi si era spostata perché un ramo grosso era caduto contro il parapetto.",
+        "Il guardaboschi tolse il ramo e osservò il terreno. Le impronte intorno al ponte erano numerose. {{ANIMALE}} aveva lasciato le proprie accanto a quelle di altri animali che passavano verso la radura.",
+        "Il guardaboschi propose di usare un passaggio più a monte mentre sistemava il ponte. {{PROTAGONISTA}} seguì {{ANIMALE}} lungo il sentiero alternativo. Il cervo si fermò davanti a una zona fangosa e aspettò, invece di attraversarla.",
+        "Più avanti trovarono un tronco caduto che permetteva di passare senza entrare nel fango. {{PROTAGONISTA}} attraversò con attenzione insieme al guardaboschi. Dall'altra parte si vedeva già la radura.",
+        "Nel frattempo il guardaboschi aveva rimesso in posizione la tavola e controllato i chiodi. Non bastava che sembrasse ferma: doveva resistere al passaggio delle persone e degli animali.",
+        "Prima di riaprire il ponte, il guardaboschi lo provò camminando lentamente da una parte all'altra. La tavola non si mosse. {{PROTAGONISTA}} attraversò con lui. {{ANIMALE}} passò per ultimo, leggero e silenzioso.",
+        "Nella radura il sole aveva asciugato l'erba. {{PROTAGONISTA}} guardò il ruscello e poi il ponte. Quel giorno aveva imparato che un sentiero non è soltanto la strada più corta. È quella che può essere percorsa senza mettere nessuno in pericolo."
+      ]
+    },
+    {
+      "id": "RM-034",
+      "title": "La finestra della biblioteca",
+      "setting": "la biblioteca",
+      "animal": "gufo",
+      "pages": [
+        "Nella biblioteca comunale una finestra al piano alto restava aperta ogni mattina, anche quando il bibliotecario la chiudeva la sera. {{PROTAGONISTA}} se ne accorse mentre leggeva vicino allo scaffale delle fiabe. {{ANIMALE}} era appollaiato fuori, su un ramo, e guardava dentro.",
+        "Il bibliotecario provò la maniglia. Sembrava funzionare. Chiuse la finestra e aspettò. Dopo qualche minuto entrò una corrente d'aria e il battente si mosse di nuovo. Sul davanzale c'erano piccoli frammenti di foglia.",
+        "{{PROTAGONISTA}} guardò verso il soffitto. Sopra la finestra passava una vecchia corda collegata a una tenda esterna. La corda era troppo lunga e il vento la faceva urtare contro il battente.",
+        "Il bibliotecario tirò la tenda dall'interno. La finestra rimase ferma. Ma quando la lasciò, il vento tornò a muovere la corda. {{ANIMALE}} cambiò ramo e si posò più vicino al tetto, proprio sopra la finestra.",
+        "Da quella posizione si vedeva che una parte della tenda esterna era uscita dal suo binario. Il vento la gonfiava come una vela. Il bibliotecario chiamò un tecnico per sistemarla. {{PROTAGONISTA}} rimase a osservare senza avvicinarsi alla finestra aperta.",
+        "Il tecnico rimise la tenda nel binario e accorciò la corda. Quando il vento riprese, la tenda si mosse senza colpire la finestra. Il bibliotecario chiuse il battente e questa volta rimase al suo posto.",
+        "{{ANIMALE}} tornò sul ramo. Dentro la biblioteca l'aria era di nuovo ferma e le pagine dei libri non si sollevavano più. {{PROTAGONISTA}} riprese il libro proprio dal punto in cui aveva interrotto la lettura.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò la finestra. Non era stata la maniglia a creare il problema. Era qualcosa di più lontano, collegato alla finestra da una corda. A volte una soluzione comincia proprio quando si smette di guardare soltanto il punto in cui succede il rumore."
+      ]
+    },
+    {
+      "id": "RM-035",
+      "title": "Il sentiero dei papaveri",
+      "setting": "la collina",
+      "animal": "farfalla",
+      "pages": [
+        "Su una collina vicino al paese cresceva ogni estate una striscia di papaveri. {{PROTAGONISTA}} saliva fin lassù con {{ANIMALE}} per vedere i primi fiori. Quell'anno, però, il sentiero sembrava quasi vuoto. C'erano pochi papaveri e molte piante schiacciate ai lati.",
+        "Il nonno che curava la collina spiegò che il prato non era stato falciato troppo presto: erano state le ruote di alcuni mezzi a passare proprio tra i fiori. {{ANIMALE}} volò basso sopra la zona rimasta intatta, dove invece c'erano molti fiori.",
+        "{{PROTAGONISTA}} seguì il margine del prato e notò piccoli paletti di legno quasi nascosti nell'erba. Un vecchio sentiero era stato tracciato proprio lì, ma la pioggia aveva cancellato parte dei segni.",
+        "Il nonno propose di rendere di nuovo visibile il percorso senza tagliare i fiori. Insieme ripulirono soltanto i paletti e aggiunsero piccoli segnali di legno nei punti in cui il sentiero cambiava direzione.",
+        "Nei giorni successivi le persone iniziarono a seguire il nuovo percorso. Nessuno doveva attraversare il prato per arrivare in cima. {{ANIMALE}} continuava a fermarsi sui papaveri ai lati, mentre il centro della collina restava intatto.",
+        "Una mattina {{PROTAGONISTA}} trovò più farfalle del solito. Alcune passavano da un fiore all'altro senza essere disturbate. Il nonno spiegò che lasciare una parte del prato tranquilla permetteva agli insetti di trovare cibo e riparo.",
+        "Quando arrivò l'estate piena, la striscia di papaveri era diventata larga e rossa. Il sentiero attraversava la collina senza tagliare il prato. {{PROTAGONISTA}} camminava piano, guardando dove metteva i piedi.",
+        "Arrivati in cima, {{PROTAGONISTA}} si voltò verso il sentiero. {{ANIMALE}} volò sopra i papaveri. La collina era più bella non perché qualcuno l'aveva sistemata tutta, ma perché aveva imparato dove era meglio passare e dove era meglio lasciare spazio."
+      ]
+    },
+    {
+      "id": "RM-036",
+      "title": "Il segreto della serra blu",
+      "setting": "l'orto",
+      "animal": "riccio",
+      "pages": [
+        "Nel piccolo orto della scuola c'era una serra dipinta di blu. Ogni mattina una pianta di pomodoro sembrava avere nuove foglie piegate. {{PROTAGONISTA}} arrivò con {{ANIMALE}} e trovò sul terreno piccole tracce umide.",
+        "{{PROTAGONISTA}} pensò che qualcuno avesse rovesciato l'acqua, ma il bidello mostrò che il pavimento era asciutto. Le tracce comparivano soltanto vicino alle piante di pomodoro. {{ANIMALE}} si fermò sotto un tavolo e osservò il bordo dell'aiuola.",
+        "Sollevando con attenzione una tavoletta di legno, trovarono piccoli segni nella terra. Non erano impronte di scarpe. Il riccio si mosse lungo il bordo e si fermò davanti a una foglia caduta.",
+        "Sotto la foglia c'era una lumaca. Il bidello spiegò che durante la notte alcune lumache entravano nella serra e mangiavano le foglie giovani. Non serviva schiacciarle: bisognava capire da dove arrivavano.",
+        "Controllarono il bordo della serra e trovarono un piccolo spazio sotto una parete. Durante il giorno non si notava, ma di notte lasciava passare gli animali. {{PROTAGONISTA}} segnò il punto con un bastoncino.",
+        "Il bidello chiuse lo spazio con una rete adatta, lasciando però un passaggio per l'aria. Poi spostò alcune foglie cadute fuori dalla serra. La mattina successiva non c'erano nuove tracce vicino ai pomodori.",
+        "Le piante continuarono a crescere. Una settimana dopo comparvero i primi fiori gialli. {{ANIMALE}} passava ancora vicino alla serra, ma non entrava più. {{PROTAGONISTA}} controllava le foglie senza strapparle e annaffiava soltanto quando il terreno era asciutto.",
+        "Quando il primo pomodoro diventò rosso, {{PROTAGONISTA}} lo raccolse insieme al gruppo della scuola. La serra blu sembrava identica a prima. Ma adesso {{PROTAGONISTA}} sapeva che anche un piccolo spazio sotto una parete può cambiare ciò che succede dentro un giardino."
+      ]
     }
   ]
 }
