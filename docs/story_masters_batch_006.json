@@ -1,0 +1,806 @@
+{
+  "version": 1,
+  "batch": 6,
+  "stories": [
+    {
+      "id": "RM-195",
+      "title": "Il sentiero delle castagne",
+      "setting": "il bosco",
+      "animal": "scoiattolo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco quando notò subito che un cesto di castagne era rimasto vicino a un sentiero. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il bosco. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il bosco funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il bosco tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-196",
+      "title": "La barca tra i canneti",
+      "setting": "il lago",
+      "animal": "airone",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il lago quando notò subito che una piccola barca era finita tra i canneti. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il lago. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il lago funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il lago tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-197",
+      "title": "Il portone della biblioteca",
+      "setting": "la biblioteca",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la biblioteca quando notò subito che il portone non si chiudeva per una foglia incastrata. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la biblioteca. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la biblioteca funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la biblioteca tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-198",
+      "title": "La finestra della fattoria",
+      "setting": "la fattoria",
+      "animal": "gallina",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria quando notò subito che una finestra era rimasta aperta prima della pioggia. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la fattoria. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la fattoria funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la fattoria tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-199",
+      "title": "Il ponte del giardino",
+      "setting": "il giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il giardino quando notò subito che un vaso caduto bloccava una parte del passaggio. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il giardino. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il giardino funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il giardino tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-200",
+      "title": "La campana della piazza",
+      "setting": "la piazza",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la piazza quando notò subito che una corda della campana si era allentata. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la piazza. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la piazza funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la piazza tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-201",
+      "title": "Il sentiero delle rocce",
+      "setting": "la montagna",
+      "animal": "marmotta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la montagna quando notò subito che una pietra instabile segnava il bordo del sentiero. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la montagna. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la montagna funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la montagna tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-202",
+      "title": "La vela al vento",
+      "setting": "il porto",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il porto quando notò subito che una vela piegata impediva di vedere il molo. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il porto. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il porto funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il porto tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-203",
+      "title": "Il palco vuoto",
+      "setting": "il teatro",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il teatro quando notò subito che un sipario era rimasto aperto dopo lo spettacolo. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il teatro. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il teatro funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il teatro tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-204",
+      "title": "Il ruscello nascosto",
+      "setting": "il bosco",
+      "animal": "cervo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco quando notò subito che un piccolo corso d'acqua era uscito dal suo letto. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il bosco. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il bosco funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il bosco tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-205",
+      "title": "La porta del fienile",
+      "setting": "la fattoria",
+      "animal": "cavallo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria quando notò subito che una porta sbatteva a ogni raffica. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la fattoria. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la fattoria funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la fattoria tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-206",
+      "title": "Il faro nella nebbia",
+      "setting": "il faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il faro quando notò subito che la luce sembrava più debole attraverso la nebbia. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il faro. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il faro funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il faro tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-207",
+      "title": "Il sentiero delle conchiglie",
+      "setting": "la spiaggia",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la spiaggia quando notò subito che le onde avevano cancellato una fila di conchiglie. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la spiaggia. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la spiaggia funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la spiaggia tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-208",
+      "title": "Il ponte della piazza",
+      "setting": "il villaggio",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio quando notò subito che un carretto era rimasto davanti al passaggio. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il villaggio. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il villaggio funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il villaggio tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-209",
+      "title": "La serra dimenticata",
+      "setting": "l'orto",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò l'orto quando notò subito che una finestra della serra era chiusa. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene l'orto. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo l'orto funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro l'orto tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-210",
+      "title": "Il libro sul davanzale",
+      "setting": "la casa",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la casa quando notò subito che una pagina del libro si muoveva al vento. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la casa. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la casa funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la casa tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-211",
+      "title": "La fontana del parco",
+      "setting": "il parco",
+      "animal": "merlo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il parco quando notò subito che una foglia copriva lo scarico della fontana. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il parco. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il parco funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il parco tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-212",
+      "title": "La scala della torre",
+      "setting": "il castello",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il castello quando notò subito che un gradino era nascosto dalla polvere. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il castello. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il castello funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il castello tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-213",
+      "title": "Il sentiero del fiume",
+      "setting": "il fiume",
+      "animal": "castoro",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il fiume quando notò subito che un ramo aveva formato una piccola diga. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il fiume. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il fiume funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il fiume tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-214",
+      "title": "La barca delle stelle",
+      "setting": "il lago",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il lago quando notò subito che una luce si rifletteva sull'acqua vicino al pontile. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il lago. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il lago funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il lago tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-215",
+      "title": "Il cancello della scuola",
+      "setting": "la scuola",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la scuola quando notò subito che il cancello non scattava nella serratura. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la scuola. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la scuola funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la scuola tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-216",
+      "title": "Il tetto del mercato",
+      "setting": "il mercato",
+      "animal": "gazza",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il mercato quando notò subito che un telo si era staccato da un banco. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il mercato. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il mercato funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il mercato tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-217",
+      "title": "La strada del villaggio",
+      "setting": "il villaggio",
+      "animal": "asino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio quando notò subito che una ruota di legno occupava la strada. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il villaggio. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il villaggio funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il villaggio tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-218",
+      "title": "Il nido del campanile",
+      "setting": "il villaggio",
+      "animal": "rondine",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio quando notò subito che un nido era caduto su una mensola. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il villaggio. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il villaggio funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il villaggio tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-219",
+      "title": "La stanza delle mappe",
+      "setting": "il museo",
+      "animal": "topo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il museo quando notò subito che una mappa era scivolata dietro una teca. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il museo. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il museo funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il museo tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-220",
+      "title": "Il sentiero della collina",
+      "setting": "la collina",
+      "animal": "farfalla",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la collina quando notò subito che un piccolo ponte di pietra era coperto d'erba. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la collina. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la collina funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la collina tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-221",
+      "title": "Il pozzo della piazza",
+      "setting": "la piazza",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la piazza quando notò subito che il secchio non raggiungeva più l'acqua. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la piazza. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la piazza funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la piazza tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-222",
+      "title": "Il remo sul fiume",
+      "setting": "il fiume",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il fiume quando notò subito che un remo era rimasto incastrato tra due sponde. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il fiume. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il fiume funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il fiume tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-223",
+      "title": "La neve sul sentiero",
+      "setting": "il villaggio innevato",
+      "animal": "volpe",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio innevato quando notò subito che la neve aveva nascosto un segnale. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il villaggio innevato. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il villaggio innevato funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il villaggio innevato tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-224",
+      "title": "Il giardino della nonna",
+      "setting": "il giardino",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il giardino quando notò subito che un cancelletto era rimasto aperto. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il giardino. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il giardino funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il giardino tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-225",
+      "title": "Il sentiero delle felci",
+      "setting": "il bosco",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco quando notò subito che un ramo basso rendeva difficile passare. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il bosco. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il bosco funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il bosco tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-226",
+      "title": "La finestra del mulino",
+      "setting": "il mulino",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il mulino quando notò subito che una tenda impediva alla luce di entrare. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il mulino. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il mulino funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il mulino tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-227",
+      "title": "La rete del pescatore",
+      "setting": "la baia",
+      "animal": "delfino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la baia quando notò subito che una rete era rimasta impigliata a un palo. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la baia. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la baia funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la baia tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-228",
+      "title": "Il campanello del rifugio",
+      "setting": "la montagna",
+      "animal": "capra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la montagna quando notò subito che il campanello non si sentiva dal sentiero. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la montagna. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la montagna funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la montagna tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-229",
+      "title": "La porta del deposito",
+      "setting": "il porto",
+      "animal": "pellicano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il porto quando notò subito che una cassetta era davanti alla porta. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il porto. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il porto funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il porto tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-230",
+      "title": "Il ponte del ruscello",
+      "setting": "il parco",
+      "animal": "tartaruga",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il parco quando notò subito che l'acqua aveva coperto una pietra del passaggio. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il parco. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il parco funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il parco tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-231",
+      "title": "La cesta del fornaio",
+      "setting": "il villaggio",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio quando notò subito che una cesta era rimasta fuori sotto la pioggia. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il villaggio. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il villaggio funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il villaggio tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-232",
+      "title": "La lanterna della strada",
+      "setting": "la campagna",
+      "animal": "cavallo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la campagna quando notò subito che una lanterna si era spenta prima del tramonto. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la campagna. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la campagna funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la campagna tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-233",
+      "title": "Il quadro alla finestra",
+      "setting": "il museo",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il museo quando notò subito che una tenda copriva parte di un quadro. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il museo. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il museo funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il museo tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-234",
+      "title": "La porta del fienile",
+      "setting": "la fattoria",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria quando notò subito che un attrezzo era caduto vicino all'ingresso. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la fattoria. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la fattoria funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la fattoria tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-235",
+      "title": "Il sentiero del ghiaccio",
+      "setting": "la montagna",
+      "animal": "stambecco",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la montagna quando notò subito che un tratto del sentiero era diventato scivoloso. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la montagna. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la montagna funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la montagna tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-236",
+      "title": "La barca del tramonto",
+      "setting": "la baia",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la baia quando notò subito che un nodo aveva ceduto sul pontile. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la baia. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la baia funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la baia tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-237",
+      "title": "Il campanile silenzioso",
+      "setting": "il villaggio",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il villaggio quando notò subito che una corda era rimasta aggrovigliata. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il villaggio. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il villaggio funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il villaggio tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-238",
+      "title": "La fontana del castello",
+      "setting": "il castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il castello quando notò subito che un piccolo getto d'acqua usciva dalla pietra. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il castello. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il castello funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il castello tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-239",
+      "title": "Il sentiero della fattoria",
+      "setting": "la fattoria",
+      "animal": "gallina",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la fattoria quando notò subito che un cancello divideva il cortile dal sentiero. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la fattoria. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la fattoria funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la fattoria tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-240",
+      "title": "Il ponte delle foglie",
+      "setting": "il bosco",
+      "animal": "cervo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il bosco quando notò subito che le foglie avevano nascosto il bordo del ponte. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il bosco. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il bosco funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il bosco tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-241",
+      "title": "La finestra del porto",
+      "setting": "il porto",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò il porto quando notò subito che una persiana impediva di vedere il mare. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene il porto. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo il porto funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro il porto tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-242",
+      "title": "Il sentiero della biblioteca",
+      "setting": "la biblioteca",
+      "animal": "scoiattolo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la biblioteca quando notò subito che un segnalibro era caduto vicino alla porta. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la biblioteca. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la biblioteca funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la biblioteca tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-243",
+      "title": "La scala della casa",
+      "setting": "la casa",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la casa quando notò subito che un giocattolo era rimasto su un gradino. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la casa. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la casa funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la casa tornò a essere pieno dei suoi rumori consueti."
+      ]
+    },
+    {
+      "id": "RM-244",
+      "title": "Il raggio nella serra",
+      "setting": "la serra",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò la serra quando notò subito che un raggio di sole passava da una piccola fessura. {{ANIMALE}} era lì vicino e si fermò a guardare. Quel particolare non sembrava grave, ma in quel luogo ogni cosa aveva una funzione precisa.",
+        "{{PROTAGONISTA}} non si affrettò. Guardò il terreno, ascoltò i rumori e cercò di capire cosa fosse cambiato. C'erano piccoli indizi intorno al punto indicato dal problema. {{ANIMALE}} si mosse lungo il margine, seguendo il movimento senza avvicinarsi troppo.",
+        "Un dettaglio attirò l'attenzione di {{PROTAGONISTA}}: qualcosa mostrava da dove era cominciato il guaio. Non era successo per caso. Il vento, l'acqua, un oggetto spostato o un passaggio poco sicuro aveva provocato il cambiamento.",
+        "{{PROTAGONISTA}} chiamò una persona che conosceva bene la serra. Insieme verificarono la situazione e decisero di intervenire soltanto dove era necessario. {{ANIMALE}} rimase nelle vicinanze, mentre il lavoro procedeva con calma.",
+        "Il primo tentativo funzionò solo in parte. Quando sembrava che tutto fosse a posto, {{PROTAGONISTA}} vide che un altro elemento continuava a creare difficoltà. Tornò allora al primo indizio e osservò ancora più attentamente.",
+        "Questa volta la causa fu chiara. Sistemarono il punto giusto e controllarono che il cambiamento non potesse creare un nuovo problema. Il luogo cominciò lentamente a riprendere il suo ritmo abituale.",
+        "{{ANIMALE}} fu il primo ad avvicinarsi quando tutto tornò sicuro. {{PROTAGONISTA}} sorrise vedendo la serra funzionare di nuovo. Il problema era piccolo, ma risolverlo aveva richiesto attenzione, pazienza e la capacità di non fermarsi alla prima risposta.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta ciò che all'inizio sembrava fuori posto. Ora aveva trovato il suo posto naturale. {{ANIMALE}} riprese il proprio cammino e intorno a loro la serra tornò a essere pieno dei suoi rumori consueti."
+      ]
+    }
+  ]
+}
