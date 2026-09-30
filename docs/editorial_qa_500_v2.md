@@ -46,3 +46,14 @@ The 500 revised masters are structurally complete, but they are **not yet final 
 - Stato: **editorial-rewrite-v7**.
 
 La produzione delle illustrazioni resta subordinata alla verifica editoriale delle 54 storie precedenti a RM-055 e alla validazione finale di continuità narrativa/visiva dell'intero catalogo.
+
+## QA finale catalogo — 30/09/2026
+
+- **500/500** master stories presenti.
+- **4.000/4.000** pagine presenti: 8 per storia.
+- ID mancanti: **0**.
+- Placeholder non previsti: **0**.
+- Errori strutturali di punteggiatura rilevati: **0**.
+- Tutte le 500 storie marcate **editorial-rewrite-v7**.
+- Revisione della prosa ripetitiva completata anche per RM-005→RM-054.
+- Le illustrazioni restano da generare: la base testuale è ora pronta per il passaggio di produzione, con continuità visiva da verificare durante la generazione.
