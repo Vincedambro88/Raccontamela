@@ -7,11 +7,10 @@ Flutter app for creating personalized children's stories.
 - Flutter + Riverpod foundation
 - Italian, English, French, Spanish and German localization
 - Story creation form with:
-  - protagonist name
-  - setting
-  - story city
+  - protagonist name chosen for each story
+  - setting chosen for each story
+  - animal selected for each story
   - up to 4 protagonist friends
-  - animal friends
 - First working story-generation vertical slice with five scenes
 - Story reader with duration/word-count metadata
 - Supabase bootstrap through build-time `--dart-define` values
@@ -19,6 +18,10 @@ Flutter app for creating personalized children's stories.
 - Supabase profile trigger and transactional two-device registration function
 - GitHub Actions Flutter analyze/test workflow
 - Public repository with secrets excluded from version control
+
+## Dynamic story model
+
+Every new story is generated from the current combination of protagonist + setting + animal. These are runtime inputs, not fixed attributes of the 500-story editorial catalog. The selected animal is a required first-class parameter and must remain species-consistent and causally relevant throughout the eight pages.
 
 ## Product split
 
