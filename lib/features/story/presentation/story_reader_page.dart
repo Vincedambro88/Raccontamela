@@ -168,68 +168,135 @@ class _StoryReaderPageState extends State<StoryReaderPage> {
 
           final scene = story.scenes[index - 1];
           return Padding(
-            padding: const EdgeInsets.only(bottom: 20),
-            child: Card(
-              clipBehavior: Clip.antiAlias,
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.stretch,
+            padding: const EdgeInsets.only(bottom: 24),
+            child: _StoryBookPage(
+              scene: scene,
+              l10n: l10n,
+              onPlay: () => _playScene(scene, l10n),
+              isPlaying: _playingScene == scene.index && _player.playing,
+            ),
+          );
+        },
+      ),
+    );
+  }
+}
+
+class _StoryBookPage extends StatelessWidget {
+  const _StoryBookPage({
+    required this.scene,
+    required this.l10n,
+    required this.onPlay,
+    required this.isPlaying,
+  });
+
+  final StoryScene scene;
+  final AppLocalizations l10n;
+  final VoidCallback onPlay;
+  final bool isPlaying;
+
+  @override
+  Widget build(BuildContext context) {
+    final hasColor = scene.colorImageUrl != null;
+    return Card(
+      clipBehavior: Clip.antiAlias,
+      elevation: 2,
+      child: AspectRatio(
+        aspectRatio: 0.76,
+        child: Stack(
+          fit: StackFit.expand,
+          children: [
+            if (hasColor)
+              Image.network(
+                scene.colorImageUrl!,
+                fit: BoxFit.cover,
+                errorBuilder: (_, __, ___) => const _ImageFallback(),
+              )
+            else
+              const _ImageFallback(),
+            const DecoratedBox(
+              decoration: BoxDecoration(
+                gradient: LinearGradient(
+                  begin: Alignment.topCenter,
+                  end: Alignment.bottomCenter,
+                  stops: [0.52, 0.74, 1.0],
+                  colors: [
+                    Colors.transparent,
+                    Color(0xAAFFF9EE),
+                    Color(0xF5FFF9EE),
+                  ],
+                ),
+              ),
+            ),
+            Positioned(
+              left: 20,
+              right: 20,
+              top: 18,
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  Padding(
-                    padding: const EdgeInsets.fromLTRB(18, 18, 18, 12),
-                    child: Row(
-                      children: [
-                        Text(
-                          'Pagina ${scene.index + 1}',
-                          style: Theme.of(context).textTheme.labelLarge?.copyWith(
-                                fontWeight: FontWeight.w800,
-                                color: Theme.of(context).colorScheme.primary,
-                              ),
-                        ),
-                      ],
-                    ),
-                  ),
-                  Padding(
-                    padding: const EdgeInsets.fromLTRB(18, 0, 18, 16),
-                    child: Text(
-                      scene.text,
-                      style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-                            height: 1.65,
-                            fontSize: 17,
-                          ),
-                    ),
-                  ),
-                  if (scene.colorImageUrl != null)
-                    Image.network(
-                      scene.colorImageUrl!,
-                      height: 300,
-                      width: double.infinity,
-                      fit: BoxFit.cover,
-                      errorBuilder: (_, __, ___) => const _ImageFallback(),
-                    )
-                  else
-                    const _ImageFallback(),
-                  if (scene.bwImageUrl != null)
-                    Padding(
-                      padding: const EdgeInsets.fromLTRB(18, 0, 18, 12),
-                      child: ClipRRect(
-                        borderRadius: BorderRadius.circular(12),
-                        child: Image.network(scene.bwImageUrl!, fit: BoxFit.cover, errorBuilder: (_, __, ___) => const SizedBox.shrink()),
-                      ),
-                    ),
+                  _PageBadge(index: scene.index + 1),
                   if (scene.narrationUrl != null)
-                    Padding(
-                      padding: const EdgeInsets.fromLTRB(18, 0, 18, 18),
-                      child: OutlinedButton.icon(
-                        onPressed: () => _playScene(scene, l10n),
-                        icon: Icon(_playingScene == scene.index && _player.playing ? Icons.pause : Icons.play_arrow),
-                        label: Text(_playingScene == scene.index && _player.playing ? l10n.pause : l10n.narration),
+                    Material(
+                      color: Colors.white.withValues(alpha: 0.88),
+                      shape: const CircleBorder(),
+                      child: IconButton(
+                        tooltip: isPlaying ? l10n.pause : l10n.narration,
+                        onPressed: onPlay,
+                        icon: Icon(isPlaying ? Icons.pause_rounded : Icons.volume_up_rounded),
                       ),
                     ),
                 ],
               ),
             ),
-          );
-        },
+            Positioned(
+              left: 20,
+              right: 20,
+              bottom: 18,
+              child: Text(
+                scene.text,
+                style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                      fontSize: 17,
+                      height: 1.45,
+                      fontWeight: FontWeight.w500,
+                      color: const Color(0xFF342A38),
+                    ),
+              ),
+            ),
+            if (scene.bwImageUrl != null)
+              Positioned(
+                left: 16,
+                right: 16,
+                bottom: 16,
+                child: Opacity(
+                  opacity: 0.0,
+                  child: Image.network(scene.bwImageUrl!, fit: BoxFit.cover),
+                ),
+              ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class _PageBadge extends StatelessWidget {
+  const _PageBadge({required this.index});
+  final int index;
+
+  @override
+  Widget build(BuildContext context) {
+    return DecoratedBox(
+      decoration: BoxDecoration(
+        color: Colors.white.withValues(alpha: 0.88),
+        borderRadius: BorderRadius.circular(14),
+      ),
+      child: Padding(
+        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 7),
+        child: Text(
+          'Pagina $index',
+          style: const TextStyle(fontWeight: FontWeight.w800, fontSize: 12),
+        ),
       ),
     );
   }
@@ -241,9 +308,8 @@ class _ImageFallback extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 260,
-      alignment: Alignment.center,
       color: Theme.of(context).colorScheme.surfaceContainerHighest,
+      alignment: Alignment.center,
       child: const Icon(Icons.auto_stories_rounded, size: 64),
     );
   }
