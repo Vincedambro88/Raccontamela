@@ -23,17 +23,11 @@ type Body = {
   mediaToken?: string;
 };
 
-async function pixazo(body: unknown, key: string) {
-  const response = await fetch("https://gateway.pixazo.ai/flux/text-to-image", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "Ocp-Apim-Subscription-Key": key,
-    },
-    body: JSON.stringify(body),
-  });
-  if (!response.ok) throw new Error(`Pixazo error ${response.status}: ${await response.text()}`);
-  return response.json();
+async function generateImage(prompt: string, model: string) {
+  const url = `https://image.pollinations.ai/prompt/${encodeURIComponent(prompt)}?model=${encodeURIComponent(model)}&width=1024&height=1024&nologo=true`;
+  const response = await fetch(url);
+  if (!response.ok) throw new Error(`Pollinations error ${response.status}: ${await response.text()}`);
+  return new Uint8Array(await response.arrayBuffer());
 }
 
 async function verifyMediaToken(story: unknown, token: string, serviceKey: string) {
@@ -55,8 +49,6 @@ Deno.serve(async (req) => {
   if (req.method !== "POST") return new Response(JSON.stringify({ error: "Method not allowed" }), { status: 405, headers: { ...cors, "Content-Type": "application/json" } });
 
   try {
-    const key = Deno.env.get("PIXAZO_API_KEY");
-    if (!key) throw new Error("Pixazo API key is not configured");
     const body = await req.json() as Body;
     if (!body.story?.title || !Array.isArray(body.story.scenes) || !body.story.scenes.length) throw new Error("Invalid story payload");
 
@@ -89,16 +81,15 @@ Deno.serve(async (req) => {
         throw new Error("Invalid or expired media token");
       }
     }
-    const model = Deno.env.get("PIXAZO_IMAGE_MODEL") || "flux-schnell";
+    const model = "flux";
     const results: unknown[] = [];
 
 
     const generateScene = async (scene: { index: number; text: string }) => {
       try {
         const visualAction = body.story.sceneVisuals?.[String(scene.index)] || scene.text;
-        const json = await pixazo({
-          model,
-          prompt: `Full-color children's picture-book page illustration for Raccontamela. Warm, cinematic, whimsical, age-appropriate, consistent children's picture-book style. This is one exact page of a continuous 8-page story, so preserve the same characters, animal anatomy and location from page to page.
+        const visualAction = body.story.sceneVisuals?.[String(scene.index)] || scene.text;
+        const prompt = `Full-color children's picture-book page illustration for Raccontamela. Warm, cinematic, whimsical, age-appropriate, consistent children's picture-book style. This is one exact page of a continuous 8-page story, so preserve the same characters, animal anatomy and location from page to page.
 
 CHARACTER AND LOCATION CONTINUITY BIBLE:
 ${body.story.visualBible || "Keep all named characters visually consistent."}
@@ -114,15 +105,9 @@ ${visualAction}
 EXACT PAGE TEXT:
 ${scene.text}
 
-Show the main action from this page clearly. Keep important objects and clues consistent with the story. Do not add unrelated characters, locations or events. Do not include any text, letters, speech bubbles, captions or page numbers in the image because the app renders the page text above the illustration.`,
-          width: 1024,
-          height: 1024,
-        }, key);
-        const imageUrl = json.media_url ?? json.output?.media_url ?? json.output ?? json.url;
-        if (typeof imageUrl !== "string" || !imageUrl.startsWith("http")) throw new Error("Pixazo returned no image URL");
-        const imageResponse = await fetch(imageUrl);
-        if (!imageResponse.ok) throw new Error(`Failed to download generated image: ${imageResponse.status}`);
-        const imageBytes = new Uint8Array(await imageResponse.arrayBuffer());
+Show the main action from this page clearly. Keep important objects and clues consistent with the story. Do not add unrelated characters, locations or events. Do not include any text, letters, speech bubbles, captions or page numbers in the image because the app renders the page text above the illustration.`;
+        const imageBytes = await generateImage(prompt, model);
+
         const path = `${prefix}/scene-${scene.index}-color.png`;
         const { error } = await admin.storage.from("story-assets").upload(
           path,
