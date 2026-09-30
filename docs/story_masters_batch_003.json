@@ -353,6 +353,806 @@
         "Durante la discesa le impronte sparirono una dopo l'altra sotto la neve nuova. Rimase soltanto qualche segno vicino alle rocce. {{ANIMALE}} camminava tranquillo accanto a {{PROTAGONISTA}}.",
         "Prima di lasciare la montagna, {{PROTAGONISTA}} guardò ancora verso il pendio. Non aveva seguito lo stambecco fino in cima e non ne aveva avuto bisogno. A volte osservare un animale nel suo ambiente significa proprio lasciargli la distanza necessaria per continuare il suo cammino."
       ]
+    },
+    {
+      "id": "RM-045",
+      "title": "La fontana senza rumore",
+      "setting": "la piazza",
+      "animal": "riccio",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la piazza, si accorse subito che una foglia aveva bloccato il piccolo scarico della fontana. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. {{ANIMALE}} restò vicino, attento ai rumori del luogo.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} restò vicino, attento ai rumori del luogo. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la piazza. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-046",
+      "title": "Il nido sulla grondaia",
+      "setting": "il villaggio",
+      "animal": "passerotto",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il villaggio, si accorse subito che un nido era finito vicino a una grondaia prima di un temporale. Un primo indizio comparve proprio dove nessuno lo aveva cercato. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Un primo indizio comparve proprio dove nessuno lo aveva cercato. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Un primo indizio comparve proprio dove nessuno lo aveva cercato. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Un primo indizio comparve proprio dove nessuno lo aveva cercato.",
+        "Il controllo finale chiarì il mistero. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il villaggio. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-047",
+      "title": "La bicicletta nel fienile",
+      "setting": "la fattoria",
+      "animal": "gallina",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la fattoria, si accorse subito che una ruota era rimasta incastrata dietro vecchie casse. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la fattoria. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-048",
+      "title": "Il sentiero del faro",
+      "setting": "la costa",
+      "animal": "granchio",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la costa, si accorse subito che la nebbia aveva cancellato i segnali del sentiero. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Insieme controllarono il luogo senza mettere nessuno in pericolo.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Insieme controllarono il luogo senza mettere nessuno in pericolo. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Insieme controllarono il luogo senza mettere nessuno in pericolo. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto.",
+        "Il controllo finale chiarì il mistero. Insieme controllarono il luogo senza mettere nessuno in pericolo. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la costa. Insieme controllarono il luogo senza mettere nessuno in pericolo. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-049",
+      "title": "La campana del giardino",
+      "setting": "il giardino",
+      "animal": "ape",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il giardino, si accorse subito che una campanella del vento era rimasta impigliata tra i rami. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Ogni passaggio venne controllato prima di procedere.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Ogni passaggio venne controllato prima di procedere. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Ogni passaggio venne controllato prima di procedere. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso.",
+        "Il controllo finale chiarì il mistero. Ogni passaggio venne controllato prima di procedere. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il giardino. Ogni passaggio venne controllato prima di procedere. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-050",
+      "title": "Il ponte di pietra",
+      "setting": "il paese",
+      "animal": "rana",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il paese, si accorse subito che la pioggia aveva fatto salire il ruscello fino al sentiero. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. L'aria, l'acqua o la luce tornarono a muoversi normalmente.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. L'aria, l'acqua o la luce tornarono a muoversi normalmente. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito.",
+        "Il controllo finale chiarì il mistero. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il paese. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-051",
+      "title": "Il quaderno del museo",
+      "setting": "il museo",
+      "animal": "colomba",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il museo, si accorse subito che una pagina del registro era stata spostata dal vento. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il museo. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-052",
+      "title": "La vela strappata",
+      "setting": "la baia",
+      "animal": "gabbiano",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la baia, si accorse subito che una piccola barca aveva una vela lacerata prima della partenza. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo.",
+        "Il controllo finale chiarì il mistero. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la baia. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-053",
+      "title": "Il sentiero delle more",
+      "setting": "il bosco",
+      "animal": "volpe",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il bosco, si accorse subito che un tratto del sentiero era nascosto da rovi cresciuti troppo. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. {{ANIMALE}} restò vicino, attento ai rumori del luogo.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} restò vicino, attento ai rumori del luogo. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il bosco. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-054",
+      "title": "La finestra verde",
+      "setting": "la scuola",
+      "animal": "gatto",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la scuola, si accorse subito che una finestra non si chiudeva e faceva volare i disegni. Un primo indizio comparve proprio dove nessuno lo aveva cercato. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Un primo indizio comparve proprio dove nessuno lo aveva cercato. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Un primo indizio comparve proprio dove nessuno lo aveva cercato. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Un primo indizio comparve proprio dove nessuno lo aveva cercato.",
+        "Il controllo finale chiarì il mistero. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la scuola. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-055",
+      "title": "Il mulino fermo",
+      "setting": "la campagna",
+      "animal": "asino",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la campagna, si accorse subito che una ruota del mulino aveva smesso di girare. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la campagna. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-056",
+      "title": "La neve sul sentiero",
+      "setting": "la montagna",
+      "animal": "stambecco",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la montagna, si accorse subito che la neve aveva coperto il segnale che indicava il rifugio. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Insieme controllarono il luogo senza mettere nessuno in pericolo.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Insieme controllarono il luogo senza mettere nessuno in pericolo. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Insieme controllarono il luogo senza mettere nessuno in pericolo. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto.",
+        "Il controllo finale chiarì il mistero. Insieme controllarono il luogo senza mettere nessuno in pericolo. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la montagna. Insieme controllarono il luogo senza mettere nessuno in pericolo. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-057",
+      "title": "Il violino dimenticato",
+      "setting": "il teatro",
+      "animal": "topo",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il teatro, si accorse subito che un violino era rimasto dietro una cassa durante il cambio scena. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Ogni passaggio venne controllato prima di procedere.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Ogni passaggio venne controllato prima di procedere. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Ogni passaggio venne controllato prima di procedere. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso.",
+        "Il controllo finale chiarì il mistero. Ogni passaggio venne controllato prima di procedere. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il teatro. Ogni passaggio venne controllato prima di procedere. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-058",
+      "title": "La barca tra i canneti",
+      "setting": "il lago",
+      "animal": "lontra",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il lago, si accorse subito che una piccola barca si era fermata tra i canneti. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. L'aria, l'acqua o la luce tornarono a muoversi normalmente.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. L'aria, l'acqua o la luce tornarono a muoversi normalmente. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito.",
+        "Il controllo finale chiarì il mistero. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il lago. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-059",
+      "title": "Il seme del vecchio orto",
+      "setting": "l'orto",
+      "animal": "tartaruga",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò l'orto, si accorse subito che un seme sconosciuto era germogliato vicino alla serra. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora l'orto. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-060",
+      "title": "La lanterna del sentiero",
+      "setting": "il villaggio",
+      "animal": "cane",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il villaggio, si accorse subito che una lanterna si spegneva sempre nello stesso punto. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo.",
+        "Il controllo finale chiarì il mistero. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il villaggio. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-061",
+      "title": "Il vento sul campanile",
+      "setting": "la città",
+      "animal": "rondine",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la città, si accorse subito che una persiana aperta faceva battere una corda contro la campana. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. {{ANIMALE}} restò vicino, attento ai rumori del luogo.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} restò vicino, attento ai rumori del luogo. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la città. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-062",
+      "title": "La conchiglia speciale",
+      "setting": "la spiaggia",
+      "animal": "granchio",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la spiaggia, si accorse subito che una conchiglia veniva trascinata dalla marea verso gli scogli. Un primo indizio comparve proprio dove nessuno lo aveva cercato. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Un primo indizio comparve proprio dove nessuno lo aveva cercato. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Un primo indizio comparve proprio dove nessuno lo aveva cercato. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Un primo indizio comparve proprio dove nessuno lo aveva cercato.",
+        "Il controllo finale chiarì il mistero. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la spiaggia. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-063",
+      "title": "Il ponte della radura",
+      "setting": "il bosco",
+      "animal": "cervo",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il bosco, si accorse subito che un tronco caduto aveva chiuso il passaggio. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il bosco. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-064",
+      "title": "La porta della serra",
+      "setting": "il giardino botanico",
+      "animal": "farfalla",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il giardino botanico, si accorse subito che la porta restava socchiusa e il freddo entrava sulle piante. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Insieme controllarono il luogo senza mettere nessuno in pericolo.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Insieme controllarono il luogo senza mettere nessuno in pericolo. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Insieme controllarono il luogo senza mettere nessuno in pericolo. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto.",
+        "Il controllo finale chiarì il mistero. Insieme controllarono il luogo senza mettere nessuno in pericolo. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il giardino botanico. Insieme controllarono il luogo senza mettere nessuno in pericolo. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-065",
+      "title": "Il fiocco rosso",
+      "setting": "il mercato",
+      "animal": "piccione",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il mercato, si accorse subito che un fiocco si era staccato da un banco e portava a una borsa smarrita. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Ogni passaggio venne controllato prima di procedere.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Ogni passaggio venne controllato prima di procedere. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Ogni passaggio venne controllato prima di procedere. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso.",
+        "Il controllo finale chiarì il mistero. Ogni passaggio venne controllato prima di procedere. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il mercato. Ogni passaggio venne controllato prima di procedere. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-066",
+      "title": "Il sentiero delle stelle",
+      "setting": "l'osservatorio",
+      "animal": "gufo",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò l'osservatorio, si accorse subito che una piccola luce sul sentiero confondeva i visitatori. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. L'aria, l'acqua o la luce tornarono a muoversi normalmente.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. L'aria, l'acqua o la luce tornarono a muoversi normalmente. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito.",
+        "Il controllo finale chiarì il mistero. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora l'osservatorio. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-067",
+      "title": "La ruota del carro",
+      "setting": "la campagna",
+      "animal": "cavallo",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la campagna, si accorse subito che una ruota aveva perso un fermo prima del viaggio. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la campagna. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-068",
+      "title": "Il pesce nella pozzanghera",
+      "setting": "il porto",
+      "animal": "gabbiano",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il porto, si accorse subito che un piccolo pesce era rimasto in una pozza dopo la bassa marea. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo.",
+        "Il controllo finale chiarì il mistero. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il porto. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-069",
+      "title": "La torre degli orologi",
+      "setting": "la città",
+      "animal": "falco",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la città, si accorse subito che un orologio segnava un'ora diversa dagli altri. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. {{ANIMALE}} restò vicino, attento ai rumori del luogo.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} restò vicino, attento ai rumori del luogo. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la città. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-070",
+      "title": "Il libro sul davanzale",
+      "setting": "la biblioteca",
+      "animal": "scoiattolo",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la biblioteca, si accorse subito che un libro lasciato aperto perdeva continuamente pagine al vento. Un primo indizio comparve proprio dove nessuno lo aveva cercato. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Un primo indizio comparve proprio dove nessuno lo aveva cercato. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Un primo indizio comparve proprio dove nessuno lo aveva cercato. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Un primo indizio comparve proprio dove nessuno lo aveva cercato.",
+        "Il controllo finale chiarì il mistero. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la biblioteca. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-071",
+      "title": "La serra di vetro",
+      "setting": "l'orto",
+      "animal": "riccio",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò l'orto, si accorse subito che una pianta aveva bisogno di luce ma il vetro era appannato. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora l'orto. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-072",
+      "title": "Il sentiero del torrente",
+      "setting": "la valle",
+      "animal": "capra",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la valle, si accorse subito che l'acqua aveva cancellato una parte del sentiero. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Insieme controllarono il luogo senza mettere nessuno in pericolo.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Insieme controllarono il luogo senza mettere nessuno in pericolo. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Insieme controllarono il luogo senza mettere nessuno in pericolo. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto.",
+        "Il controllo finale chiarì il mistero. Insieme controllarono il luogo senza mettere nessuno in pericolo. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la valle. Insieme controllarono il luogo senza mettere nessuno in pericolo. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-073",
+      "title": "Il cappello sul molo",
+      "setting": "il porto",
+      "animal": "cane",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il porto, si accorse subito che un cappello trascinato dal vento finiva sempre vicino a una barca. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Ogni passaggio venne controllato prima di procedere.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Ogni passaggio venne controllato prima di procedere. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Ogni passaggio venne controllato prima di procedere. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso.",
+        "Il controllo finale chiarì il mistero. Ogni passaggio venne controllato prima di procedere. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il porto. Ogni passaggio venne controllato prima di procedere. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-074",
+      "title": "La chiave del cancello",
+      "setting": "il parco",
+      "animal": "gazza",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il parco, si accorse subito che una chiave era caduta nell'erba vicino al cancello. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. L'aria, l'acqua o la luce tornarono a muoversi normalmente.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. L'aria, l'acqua o la luce tornarono a muoversi normalmente. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito.",
+        "Il controllo finale chiarì il mistero. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il parco. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-075",
+      "title": "Il fiume dopo la pioggia",
+      "setting": "il fiume",
+      "animal": "castoro",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il fiume, si accorse subito che un ramo aveva deviato l'acqua verso il sentiero. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il fiume. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-076",
+      "title": "Il nido della torre",
+      "setting": "il campanile",
+      "animal": "rondine",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il campanile, si accorse subito che un nido era caduto dalla nicchia e doveva essere messo al sicuro. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo.",
+        "Il controllo finale chiarì il mistero. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il campanile. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-077",
+      "title": "La strada dei girasoli",
+      "setting": "la campagna",
+      "animal": "coniglio",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la campagna, si accorse subito che un cartello abbattuto rendeva difficile trovare la fattoria. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. {{ANIMALE}} restò vicino, attento ai rumori del luogo.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} restò vicino, attento ai rumori del luogo. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la campagna. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-078",
+      "title": "La barca bianca",
+      "setting": "la spiaggia",
+      "animal": "tartaruga",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la spiaggia, si accorse subito che una piccola barca aveva raccolto alghe attorno al timone. Un primo indizio comparve proprio dove nessuno lo aveva cercato. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Un primo indizio comparve proprio dove nessuno lo aveva cercato. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Un primo indizio comparve proprio dove nessuno lo aveva cercato. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Un primo indizio comparve proprio dove nessuno lo aveva cercato.",
+        "Il controllo finale chiarì il mistero. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la spiaggia. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-079",
+      "title": "Il ponte sul prato",
+      "setting": "il parco",
+      "animal": "anatra",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il parco, si accorse subito che una passerella era scivolosa dopo la pioggia. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il parco. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-080",
+      "title": "La finestra della soffitta",
+      "setting": "la casa",
+      "animal": "gatto",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la casa, si accorse subito che un vecchio aquilone si muoveva dentro la soffitta. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Insieme controllarono il luogo senza mettere nessuno in pericolo.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Insieme controllarono il luogo senza mettere nessuno in pericolo. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Insieme controllarono il luogo senza mettere nessuno in pericolo. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto.",
+        "Il controllo finale chiarì il mistero. Insieme controllarono il luogo senza mettere nessuno in pericolo. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la casa. Insieme controllarono il luogo senza mettere nessuno in pericolo. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-081",
+      "title": "Il sentiero delle castagne",
+      "setting": "il bosco",
+      "animal": "scoiattolo",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il bosco, si accorse subito che le castagne cadevano su un tratto dove il sentiero era più ripido. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Ogni passaggio venne controllato prima di procedere.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Ogni passaggio venne controllato prima di procedere. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Ogni passaggio venne controllato prima di procedere. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso.",
+        "Il controllo finale chiarì il mistero. Ogni passaggio venne controllato prima di procedere. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il bosco. Ogni passaggio venne controllato prima di procedere. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-082",
+      "title": "La campana del rifugio",
+      "setting": "la montagna",
+      "animal": "marmotta",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la montagna, si accorse subito che il vento aveva piegato il segnale vicino al rifugio. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. L'aria, l'acqua o la luce tornarono a muoversi normalmente.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. L'aria, l'acqua o la luce tornarono a muoversi normalmente. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito.",
+        "Il controllo finale chiarì il mistero. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la montagna. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-083",
+      "title": "Il ponte del mercato",
+      "setting": "la città",
+      "animal": "passerotto",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la città, si accorse subito che un piccolo ponte era stato chiuso per lavori e serviva un percorso sicuro. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la città. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-084",
+      "title": "La fontana del castello",
+      "setting": "il castello",
+      "animal": "coniglio",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il castello, si accorse subito che la fontana aveva perso acqua e il cortile si stava allagando. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo.",
+        "Il controllo finale chiarì il mistero. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il castello. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-085",
+      "title": "Il faro nella nebbia",
+      "setting": "il faro",
+      "animal": "gabbiano",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il faro, si accorse subito che la luce del faro era visibile ma il sentiero d'accesso no. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. {{ANIMALE}} restò vicino, attento ai rumori del luogo.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} restò vicino, attento ai rumori del luogo. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il faro. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-086",
+      "title": "La cesta del pane",
+      "setting": "il villaggio",
+      "animal": "asino",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il villaggio, si accorse subito che una cesta era caduta dal carretto senza che nessuno se ne accorgesse. Un primo indizio comparve proprio dove nessuno lo aveva cercato. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Un primo indizio comparve proprio dove nessuno lo aveva cercato. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Un primo indizio comparve proprio dove nessuno lo aveva cercato. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Un primo indizio comparve proprio dove nessuno lo aveva cercato.",
+        "Il controllo finale chiarì il mistero. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il villaggio. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-087",
+      "title": "Il sentiero del lago",
+      "setting": "il lago",
+      "animal": "rana",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il lago, si accorse subito che un cartello indicava una direzione sbagliata. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Il secondo indizio spiegò perché il problema era comparso proprio quel giorno.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il lago. {{ANIMALE}} si mosse verso il punto giusto e poi si fermò. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-088",
+      "title": "La finestra della torre",
+      "setting": "il castello",
+      "animal": "civetta",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il castello, si accorse subito che una finestra lasciata aperta faceva entrare la pioggia nella sala. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Insieme controllarono il luogo senza mettere nessuno in pericolo.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Insieme controllarono il luogo senza mettere nessuno in pericolo. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Insieme controllarono il luogo senza mettere nessuno in pericolo. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. A quel punto {{PROTAGONISTA}} capì che serviva l'aiuto di un adulto.",
+        "Il controllo finale chiarì il mistero. Insieme controllarono il luogo senza mettere nessuno in pericolo. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il castello. Insieme controllarono il luogo senza mettere nessuno in pericolo. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-089",
+      "title": "Il prato delle lucciole",
+      "setting": "il prato",
+      "animal": "riccio",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il prato, si accorse subito che una luce del sentiero disturbava le lucciole. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Ogni passaggio venne controllato prima di procedere.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Ogni passaggio venne controllato prima di procedere. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Ogni passaggio venne controllato prima di procedere. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. La soluzione richiese un piccolo lavoro paziente, non un gesto improvviso.",
+        "Il controllo finale chiarì il mistero. Ogni passaggio venne controllato prima di procedere. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il prato. Ogni passaggio venne controllato prima di procedere. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-090",
+      "title": "La vela blu",
+      "setting": "la baia",
+      "animal": "delfino",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la baia, si accorse subito che una corda della vela si era aggrovigliata al molo. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. L'aria, l'acqua o la luce tornarono a muoversi normalmente.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. L'aria, l'acqua o la luce tornarono a muoversi normalmente. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Quando l'ostacolo fu rimosso, qualcosa nel luogo cambiò subito.",
+        "Il controllo finale chiarì il mistero. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la baia. L'aria, l'acqua o la luce tornarono a muoversi normalmente. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-091",
+      "title": "Il ponte della neve",
+      "setting": "il villaggio innevato",
+      "animal": "volpe",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il villaggio innevato, si accorse subito che il passaggio più breve era coperto da ghiaccio. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. {{PROTAGONISTA}} si accorse allora di un dettaglio che prima sembrava insignificante.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il villaggio innevato. {{ANIMALE}} rimase vicino, come se avesse seguito tutta la storia dall'inizio. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-092",
+      "title": "Il giardino delle rose",
+      "setting": "il giardino",
+      "animal": "ape",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò il giardino, si accorse subito che un cancello chiuso impediva di raggiungere le rose. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Prima di tornare a casa, {{PROTAGONISTA}} guardò ancora una volta il luogo.",
+        "Il controllo finale chiarì il mistero. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il giardino. Aveva scoperto che osservare bene può trasformare un piccolo problema in una storia da ricordare. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-093",
+      "title": "Il binario vuoto",
+      "setting": "la stazione",
+      "animal": "gatto",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la stazione, si accorse subito che una valigia dimenticata era rimasta vicino a una panchina. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. {{ANIMALE}} restò vicino, attento ai rumori del luogo.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{ANIMALE}} restò vicino, attento ai rumori del luogo. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. {{PROTAGONISTA}} si fermò ad osservare prima di fare qualsiasi cosa.",
+        "Il controllo finale chiarì il mistero. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la stazione. {{ANIMALE}} restò vicino, attento ai rumori del luogo. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
+    },
+    {
+      "id": "RM-094",
+      "title": "La strada del vento",
+      "setting": "la collina",
+      "animal": "farfalla",
+      "pages": [
+        "Quando {{PROTAGONISTA}} arrivò la collina, si accorse subito che un piccolo aquilone era rimasto impigliato in un albero. Un primo indizio comparve proprio dove nessuno lo aveva cercato. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro.",
+        "All'inizio nessuno sapeva da dove cominciare. {{PROTAGONISTA}} guardò il terreno, gli oggetti e il percorso intorno al problema. Un primo indizio comparve proprio dove nessuno lo aveva cercato. Poi trovò il primo piccolo indizio.",
+        "L'indizio portava verso un punto preciso. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. {{PROTAGONISTA}} notò che il problema aveva una causa concreta, legata proprio a quel luogo.",
+        "Provare a risolverlo da soli sarebbe stato rischioso. Un primo indizio comparve proprio dove nessuno lo aveva cercato. Chiamò quindi la persona che poteva intervenire. Insieme controllarono ogni passaggio prima di agire.",
+        "La soluzione richiese attenzione: bisognava spostare, fissare, liberare o recuperare qualcosa senza danneggiare ciò che funzionava ancora. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Nessuno ebbe fretta.",
+        "Dopo il primo intervento sembrò che tutto fosse a posto, ma un ultimo dettaglio non tornava. {{PROTAGONISTA}} lo notò e chiese di controllarlo. Un primo indizio comparve proprio dove nessuno lo aveva cercato.",
+        "Il controllo finale chiarì il mistero. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Il luogo tornò lentamente alla sua funzione e il problema non si ripresentò.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora la collina. {{PROTAGONISTA}} lo seguì con cautela, senza allontanarsi dal percorso sicuro. Quel giorno aveva imparato che una buona soluzione nasce dall'osservazione, dalla pazienza e dal rispetto per il luogo."
+      ]
     }
   ]
 }
