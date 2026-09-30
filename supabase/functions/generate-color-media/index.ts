@@ -68,7 +68,7 @@ async function generateImage(prompt: string, _model: string, seed: number) {
         if (value.startsWith("/file=")) return host + value;
         if (value.startsWith("file=")) return host + "/" + value;
         if (value.includes("/tmp/") || value.endsWith(".png") || value.endsWith(".jpg") || value.endsWith(".webp")) {
-          return host + "/file=" + value.replace(/^\\/+/, "");
+          return host + "/file=" + value.replace(/^\/+/, "");
         }
         return null;
       };
