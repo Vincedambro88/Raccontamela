@@ -1,7 +1,7 @@
 {
-  "version": 4,
-  "status": "editorial-rewrite-v4",
-  "editorial_note": "Individualized narrative pass for RM-065 to RM-074.",
+  "version": 5,
+  "status": "editorial-draft",
+  "editorial_note": "Draft requiring a further individual narrative pass before publication/image production. Grammar corrected; not approved as final copy.",
   "stories": [
     {
       "id": "RM-065",
@@ -25,7 +25,7 @@
       "setting": "baia",
       "animal": "delfino",
       "pages": [
-        "{{PROTAGONISTA}} arrivò nel baia e si accorse subito che una piccola barca si allontana dal molo verso gli scogli. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
+        "{{PROTAGONISTA}} arrivò nella baia e si accorse subito che una piccola barca si allontana dal molo verso gli scogli. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
         "Invece di intervenire subito, {{PROTAGONISTA}} osservò ciò che lo circondava. Notò rumori, tracce e piccoli cambiamenti che gli altri avrebbero potuto ignorare. La cima si è sciolta e il vento cambia direzione.",
         "{{ANIMALE}} attirò indirettamente l'attenzione verso un secondo dettaglio. {{PROTAGONISTA}} seguì quel segnale e ricostruì ciò che era successo. Ora il problema aveva una causa concreta, non era più soltanto qualcosa da sistemare.",
         "{{PROTAGONISTA}} chiamò chi conosceva bene il luogo e spiegò ciò che aveva scoperto. Insieme decisero di intervenire con prudenza, evitando di danneggiare l'ambiente o di mettere {{ANIMALE}} in pericolo.",
@@ -57,7 +57,7 @@
       "setting": "fiume",
       "animal": "lontra",
       "pages": [
-        "{{PROTAGONISTA}} arrivò nel fiume e si accorse subito che l'acqua invade il sentiero che porta al ponte. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
+        "{{PROTAGONISTA}} arrivò lungo il fiume e si accorse subito che l'acqua invade il sentiero che porta al ponte. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
         "Invece di intervenire subito, {{PROTAGONISTA}} osservò ciò che lo circondava. Notò rumori, tracce e piccoli cambiamenti che gli altri avrebbero potuto ignorare. Alcuni rami deviano una parte della corrente.",
         "{{ANIMALE}} attirò indirettamente l'attenzione verso un secondo dettaglio. {{PROTAGONISTA}} seguì quel segnale e ricostruì ciò che era successo. Ora il problema aveva una causa concreta, non era più soltanto qualcosa da sistemare.",
         "{{PROTAGONISTA}} chiamò chi conosceva bene il luogo e spiegò ciò che aveva scoperto. Insieme decisero di intervenire con prudenza, evitando di danneggiare l'ambiente o di mettere {{ANIMALE}} in pericolo.",
@@ -89,7 +89,7 @@
       "setting": "scuola",
       "animal": "cane",
       "pages": [
-        "{{PROTAGONISTA}} arrivò nel scuola e si accorse subito che la campana suona una seconda volta durante la ricreazione. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
+        "{{PROTAGONISTA}} arrivò nella scuola e si accorse subito che la campana suona una seconda volta durante la ricreazione. {{ANIMALE}} si trovava poco distante e si muoveva senza avvicinarsi al punto più problematico.",
         "Invece di intervenire subito, {{PROTAGONISTA}} osservò ciò che lo circondava. Notò rumori, tracce e piccoli cambiamenti che gli altri avrebbero potuto ignorare. Un filo vicino al meccanismo vibra quando una finestra viene aperta.",
         "{{ANIMALE}} attirò indirettamente l'attenzione verso un secondo dettaglio. {{PROTAGONISTA}} seguì quel segnale e ricostruì ciò che era successo. Ora il problema aveva una causa concreta, non era più soltanto qualcosa da sistemare.",
         "{{PROTAGONISTA}} chiamò chi conosceva bene il luogo e spiegò ciò che aveva scoperto. Insieme decisero di intervenire con prudenza, evitando di danneggiare l'ambiente o di mettere {{ANIMALE}} in pericolo.",
