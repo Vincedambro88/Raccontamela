@@ -1,0 +1,102 @@
+{
+  "version": 2,
+  "status": "editorial-rewrite",
+  "stories": [
+    {
+      "id": "RM-495",
+      "title": "Il sentiero della luna",
+      "setting": "bosco",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco quando si accorse che una lanterna illumina poco il sentiero. Il problema sembrava piccolo, ma rendeva difficile raggiungere la radura prima di sera. Invece di continuare, si fermò e osservò ciò che era cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Vicino al punto problematico compariva un dettaglio fuori posto. Era il primo indizio.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il vetro è coperto di condensa. La situazione era finalmente comprensibile. Ora serviva un intervento preciso, abbastanza semplice da risolvere il problema senza crearne un altro.",
+        "{{PROTAGONISTA}} chiese aiuto a chi conosceva bene bosco. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre iniziava il lavoro.",
+        "Il primo tentativo non bastò. Per qualche momento sembrò funzionare, poi il problema tornò. {{PROTAGONISTA}} capì di avere sistemato soltanto l'effetto visibile e tornò all'indizio iniziale.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la radura prima di sera. il vetro viene pulito e la luce torna visibile. Il luogo era tornato sicuro grazie a un gesto semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era iniziata la vicenda. Un piccolo cambiamento aveva raccontato tutta la storia del problema. {{PROTAGONISTA}} riprese la strada con una nuova attenzione per i dettagli."
+      ]
+    },
+    {
+      "id": "RM-496",
+      "title": "La barca del mattino",
+      "setting": "lago",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in lago quando si accorse che una piccola barca è rimasta incastrata tra i giunchi. Il problema sembrava piccolo, ma rendeva difficile riportarla al pontile. Invece di continuare, si fermò e osservò ciò che era cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Vicino al punto problematico compariva un dettaglio fuori posto. Era il primo indizio.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il vento l'ha spinta fuori dalla zona d'ormeggio. La situazione era finalmente comprensibile. Ora serviva un intervento preciso, abbastanza semplice da risolvere il problema senza crearne un altro.",
+        "{{PROTAGONISTA}} chiese aiuto a chi conosceva bene lago. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre iniziava il lavoro.",
+        "Il primo tentativo non bastò. Per qualche momento sembrò funzionare, poi il problema tornò. {{PROTAGONISTA}} capì di avere sistemato soltanto l'effetto visibile e tornò all'indizio iniziale.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riportarla al pontile. la barca viene liberata dalla riva. Il luogo era tornato sicuro grazie a un gesto semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era iniziata la vicenda. Un piccolo cambiamento aveva raccontato tutta la storia del problema. {{PROTAGONISTA}} riprese la strada con una nuova attenzione per i dettagli."
+      ]
+    },
+    {
+      "id": "RM-497",
+      "title": "Il portone del castello",
+      "setting": "castello",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello quando si accorse che il portone non si chiude. Il problema sembrava piccolo, ma rendeva difficile proteggere il cortile durante la notte. Invece di continuare, si fermò e osservò ciò che era cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Vicino al punto problematico compariva un dettaglio fuori posto. Era il primo indizio.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: un sasso è incastrato nella guida. La situazione era finalmente comprensibile. Ora serviva un intervento preciso, abbastanza semplice da risolvere il problema senza crearne un altro.",
+        "{{PROTAGONISTA}} chiese aiuto a chi conosceva bene castello. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre iniziava il lavoro.",
+        "Il primo tentativo non bastò. Per qualche momento sembrò funzionare, poi il problema tornò. {{PROTAGONISTA}} capì di avere sistemato soltanto l'effetto visibile e tornò all'indizio iniziale.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere il cortile durante la notte. il sasso viene rimosso. Il luogo era tornato sicuro grazie a un gesto semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era iniziata la vicenda. Un piccolo cambiamento aveva raccontato tutta la storia del problema. {{PROTAGONISTA}} riprese la strada con una nuova attenzione per i dettagli."
+      ]
+    },
+    {
+      "id": "RM-498",
+      "title": "La finestra del villaggio",
+      "setting": "villaggio",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio quando si accorse che una finestra resta aperta sotto la pioggia. Il problema sembrava piccolo, ma rendeva difficile proteggere la stanza. Invece di continuare, si fermò e osservò ciò che era cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Vicino al punto problematico compariva un dettaglio fuori posto. Era il primo indizio.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il fermo si è spezzato. La situazione era finalmente comprensibile. Ora serviva un intervento preciso, abbastanza semplice da risolvere il problema senza crearne un altro.",
+        "{{PROTAGONISTA}} chiese aiuto a chi conosceva bene villaggio. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre iniziava il lavoro.",
+        "Il primo tentativo non bastò. Per qualche momento sembrò funzionare, poi il problema tornò. {{PROTAGONISTA}} capì di avere sistemato soltanto l'effetto visibile e tornò all'indizio iniziale.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere la stanza. la finestra viene chiusa e il fermo sostituito. Il luogo era tornato sicuro grazie a un gesto semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era iniziata la vicenda. Un piccolo cambiamento aveva raccontato tutta la storia del problema. {{PROTAGONISTA}} riprese la strada con una nuova attenzione per i dettagli."
+      ]
+    },
+    {
+      "id": "RM-499",
+      "title": "Il ponte della valle",
+      "setting": "valle",
+      "animal": "stambecco",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle quando si accorse che un corrimano oscilla. Il problema sembrava piccolo, ma rendeva difficile attraversare in sicurezza. Invece di continuare, si fermò e osservò ciò che era cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Vicino al punto problematico compariva un dettaglio fuori posto. Era il primo indizio.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: un fissaggio si è allentato. La situazione era finalmente comprensibile. Ora serviva un intervento preciso, abbastanza semplice da risolvere il problema senza crearne un altro.",
+        "{{PROTAGONISTA}} chiese aiuto a chi conosceva bene valle. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre iniziava il lavoro.",
+        "Il primo tentativo non bastò. Per qualche momento sembrò funzionare, poi il problema tornò. {{PROTAGONISTA}} capì di avere sistemato soltanto l'effetto visibile e tornò all'indizio iniziale.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente attraversare in sicurezza. il corrimano viene serrato. Il luogo era tornato sicuro grazie a un gesto semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era iniziata la vicenda. Un piccolo cambiamento aveva raccontato tutta la storia del problema. {{PROTAGONISTA}} riprese la strada con una nuova attenzione per i dettagli."
+      ]
+    },
+    {
+      "id": "RM-500",
+      "title": "La lanterna del faro",
+      "setting": "faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in faro quando si accorse che la luce del molo è debole. Il problema sembrava piccolo, ma rendeva difficile vedere il bordo dell'acqua. Invece di continuare, si fermò e osservò ciò che era cambiato.",
+        "{{ANIMALE}} era poco distante. Il suo movimento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Vicino al punto problematico compariva un dettaglio fuori posto. Era il primo indizio.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il vetro è coperto di sale. La situazione era finalmente comprensibile. Ora serviva un intervento preciso, abbastanza semplice da risolvere il problema senza crearne un altro.",
+        "{{PROTAGONISTA}} chiese aiuto a chi conosceva bene faro. Insieme controllarono il passaggio e decisero come intervenire. {{ANIMALE}} rimase lontano dalla zona mentre iniziava il lavoro.",
+        "Il primo tentativo non bastò. Per qualche momento sembrò funzionare, poi il problema tornò. {{PROTAGONISTA}} capì di avere sistemato soltanto l'effetto visibile e tornò all'indizio iniziale.",
+        "Questa volta intervenne nel punto giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare anche senza essere sorvegliata.",
+        "Il problema non ricomparve. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere il bordo dell'acqua. il vetro viene pulito. Il luogo era tornato sicuro grazie a un gesto semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora il punto da cui era iniziata la vicenda. Un piccolo cambiamento aveva raccontato tutta la storia del problema. {{PROTAGONISTA}} riprese la strada con una nuova attenzione per i dettagli."
+      ]
+    }
+  ]
+}
