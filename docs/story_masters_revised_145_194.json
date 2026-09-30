@@ -1,0 +1,806 @@
+{
+  "version": 2,
+  "status": "editorial-rewrite",
+  "stories": [
+    {
+      "id": "RM-145",
+      "title": "La chiave del rifugio",
+      "setting": "montagna",
+      "animal": "marmotta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in montagna e notò subito che la chiave è caduta tra le pietre. Non era un ostacolo enorme, ma rendeva difficile aprire il rifugio prima della pioggia. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: è scivolata da una tasca vicino al sentiero. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene montagna. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente aprire il rifugio prima della pioggia. la chiave viene recuperata con un bastone senza spostare le pietre instabili. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-146",
+      "title": "Il ponte delle foglie",
+      "setting": "bosco",
+      "animal": "scoiattolo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco e notò subito che le foglie coprono le assi del ponte. Non era un ostacolo enorme, ma rendeva difficile vedere dove mettere i piedi. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il vento le ha accumulate durante la notte. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene bosco. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere dove mettere i piedi. le assi tornano visibili. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-147",
+      "title": "La campana del sentiero",
+      "setting": "collina",
+      "animal": "capra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in collina e notò subito che la campanella di segnalazione non suona. Non era un ostacolo enorme, ma rendeva difficile capire se il sentiero è praticabile. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: un ramo ha bloccato il battente. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene collina. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente capire se il sentiero è praticabile. il battente viene liberato. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-148",
+      "title": "Il secchio della fontana",
+      "setting": "villaggio",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e notò subito che il secchio perde acqua. Non era un ostacolo enorme, ma rendeva difficile portare acqua al giardino. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: una piccola crepa si è aperta sul fondo. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene villaggio. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente portare acqua al giardino. il secchio viene sostituito. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-149",
+      "title": "La barca tra i giunchi",
+      "setting": "lago",
+      "animal": "airone",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in lago e notò subito che una barca è ferma tra i giunchi. Non era un ostacolo enorme, ma rendeva difficile riportarla al pontile. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il vento l'ha spinta fuori dalla zona d'ormeggio. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene lago. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riportarla al pontile. la barca viene liberata dalla riva. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-150",
+      "title": "La porta della serra",
+      "setting": "giardino",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in giardino e notò subito che la porta resta chiusa. Non era un ostacolo enorme, ma rendeva difficile far arrivare aria alle piante. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: un vaso è caduto contro il battente. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene giardino. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente far arrivare aria alle piante. il vaso viene spostato. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-151",
+      "title": "Il cartello della cascata",
+      "setting": "valle",
+      "animal": "camoscio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle e notò subito che il cartello è nascosto dall'acqua. Non era un ostacolo enorme, ma rendeva difficile trovare il punto panoramico. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: un piccolo torrente ha cambiato percorso. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene valle. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente trovare il punto panoramico. il cartello viene raggiunto da un sentiero asciutto. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-152",
+      "title": "Il nido sotto il tetto",
+      "setting": "fattoria",
+      "animal": "rondine",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e notò subito che un ramo blocca l'accesso al nido. Non era un ostacolo enorme, ma rendeva difficile evitare che il nido venga disturbato. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il vento ha portato il ramo sul tetto. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene fattoria. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che il nido venga disturbato. il ramo viene rimosso da una zona sicura. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-153",
+      "title": "La luce della torre",
+      "setting": "castello",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e notò subito che una lampada illumina una finestra invece del cortile. Non era un ostacolo enorme, ma rendeva difficile capire perché. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il riflettore è stato ruotato. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene castello. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente capire perché. la luce viene orientata correttamente. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-154",
+      "title": "Il cancello della spiaggia",
+      "setting": "spiaggia",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in spiaggia e notò subito che il cancello non si chiude. Non era un ostacolo enorme, ma rendeva difficile evitare che resti aperto di notte. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: la sabbia si è accumulata nella guida. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene spiaggia. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che resti aperto di notte. la sabbia viene rimossa. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-155",
+      "title": "Il remo sul fiume",
+      "setting": "fiume",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fiume e notò subito che un remo galleggia vicino alla riva. Non era un ostacolo enorme, ma rendeva difficile recuperarlo prima della corrente. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: è caduto da una canoa. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene fiume. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente recuperarlo prima della corrente. il remo viene agganciato con una corda. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-156",
+      "title": "La panca del museo",
+      "setting": "museo",
+      "animal": "topo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in museo e notò subito che una panca copre un cartello. Non era un ostacolo enorme, ma rendeva difficile leggere le informazioni della sala. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: è stata spostata durante la pulizia. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene museo. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente leggere le informazioni della sala. la panca viene riportata al posto. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-157",
+      "title": "La finestra del mulino",
+      "setting": "mulino",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in mulino e notò subito che una finestra vibra con il vento. Non era un ostacolo enorme, ma rendeva difficile evitare che il vetro si rompa. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il gancio è consumato. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene mulino. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che il vetro si rompa. il gancio viene sostituito. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-158",
+      "title": "Il sentiero delle ghiande",
+      "setting": "bosco",
+      "animal": "cinghiale",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco e notò subito che molte ghiande coprono una pietra piatta. Non era un ostacolo enorme, ma rendeva difficile capire dove passa il sentiero. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: sono cadute da un ramo basso. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene bosco. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente capire dove passa il sentiero. la pietra viene resa riconoscibile. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-159",
+      "title": "La rete del molo",
+      "setting": "porto",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e notò subito che una rete è rimasta sul camminamento. Non era un ostacolo enorme, ma rendeva difficile liberare il passaggio. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: una cima l'ha trascinata durante la notte. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene porto. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente liberare il passaggio. la rete viene arrotolata e riposta. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-160",
+      "title": "La ruota della fontana",
+      "setting": "piazza",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in piazza e notò subito che la ruota decorativa non gira. Non era un ostacolo enorme, ma rendeva difficile capire cosa la blocca. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: un sassolino è entrato nel meccanismo. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene piazza. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente capire cosa la blocca. il sassolino viene rimosso. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-161",
+      "title": "Il cancello del recinto",
+      "setting": "fattoria",
+      "animal": "pony",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e notò subito che il cancello resta aperto. Non era un ostacolo enorme, ma rendeva difficile tenere gli animali nel recinto. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il gancio è troppo basso. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene fattoria. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente tenere gli animali nel recinto. il gancio viene rialzato. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-162",
+      "title": "Il sentiero del ghiaccio",
+      "setting": "villaggio innevato",
+      "animal": "volpe",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio innevato e notò subito che una parte del sentiero è coperta da ghiaccio. Non era un ostacolo enorme, ma rendeva difficile raggiungere la piazza. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: l'acqua si è congelata durante la notte. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene villaggio innevato. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la piazza. il tratto viene segnalato e si sceglie una deviazione. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-163",
+      "title": "La tenda sulla collina",
+      "setting": "collina",
+      "animal": "pecora",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in collina e notò subito che un telo sbatte contro un palo. Non era un ostacolo enorme, ma rendeva difficile evitare che si strappi. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il vento ha allentato un tirante. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene collina. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che si strappi. il tirante viene fissato. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-164",
+      "title": "Il libro sul davanzale",
+      "setting": "biblioteca",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in biblioteca e notò subito che un libro rischia di cadere. Non era un ostacolo enorme, ma rendeva difficile riportarlo nello scaffale. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: la finestra aperta ha mosso le pagine. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene biblioteca. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riportarlo nello scaffale. il libro viene spostato al sicuro. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-165",
+      "title": "La scala del molo",
+      "setting": "porto",
+      "animal": "foca",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e notò subito che una scaletta è scivolosa. Non era un ostacolo enorme, ma rendeva difficile controllare l'accesso all'acqua. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: alghe si sono accumulate sui gradini. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene porto. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente controllare l'accesso all'acqua. la scaletta viene pulita. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-166",
+      "title": "Il ponte della serra",
+      "setting": "serra",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in serra e notò subito che una piccola passerella è umida. Non era un ostacolo enorme, ma rendeva difficile raggiungere le piante dall'altra parte. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: l'acqua di irrigazione è fuoriuscita. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene serra. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere le piante dall'altra parte. il passaggio viene asciugato. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-167",
+      "title": "La porta del fienile",
+      "setting": "fattoria",
+      "animal": "cavallo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e notò subito che la porta non scorre. Non era un ostacolo enorme, ma rendeva difficile aprire il fienile. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: la guida è piena di paglia. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene fattoria. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente aprire il fienile. la guida viene pulita. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-168",
+      "title": "Il campanello del rifugio",
+      "setting": "montagna",
+      "animal": "marmotta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in montagna e notò subito che il campanello non si vede. Non era un ostacolo enorme, ma rendeva difficile segnalare la propria presenza. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: la neve lo ha coperto. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene montagna. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente segnalare la propria presenza. il campanello viene liberato. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-169",
+      "title": "La mappa della valle",
+      "setting": "valle",
+      "animal": "aquila",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle e notò subito che una piega nasconde un'indicazione. Non era un ostacolo enorme, ma rendeva difficile ritrovare il percorso. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: la mappa è stata bagnata dalla pioggia. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene valle. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente ritrovare il percorso. il percorso viene ricostruito osservando i rilievi. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-170",
+      "title": "Il cestino della spiaggia",
+      "setting": "spiaggia",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in spiaggia e notò subito che il cestino è pieno e la carta vola via. Non era un ostacolo enorme, ma rendeva difficile evitare che finisca in mare. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il coperchio è rimasto aperto. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene spiaggia. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che finisca in mare. il coperchio viene chiuso e il contenuto raccolto. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-171",
+      "title": "La finestra del villaggio",
+      "setting": "villaggio",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e notò subito che una finestra resta aperta durante la pioggia. Non era un ostacolo enorme, ma rendeva difficile proteggere la stanza. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il fermo si è spezzato. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene villaggio. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere la stanza. la finestra viene chiusa e il fermo sostituito. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-172",
+      "title": "Il sentiero del castello",
+      "setting": "castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e notò subito che una catena attraversa il passaggio. Non era un ostacolo enorme, ma rendeva difficile raggiungere il cortile. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: è stata lasciata lì durante un lavoro. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene castello. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere il cortile. la catena viene spostata. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-173",
+      "title": "La ruota del mulino",
+      "setting": "mulino",
+      "animal": "anatra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in mulino e notò subito che una ruota di legno si è fermata. Non era un ostacolo enorme, ma rendeva difficile capire se l'acqua arriva. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: un ramo blocca il canale. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene mulino. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente capire se l'acqua arriva. il ramo viene rimosso. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-174",
+      "title": "La lanterna del porto",
+      "setting": "porto",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e notò subito che una lanterna è coperta di sale. Non era un ostacolo enorme, ma rendeva difficile vedere il bordo del molo. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: la salsedine si è depositata sul vetro. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene porto. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere il bordo del molo. il vetro viene pulito. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-175",
+      "title": "La panchina della collina",
+      "setting": "collina",
+      "animal": "lepre",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in collina e notò subito che una vite sporge dal legno. Non era un ostacolo enorme, ma rendeva difficile evitare che qualcuno si graffi. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il legno si è ritirato con il freddo. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene collina. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che qualcuno si graffi. la vite viene fissata. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-176",
+      "title": "Il ponte della palude",
+      "setting": "palude",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in palude e notò subito che una passerella è coperta di fango. Non era un ostacolo enorme, ma rendeva difficile attraversare senza scivolare. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: la pioggia ha portato terra sul legno. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene palude. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente attraversare senza scivolare. il fango viene rimosso. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-177",
+      "title": "La cesta del porto",
+      "setting": "porto",
+      "animal": "pellicano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e notò subito che una cesta galleggia vicino alle barche. Non era un ostacolo enorme, ma rendeva difficile capire a chi appartiene. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: è caduta da un pontile. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene porto. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente capire a chi appartiene. la cesta viene riportata a riva. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-178",
+      "title": "Il tetto del rifugio",
+      "setting": "montagna",
+      "animal": "capra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in montagna e notò subito che un telo copre male una parte del tetto. Non era un ostacolo enorme, ma rendeva difficile evitare infiltrazioni. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il vento ha spostato un fissaggio. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene montagna. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare infiltrazioni. il telo viene ancorato meglio. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-179",
+      "title": "La porta del giardino",
+      "setting": "giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in giardino e notò subito che la porta cigola e non chiude bene. Non era un ostacolo enorme, ma rendeva difficile proteggere le aiuole. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: un sassolino è entrato nella cerniera. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene giardino. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere le aiuole. il sassolino viene rimosso. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-180",
+      "title": "La campana del faro",
+      "setting": "faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in faro e notò subito che la campana suona in modo irregolare. Non era un ostacolo enorme, ma rendeva difficile capire se il segnale funziona. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: una corda si è attorcigliata. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene faro. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente capire se il segnale funziona. la corda viene sciolta. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-181",
+      "title": "Il sentiero del fiume",
+      "setting": "fiume",
+      "animal": "cervo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fiume e notò subito che un tratto del sentiero è coperto da rami. Non era un ostacolo enorme, ma rendeva difficile raggiungere il ponte. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: la corrente ha trascinato legname sulla riva. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene fiume. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere il ponte. il passaggio viene liberato. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-182",
+      "title": "La porta della biblioteca",
+      "setting": "biblioteca",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in biblioteca e notò subito che la serratura gira a vuoto. Non era un ostacolo enorme, ma rendeva difficile aprire la sala. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: una vite si è allentata. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene biblioteca. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente aprire la sala. la serratura viene sistemata. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-183",
+      "title": "Il quadro vicino alla finestra",
+      "setting": "museo",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in museo e notò subito che una tenda sfiora il quadro. Non era un ostacolo enorme, ma rendeva difficile proteggere la superficie. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: la finestra aperta crea una corrente. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene museo. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere la superficie. la tenda viene fissata. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-184",
+      "title": "La barca del canneto",
+      "setting": "lago",
+      "animal": "airone",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in lago e notò subito che una barca è inclinata su un lato. Non era un ostacolo enorme, ma rendeva difficile capire se può essere spostata. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: un peso è rimasto da una parte. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene lago. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente capire se può essere spostata. il peso viene distribuito. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-185",
+      "title": "Il cancello della valle",
+      "setting": "valle",
+      "animal": "stambecco",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle e notò subito che un cancello resta socchiuso. Non era un ostacolo enorme, ma rendeva difficile tenere libero il percorso. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il vento spinge il battente. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene valle. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente tenere libero il percorso. il chiavistello viene regolato. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-186",
+      "title": "La cesta del mercato",
+      "setting": "mercato",
+      "animal": "gazza",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in mercato e notò subito che una cesta occupa il passaggio. Non era un ostacolo enorme, ma rendeva difficile raggiungere la fontana. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: è stata lasciata durante lo scarico. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene mercato. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la fontana. la cesta viene spostata. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-187",
+      "title": "Il vetro della serra",
+      "setting": "serra",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in serra e notò subito che un vetro è appannato. Non era un ostacolo enorme, ma rendeva difficile controllare le piante. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: l'umidità è rimasta intrappolata. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene serra. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente controllare le piante. la serra viene ventilata. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-188",
+      "title": "Il sentiero della cascata",
+      "setting": "valle",
+      "animal": "camoscio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle e notò subito che un piccolo rivolo attraversa il sentiero. Non era un ostacolo enorme, ma rendeva difficile raggiungere la cascata. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: la neve si sta sciogliendo. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene valle. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la cascata. viene scelto un passaggio più alto. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-189",
+      "title": "La panchina del porto",
+      "setting": "porto",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e notò subito che una tavola si è sollevata. Non era un ostacolo enorme, ma rendeva difficile evitare di inciampare. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il legno si è gonfiato con l'umidità. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene porto. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare di inciampare. la tavola viene fissata. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-190",
+      "title": "La finestra del castello",
+      "setting": "castello",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e notò subito che una tenda nasconde la finestra. Non era un ostacolo enorme, ma rendeva difficile capire da dove arriva la corrente. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: la tenda è stata chiusa male. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene castello. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente capire da dove arriva la corrente. la tenda viene spostata. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-191",
+      "title": "Il sentiero della fattoria",
+      "setting": "fattoria",
+      "animal": "asino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e notò subito che un secchio rovesciato blocca il passaggio. Non era un ostacolo enorme, ma rendeva difficile raggiungere la stalla. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: un animale lo ha urtato. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene fattoria. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la stalla. il secchio viene rimesso al suo posto. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-192",
+      "title": "La corda del molo",
+      "setting": "porto",
+      "animal": "foca",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e notò subito che una corda pende nell'acqua. Non era un ostacolo enorme, ma rendeva difficile evitare che si impigli nelle pinne. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: è scivolata dal palo. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene porto. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che si impigli nelle pinne. la corda viene raccolta. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-193",
+      "title": "Il tetto della casa",
+      "setting": "villaggio",
+      "animal": "rondine",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e notò subito che una tegola è spostata. Non era un ostacolo enorme, ma rendeva difficile evitare infiltrazioni. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il vento l'ha sollevata. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene villaggio. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare infiltrazioni. la tegola viene sistemata. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    },
+    {
+      "id": "RM-194",
+      "title": "La luce del sentiero",
+      "setting": "bosco",
+      "animal": "lucciola",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco e notò subito che una lanterna illumina troppo poco. Non era un ostacolo enorme, ma rendeva difficile ritrovare il sentiero al crepuscolo. Invece di affrettarsi, osservò il luogo e cercò di capire quale dettaglio fosse cambiato.",
+        "{{ANIMALE}} si trovava poco distante. Il suo comportamento attirò l'attenzione di {{PROTAGONISTA}}, che guardò nella stessa direzione. Lì compariva un piccolo indizio: qualcosa non era al proprio posto e sembrava collegato al problema.",
+        "Seguendo quell'indizio, {{PROTAGONISTA}} scoprì la causa: il vetro è coperto di polvere. La scoperta cambiò il modo di guardare la situazione. Non serviva intervenire ovunque; bisognava raggiungere proprio quel punto e scegliere un gesto abbastanza semplice da non creare altri problemi.",
+        "Prima di agire, {{PROTAGONISTA}} controllò il terreno e il passaggio. Poi chiese aiuto a chi conosceva bene bosco. Insieme stabilirono cosa fosse sicuro spostare e cosa invece fosse meglio lasciare fermo. {{ANIMALE}} rimase lontano dalla zona di lavoro.",
+        "Il primo tentativo non risolse tutto. Per un momento sembrò sufficiente, poi il problema ricomparve. {{PROTAGONISTA}} capì che aveva sistemato il sintomo e non la causa. Tornò al punto osservato poco prima e cambiò approccio.",
+        "Questa volta intervenne con precisione. Tolse, fissò, spostò o regolò soltanto ciò che serviva. Poi si fermò ad aspettare. Il luogo doveva dimostrare da solo di essere tornato stabile.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente ritrovare il sentiero al crepuscolo. il vetro viene pulito. La soluzione era stata piccola, ma aveva rimesso in ordine qualcosa che apparteneva a tutti.",
+        "Prima di andare via, {{PROTAGONISTA}} si voltò un'ultima volta. Il luogo non sembrava diverso, eppure un dettaglio importante era tornato al suo posto. {{ANIMALE}} si allontanò e la giornata riprese il suo ritmo, con quella piccola scoperta ormai diventata parte del ricordo."
+      ]
+    }
+  ]
+}
