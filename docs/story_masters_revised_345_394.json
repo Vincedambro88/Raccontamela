@@ -1,0 +1,806 @@
+{
+  "version": 2,
+  "status": "editorial-rewrite",
+  "stories": [
+    {
+      "id": "RM-345",
+      "title": "Il ponte del torrente",
+      "setting": "bosco",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco e notò che un ramo blocca la passerella. Era un cambiamento piccolo, ma rendeva difficile raggiungere la radura. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il temporale lo ha spezzato. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene bosco. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la radura. il ramo viene spostato. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-346",
+      "title": "La finestra del faro",
+      "setting": "faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in faro e notò che il vetro è coperto di sale. Era un cambiamento piccolo, ma rendeva difficile vedere la luce. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: la salsedine si è depositata durante la notte. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene faro. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere la luce. il vetro viene pulito. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-347",
+      "title": "Il cancello del frutteto",
+      "setting": "fattoria",
+      "animal": "pony",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e notò che il cancello non chiude. Era un cambiamento piccolo, ma rendeva difficile proteggere gli alberi. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il fango blocca la guida. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene fattoria. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere gli alberi. la guida viene liberata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-348",
+      "title": "La lanterna del castello",
+      "setting": "castello",
+      "animal": "civetta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e notò che la lanterna è spenta. Era un cambiamento piccolo, ma rendeva difficile illuminare il cortile. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il vento ha spento la fiamma. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene castello. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente illuminare il cortile. la lanterna viene protetta dal vento. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-349",
+      "title": "Il remo della baia",
+      "setting": "baia",
+      "animal": "delfino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in baia e notò che un remo galleggia vicino alla riva. Era un cambiamento piccolo, ma rendeva difficile riportarlo alla barca. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: è caduto durante l'ormeggio. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene baia. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riportarlo alla barca. il remo viene recuperato con una corda. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-350",
+      "title": "La panchina del parco",
+      "setting": "parco",
+      "animal": "merlo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in parco e notò che una tavola si è sollevata. Era un cambiamento piccolo, ma rendeva difficile rendere sicuto il sedile. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: un fissaggio si è allentato. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene parco. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente rendere sicuto il sedile. la tavola viene fissata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-351",
+      "title": "Il sentiero della neve",
+      "setting": "villaggio innevato",
+      "animal": "volpe",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio innevato e notò che una freccia è coperta di neve. Era un cambiamento piccolo, ma rendeva difficile trovare la piazza. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il vento ha accumulato neve sul cartello. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene villaggio innevato. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente trovare la piazza. il cartello viene liberato. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-352",
+      "title": "La porta della biblioteca",
+      "setting": "biblioteca",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in biblioteca e notò che la serratura gira a vuoto. Era un cambiamento piccolo, ma rendeva difficile aprire la sala. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: una vite si è allentata. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene biblioteca. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente aprire la sala. la serratura viene sistemata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-353",
+      "title": "La cesta del mercato",
+      "setting": "mercato",
+      "animal": "gazza",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in mercato e notò che una cesta blocca il passaggio. Era un cambiamento piccolo, ma rendeva difficile raggiungere la fontana. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: è stata lasciata durante lo scarico. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene mercato. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la fontana. la cesta viene spostata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-354",
+      "title": "Il sentiero della montagna",
+      "setting": "montagna",
+      "animal": "marmotta",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in montagna e notò che un sasso copre un segnale. Era un cambiamento piccolo, ma rendeva difficile seguire il percorso. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: la pioggia ha spostato la terra. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene montagna. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente seguire il percorso. il segnale viene reso visibile. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-355",
+      "title": "La porta della serra",
+      "setting": "serra",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in serra e notò che la porta resta socchiusa. Era un cambiamento piccolo, ma rendeva difficile proteggere le piante dal freddo. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il fermo non tiene. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene serra. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere le piante dal freddo. il fermo viene regolato. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-356",
+      "title": "La barca del lago",
+      "setting": "lago",
+      "animal": "cigno",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in lago e notò che una cima si è allentata. Era un cambiamento piccolo, ma rendeva difficile tenere ferma la barca. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il nodo è scivolato sul palo. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene lago. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente tenere ferma la barca. la cima viene fissata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-357",
+      "title": "Il sentiero della valle",
+      "setting": "valle",
+      "animal": "camoscio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle e notò che un rivolo attraversa il passaggio. Era un cambiamento piccolo, ma rendeva difficile raggiungere il rifugio. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: la neve si sta sciogliendo. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene valle. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere il rifugio. viene scelto un punto più alto. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-358",
+      "title": "Il tetto della fattoria",
+      "setting": "fattoria",
+      "animal": "rondine",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e notò che una tegola è spostata. Era un cambiamento piccolo, ma rendeva difficile proteggere il fieno. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il vento l'ha sollevata. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene fattoria. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere il fieno. la tegola viene sistemata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-359",
+      "title": "La corda del porto",
+      "setting": "porto",
+      "animal": "foca",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e notò che una corda pende nell'acqua. Era un cambiamento piccolo, ma rendeva difficile evitare che si impigli. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il nodo si è spostato. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene porto. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che si impigli. la corda viene raccolta. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-360",
+      "title": "Il vaso del giardino",
+      "setting": "giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in giardino e notò che un vaso è sul bordo del vialetto. Era un cambiamento piccolo, ma rendeva difficile evitare che cada. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: un ramo lo ha spinto. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene giardino. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che cada. il vaso viene spostato. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-361",
+      "title": "La campana del villaggio",
+      "setting": "villaggio",
+      "animal": "rondine",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e notò che la corda non scende. Era un cambiamento piccolo, ma rendeva difficile far suonare la campana. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: si è avvolta a un gancio. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene villaggio. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente far suonare la campana. la corda viene liberata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-362",
+      "title": "Il quadro del museo",
+      "setting": "museo",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in museo e notò che un riflesso copre il quadro. Era un cambiamento piccolo, ma rendeva difficile guardare l'opera. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: la luce entra direttamente dalla finestra. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene museo. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente guardare l'opera. la tenda viene regolata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-363",
+      "title": "La porta del mulino",
+      "setting": "mulino",
+      "animal": "gufo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in mulino e notò che la porta non si apre. Era un cambiamento piccolo, ma rendeva difficile raggiungere la ruota. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: un sacco è caduto dietro il battente. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene mulino. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la ruota. il sacco viene spostato. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-364",
+      "title": "Il ponte del fiume",
+      "setting": "fiume",
+      "animal": "lontra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fiume e notò che una tavola è instabile. Era un cambiamento piccolo, ma rendeva difficile raggiungere l'altra riva. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: un fissaggio si è allentato. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene fiume. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere l'altra riva. il passaggio viene chiuso e la tavola fissata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-365",
+      "title": "La lanterna della spiaggia",
+      "setting": "spiaggia",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in spiaggia e notò che la lanterna è coperta di sabbia. Era un cambiamento piccolo, ma rendeva difficile vedere il sentiero. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il vento ha riempito il vetro. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene spiaggia. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere il sentiero. il vetro viene pulito. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-366",
+      "title": "La finestra del villaggio",
+      "setting": "villaggio",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e notò che un'imposta sbatte. Era un cambiamento piccolo, ma rendeva difficile proteggere il vetro. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: una cerniera è lenta. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene villaggio. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere il vetro. la cerniera viene regolata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-367",
+      "title": "Il cartello del faro",
+      "setting": "costa",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in costa e notò che il cartello è caduto. Era un cambiamento piccolo, ma rendeva difficile trovare il sentiero. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: la base si è allentata. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene costa. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente trovare il sentiero. il cartello viene riposizionato. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-368",
+      "title": "Il cancello del giardino",
+      "setting": "giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in giardino e notò che il cancello si apre da solo. Era un cambiamento piccolo, ma rendeva difficile proteggere le aiuole. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il chiavistello non entra nella sede. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene giardino. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere le aiuole. il chiavistello viene regolato. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-369",
+      "title": "La fontana del castello",
+      "setting": "castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e notò che l'acqua esce lentamente. Era un cambiamento piccolo, ma rendeva difficile riempire la brocca. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: una foglia blocca il filtro. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene castello. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente riempire la brocca. il filtro viene pulito. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-370",
+      "title": "La cesta del lago",
+      "setting": "lago",
+      "animal": "anatra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in lago e notò che la cesta rischia di galleggiare via. Era un cambiamento piccolo, ma rendeva difficile recuperarla. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il vento ha spostato il telo. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene lago. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente recuperarla. la cesta viene portata al riparo. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-371",
+      "title": "Il sentiero del frutteto",
+      "setting": "fattoria",
+      "animal": "asino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e notò che un secchio blocca il passaggio. Era un cambiamento piccolo, ma rendeva difficile raggiungere gli alberi. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il vento lo ha trascinato. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene fattoria. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere gli alberi. il secchio viene spostato. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-372",
+      "title": "La scala del faro",
+      "setting": "faro",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in faro e notò che un gradino è scivoloso. Era un cambiamento piccolo, ma rendeva difficile salire in sicurezza. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: la condensa ha bagnato il metallo. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene faro. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente salire in sicurezza. il gradino viene asciugato. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-373",
+      "title": "La vela del porto",
+      "setting": "porto",
+      "animal": "foca",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e notò che la vela resta arrotolata. Era un cambiamento piccolo, ma rendeva difficile preparare la barca. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: la cima è incastrata. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene porto. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente preparare la barca. la cima viene liberata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-374",
+      "title": "La mappa del castello",
+      "setting": "castello",
+      "animal": "coniglio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in castello e notò che un'indicazione è strappata. Era un cambiamento piccolo, ma rendeva difficile ritrovare il cortile. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il vento ha portato via un lembo. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene castello. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente ritrovare il cortile. il percorso viene ricostruito dai segnali. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-375",
+      "title": "La luce del sentiero",
+      "setting": "bosco",
+      "animal": "lucciola",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco e notò che una lanterna illumina poco. Era un cambiamento piccolo, ma rendeva difficile vedere il sentiero. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il vetro è coperto di polvere. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene bosco. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere il sentiero. il vetro viene pulito. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-376",
+      "title": "La porta del teatro",
+      "setting": "teatro",
+      "animal": "gatto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in teatro e notò che la porta cigola. Era un cambiamento piccolo, ma rendeva difficile evitare rumori durante le prove. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: una cerniera è asciutta. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene teatro. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare rumori durante le prove. la cerniera viene lubrificata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-377",
+      "title": "Il ponte della collina",
+      "setting": "collina",
+      "animal": "lepre",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in collina e notò che una tavola scricchiola. Era un cambiamento piccolo, ma rendeva difficile attraversare in sicurezza. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: un chiodo è allentato. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene collina. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente attraversare in sicurezza. la tavola viene fissata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-378",
+      "title": "La rete della baia",
+      "setting": "baia",
+      "animal": "delfino",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in baia e notò che una rete vuota galleggia. Era un cambiamento piccolo, ma rendeva difficile evitare che si impigli. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: una boa si è staccata. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene baia. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che si impigli. la rete viene recuperata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-379",
+      "title": "Il tetto della biblioteca",
+      "setting": "biblioteca",
+      "animal": "colomba",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in biblioteca e notò che una grondaia perde acqua. Era un cambiamento piccolo, ma rendeva difficile proteggere i libri. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: le foglie hanno ostruito il canale. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene biblioteca. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente proteggere i libri. il canale viene liberato. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-380",
+      "title": "Il sentiero della cascata",
+      "setting": "valle",
+      "animal": "camoscio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle e notò che un tratto è bagnato. Era un cambiamento piccolo, ma rendeva difficile raggiungere il belvedere. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: l'acqua scorre sulle rocce. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene valle. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere il belvedere. viene scelto un percorso asciutto. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-381",
+      "title": "La ruota del pozzo",
+      "setting": "villaggio",
+      "animal": "cane",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in villaggio e notò che la ruota gira male. Era un cambiamento piccolo, ma rendeva difficile sollevare il secchio. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: l'asse è sporco. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene villaggio. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente sollevare il secchio. l'asse viene pulito. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-382",
+      "title": "La porta del fienile",
+      "setting": "fattoria",
+      "animal": "cavallo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in fattoria e notò che la guida è piena di paglia. Era un cambiamento piccolo, ma rendeva difficile aprire il fienile. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il vento ha portato paglia sotto la porta. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene fattoria. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente aprire il fienile. la guida viene pulita. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-383",
+      "title": "Il campanello del rifugio",
+      "setting": "montagna",
+      "animal": "capra",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in montagna e notò che il campanello è coperto di ghiaccio. Era un cambiamento piccolo, ma rendeva difficile segnalare la presenza. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: la notte è stata molto fredda. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene montagna. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente segnalare la presenza. il ghiaccio viene rimosso senza forzare. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-384",
+      "title": "La panchina del lago",
+      "setting": "lago",
+      "animal": "rana",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in lago e notò che una vite sporge. Era un cambiamento piccolo, ma rendeva difficile evitare che qualcuno si ferisca. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il legno si è mosso con l'umidità. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene lago. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che qualcuno si ferisca. la vite viene fissata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-385",
+      "title": "Il sentiero del museo",
+      "setting": "museo",
+      "animal": "topo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in museo e notò che una scatola occupa il corridoio. Era un cambiamento piccolo, ma rendeva difficile raggiungere la sala. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: è stata lasciata durante una consegna. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene museo. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la sala. la scatola viene spostata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-386",
+      "title": "La finestra della serra",
+      "setting": "serra",
+      "animal": "ape",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in serra e notò che il vetro è appannato. Era un cambiamento piccolo, ma rendeva difficile controllare le piante. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: l'umidità è rimasta dentro. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene serra. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente controllare le piante. la serra viene ventilata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-387",
+      "title": "Il cancello della valle",
+      "setting": "valle",
+      "animal": "stambecco",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in valle e notò che il cancello striscia a terra. Era un cambiamento piccolo, ma rendeva difficile chiuderlo prima di sera. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il terreno si è abbassato. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene valle. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente chiuderlo prima di sera. il cancello viene riallineato. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-388",
+      "title": "La barca del canale",
+      "setting": "canale",
+      "animal": "airone",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in canale e notò che la barca è ferma tra i giunchi. Era un cambiamento piccolo, ma rendeva difficile tornare al pontile. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: la corrente l'ha spinta fuori rotta. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene canale. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente tornare al pontile. la barca viene liberata. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-389",
+      "title": "Il cartello della spiaggia",
+      "setting": "spiaggia",
+      "animal": "granchio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in spiaggia e notò che il cartello è coperto di alghe. Era un cambiamento piccolo, ma rendeva difficile leggere la direzione. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: la marea ha raggiunto il palo. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene spiaggia. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente leggere la direzione. il cartello viene pulito. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-390",
+      "title": "La luce del porto",
+      "setting": "porto",
+      "animal": "gabbiano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e notò che una lampada illumina poco. Era un cambiamento piccolo, ma rendeva difficile vedere il bordo del molo. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il vetro è sporco di sale. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene porto. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente vedere il bordo del molo. il vetro viene pulito. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-391",
+      "title": "La porta del giardino",
+      "setting": "giardino",
+      "animal": "riccio",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in giardino e notò che la porta non resta aperta. Era un cambiamento piccolo, ma rendeva difficile far passare l'aria. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: un vaso è caduto contro il battente. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene giardino. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente far passare l'aria. il vaso viene spostato. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-392",
+      "title": "Il sentiero del bosco",
+      "setting": "bosco",
+      "animal": "cervo",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in bosco e notò che un ramo copre il percorso. Era un cambiamento piccolo, ma rendeva difficile raggiungere la radura. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: il vento lo ha spezzato. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene bosco. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente raggiungere la radura. il passaggio viene liberato. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-393",
+      "title": "La fontana della piazza",
+      "setting": "piazza",
+      "animal": "passerotto",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in piazza e notò che la fontana gocciola. Era un cambiamento piccolo, ma rendeva difficile evitare che il pavimento diventi scivoloso. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: una guarnizione è consumata. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene piazza. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente evitare che il pavimento diventi scivoloso. la guarnizione viene sostituita. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    },
+    {
+      "id": "RM-394",
+      "title": "La corda del molo",
+      "setting": "porto",
+      "animal": "pellicano",
+      "pages": [
+        "{{PROTAGONISTA}} arrivò in porto e notò che la corda è troppo corta. Era un cambiamento piccolo, ma rendeva difficile legare la barca in sicurezza. Prima di intervenire si fermò ad ascoltare e osservare ciò che succedeva intorno.",
+        "{{ANIMALE}} si trovava nelle vicinanze. Il suo movimento fece guardare {{PROTAGONISTA}} verso un punto preciso. Lì c'era un dettaglio fuori posto. Sembrava insignificante, ma poteva spiegare perché il luogo non funzionava come prima.",
+        "Seguendo quel dettaglio, {{PROTAGONISTA}} scoprì la causa: si è consumata con l'uso. Il problema aveva finalmente un'origine concreta. Ora serviva una soluzione che correggesse proprio quella causa senza creare nuovi ostacoli.",
+        "{{PROTAGONISTA}} cercò l'aiuto di chi conosceva bene porto. Insieme controllarono il passaggio e decisero come procedere. {{ANIMALE}} rimase a distanza mentre preparavano l'intervento.",
+        "Il primo tentativo sembrò riuscire, ma poco dopo il problema comparve di nuovo. {{PROTAGONISTA}} capì che aveva sistemato soltanto l'effetto visibile. Tornò quindi al punto dell'indizio e osservò con maggiore attenzione.",
+        "Questa volta intervenne nel modo giusto. Spostò, pulì, fissò o regolò soltanto ciò che serviva. Poi si allontanò e aspettò, perché la soluzione doveva funzionare senza essere continuamente controllata.",
+        "Il problema non tornò. {{ANIMALE}} riprese il proprio percorso e {{PROTAGONISTA}} poté finalmente legare la barca in sicurezza. la corda viene sostituita. Tutto era tornato al proprio posto con un intervento semplice e preciso.",
+        "Prima di andare via, {{PROTAGONISTA}} guardò ancora una volta il luogo. Il dettaglio che aveva causato il problema era quasi invisibile, ma aveva insegnato qualcosa di importante: osservare bene permette di trovare una strada quando la soluzione non è ancora evidente."
+      ]
+    }
+  ]
+}
