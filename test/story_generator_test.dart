@@ -19,7 +19,7 @@ void main() {
     expect(story.city, 'un castello incantato');
     expect(story.setting, 'un castello incantato');
     expect(story.friends, contains('Anna'));
-    expect(story.animalFriends, contains('Milo'));
+    expect(story.animalFriends, contains('cane'));
     expect(story.scenes, hasLength(8));
     expect(story.wordCount, greaterThan(200));
     expect(story.durationSeconds, greaterThan(300));
