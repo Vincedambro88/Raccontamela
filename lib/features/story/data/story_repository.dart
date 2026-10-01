@@ -57,8 +57,8 @@ class StoryRepository {
           'setting': story.setting,
           'city': story.setting,
           'friends': story.friends,
-          'animalFriends': story.animalFriends,
           'animal': request.animal,
+          'animalFriends': story.animalFriends,
           'scenes': story.scenes
               .map((scene) => {'index': scene.index, 'text': scene.text})
               .toList(),
