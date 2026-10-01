@@ -194,7 +194,9 @@ THIS IMAGE IS THE BACKGROUND OF THE STORY PAGE:
 - vertical full-page portrait composition
 - fill the entire page edge-to-edge
 - reserve the lower 30-35% as a calm, visually quieter area with simple shapes and uncluttered background so the app can place the story text over it
-- do NOT draw a white text box, parchment, speech bubble, letters or words
+- do NOT draw a white text box, parchment, speech bubble, letters, words, numbers or symbols
+- absolutely no readable or pseudo-readable writing in ANY language, including German-like, Latin-like or random glyphs
+- leave the lower 30-35% visually simple and free of lettering so the app can overlay the real Italian story text
 - keep important character faces and the main action in the upper/middle area
 - do not place critical objects exactly behind the text area
 
@@ -220,7 +222,7 @@ ${visualAction}
 PAGE TEXT FOR CONTEXT ONLY:
 ${scene.text}
 
-The page text is supplied only to understand the scene. NEVER render the text in the image. Illustrate the concrete action, emotion and setting described above. Keep the composition coherent with the previous and next pages.`;
+The page text is supplied only to understand the scene. NEVER render, imitate, paraphrase, spell, or visually suggest any part of the page text in the image. The image must contain zero writing of any kind. Illustrate the concrete action, emotion and setting described above. Keep the composition coherent with the previous and next pages.`;
 
         const imageBytes = await generateImage(prompt, model, 7000 + scene.index);
         const path = `${prefix}/scene-${scene.index}-color.png`;
