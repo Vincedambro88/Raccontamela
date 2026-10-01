@@ -1,4 +1,4 @@
-name: Start Raccontamela story catalog
+name: Raccontamela story catalog generator
 
 on:
   workflow_dispatch:
@@ -7,13 +7,28 @@ on:
       - ".github/workflows/start-story-catalog.yml"
 
 jobs:
-  start:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 360
     steps:
-      - name: Start catalog runner
+      - name: Generate all catalog illustrations
+        shell: bash
         run: |
-          curl --fail --silent --show-error --max-time 120 \
-            -X POST \
-            -H "Content-Type: application/json" \
-            --data '{"cursor":0}' \
-            "https://psbdgeeknuxmdbvblvrx.supabase.co/functions/v1/generate-story-catalog-runner"
+          set -euo pipefail
+          cursor=0
+          while [ "$cursor" -lt 4000 ]; do
+            echo "Starting catalog batch at cursor $cursor"
+            response=$(curl --fail --silent --show-error --max-time 120 \
+              -X POST \
+              -H "Content-Type: application/json" \
+              --data "{\"cursor\":$cursor,\"batchSize\":5}" \
+              "https://psbdgeeknuxmdbvblvrx.supabase.co/functions/v1/generate-story-catalog-runner")
+            echo "$response"
+            next=$(echo "$response" | jq -r '.nextCursor // empty')
+            if [ -z "$next" ] || [ "$next" -le "$cursor" ]; then
+              echo "Invalid next cursor; stopping."
+              exit 1
+            fi
+            cursor="$next"
+          done
+          echo "Catalog generation completed: $cursor / 4000"
