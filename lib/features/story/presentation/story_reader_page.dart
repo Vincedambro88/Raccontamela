@@ -244,11 +244,17 @@ class _StoryBookPage extends StatelessWidget {
           if (hasColor)
             AspectRatio(
               aspectRatio: 0.76,
-              child: Image.network(
-                scene.colorImageUrl!,
-                fit: BoxFit.cover,
-                errorBuilder: (_, __, ___) => const _ImageFallback(),
-              ),
+              child: scene.colorImageUrl!.startsWith('assets/')
+                  ? Image.asset(
+                      scene.colorImageUrl!,
+                      fit: BoxFit.cover,
+                      errorBuilder: (_, __, ___) => const _ImageFallback(),
+                    )
+                  : Image.network(
+                      scene.colorImageUrl!,
+                      fit: BoxFit.cover,
+                      errorBuilder: (_, __, ___) => const _ImageFallback(),
+                    ),
             )
           else
             const AspectRatio(
