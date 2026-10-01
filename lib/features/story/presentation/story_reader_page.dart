@@ -198,95 +198,76 @@ class _StoryBookPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final hasColor = scene.colorImageUrl != null;
+    final scheme = Theme.of(context).colorScheme;
+
     return Card(
       clipBehavior: Clip.antiAlias,
-      elevation: 2,
-      child: AspectRatio(
-        aspectRatio: 0.76,
-        child: Stack(
-          fit: StackFit.expand,
-          children: [
-            if (hasColor)
-              Image.network(
-                scene.colorImageUrl!,
-                fit: BoxFit.cover,
-                errorBuilder: (_, __, ___) => const _ImageFallback(),
-              )
-            else
-              const _ImageFallback(),
-            const DecoratedBox(
-              decoration: BoxDecoration(
-                gradient: LinearGradient(
-                  begin: Alignment.topCenter,
-                  end: Alignment.bottomCenter,
-                  stops: [0.52, 0.74, 1.0],
-                  colors: [
-                    Colors.transparent,
-                    Color(0xAAFFF9EE),
-                    Color(0xF5FFF9EE),
-                  ],
+      elevation: 3,
+      margin: EdgeInsets.zero,
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(18)),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        children: [
+          AspectRatio(
+            aspectRatio: 0.76,
+            child: Stack(
+              fit: StackFit.expand,
+              children: [
+                if (hasColor)
+                  Image.network(
+                    scene.colorImageUrl!,
+                    fit: BoxFit.cover,
+                    errorBuilder: (_, __, ___) => const _ImageFallback(),
+                  )
+                else
+                  const _ImageFallback(),
+                Positioned(
+                  left: 14,
+                  right: 14,
+                  top: 14,
+                  child: Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      _PageBadge(index: scene.index + 1),
+                      if (scene.narrationUrl != null)
+                        Material(
+                          color: Colors.white.withValues(alpha: 0.9),
+                          shape: const CircleBorder(),
+                          child: IconButton(
+                            tooltip: isPlaying ? l10n.pause : l10n.narration,
+                            onPressed: onPlay,
+                            icon: Icon(isPlaying ? Icons.pause_rounded : Icons.volume_up_rounded),
+                          ),
+                        ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+          ),
+          Container(
+            width: double.infinity,
+            padding: const EdgeInsets.fromLTRB(20, 18, 20, 20),
+            decoration: BoxDecoration(
+              color: scheme.surface,
+              border: Border(
+                top: BorderSide(
+                  color: scheme.outlineVariant.withValues(alpha: 0.45),
                 ),
               ),
             ),
-            Positioned(
-              left: 20,
-              right: 20,
-              top: 18,
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  _PageBadge(index: scene.index + 1),
-                  if (scene.narrationUrl != null)
-                    Material(
-                      color: Colors.white.withValues(alpha: 0.88),
-                      shape: const CircleBorder(),
-                      child: IconButton(
-                        tooltip: isPlaying ? l10n.pause : l10n.narration,
-                        onPressed: onPlay,
-                        icon: Icon(isPlaying ? Icons.pause_rounded : Icons.volume_up_rounded),
-                      ),
-                    ),
-                ],
-              ),
+            child: Text(
+              scene.text,
+              textAlign: TextAlign.left,
+              style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                    fontSize: 17,
+                    height: 1.45,
+                    fontWeight: FontWeight.w500,
+                    color: scheme.onSurface,
+                  ),
             ),
-            Positioned(
-              left: 20,
-              right: 20,
-              bottom: 18,
-              child: Text(
-                scene.text,
-                style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-                      fontSize: 17,
-                      height: 1.45,
-                      fontWeight: FontWeight.w500,
-                      color: Colors.white,
-                      shadows: const [
-                        Shadow(
-                          color: Color(0xCC000000),
-                          blurRadius: 5,
-                          offset: Offset(0, 2),
-                        ),
-                        Shadow(
-                          color: Color(0x99000000),
-                          blurRadius: 12,
-                          offset: Offset(0, 1),
-                        ),
-                      ],
-                    ),
-              ),
-            ),
-            if (scene.bwImageUrl != null)
-              Positioned(
-                left: 16,
-                right: 16,
-                bottom: 16,
-                child: Opacity(
-                  opacity: 0.0,
-                  child: Image.network(scene.bwImageUrl!, fit: BoxFit.cover),
-                ),
-              ),
-          ],
-        ),
+          ),
+        ],
       ),
     );
   }
