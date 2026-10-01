@@ -208,71 +208,53 @@ class _StoryBookPage extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
-          AspectRatio(
-            aspectRatio: 0.76,
-            child: Stack(
-              fit: StackFit.expand,
+          Padding(
+            padding: const EdgeInsets.fromLTRB(20, 18, 20, 18),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                if (hasColor)
-                  Image.network(
-                    scene.colorImageUrl!,
-                    fit: BoxFit.cover,
-                    errorBuilder: (_, __, ___) => const _ImageFallback(),
-                  )
-                else
-                  const _ImageFallback(),
-                Positioned(
-                  left: 14,
-                  right: 14,
-                  top: 14,
-                  child: Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [
-                      _PageBadge(index: scene.index + 1),
-                      if (scene.narrationUrl != null)
-                        Material(
-                          color: Colors.white.withValues(alpha: 0.9),
-                          shape: const CircleBorder(),
-                          child: IconButton(
-                            tooltip: isPlaying ? l10n.pause : l10n.narration,
-                            onPressed: onPlay,
-                            icon: Icon(isPlaying ? Icons.pause_rounded : Icons.volume_up_rounded),
-                          ),
+                Row(
+                  children: [
+                    _PageBadge(index: scene.index + 1),
+                    const Spacer(),
+                    if (scene.narrationUrl != null)
+                      IconButton(
+                        tooltip: isPlaying ? l10n.pause : l10n.narration,
+                        onPressed: onPlay,
+                        icon: Icon(
+                          isPlaying ? Icons.pause_rounded : Icons.volume_up_rounded,
+                          color: scheme.primary,
                         ),
-                    ],
-                  ),
-                ),
-                // The story text belongs to the illustrated page. Keep it inside
-                // the image area and cover any accidental provider-generated glyphs.
-                Positioned(
-                  left: 0,
-                  right: 0,
-                  bottom: 0,
-                  child: Container(
-                    constraints: const BoxConstraints(minHeight: 190),
-                    padding: const EdgeInsets.fromLTRB(20, 28, 20, 20),
-                    decoration: BoxDecoration(
-                      color: Colors.white.withValues(alpha: 0.91),
-                      borderRadius: const BorderRadius.only(
-                        topLeft: Radius.circular(28),
-                        topRight: Radius.circular(28),
                       ),
-                    ),
-                    child: Text(
-                      scene.text,
-                      textAlign: TextAlign.left,
-                      style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-                            fontSize: 17,
-                            height: 1.42,
-                            fontWeight: FontWeight.w600,
-                            color: scheme.onSurface,
-                          ),
-                    ),
-                  ),
+                  ],
+                ),
+                const SizedBox(height: 12),
+                Text(
+                  scene.text,
+                  style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                        fontSize: 17,
+                        height: 1.5,
+                        fontWeight: FontWeight.w600,
+                        color: scheme.onSurface,
+                      ),
                 ),
               ],
             ),
           ),
+          if (hasColor)
+            AspectRatio(
+              aspectRatio: 0.76,
+              child: Image.network(
+                scene.colorImageUrl!,
+                fit: BoxFit.cover,
+                errorBuilder: (_, __, ___) => const _ImageFallback(),
+              ),
+            )
+          else
+            const AspectRatio(
+              aspectRatio: 0.76,
+              child: _ImageFallback(),
+            ),
         ],
       ),
     );
