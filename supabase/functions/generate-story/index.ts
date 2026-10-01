@@ -283,6 +283,7 @@ Deno.serve(async (req) => {
     const locale = String(body.locale ?? "it").slice(0, 2).toLowerCase();
     const friends = cleanList(body.friends, 4);
     const animalFriends = cleanList(body.animalFriends, 10);
+    const animal = String(body.animal ?? animalFriends[0] ?? "").trim();
     if (!protagonistName || !setting || !animal) return new Response(JSON.stringify({ error: "Missing required fields: protagonist, setting and animal are required" }), { status: 400, headers: { ...corsHeaders, "Content-Type": "application/json" } });
     if (Array.isArray(body.friends) && body.friends.length > 4) return new Response(JSON.stringify({ error: "A maximum of 4 protagonist friends is allowed" }), { status: 400, headers: { ...corsHeaders, "Content-Type": "application/json" } });
     if (!allowedLocales.has(locale)) return new Response(JSON.stringify({ error: "Unsupported locale" }), { status: 400, headers: { ...corsHeaders, "Content-Type": "application/json" } });
