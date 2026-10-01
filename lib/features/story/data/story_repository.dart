@@ -55,43 +55,37 @@ class StoryRepository {
           .map((scene) => {'index': scene.index, 'text': scene.text})
           .toList();
 
-      // Generate one page per request. The image provider can throttle concurrent
-      // generations; isolating every page makes the first page as reliable as the others.
-      for (final scene in story.scenes) {
-        Map<String, dynamic>? mediaData;
-        for (var attempt = 0; attempt < 3 && mediaData == null; attempt++) {
-          try {
-            final mediaResponse = await client.functions.invoke('generate-color-media', body: {
-              'story': {
-                'title': story.title,
-                'protagonistName': story.protagonistName,
-                'setting': story.setting,
-                'city': story.setting,
-                'friends': story.friends,
-                'animal': request.animal,
-                'animalFriends': story.animalFriends,
-                'scenes': allScenePayload,
-                'visualBible': visualBible,
-                'sceneVisuals': sceneVisuals,
-              },
-              'sceneIndexes': [scene.index],
-              'mediaToken': data['mediaToken'],
-              'storyId': story.id,
-            });
-            mediaData = Map<String, dynamic>.from(mediaResponse.data as Map);
-          } catch (_) {
-            if (attempt < 2) {
-              await Future<void>.delayed(const Duration(seconds: 2));
-            }
+      Map<String, dynamic>? mediaData;
+      for (var attempt = 0; attempt < 3 && mediaData == null; attempt++) {
+        try {
+          final mediaResponse = await client.functions.invoke('generate-color-media', body: {
+            'story': {
+              'title': story.title,
+              'protagonistName': story.protagonistName,
+              'setting': story.setting,
+              'city': story.city,
+              'friends': story.friends,
+              'animalFriends': story.animalFriends,
+              'scenes': allScenePayload,
+              'visualBible': visualBible,
+              'sceneVisuals': sceneVisuals,
+            },
+            'mediaToken': data['mediaToken'],
+            'storyId': story.id,
+          });
+          mediaData = Map<String, dynamic>.from(mediaResponse.data as Map);
+        } catch (_) {
+          if (attempt < 2) {
+            await Future<void>.delayed(const Duration(seconds: 3));
           }
         }
+      }
 
-        for (final item in (mediaData?['results'] as List<dynamic>? ?? const [])) {
-          final map = Map<String, dynamic>.from(item as Map);
-          final url = map['colorImageUrl'] as String?;
-          final index = (map['sceneIndex'] as num?)?.toInt();
-          if (url != null && index != null) byIndex[index] = url;
-        }
+      for (final item in (mediaData?['results'] as List<dynamic>? ?? const [])) {
+        final map = Map<String, dynamic>.from(item as Map);
+        final url = map['colorImageUrl'] as String?;
+        final index = (map['sceneIndex'] as num?)?.toInt();
+        if (url != null && index != null) byIndex[index] = url;
       }
       story = Story(
         id: story.id,
