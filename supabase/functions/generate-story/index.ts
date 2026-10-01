@@ -61,8 +61,9 @@ function buildStory(input: {
   friends: string[];
   animalFriends: string[];
   animal?: string;
+  master: CatalogStory;
 }) {
-  const { protagonistName: n, setting: s, locale: l, friends, animalFriends } = input;
+  const { protagonistName: n, setting: s, locale: l, friends, animalFriends, master } = input;
   const human = friends.length ? friends.join(", ") : ({
     it: "un nuovo amico", en: "a new friend", fr: "un nouvel ami",
     es: "un nuevo amigo", de: "ein neuer Freund",
@@ -148,12 +149,22 @@ function buildStory(input: {
   }
   const text = scenes.join("\n\n");
   const wordCount = text.trim().split(/\s+/).length;
+  const fallbackTitle = ({ it: `L’avventura di ${n}`, en: `The adventure of ${n}`, fr: `L’aventure de ${n}`, es: `La aventura de ${n}`, de: `Das Abenteuer von ${n}` } as Record<string, string>)[l] ?? `L’avventura di ${n}`;
+  const masterIntro = `Tema dell'avventura: ${master.title}. ${master.setting_engine}. Il cuore della storia riguarda ${master.central_problem.toLowerCase()} e conduce verso ${master.resolution.toLowerCase()}.`;
+  scenes = scenes.map((scene, index) => {
+    if (index === 0) return scene + " " + masterIntro;
+    if (index === 1) return scene + ` Il filo dell'avventura segue il tema "${master.narrative_arc}" e il ruolo naturale dell'animale: ${master.animal_role}.`;
+    if (index === 6) return scene + ` La soluzione prende forma seguendo il percorso "${master.resolution}".`;
+    return scene;
+  });
+  const fallbackText = scenes.join("\n\n");
+  const fallbackWordCount = fallbackText.trim().split(/\s+/).length;
   return {
-    title: ({ it: `L’avventura di ${n}`, en: `The adventure of ${n}`, fr: `L’aventure de ${n}`, es: `La aventura de ${n}`, de: `Das Abenteuer von ${n}` } as Record<string, string>)[l] ?? `L’avventura di ${n}`,
+    title: fallbackTitle + ` — ${master.title}`,
     scenes: scenes.map((text, index) => ({ index, text })),
-    text,
-    durationSeconds: Math.round((wordCount / 135) * 60),
-    wordCount,
+    text: fallbackText,
+    durationSeconds: Math.round((fallbackWordCount / 135) * 60),
+    wordCount: fallbackWordCount,
   };
 }
 
@@ -337,7 +348,8 @@ Deno.serve(async (req) => {
       sceneVisuals = generated.sceneVisuals;
     } catch (error) {
       console.error("AI story generation failed, using deterministic fallback", error);
-      story = { ...buildStory({ protagonistName, setting, locale, friends, animalFriends, animal }), masterStoryId: selectMasterStory(setting, animal, protagonistName).id };
+      const fallbackMaster = selectMasterStory(setting, animal, protagonistName);
+      story = { ...buildStory({ protagonistName, setting, locale, friends, animalFriends, animal, master: fallbackMaster }), masterStoryId: fallbackMaster.id };
     }
     let saved = false;
     let storyId: string | null = null;
