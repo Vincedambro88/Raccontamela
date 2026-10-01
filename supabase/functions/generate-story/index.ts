@@ -364,7 +364,6 @@ Deno.serve(async (req) => {
       }
     }
     const mediaToken = serviceRoleKey ? await mediaTokenFor({
-      masterStoryId: story.masterStoryId ?? null,
       title: story.title,
       protagonistName,
       setting,
