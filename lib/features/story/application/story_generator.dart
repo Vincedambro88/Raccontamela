@@ -2,7 +2,9 @@ import 'dart:convert';
 import 'dart:math';
 
 import 'package:flutter/services.dart';
+import 'package:supabase_flutter/supabase_flutter.dart';
 
+import '../../../core/config/app_config.dart';
 import '../domain/story.dart';
 
 class StoryRequest {
@@ -46,12 +48,16 @@ class StoryGenerator {
     final requestedSetting = request.setting.trim().isEmpty
         ? masterSetting
         : request.setting.trim();
-    final requestedAnimal = _animalSpecies(request.animal, master['animal'] as String? ?? 'animale');
+    final requestedAnimal = _animalSpecies(
+      request.animal,
+      master['animal'] as String? ?? 'animale',
+    );
     final name = request.protagonistName.trim().isEmpty
         ? 'Il protagonista'
         : request.protagonistName.trim();
 
-    final rawPages = List<String>.from(master['pages'] as List<dynamic>? ?? const []);
+    final rawPages =
+        List<String>.from(master['pages'] as List<dynamic>? ?? const []);
     if (rawPages.length != 8) {
       throw StateError('$masterId non contiene esattamente 8 pagine.');
     }
@@ -61,6 +67,7 @@ class StoryGenerator {
       var text = rawPages[i];
       text = text.replaceAll('{{PROTAGONISTA}}', name);
       text = text.replaceAll('{{ANIMALE}}', requestedAnimal);
+      text = text.replaceAll('{{LUOGO}}', requestedSetting);
       if (masterSetting.isNotEmpty &&
           masterSetting.toLowerCase() != requestedSetting.toLowerCase()) {
         text = text.replaceAll(masterSetting, requestedSetting);
@@ -74,14 +81,19 @@ class StoryGenerator {
         StoryScene(
           index: i,
           text: text,
-          colorImageUrl:
-              'assets/stories/images/$masterId/page_\${(i + 1).toString().padLeft(2, '0')}.webp',
+          colorImageUrl: await _catalogImageUrl(
+            masterId,
+            i + 1,
+          ),
         ),
       );
     }
 
     final words = scenes
-        .map((scene) => scene.text.split(RegExp(r'\s+')).where((w) => w.isNotEmpty).length)
+        .map((scene) => scene.text
+            .split(RegExp(r'\s+'))
+            .where((w) => w.isNotEmpty)
+            .length)
         .fold<int>(0, (a, b) => a + b);
 
     return Story(
@@ -97,12 +109,33 @@ class StoryGenerator {
     );
   }
 
+  Future<String?> _catalogImageUrl(String masterId, int page) async {
+    if (!AppConfig.hasSupabase) return null;
+
+    final path =
+        'catalog/$masterId/page-${page.toString().padLeft(2, '0')}.png';
+    try {
+      return await Supabase.instance.client.storage
+          .from('story-assets')
+          .createSignedUrl(path, 3600);
+    } catch (_) {
+      return null;
+    }
+  }
+
   Future<List<Map<String, dynamic>>> _loadCatalog() async {
     if (_stories != null) return _stories!;
-    final jsonText = await rootBundle.loadString('assets/stories/master_stories.json');
+    final jsonText =
+        await rootBundle.loadString('assets/stories/master_stories.json');
     final decoded = jsonDecode(jsonText) as Map<String, dynamic>;
     final raw = decoded['stories'] as List<dynamic>? ?? const [];
-    _stories = raw.map((item) => Map<String, dynamic>.from(item as Map)).toList();
+    if (raw.length != 500) {
+      throw StateError(
+        'Il catalogo deve contenere esattamente 500 storie: trovate ${raw.length}.',
+      );
+    }
+    _stories =
+        raw.map((item) => Map<String, dynamic>.from(item as Map)).toList();
     return _stories!;
   }
 
@@ -115,7 +148,11 @@ class StoryGenerator {
   String _capitalize(String value) =>
       value.isEmpty ? value : value[0].toUpperCase() + value.substring(1);
 
-  String _personalizeTitle(String title, String masterSetting, String requestedSetting) {
+  String _personalizeTitle(
+    String title,
+    String masterSetting,
+    String requestedSetting,
+  ) {
     if (masterSetting.isEmpty || masterSetting == requestedSetting) return title;
     return title.replaceAll(masterSetting, requestedSetting);
   }
