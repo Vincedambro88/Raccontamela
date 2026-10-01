@@ -50,31 +50,54 @@ class StoryRepository {
     // Color illustrations are available in Free as well as Premium.
     // If the provider is not configured yet, keep the story usable without images.
     try {
-      final mediaResponse = await client.functions.invoke('generate-color-media', body: {
-        'story': {
-          'title': story.title,
-          'protagonistName': story.protagonistName,
-          'setting': story.setting,
-          'city': story.setting,
-          'friends': story.friends,
-          'animal': request.animal,
-          'animalFriends': story.animalFriends,
-          'scenes': story.scenes
-              .map((scene) => {'index': scene.index, 'text': scene.text})
-              .toList(),
-          'visualBible': visualBible,
-          'sceneVisuals': sceneVisuals,
-        },
-        'mediaToken': data['mediaToken'],
-        'storyId': story.id,
-      });
-      final mediaData = Map<String, dynamic>.from(mediaResponse.data as Map);
       final byIndex = <int, String>{};
-      for (final item in (mediaData['results'] as List<dynamic>? ?? const [])) {
-        final map = Map<String, dynamic>.from(item as Map);
-        final url = map['colorImageUrl'] as String?;
-        final index = (map['sceneIndex'] as num?)?.toInt();
-        if (url != null && index != null) byIndex[index] = url;
+      final allScenePayload = story.scenes
+          .map((scene) => {'index': scene.index, 'text': scene.text})
+          .toList();
+
+      // Generate two pages per request. This keeps each Edge Function request
+      // short and isolates failures so one missing image cannot lose the rest.
+      for (var offset = 0; offset < story.scenes.length; offset += 2) {
+        final batchIndexes = story.scenes
+            .skip(offset)
+            .take(2)
+            .map((scene) => scene.index)
+            .toList();
+
+        Map<String, dynamic>? mediaData;
+        for (var attempt = 0; attempt < 2 && mediaData == null; attempt++) {
+          try {
+            final mediaResponse = await client.functions.invoke('generate-color-media', body: {
+              'story': {
+                'title': story.title,
+                'protagonistName': story.protagonistName,
+                'setting': story.setting,
+                'city': story.setting,
+                'friends': story.friends,
+                'animal': request.animal,
+                'animalFriends': story.animalFriends,
+                'scenes': allScenePayload,
+                'visualBible': visualBible,
+                'sceneVisuals': sceneVisuals,
+              },
+              'sceneIndexes': batchIndexes,
+              'mediaToken': data['mediaToken'],
+              'storyId': story.id,
+            });
+            mediaData = Map<String, dynamic>.from(mediaResponse.data as Map);
+          } catch (_) {
+            if (attempt == 0) {
+              await Future<void>.delayed(const Duration(seconds: 2));
+            }
+          }
+        }
+
+        for (final item in (mediaData?['results'] as List<dynamic>? ?? const [])) {
+          final map = Map<String, dynamic>.from(item as Map);
+          final url = map['colorImageUrl'] as String?;
+          final index = (map['sceneIndex'] as num?)?.toInt();
+          if (url != null && index != null) byIndex[index] = url;
+        }
       }
       story = Story(
         id: story.id,
