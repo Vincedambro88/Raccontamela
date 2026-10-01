@@ -47,8 +47,11 @@ function selectMasterStory(setting: string, animal: string, protagonistName: str
   const pool = exact.length ? exact : storyCatalog;
   const animalMatches = pool.filter((story) => story.animal.toLowerCase() === animal.trim().toLowerCase());
   const candidates = animalMatches.length ? animalMatches : pool;
-  const seed = [...protagonistName, ...setting, ...animal].reduce((sum, char) => sum + char.charCodeAt(0), 0);
-  return candidates[seed % candidates.length] ?? storyCatalog[0];
+  // Select a different master blueprint on each generation instead of
+  // deterministically returning the same story for identical inputs.
+  const randomBytes = new Uint32Array(1);
+  crypto.getRandomValues(randomBytes);
+  return candidates[randomBytes[0] % candidates.length] ?? storyCatalog[0];
 }
 
 function buildStory(input: {
