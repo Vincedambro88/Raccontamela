@@ -199,6 +199,8 @@ async function generateAiStory(input: {
     additionalProperties: false,
   };
 
+  const master = selectMasterStory(input.setting, input.animal ?? input.animalFriends[0] ?? "", input.protagonistName);
+
   const instructions = [
     "You are the lead children's fiction writer and developmental editor for a real picture-book publisher. Write as if this story will be published, read aloud by a parent, and illustrated page by page. The result must feel authored, intentional, emotionally warm and narratively satisfying, never like an AI-generated sequence of prompts.",
     `Write the story in ${languageNames[input.locale] ?? "Italian"}.`,
@@ -224,8 +226,6 @@ async function generateAiStory(input: {
     "Each scene.visual must describe the MAIN VISUAL ACTION of that exact page, including who is present, what they are doing, the important object/clue, and the relevant part of the setting. It must be suitable as an image prompt and must match scene.text exactly.",
     "Do not put text, captions, letters or page numbers into scene.visual.",
   ].join(" ");
-
-  const master = selectMasterStory(input.setting, input.animal ?? input.animalFriends[0] ?? "", input.protagonistName);
 
   const userInput = JSON.stringify({
     protagonistName: input.protagonistName,
