@@ -8,9 +8,9 @@ type Master={id:string;title:string;setting:string;animal:string;pages:string[]}
 async function generateImage(prompt:string, seed:number):Promise<Uint8Array>{
   const host="https://black-forest-labs-flux-1-schnell.hf.space";
   let last="unknown";
-  for(let attempt=0;attempt<3;attempt++){
+  for(let attempt=0;attempt<8;attempt++){
     try{
-      const submit=await fetch(host+"/gradio_api/call/infer",{method:"POST",headers:{"Content-Type":"application/json","Accept":"application/json"},body:JSON.stringify({data:[prompt,seed,false,1024,1344,4]})});
+      const submit=await fetch(host+"/gradio_api/call/infer",{method:"POST",headers:{"Content-Type":"application/json","Accept":"application/json"},body:JSON.stringify({data:[prompt,seed + attempt * 10007,false,1024,1344,4]})});
       if(!submit.ok) throw new Error("submit "+submit.status);
       const {event_id}=await submit.json() as {event_id?:string};
       if(!event_id) throw new Error("missing event id");
@@ -47,7 +47,7 @@ async function generateImage(prompt:string, seed:number):Promise<Uint8Array>{
         }
       }
       throw new Error("generation incomplete");
-    }catch(e){last=e instanceof Error?e.message:String(e); await new Promise(r=>setTimeout(r,2000));}
+    }catch(e){last=e instanceof Error?e.message:String(e); await new Promise(r=>setTimeout(r,3000));}
   }
   throw new Error(last);
 }
