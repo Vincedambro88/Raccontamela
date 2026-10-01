@@ -1,4 +1,5 @@
 import "jsr:@supabase/functions-js/edge-runtime.d.ts";
+import catalog from "./story_catalog_500.json" with { type: "json" };
 import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
 
 type StoryRequest = {
@@ -19,6 +20,36 @@ const corsHeaders = {
 };
 const cleanList = (value: unknown, max: number) =>
   Array.isArray(value) ? value.map(String).map((v) => v.trim()).filter(Boolean).slice(0, max) : [];
+
+
+type CatalogStory = {
+  id: string;
+  title: string;
+  setting: string;
+  setting_engine: string;
+  animal: string;
+  animal_role: string;
+  narrative_arc: string;
+  central_problem: string;
+  resolution: string;
+  variables: string[];
+  pages: number;
+  writing_standard: string;
+  image_standard: string;
+  status: string;
+};
+
+const storyCatalog = (catalog as { stories: CatalogStory[] }).stories;
+
+function selectMasterStory(setting: string, animal: string, protagonistName: string) {
+  const normalizedSetting = setting.trim().toLowerCase();
+  const exact = storyCatalog.filter((story) => story.setting.toLowerCase() === normalizedSetting);
+  const pool = exact.length ? exact : storyCatalog;
+  const animalMatches = pool.filter((story) => story.animal.toLowerCase() === animal.trim().toLowerCase());
+  const candidates = animalMatches.length ? animalMatches : pool;
+  const seed = [...protagonistName, ...setting, ...animal].reduce((sum, char) => sum + char.charCodeAt(0), 0);
+  return candidates[seed % candidates.length] ?? storyCatalog[0];
+}
 
 function buildStory(input: {
   protagonistName: string;
@@ -169,6 +200,7 @@ async function generateAiStory(input: {
     "You are the lead children's fiction writer and developmental editor for a real picture-book publisher. Write as if this story will be published, read aloud by a parent, and illustrated page by page. The result must feel authored, intentional, emotionally warm and narratively satisfying, never like an AI-generated sequence of prompts.",
     `Write the story in ${languageNames[input.locale] ?? "Italian"}.`,
     "Return ONLY the requested structured JSON; never add commentary.",
+    `Use the selected master story as the mandatory narrative blueprint. Master ${master.id}: ${master.title}. Narrative arc: ${master.narrative_arc}. Central problem: ${master.central_problem}. Resolution: ${master.resolution}. Setting engine: ${master.setting_engine}. Animal role: ${master.animal_role}. Preserve this causal arc and structure while adapting every surface detail to the child-selected protagonist, animal and setting. Do not invent a different central plot.`,
     "Create exactly 8 consecutive picture-book pages. Build one complete story, not eight mini-scenes. The story must have a strong opening hook, a single central desire/question/problem, rising complications, a meaningful turning point, a clear resolution and a gentle closing image.",
     "Before writing, silently plan the whole plot: identify the protagonist's goal, the setting-specific opportunity or problem, the role of each friend and animal, the central object/clue, the escalation, and the ending. Then write the pages from that plan so every event has a reason.",
     "CAUSE AND EFFECT IS MANDATORY: each page must be the direct consequence of what happened before. The protagonist must make choices, those choices must create consequences, and those consequences must drive the next page. Never introduce a new unrelated mystery, object, location or challenge merely to fill a page.",
@@ -190,6 +222,8 @@ async function generateAiStory(input: {
     "Do not put text, captions, letters or page numbers into scene.visual.",
   ].join(" ");
 
+  const master = selectMasterStory(input.setting, input.animal ?? input.animalFriends[0] ?? "", input.protagonistName);
+
   const userInput = JSON.stringify({
     protagonistName: input.protagonistName,
     setting: input.setting,
@@ -197,6 +231,7 @@ async function generateAiStory(input: {
     animal: input.animal,
     animalFriends: input.animalFriends,
     locale: input.locale,
+    masterStory: master,
   });
 
   const response = await fetch("https://api.openai.com/v1/responses", {
@@ -252,6 +287,7 @@ async function generateAiStory(input: {
   }
 
   return {
+    masterStoryId: master.id,
     title: String(parsed.title).trim(),
     visualBible: String(parsed.visualBible).trim(),
     scenes,
@@ -298,7 +334,7 @@ Deno.serve(async (req) => {
       sceneVisuals = generated.sceneVisuals;
     } catch (error) {
       console.error("AI story generation failed, using deterministic fallback", error);
-      story = buildStory({ protagonistName, setting, locale, friends, animalFriends, animal });
+      story = { ...buildStory({ protagonistName, setting, locale, friends, animalFriends, animal }), masterStoryId: selectMasterStory(setting, animal, protagonistName).id };
     }
     let saved = false;
     let storyId: string | null = null;
@@ -328,6 +364,7 @@ Deno.serve(async (req) => {
       }
     }
     const mediaToken = serviceRoleKey ? await mediaTokenFor({
+      masterStoryId: story.masterStoryId ?? null,
       title: story.title,
       protagonistName,
       setting,
