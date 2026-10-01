@@ -55,17 +55,11 @@ class StoryRepository {
           .map((scene) => {'index': scene.index, 'text': scene.text})
           .toList();
 
-      // Generate two pages per request. This keeps each Edge Function request
-      // short and isolates failures so one missing image cannot lose the rest.
-      for (var offset = 0; offset < story.scenes.length; offset += 2) {
-        final batchIndexes = story.scenes
-            .skip(offset)
-            .take(2)
-            .map((scene) => scene.index)
-            .toList();
-
+      // Generate one page per request. The image provider can throttle concurrent
+      // generations; isolating every page makes the first page as reliable as the others.
+      for (final scene in story.scenes) {
         Map<String, dynamic>? mediaData;
-        for (var attempt = 0; attempt < 2 && mediaData == null; attempt++) {
+        for (var attempt = 0; attempt < 3 && mediaData == null; attempt++) {
           try {
             final mediaResponse = await client.functions.invoke('generate-color-media', body: {
               'story': {
@@ -80,13 +74,13 @@ class StoryRepository {
                 'visualBible': visualBible,
                 'sceneVisuals': sceneVisuals,
               },
-              'sceneIndexes': batchIndexes,
+              'sceneIndexes': [scene.index],
               'mediaToken': data['mediaToken'],
               'storyId': story.id,
             });
             mediaData = Map<String, dynamic>.from(mediaResponse.data as Map);
           } catch (_) {
-            if (attempt == 0) {
+            if (attempt < 2) {
               await Future<void>.delayed(const Duration(seconds: 2));
             }
           }
