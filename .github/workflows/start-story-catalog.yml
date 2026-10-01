@@ -1,0 +1,19 @@
+name: Start Raccontamela story catalog
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/start-story-catalog.yml"
+
+jobs:
+  start:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start catalog runner
+        run: |
+          curl --fail --silent --show-error --max-time 120 \
+            -X POST \
+            -H "Content-Type: application/json" \
+            --data '{"cursor":0}' \
+            "https://psbdgeeknuxmdbvblvrx.supabase.co/functions/v1/generate-story-catalog-runner"
