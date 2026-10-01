@@ -242,29 +242,35 @@ class _StoryBookPage extends StatelessWidget {
                     ],
                   ),
                 ),
-              ],
-            ),
-          ),
-          Container(
-            width: double.infinity,
-            padding: const EdgeInsets.fromLTRB(20, 18, 20, 20),
-            decoration: BoxDecoration(
-              color: scheme.surface,
-              border: Border(
-                top: BorderSide(
-                  color: scheme.outlineVariant.withValues(alpha: 0.45),
-                ),
-              ),
-            ),
-            child: Text(
-              scene.text,
-              textAlign: TextAlign.left,
-              style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-                    fontSize: 17,
-                    height: 1.45,
-                    fontWeight: FontWeight.w500,
-                    color: scheme.onSurface,
+                // The story text belongs to the illustrated page. Keep it inside
+                // the image area and cover any accidental provider-generated glyphs.
+                Positioned(
+                  left: 0,
+                  right: 0,
+                  bottom: 0,
+                  child: Container(
+                    constraints: const BoxConstraints(minHeight: 190),
+                    padding: const EdgeInsets.fromLTRB(20, 28, 20, 20),
+                    decoration: BoxDecoration(
+                      color: Colors.white.withValues(alpha: 0.91),
+                      borderRadius: const BorderRadius.only(
+                        topLeft: Radius.circular(28),
+                        topRight: Radius.circular(28),
+                      ),
+                    ),
+                    child: Text(
+                      scene.text,
+                      textAlign: TextAlign.left,
+                      style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                            fontSize: 17,
+                            height: 1.42,
+                            fontWeight: FontWeight.w600,
+                            color: scheme.onSurface,
+                          ),
+                    ),
                   ),
+                ),
+              ],
             ),
           ),
         ],
