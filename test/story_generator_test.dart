@@ -4,7 +4,7 @@ import 'package:raccontamela/features/story/application/story_generator.dart';
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
-  test('generates an eight-page story with the requested inputs', () async {
+  test('generates an eight-page story lasting at least five minutes', () async {
     final story = await StoryGenerator().generate(
       const StoryRequest(
         protagonistName: 'Luca',
@@ -23,10 +23,14 @@ void main() {
     expect(story.friends, contains('Anna'));
     expect(story.animalFriends, contains('cane'));
     expect(story.scenes, hasLength(8));
-    expect(story.wordCount, greaterThan(200));
-    expect(story.durationSeconds, greaterThan(0));
+    expect(story.wordCount, greaterThanOrEqualTo(675));
+    expect(story.durationSeconds, greaterThanOrEqualTo(300));
     expect(
       story.scenes.every((scene) => scene.text.contains('Luca')),
+      isTrue,
+    );
+    expect(
+      story.scenes.every((scene) => scene.text.contains('Anna')),
       isTrue,
     );
   });
