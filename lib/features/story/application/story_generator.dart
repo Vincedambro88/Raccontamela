@@ -1,5 +1,6 @@
 import 'dart:convert';
 import 'dart:math';
+import 'dart:typed_data';
 import 'package:flutter/services.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 import '../../../core/config/app_config.dart';
@@ -46,7 +47,17 @@ class StoryGenerator {
         text = text.replaceAll(_capitalize(masterSetting), _capitalize(requestedSetting));
       }
       if (text.trim().isEmpty) throw StateError('$masterId contiene una pagina vuota.');
-      scenes.add(StoryScene(index: i, text: text.trim(), colorImageUrl: _catalogImageUrl(masterId, i + 1)));
+      final imageBytes = await _loadCatalogImage(masterId, i + 1);
+      if (imageBytes == null || imageBytes.isEmpty) {
+        final page = (i + 1).toString().padLeft(2, '0');
+        throw StateError('Immagine mancante: catalog/$masterId/page-$page.png');
+      }
+      scenes.add(StoryScene(
+        index: i,
+        text: text.trim(),
+        colorImageUrl: _catalogImageUrl(masterId, i + 1),
+        colorImageBytes: imageBytes,
+      ));
     }
 
     final words = scenes.fold<int>(0, (total, scene) => total + scene.text.split(RegExp(r'\s+')).where((w) => w.isNotEmpty).length);
@@ -63,6 +74,16 @@ class StoryGenerator {
       scenes: scenes,
       durationSeconds: ((words / 135) * 60).round(),
     );
+  }
+
+  Future<Uint8List?> _loadCatalogImage(String masterId, int page) async {
+    if (!AppConfig.hasSupabase || !Supabase.instance.isInitialized) return null;
+    final path = 'catalog/$masterId/page-' + page.toString().padLeft(2, '0') + '.png';
+    try {
+      return await Supabase.instance.client.storage.from('story-assets').download(path);
+    } catch (_) {
+      return null;
+    }
   }
 
   String? _catalogImageUrl(String masterId, int page) {
