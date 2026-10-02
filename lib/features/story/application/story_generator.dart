@@ -55,6 +55,12 @@ class StoryGenerator {
     final name = request.protagonistName.trim().isEmpty
         ? 'Il protagonista'
         : request.protagonistName.trim();
+    final friend = request.friends
+        .map((value) => value.trim())
+        .firstWhere(
+          (value) => value.isNotEmpty,
+          orElse: () => 'un amico',
+        );
 
     final rawPages =
         List<String>.from(master['pages'] as List<dynamic>? ?? const []);
@@ -68,6 +74,8 @@ class StoryGenerator {
       text = text.replaceAll('{{PROTAGONISTA}}', name);
       text = text.replaceAll('{{ANIMALE}}', requestedAnimal);
       text = text.replaceAll('{{LUOGO}}', requestedSetting);
+      text = text.replaceAll('{{AMICO}}', friend);
+
       if (masterSetting.isNotEmpty &&
           masterSetting.toLowerCase() != requestedSetting.toLowerCase()) {
         text = text.replaceAll(masterSetting, requestedSetting);
@@ -81,20 +89,25 @@ class StoryGenerator {
         StoryScene(
           index: i,
           text: text,
-          colorImageUrl: await _catalogImageUrl(
-            masterId,
-            i + 1,
-          ),
+          colorImageUrl: await _catalogImageUrl(masterId, i + 1),
         ),
       );
     }
 
     final words = scenes
-        .map((scene) => scene.text
-            .split(RegExp(r'\s+'))
-            .where((w) => w.isNotEmpty)
-            .length)
+        .map(
+          (scene) => scene.text
+              .split(RegExp(r'\s+'))
+              .where((w) => w.isNotEmpty)
+              .length,
+        )
         .fold<int>(0, (a, b) => a + b);
+
+    if (words < 675) {
+      throw StateError(
+        '$masterId contiene solo $words parole: una storia deve durare almeno circa 5 minuti.',
+      );
+    }
 
     return Story(
       id: masterId,
