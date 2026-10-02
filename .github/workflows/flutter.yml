@@ -17,6 +17,19 @@ jobs:
           cache: true
       - name: Generate Android project
         run: flutter create . --platforms=android --org com.vincedambro
+      - name: Enable release network access
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path("android/app/src/main/AndroidManifest.xml")
+          s = p.read_text()
+          permission = '<uses-permission android:name="android.permission.INTERNET"/>'
+          if permission not in s:
+              s = s.replace('<manifest ', '<manifest ' + '\n    ' + permission + '\n', 1)
+          p.write_text(s)
+          PY
       - name: Install launcher artwork
         shell: bash
         run: |
