@@ -83,7 +83,8 @@ class StoryGenerator {
 
   Future<Uint8List?> _loadCatalogImage(String masterId, int page) async {
     final path = 'catalog/$masterId/page-' + page.toString().padLeft(2, '0') + '.png';
-    if (_imageLoader != null) return _imageLoader!(path);
+    final loader = _imageLoader;
+    if (loader != null) return loader(path);
     if (!AppConfig.hasSupabase || !Supabase.instance.isInitialized) return null;
     try {
       return await Supabase.instance.client.storage.from('story-assets').download(path);
