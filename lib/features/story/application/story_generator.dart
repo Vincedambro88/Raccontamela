@@ -2,7 +2,6 @@ import 'dart:convert';
 import 'dart:math';
 import 'dart:typed_data';
 import 'package:flutter/services.dart';
-import 'package:supabase_flutter/supabase_flutter.dart';
 import '../../../core/config/app_config.dart';
 import '../domain/story.dart';
 
@@ -52,15 +51,23 @@ class StoryGenerator {
         text = text.replaceAll(_capitalize(masterSetting), _capitalize(requestedSetting));
       }
       if (text.trim().isEmpty) throw StateError('$masterId contiene una pagina vuota.');
-      final imageBytes = await _loadCatalogImage(masterId, i + 1);
-      if (imageBytes == null || imageBytes.isEmpty) {
+
+      // Production: the 8 illustrations already stored in Supabase are served
+      // directly from the public Storage URL. Tests may inject a loader.
+      final imageBytes = _imageLoader == null ? null : await _loadCatalogImage(masterId, i + 1);
+      final imageUrl = _catalogImageUrl(masterId, i + 1);
+      if (_imageLoader != null && (imageBytes == null || imageBytes.isEmpty)) {
         final page = (i + 1).toString().padLeft(2, '0');
         throw StateError('Immagine mancante: catalog/$masterId/page-$page.png');
       }
+      if (imageUrl == null) {
+        throw StateError('Immagini catalogo non configurate: impossibile collegare catalog/$masterId.');
+      }
+
       scenes.add(StoryScene(
         index: i,
         text: text.trim(),
-        colorImageUrl: _catalogImageUrl(masterId, i + 1),
+        colorImageUrl: imageUrl,
         colorImageBytes: imageBytes,
       ));
     }
@@ -85,22 +92,14 @@ class StoryGenerator {
     final path = 'catalog/$masterId/page-' + page.toString().padLeft(2, '0') + '.png';
     final loader = _imageLoader;
     if (loader != null) return loader(path);
-    if (!AppConfig.hasSupabase || !Supabase.instance.isInitialized) return null;
-    try {
-      return await Supabase.instance.client.storage.from('story-assets').download(path);
-    } catch (_) {
-      return null;
-    }
+    return null;
   }
 
   String? _catalogImageUrl(String masterId, int page) {
-    if (!AppConfig.hasSupabase || !Supabase.instance.isInitialized) return null;
+    if (!AppConfig.hasSupabase) return null;
     final path = 'catalog/$masterId/page-' + page.toString().padLeft(2, '0') + '.png';
-    try {
-      return Supabase.instance.client.storage.from('story-assets').getPublicUrl(path);
-    } catch (_) {
-      return null;
-    }
+    final encodedPath = path.split('/').map(Uri.encodeComponent).join('/');
+    return AppConfig.supabaseUrl + '/storage/v1/object/public/story-assets/' + encodedPath;
   }
 
   Future<List<Map<String, dynamic>>> _loadCatalog() async {
