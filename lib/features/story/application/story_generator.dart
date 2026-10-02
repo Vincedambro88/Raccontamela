@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:math';
 
 import 'package:flutter/services.dart';
-import 'package:supabase_flutter/supabase_flutter.dart';
+import 'package:supabase_flutter/supabase.dart';
 
 import '../../../core/config/app_config.dart';
 import '../domain/story.dart';
@@ -35,16 +35,13 @@ class StoryGenerator {
 
   Future<Story> generate(StoryRequest request) async {
     final stories = await _loadCatalog();
-    if (stories.isEmpty) {
-      throw StateError('Il catalogo delle 500 storie è vuoto.');
-    }
-
     final master = Map<String, dynamic>.from(
       stories[_random.nextInt(stories.length)],
     );
+
     final masterId = master['id'] as String? ?? 'RM-000';
     final masterTitle = master['title'] as String? ?? 'Raccontamela';
-    final masterSetting = master['setting'] as String? ?? request.setting;
+    final masterSetting = master['setting'] as String? ?? '';
     final requestedSetting = request.setting.trim().isEmpty
         ? masterSetting
         : request.setting.trim();
@@ -70,11 +67,11 @@ class StoryGenerator {
 
     final scenes = <StoryScene>[];
     for (var i = 0; i < rawPages.length; i++) {
-      var text = rawPages[i];
-      text = text.replaceAll('{{PROTAGONISTA}}', name);
-      text = text.replaceAll('{{ANIMALE}}', requestedAnimal);
-      text = text.replaceAll('{{LUOGO}}', requestedSetting);
-      text = text.replaceAll('{{AMICO}}', friend);
+      var text = rawPages[i]
+          .replaceAll('{{PROTAGONISTA}}', name)
+          .replaceAll('{{ANIMALE}}', requestedAnimal)
+          .replaceAll('{{LUOGO}}', requestedSetting)
+          .replaceAll('{{AMICO}}', friend);
 
       if (masterSetting.isNotEmpty &&
           masterSetting.toLowerCase() != requestedSetting.toLowerCase()) {
@@ -85,27 +82,28 @@ class StoryGenerator {
         );
       }
 
+      if (text.trim().isEmpty) {
+        throw StateError('$masterId contiene una pagina vuota.');
+      }
+
       scenes.add(
         StoryScene(
           index: i,
-          text: text,
-          colorImageUrl: await _catalogImageUrl(masterId, i + 1),
+          text: text.trim(),
+          colorImageUrl: _catalogImageUrl(masterId, i + 1),
         ),
       );
     }
 
-    final words = scenes
-        .map(
-          (scene) => scene.text
-              .split(RegExp(r'\s+'))
-              .where((w) => w.isNotEmpty)
-              .length,
-        )
-        .fold<int>(0, (a, b) => a + b);
+    final words = scenes.fold<int>(
+      0,
+      (total, scene) =>
+          total + scene.text.split(RegExp(r'\s+')).where((w) => w.isNotEmpty).length,
+    );
 
     if (words < 675) {
       throw StateError(
-        '$masterId contiene solo $words parole: una storia deve durare almeno circa 5 minuti.',
+        '$masterId contiene solo $words parole: il catalogo deve garantire almeno 5 minuti di lettura.',
       );
     }
 
@@ -122,15 +120,14 @@ class StoryGenerator {
     );
   }
 
-  Future<String?> _catalogImageUrl(String masterId, int page) async {
+  String? _catalogImageUrl(String masterId, int page) {
     if (!AppConfig.hasSupabase) return null;
-
     final path =
         'catalog/$masterId/page-${page.toString().padLeft(2, '0')}.png';
     try {
-      return await Supabase.instance.client.storage
+      return Supabase.instance.client.storage
           .from('story-assets')
-          .createSignedUrl(path, 3600);
+          .getPublicUrl(path);
     } catch (_) {
       return null;
     }
