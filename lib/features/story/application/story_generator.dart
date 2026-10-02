@@ -124,15 +124,8 @@ class StoryGenerator {
     if (!AppConfig.hasSupabase) return null;
     final path =
         'catalog/$masterId/page-${page.toString().padLeft(2, '0')}.png';
-    try {
-      return Supabase.instance.client.storage
-          .from('story-assets')
-          .getPublicUrl(path);
-    } catch (_) {
-      return null;
-    }
+    return '${AppConfig.supabaseUrl}/storage/v1/object/public/story-assets/$path';
   }
-
   Future<List<Map<String, dynamic>>> _loadCatalog() async {
     if (_stories != null) return _stories!;
     final jsonText =
