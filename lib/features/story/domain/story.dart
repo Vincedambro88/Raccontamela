@@ -1,8 +1,11 @@
+import 'dart:typed_data';
+
 class StoryScene {
   const StoryScene({
     required this.index,
     required this.text,
     this.colorImageUrl,
+    this.colorImageBytes,
     this.bwImageUrl,
     this.narrationUrl,
   });
@@ -10,6 +13,7 @@ class StoryScene {
   final int index;
   final String text;
   final String? colorImageUrl;
+  final Uint8List? colorImageBytes;
   final String? bwImageUrl;
   final String? narrationUrl;
 }
