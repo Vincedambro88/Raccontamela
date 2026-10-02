@@ -27,7 +27,10 @@ jobs:
           s = p.read_text()
           permission = '<uses-permission android:name="android.permission.INTERNET"/>'
           if permission not in s:
-              s = s.replace('<manifest ', '<manifest ' + '\n    ' + permission + '\n', 1)
+              idx = s.find('>')
+              if idx == -1:
+                  raise SystemExit("AndroidManifest opening tag not found")
+              s = s[:idx + 1] + '\n    ' + permission + '\n' + s[idx + 1:]
           p.write_text(s)
           PY
       - name: Install launcher artwork
