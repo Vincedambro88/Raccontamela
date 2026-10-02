@@ -2,6 +2,8 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:raccontamela/features/story/application/story_generator.dart';
 
 void main() {
+  TestWidgetsFlutterBinding.ensureInitialized();
+
   test('generates an eight-page story with the requested inputs', () async {
     final story = await StoryGenerator().generate(
       const StoryRequest(
