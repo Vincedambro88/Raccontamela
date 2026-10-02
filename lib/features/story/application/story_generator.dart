@@ -52,15 +52,16 @@ class StoryGenerator {
       }
       if (text.trim().isEmpty) throw StateError('$masterId contiene una pagina vuota.');
 
-      // Production: the 8 illustrations already stored in Supabase are served
-      // directly from the public Storage URL. Tests may inject a loader.
+      // Production uses the 8 illustrations already stored in Supabase Storage.
+      // Tests inject bytes so they remain independent from production configuration.
       final imageBytes = _imageLoader == null ? null : await _loadCatalogImage(masterId, i + 1);
       final imageUrl = _catalogImageUrl(masterId, i + 1);
-      if (_imageLoader != null && (imageBytes == null || imageBytes.isEmpty)) {
-        final page = (i + 1).toString().padLeft(2, '0');
-        throw StateError('Immagine mancante: catalog/$masterId/page-$page.png');
-      }
-      if (imageUrl == null) {
+      if (_imageLoader != null) {
+        if (imageBytes == null || imageBytes.isEmpty) {
+          final page = (i + 1).toString().padLeft(2, '0');
+          throw StateError('Immagine mancante: catalog/$masterId/page-$page.png');
+        }
+      } else if (imageUrl == null) {
         throw StateError('Immagini catalogo non configurate: impossibile collegare catalog/$masterId.');
       }
 
