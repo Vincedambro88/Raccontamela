@@ -30,7 +30,13 @@ void main() {
       isTrue,
     );
     expect(
-      story.scenes.every((scene) => scene.text.contains('Anna')),
+      story.scenes.every(
+        (scene) =>
+            !scene.text.contains('{{PROTAGONISTA}}') &&
+            !scene.text.contains('{{ANIMALE}}') &&
+            !scene.text.contains('{{LUOGO}}') &&
+            !scene.text.contains('{{AMICO}}'),
+      ),
       isTrue,
     );
   });
