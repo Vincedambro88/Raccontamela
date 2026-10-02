@@ -197,7 +197,7 @@ class _StoryBookPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final hasColor = scene.colorImageUrl != null;
+    final hasColor = scene.colorImageBytes != null || scene.colorImageUrl != null;
     final scheme = Theme.of(context).colorScheme;
 
     return Card(
@@ -244,7 +244,9 @@ class _StoryBookPage extends StatelessWidget {
           if (hasColor)
             AspectRatio(
               aspectRatio: 0.76,
-              child: scene.colorImageUrl!.startsWith('assets/')
+              child: scene.colorImageBytes != null
+                  ? Image.memory(scene.colorImageBytes!, fit: BoxFit.cover, gaplessPlayback: true, errorBuilder: (_, __, ___) => const _ImageFallback())
+                  : scene.colorImageUrl!.startsWith('assets/')
                   ? Image.asset(
                       scene.colorImageUrl!,
                       fit: BoxFit.cover,
