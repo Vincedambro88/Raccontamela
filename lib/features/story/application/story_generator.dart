@@ -6,6 +6,8 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 import '../../../core/config/app_config.dart';
 import '../domain/story.dart';
 
+typedef CatalogImageLoader = Future<Uint8List?> Function(String path);
+
 class StoryRequest {
   const StoryRequest({required this.protagonistName, required this.setting, required this.city, required this.friends, required this.animalFriends, required this.animal, required this.locale});
   final String protagonistName;
@@ -18,8 +20,11 @@ class StoryRequest {
 }
 
 class StoryGenerator {
-  StoryGenerator({Random? random}) : _random = random ?? Random();
+  StoryGenerator({Random? random, CatalogImageLoader? imageLoader})
+      : _random = random ?? Random(),
+        _imageLoader = imageLoader;
   final Random _random;
+  final CatalogImageLoader? _imageLoader;
   List<Map<String, dynamic>>? _stories;
 
   Future<Story> generate(StoryRequest request) async {
@@ -77,8 +82,9 @@ class StoryGenerator {
   }
 
   Future<Uint8List?> _loadCatalogImage(String masterId, int page) async {
-    if (!AppConfig.hasSupabase || !Supabase.instance.isInitialized) return null;
     final path = 'catalog/$masterId/page-' + page.toString().padLeft(2, '0') + '.png';
+    if (_imageLoader != null) return _imageLoader!(path);
+    if (!AppConfig.hasSupabase || !Supabase.instance.isInitialized) return null;
     try {
       return await Supabase.instance.client.storage.from('story-assets').download(path);
     } catch (_) {
