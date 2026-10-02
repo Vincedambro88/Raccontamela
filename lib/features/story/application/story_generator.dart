@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:math';
 
 import 'package:flutter/services.dart';
-import 'package:supabase_flutter/supabase.dart';
+import 'package:supabase_flutter/supabase_flutter.dart';
 
 import '../../../core/config/app_config.dart';
 import '../domain/story.dart';
